@@ -1,17 +1,4 @@
-0.0.0.0 # Version: 202411042206
-0.0.0.0 # Title: oisd big
-0.0.0.0 # Description: Block. Don't break.
-0.0.0.0 # Syntax: Domains (wildcards)
-0.0.0.0 # Entries: 135013
-0.0.0.0 # Last modified: 2024-11-04T22:06:55+0000
-0.0.0.0 # Expires: 1 hours
-0.0.0.0 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
-0.0.0.0 # Maintainer: Stephan van Ruth
-0.0.0.0 # Homepage: https://oisd.nl
-0.0.0.0 # Contact: contact@oisd.nl
 0.0.0.0 
-0.0.0.0 # All domains and their subdomains should be blocked
-0.0.0.0 # Entry: "*.example.com" should block access to "example.com" and "subdomain.example.com" but not "thiseexample.com"
 0.0.0.0 
 0.0.0.0 *.0--foodwarez.da.ru
 0.0.0.0 *.0-02.net

@@ -1,13 +1,3 @@
-0.0.0.0 # Title: NoTrack Tracker Blocklist
-0.0.0.0 # Description: Domains classified as tracking or advertising
-0.0.0.0 # Author: QuidsUp
-0.0.0.0 # License: GNU General Public License v3.0
-0.0.0.0 # Home: https://quidsup.net/notrack/blocklist.php
-0.0.0.0 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-0.0.0.0 # Updated: 04 Nov 2024
-0.0.0.0 # LatestVersion 24.01
-0.0.0.0 # Domain Count: 15922
-0.0.0.0 #===============================================================
 0.0.0.0 
 0.0.0.0 0i0i0i0.com #Unknown - Advertising
 0.0.0.0 0sntp7dnrr.com #AdMeasures - Advertising

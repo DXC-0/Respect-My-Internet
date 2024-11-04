@@ -1,4 +1,3 @@
-0.0.0.0 # General
 0.0.0.0 _domainkey.amazonaws.com
 0.0.0.0 0bxxaty1ad.execute-api.us-east-1.amazonaws.com
 0.0.0.0 154-10.amazon.com
@@ -2697,7 +2696,6 @@
 0.0.0.0 zm1.zeroredirect5.com
 0.0.0.0 znaptag-us.s3.amazonaws.com
 0.0.0.0 zs1.zeroredirect1.com
-0.0.0.0 # Twitch
 0.0.0.0 0.us-west-2.beta.chat-edge.live-video.net
 0.0.0.0 0.us-west-2.gamma.chat-edge.live-video.net
 0.0.0.0 0.us-west-2.prod.chat-edge.live-video.net
@@ -2862,7 +2860,6 @@
 0.0.0.0 www-cdn.jtvnw.net
 0.0.0.0 www.twitch.tv
 0.0.0.0 yichunc.us-west-2.beta.chat-edge.live-video.net
-0.0.0.0 # Cloudfront
 0.0.0.0 cloudfront.loggly.com
 0.0.0.0 cloudfront.net
 0.0.0.0 d10lumateci472.cloudfront.net
@@ -3328,7 +3325,6 @@
 0.0.0.0 server-204-246-164-0.sin2.r.cloudfront.net
 0.0.0.0 server-204-246-168-0.jfk1.r.cloudfront.net
 0.0.0.0 www.cloudfront.net
-0.0.0.0 # Amazonvideo
 0.0.0.0 aftv-25-amnazon-aftmm-3248.eu.api.amazonvideo.com
 0.0.0.0 fra.t100.prod.ter.amazonvideo.com
 0.0.0.0 ab2xb7ra6e44.eu.api.amazonvideo.com
@@ -3343,7 +3339,6 @@
 0.0.0.0 andr.eu.ec.api.amazonvideo.com
 0.0.0.0 eu.api.amazonvideo.com
 0.0.0.0 ign-a1ijnvp3l4ay8b-6d5d2pd13-1d034.api.amazonvideo.com
-0.0.0.0 # IMDB
 0.0.0.0 13thfloor.imdb.com
 0.0.0.0 6degrees.imdb.com
 0.0.0.0 addpro.imdb.com
