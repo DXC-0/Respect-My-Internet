@@ -1,9 +1,9 @@
-0.0.0.0 # Version: 202411042007
+0.0.0.0 # Version: 202411042106
 0.0.0.0 # Title: oisd big
 0.0.0.0 # Description: Block. Don't break.
 0.0.0.0 # Syntax: Domains (wildcards)
-0.0.0.0 # Entries: 135040
-0.0.0.0 # Last modified: 2024-11-04T20:07:15+0000
+0.0.0.0 # Entries: 135028
+0.0.0.0 # Last modified: 2024-11-04T21:06:56+0000
 0.0.0.0 # Expires: 1 hours
 0.0.0.0 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 0.0.0.0 # Maintainer: Stephan van Ruth
@@ -884,7 +884,6 @@
 0.0.0.0 *.147d72d01e.com
 0.0.0.0 *.148dfe140d0f3d5e.com
 0.0.0.0 *.149.sub-70-211-253.myvzw.com
-0.0.0.0 *.1494918251.rsc.cdn77.org
 0.0.0.0 *.149549d67c.c759538eb2.com
 0.0.0.0 *.14978.gucac.com
 0.0.0.0 *.14b173f983.com
@@ -18094,7 +18093,6 @@
 0.0.0.0 *.attributedconcernedamendable.com
 0.0.0.0 *.attributedharnesssag.com
 0.0.0.0 *.attributedrelease.com
-0.0.0.0 *.attributefallen.com
 0.0.0.0 *.attributionapp.com
 0.0.0.0 *.attributiontracker.com
 0.0.0.0 *.attributiontrackingga.googlecode.com
@@ -38630,7 +38628,6 @@
 0.0.0.0 *.dfwbfr2blhmr5.cloudfront.net
 0.0.0.0 *.dfwd.info
 0.0.0.0 *.dfwdiesel.net
-0.0.0.0 *.dfwefs.xyz
 0.0.0.0 *.dfxvkgz.xyz
 0.0.0.0 *.dfyne-france.fr
 0.0.0.0 *.dfyui8r5rs.click
@@ -43427,7 +43424,6 @@
 0.0.0.0 *.egalitysarking.com
 0.0.0.0 *.egazedatthe.xyz
 0.0.0.0 *.egbay.it
-0.0.0.0 *.egczvoopdo.com
 0.0.0.0 *.egd2402.appspot.com
 0.0.0.0 *.egeemsob.com
 0.0.0.0 *.egeszsegespont.hu
@@ -59981,7 +59977,6 @@
 0.0.0.0 *.hpsd.k12.pa.us
 0.0.0.0 *.hpsseguridad.com
 0.0.0.0 *.hpsupport.site
-0.0.0.0 *.hpsvgbrlqa.com
 0.0.0.0 *.hpwbtk.com
 0.0.0.0 *.hpygame.com
 0.0.0.0 *.hpzktd.xyz
@@ -60330,7 +60325,6 @@
 0.0.0.0 *.humdrumhobbies.com
 0.0.0.0 *.humdrumtouch.com
 0.0.0.0 *.humesouthcapital.com
-0.0.0.0 *.humhut.com
 0.0.0.0 *.humiliatemoot.com
 0.0.0.0 *.humlieschoolofmusic.com
 0.0.0.0 *.humman.art
@@ -64292,7 +64286,6 @@
 0.0.0.0 *.itv.112.2o7.net
 0.0.0.0 *.itv.hexun.com
 0.0.0.0 *.itvalleynews.com
-0.0.0.0 *.itvertical.com
 0.0.0.0 *.itviet-hcm.com
 0.0.0.0 *.itvradiong.com
 0.0.0.0 *.itweddingringsok.live
@@ -84176,7 +84169,6 @@
 0.0.0.0 *.nots.com.tr
 0.0.0.0 *.notsorrynotsorry.com
 0.0.0.0 *.notspecial.biz
-0.0.0.0 *.notuskuranko.com
 0.0.0.0 *.noua.in
 0.0.0.0 *.nougacoush.com
 0.0.0.0 *.nougatdimetry.com
@@ -84466,7 +84458,6 @@
 0.0.0.0 *.ntfsformac.cn
 0.0.0.0 *.ntfx-acc.com
 0.0.0.0 *.nthaitingsh.com
-0.0.0.0 *.ntheworldw.buzz
 0.0.0.0 *.nthtcs.com
 0.0.0.0 *.ntion.atheist-tees.com
 0.0.0.0 *.ntiutox.icu
@@ -109432,7 +109423,6 @@
 0.0.0.0 *.specialsaucer.com
 0.0.0.0 *.specialscissors.com
 0.0.0.0 *.specialstatement.com
-0.0.0.0 *.specialtaskevents.com
 0.0.0.0 *.specialtymet.com
 0.0.0.0 *.specialtysanitaryinaccessible.com
 0.0.0.0 *.specialtyservicesolutions.com
@@ -123579,7 +123569,6 @@
 0.0.0.0 *.usps.com-trackayt.top
 0.0.0.0 *.usps.com-trackfjk.top
 0.0.0.0 *.usps.com-trackkeu.top
-0.0.0.0 *.usps.com-trackmku.top
 0.0.0.0 *.usps.com-trackpah.top
 0.0.0.0 *.usps.com-tracksue.top
 0.0.0.0 *.usps.com-trackyzp.top
@@ -132929,7 +132918,6 @@
 0.0.0.0 *.yitongwl.cn
 0.0.0.0 *.yitzys.com
 0.0.0.0 *.yiucfif.icu
-0.0.0.0 *.yivkzvog.xyz
 0.0.0.0 *.yiw9posasz.appspot.com
 0.0.0.0 *.yiwckti.icu
 0.0.0.0 *.yiwk.com

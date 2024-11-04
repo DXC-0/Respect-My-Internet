@@ -4,9 +4,9 @@
 0.0.0.0 # License: GNU General Public License v3.0
 0.0.0.0 # Home: https://quidsup.net/notrack/blocklist.php
 0.0.0.0 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-0.0.0.0 # Updated: 03 Nov 2024
+0.0.0.0 # Updated: 04 Nov 2024
 0.0.0.0 # LatestVersion 24.01
-0.0.0.0 # Domain Count: 15923
+0.0.0.0 # Domain Count: 15922
 0.0.0.0 #===============================================================
 0.0.0.0 
 0.0.0.0 0i0i0i0.com #Unknown - Advertising
@@ -14352,7 +14352,6 @@
 0.0.0.0 servenobid.com #Unknown - Advertising
 0.0.0.0 serverbid.com #GiftConnect - Advertising
 0.0.0.0 serving-sys.com #Microsoft - Tracker
-0.0.0.0 sessionamateur.com #AdMeasures - Advertising
 0.0.0.0 sessioncam.com #SessionCam - Tracker
 0.0.0.0 settings-sandbox.data.microsoft.com #Microsoft - Tracker
 0.0.0.0 shaggyselectmast.com #AdMeasures - Advertising
