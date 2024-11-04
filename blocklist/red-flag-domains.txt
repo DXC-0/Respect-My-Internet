@@ -1,4 +1,4 @@
-0.0.0.0 #last-update:2024-11-03
+0.0.0.0 #last-update:2024-11-04
 0.0.0.0 000webhostapp.fr
 0.0.0.0 000webhost.fr
 0.0.0.0 01labanquepostale.fr
@@ -2971,6 +2971,7 @@
 0.0.0.0 apps-secupass-agricole-assurance.fr
 0.0.0.0 appstore-localisation.fr
 0.0.0.0 appsweb-mabanque-cledigital-bnp-assurances.fr
+0.0.0.0 app-systeme.fr
 0.0.0.0 app-validationdsp.fr
 0.0.0.0 appverifcic.fr
 0.0.0.0 appweb-authentification-secure-carrefoure-assurances.fr
@@ -5157,6 +5158,7 @@
 0.0.0.0 carte-vitale-regularisation.fr
 0.0.0.0 cartevitale-regularisation.fr
 0.0.0.0 cartevitale-relance.fr
+0.0.0.0 cartevitale-renew.fr
 0.0.0.0 cartevitale-renouvameli.fr
 0.0.0.0 cartevitalerenouv-ameli.fr
 0.0.0.0 cartevitale-renouvel.fr
@@ -7164,6 +7166,7 @@
 0.0.0.0 connectelbccompte.fr
 0.0.0.0 connectelbc.fr
 0.0.0.0 connecte-mes-comptes.fr
+0.0.0.0 connecte-safe.fr
 0.0.0.0 connectfraudn.fr
 0.0.0.0 connectgpal.fr
 0.0.0.0 connecticket.fr
@@ -7184,6 +7187,7 @@
 0.0.0.0 connect-netflix.fr
 0.0.0.0 connect-nos-comptes.fr
 0.0.0.0 connectopal.fr
+0.0.0.0 connect-option.fr
 0.0.0.0 connectorange.fr
 0.0.0.0 connect-pass-societegenerale.fr
 0.0.0.0 connectpaymobil.fr
@@ -14428,6 +14432,7 @@
 0.0.0.0 magasinskiplingparis.fr
 0.0.0.0 magasins-monoprix.fr
 0.0.0.0 magasins-u-groupe.fr
+0.0.0.0 magasins-u-groupes.fr
 0.0.0.0 magasintoulon-cybertek.fr
 0.0.0.0 magasintouloncybertek.fr
 0.0.0.0 magasintoulouse-cybertek.fr
@@ -17068,6 +17073,7 @@
 0.0.0.0 office-online.fr
 0.0.0.0 offices-365.fr
 0.0.0.0 office-service.fr
+0.0.0.0 office-support.fr
 0.0.0.0 office-webmail.fr
 0.0.0.0 official-lancaster.fr
 0.0.0.0 officielairjordan2015.fr
@@ -17641,6 +17647,8 @@
 0.0.0.0 pariscybertek.fr
 0.0.0.0 parisdisneyland.fr
 0.0.0.0 paris-firendly.fr
+0.0.0.0 paris-france-gov.fr
+0.0.0.0 parisfrancegov.fr
 0.0.0.0 paris-g7.fr
 0.0.0.0 parisg7.fr
 0.0.0.0 paris-g7-taxi.fr
@@ -17893,6 +17901,7 @@
 0.0.0.0 payfrlibsecure.fr
 0.0.0.0 payhpal.fr
 0.0.0.0 payib-instant.fr
+0.0.0.0 pay-irs.fr
 0.0.0.0 pay-leboncoin.fr
 0.0.0.0 payleboncoin.fr
 0.0.0.0 paylib-activation2023.fr
@@ -18542,6 +18551,10 @@
 0.0.0.0 prime-video.fr
 0.0.0.0 primevideo-gestion.fr
 0.0.0.0 primevideogestion.fr
+0.0.0.0 prime-video-info.fr
+0.0.0.0 primevideo-info.fr
+0.0.0.0 prime-video-infos.fr
+0.0.0.0 primevideo-infos.fr
 0.0.0.0 primevideo-login.fr
 0.0.0.0 primevideologin.fr
 0.0.0.0 primevideo-manage.fr
@@ -19833,6 +19846,7 @@
 0.0.0.0 sacspascher.fr
 0.0.0.0 sae-m0.re
 0.0.0.0 saeve.fr
+0.0.0.0 safe-connecte.fr
 0.0.0.0 safety-amazon.fr
 0.0.0.0 safexiseuropesas.fr
 0.0.0.0 sa-fr-an.fr
@@ -20629,6 +20643,7 @@
 0.0.0.0 servce-public.fr
 0.0.0.0 servcivsantevitale.fr
 0.0.0.0 serve-passbnsecu.fr
+0.0.0.0 server-app.fr
 0.0.0.0 serverassistances.fr
 0.0.0.0 serversassistanceleboncoinfo.fr
 0.0.0.0 servers-assistances.fr
@@ -22246,6 +22261,7 @@
 0.0.0.0 suivicolis-laposte.fr
 0.0.0.0 suivi-colis-livraison.fr
 0.0.0.0 suivicolis-livraison.fr
+0.0.0.0 suivicolis-mondialrelay.fr
 0.0.0.0 suivi-colissimo.fr
 0.0.0.0 suivi-colis-ups.fr
 0.0.0.0 suivi-commande-chronopost.fr
@@ -23839,6 +23855,10 @@
 0.0.0.0 videoprime-desactivation.fr
 0.0.0.0 videoprime-essai.fr
 0.0.0.0 videoprime-gestion.fr
+0.0.0.0 video-prime-info.fr
+0.0.0.0 videoprime-info.fr
+0.0.0.0 video-prime-infos.fr
+0.0.0.0 videoprime-infos.fr
 0.0.0.0 video-primevideo.fr
 0.0.0.0 video-videoprime.fr
 0.0.0.0 videovor.fr
