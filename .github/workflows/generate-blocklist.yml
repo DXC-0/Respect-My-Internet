@@ -11,7 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
+      - name: directory clean
+        run: |
+          rm -rf ./blocklist/*
       - name: Feed recuperation with convert
         run: |
           mkdir -p ./blocklist
@@ -48,6 +50,3 @@ jobs:
           git add -A ./blocklist
           git commit -a -m "Updated blocklist"
           git push origin main
-      - name: directory clean
-        run: |
-          rm -rf ./blocklist/*
