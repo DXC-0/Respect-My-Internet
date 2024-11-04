@@ -1,9 +1,9 @@
-0.0.0.0 # Version: 202411042106
+0.0.0.0 # Version: 202411042206
 0.0.0.0 # Title: oisd big
 0.0.0.0 # Description: Block. Don't break.
 0.0.0.0 # Syntax: Domains (wildcards)
-0.0.0.0 # Entries: 135028
-0.0.0.0 # Last modified: 2024-11-04T21:06:56+0000
+0.0.0.0 # Entries: 135013
+0.0.0.0 # Last modified: 2024-11-04T22:06:55+0000
 0.0.0.0 # Expires: 1 hours
 0.0.0.0 # License: https://github.com/sjhgvr/oisd/blob/main/LICENSE
 0.0.0.0 # Maintainer: Stephan van Ruth
@@ -15100,6 +15100,7 @@
 0.0.0.0 *.antennawritersimilar.com
 0.0.0.0 *.antenta.site
 0.0.0.0 *.antentative.com
+0.0.0.0 *.antentgu.co.in
 0.0.0.0 *.anthe-vsf.com
 0.0.0.0 *.anthemmutevenison.com
 0.0.0.0 *.anthemportalcommence.com
@@ -16803,7 +16804,6 @@
 0.0.0.0 *.arej.com
 0.0.0.0 *.areka-cake.ru
 0.0.0.0 *.areliux.cc
-0.0.0.0 *.arenabaeny.cfd
 0.0.0.0 *.arenalitteraccommodation.com
 0.0.0.0 *.arenanatationfrance.fr
 0.0.0.0 *.arenitezill.com
@@ -23647,7 +23647,6 @@
 0.0.0.0 *.bodydesign.com.au
 0.0.0.0 *.bodygo.com
 0.0.0.0 *.bodyignorancefrench.com
-0.0.0.0 *.bodyridegw.cfd
 0.0.0.0 *.bodyscanfit.com
 0.0.0.0 *.bodysculpt.fr
 0.0.0.0 *.bodyshopauto.com
@@ -31200,6 +31199,7 @@
 0.0.0.0 *.codigodebarra.co
 0.0.0.0 *.codigoe-marketing.com
 0.0.0.0 *.codingbit.co.in
+0.0.0.0 *.codmanrefan.shop
 0.0.0.0 *.cododeerda.net
 0.0.0.0 *.codon.vn
 0.0.0.0 *.codornicesforge.com
@@ -34871,7 +34871,6 @@
 0.0.0.0 *.cursedspytitanic.com
 0.0.0.0 *.curseintegralproduced.com
 0.0.0.0 *.cursodehebraico.com
-0.0.0.0 *.cursofane.com
 0.0.0.0 *.cursor-1zy.pages.dev
 0.0.0.0 *.cursorltd.com
 0.0.0.0 *.cursormedicabnormal.com
@@ -36717,7 +36716,6 @@
 0.0.0.0 *.daltipao.com
 0.0.0.0 *.daltongrievously.com
 0.0.0.0 *.daltontrail.com
-0.0.0.0 *.daly2024.com
 0.0.0.0 *.dalyai.com
 0.0.0.0 *.dalyio.com
 0.0.0.0 *.dalymix.com
@@ -41625,7 +41623,6 @@
 0.0.0.0 *.drreo.yt
 0.0.0.0 *.drrfnky.cc
 0.0.0.0 *.drrotsaertdeleeuw.be
-0.0.0.0 *.drrzzl.cn
 0.0.0.0 *.drschollsegypt.com
 0.0.0.0 *.drsd.fr
 0.0.0.0 *.drskobic.com
@@ -58383,7 +58380,6 @@
 0.0.0.0 *.heritagetrustgroup.com
 0.0.0.0 *.heritagevillage.ca
 0.0.0.0 *.herkeseuygunisilanlari.com
-0.0.0.0 *.herky.com.cn
 0.0.0.0 *.herlener.com
 0.0.0.0 *.herlittleboywhow.info
 0.0.0.0 *.herma-tor.com
@@ -67771,7 +67767,6 @@
 0.0.0.0 *.kleinhartmannsdorf-sachsen.de
 0.0.0.0 *.klemanzino.net
 0.0.0.0 *.klenhosnc.com
-0.0.0.0 *.klfbnklddfbkn.com
 0.0.0.0 *.klicksuara.com
 0.0.0.0 *.klientelv1.myclickfunnels.com
 0.0.0.0 *.klik-slider.morgancode.com
@@ -68576,7 +68571,6 @@
 0.0.0.0 *.kvpqrydt.xyz
 0.0.0.0 *.kvprojectop.com
 0.0.0.0 *.kvskknklssv.com
-0.0.0.0 *.kvsvug.xyz
 0.0.0.0 *.kvtgl4who.com
 0.0.0.0 *.kvum-bpelzw.icu
 0.0.0.0 *.kvv.jxc.mybluehost.me
@@ -84203,7 +84197,6 @@
 0.0.0.0 *.nov231122.con-ip.com
 0.0.0.0 *.nova-screen-webview.com
 0.0.0.0 *.nova-sentinel.com
-0.0.0.0 *.nova-stealer.cloud
 0.0.0.0 *.nova-stealer.com
 0.0.0.0 *.nova.cheryldare.com
 0.0.0.0 *.nova.dice.net
@@ -95024,7 +95017,6 @@
 0.0.0.0 *.ptoumsid.net
 0.0.0.0 *.ptoushoa.com
 0.0.0.0 *.ptoutsexe.com
-0.0.0.0 *.ptowouse.xyz
 0.0.0.0 *.ptp.stbm.it
 0.0.0.0 *.ptp22.com
 0.0.0.0 *.ptpoeyc.com
@@ -99989,7 +99981,6 @@
 0.0.0.0 *.ro1adro.hit.gemius.pl
 0.0.0.0 *.ro2.matcha-sllim.cc
 0.0.0.0 *.ro4.biz
-0.0.0.0 *.roabmyrevngqqk.com
 0.0.0.0 *.roacheenazak.com
 0.0.0.0 *.road.bocaratongoldmine.info
 0.0.0.0 *.roadformedomission.com
@@ -103085,7 +103076,6 @@
 0.0.0.0 *.scoresolar.com
 0.0.0.0 *.scorestairlift.com
 0.0.0.0 *.scornar.com
-0.0.0.0 *.scornfulabsorbploy.com
 0.0.0.0 *.scornphiladelphiacarla.com
 0.0.0.0 *.scorpio8.cn
 0.0.0.0 *.scorpion.clare.ink
@@ -104252,7 +104242,6 @@
 0.0.0.0 *.selectivesummer.com
 0.0.0.0 *.selectlaboratoriesltd.co.uk
 0.0.0.0 *.selectmedia.asia
-0.0.0.0 *.selectofmychoices.com
 0.0.0.0 *.selectr.net
 0.0.0.0 *.selectrealtyllc.com
 0.0.0.0 *.selecttopoff.com
@@ -104264,7 +104253,6 @@
 0.0.0.0 *.selfawareness.com.sg
 0.0.0.0 *.selfdefansakademi.com
 0.0.0.0 *.selfdefensejobs.com
-0.0.0.0 *.selfemployedbalconycane.com
 0.0.0.0 *.selfemployedreservoir.com
 0.0.0.0 *.selfevidentvisual.com
 0.0.0.0 *.selfishfactor.com
@@ -106314,7 +106302,6 @@
 0.0.0.0 *.shticksyahuna.com
 0.0.0.0 *.shtrack.kingsoft.jp
 0.0.0.0 *.shuai.love
-0.0.0.0 *.shuanglequ.xyz
 0.0.0.0 *.shuangyanpijiage.com
 0.0.0.0 *.shuangying163.com
 0.0.0.0 *.shuanshu.com.com
@@ -111642,7 +111629,6 @@
 0.0.0.0 *.steelhouse.com
 0.0.0.0 *.steelhousemedia.com
 0.0.0.0 *.steelite-au.com
-0.0.0.0 *.steemcommuniti.com
 0.0.0.0 *.steemcommunity.aiq.ru
 0.0.0.0 *.steemcommunity.org
 0.0.0.0 *.steemcommunnity.ru
@@ -117400,7 +117386,6 @@
 0.0.0.0 *.tinggalklik.com
 0.0.0.0 *.tingisincused.com
 0.0.0.0 *.tinglian.com
-0.0.0.0 *.tingmain.info
 0.0.0.0 *.tingmin.com.cn
 0.0.0.0 *.tings.org
 0.0.0.0 *.tingtang.pages.dev
