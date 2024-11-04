@@ -1,0 +1,50 @@
+name: blocklists-update
+
+on:
+  push:
+    branches: ["main"]
+    
+  workflow_dispatch:
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Feed recuperation with convert
+        run: |
+          mkdir -p ./blocklist
+          cd ./blocklist
+          for url in https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt https://raw.githubusercontent.com/nickspaargaren/no-google/refs/heads/master/pihole-google.txt https://raw.githubusercontent.com/cedws/apple-telemetry/refs/heads/master/blacklist https://raw.githubusercontent.com/nickspaargaren/no-amazon/refs/heads/master/amazon.txt https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt https://dl.red.flag.domains/red.flag.domains.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt https://phishing.army/download/phishing_army_blocklist_extended.txt
+          do
+            curl $url | sed 's/^/0.0.0.0 /g'  > $(basename $url)
+          done
+          
+          curl https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all >> no-facebook.txt
+          curl https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all >> no-microsoft.txt 
+          curl https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt >> no-windows.txt
+          
+          mv ultimate.txt hagezi-ultimate.txt
+          mv tif.txt threat-intelligence.txt
+          mv pihole-google.txt no-google.txt
+          mv blacklist no-apple.txt
+          mv amazon.txt no-amazon.txt
+          mv notrack-blocklist.txt no-track.txt
+          mv red.flag.domains.txt red-flag-domains.txt
+          mv domainswild_big.txt oisd-big.txt
+          mv phishing_army_blocklist_extended.txt phishing-army.txt
+
+          cat * >> respect-my-internet.txt
+          
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add -A ./blocklist
+          git commit -a -m "Updated blocklist"
+          git push origin main
