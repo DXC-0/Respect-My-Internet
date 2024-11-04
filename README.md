@@ -4,7 +4,7 @@
 
 [![respectmyinternet.png](https://i.postimg.cc/5ymhvL8L/respectmyinternet.png)](https://postimg.cc/rRKZ2dnw)
 
-> This script and these rules are provided for the "OpenSnitch" firewall for Linux. It's an application firewall that offers in addition to classic blocking, DNS blocking and blocking applications directly on your favorite Linux distribution!
+> This script and these rules are provided for the ["OpenSnitch"](https://github.com/evilsocket/opensnitch) firewall for Linux. It's an application firewall that offers in addition to classic blocking, DNS blocking and blocking applications directly on your favorite Linux distribution!
 
 ---
 
@@ -12,9 +12,9 @@
 
 Download OpenSnitch for your linux distribution : 
 
-- Archlinux ```yay -S opensnitch-git```
-- Ubuntu/Debian ```apt install opensnitch python3-opensnitch-ui```
-- Fedora ```sudo dnf install opensnitch opensnitch-ui```
+- [Archlinux](https://archlinux.org/packages/extra/x86_64/opensnitch/) ```yay -S opensnitch-git```
+- [Ubuntu/Debian](https://tracker.debian.org/pkg/opensnitch) ```apt install opensnitch python3-opensnitch-ui```
+- [Fedora](https://github.com/evilsocket/opensnitch/releases/download/v1.6.5/opensnitch-1.6.5-1.x86_64.rpm) ```sudo dnf install opensnitch opensnitch-ui```
 
 Start and Enable OpenSnitch service : 
 
