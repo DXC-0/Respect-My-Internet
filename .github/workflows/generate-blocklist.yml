@@ -48,3 +48,6 @@ jobs:
           git add -A ./blocklist
           git commit -a -m "Updated blocklist"
           git push origin main
+      - name: directory clean
+        run: |
+          rm -rf ./blocklist/*
