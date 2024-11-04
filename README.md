@@ -27,7 +27,7 @@ Download and launch the script :
 Schedule a cron task or use the update.sh script at the startup login (in KDE-Plasma or Gnome-Shell)
 PS : If you have problems, apply whitelists.
 
----> Your internet is now clean, the list of blocked feeds is available below ;)
+---> Your can also install manually the list from [respect-my-internet.txt](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt)
 
 ---
 
