@@ -1,5 +1,6 @@
 ####### RESPECT-MY-INTERNET INSTALL SCRIPT ########
 
-mv ./blocklist /home/$USER/.config/opensnitch/
+mkdir /home/$USER/.config/opensnitch/blocklist/
+mv ./blocklist/respect-my-internet.txt /home/$USER/.config/opensnitch/blocklist/
 mv ./regex /home/$USER/.config/opensnitch/
 mv ./rules/* /etc/opensnitchd/rules/
