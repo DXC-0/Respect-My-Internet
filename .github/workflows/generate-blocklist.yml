@@ -41,7 +41,7 @@ jobs:
 
           cat * >> respect-my-internet.txt
 
-          mkdir -p ./blocklist/ip
+          mkdir -p ./ip
           cd ./blocklist/ip
           for url in https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/botnets_zombies_scanner_spam_ips.txt
           do
