@@ -7,7 +7,7 @@
   "duration": "always",
   "operator": {
     "operand": "lists.domains_regexp",
-    "data": "/home/$USER/.config/opensnitch/regex/",
+    "data": "/etc/opensnitchd/regex/",
     "type": "lists",
     "list": [],
     "sensitive": false
