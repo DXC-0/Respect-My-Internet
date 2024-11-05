@@ -28,7 +28,7 @@ Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-M
 
 For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
 
-<br />
+---
 
 ### ✅ Downloads
 
