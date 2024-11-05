@@ -32,6 +32,8 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 
 ### ✅ Downloads
 
+<br />
+
 | Blocklist version | OpenSnitch | LittleSnitch |
 | --- | --- | --- |
 | Respect-My-Internet | [Download](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt) | Soon |
