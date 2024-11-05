@@ -22,6 +22,8 @@ Start and Enable OpenSnitch service :
 
 Download and launch the script : 
 
+```git clone https://github.com/TheCyberArcher/Respect-My-Internet.git```
+```cd Respect-My-Internet```
 ```bash install.sh```
 
 For the update part, schedule a cron task or use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script at the startup login (in KDE-Plasma or Gnome-Shell) \
