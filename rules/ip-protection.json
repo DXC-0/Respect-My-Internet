@@ -1,0 +1,33 @@
+{
+  "created": "",
+  "updated": "",
+  "name": "ip-protection",
+  "description": "",
+  "action": "deny",
+  "duration": "always",
+  "operator": {
+    "operand": "list",
+    "data": "",
+    "type": "list",
+    "list": [
+      {
+        "operand": "lists.nets",
+        "data": "/etc/opensnitchd/ip",
+        "type": "lists",
+        "list": null,
+        "sensitive": false
+      },
+      {
+        "operand": "lists.ips",
+        "data": "/etc/opensnitchd/ip",
+        "type": "lists",
+        "list": null,
+        "sensitive": false
+      }
+    ],
+    "sensitive": false
+  },
+  "enabled": true,
+  "precedence": true,
+  "nolog": false
+}
