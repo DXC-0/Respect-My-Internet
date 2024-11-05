@@ -24,7 +24,7 @@ Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-M
 
 ```git clone https://github.com/TheCyberArcher/Respect-My-Internet.git``` \
 ```cd Respect-My-Internet``` \
-```bash install.sh```
+```sudo bash install.sh```
 
 For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
 
