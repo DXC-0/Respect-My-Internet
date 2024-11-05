@@ -34,6 +34,12 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 
 ---
 
+| Respect-My-internet.txt | ip-protection.txt |
+| --- | --- |
+|     |     |
+
+---
+
 ### :cop: Integrated Blocking Feeds
 
 | Website | Description |
