@@ -33,7 +33,7 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 
 ---
 
-### :cop: respect-my-internet.txt Blocking Feeds
+### :cop: Respect-My-Internet.txt Integrated Blocking Feeds
 
 | Website | Description |
 | --- | --- |
