@@ -38,6 +38,8 @@ jobs:
           mv phishing_army_blocklist_extended.txt phishing-army.txt
 
           cat * >> respect-my-internet.txt
+
+          curl https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset | sed '/^#/d' >> firehol-lv3.txt
           
       - name: Configure Git
         run: |
