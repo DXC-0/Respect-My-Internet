@@ -20,7 +20,7 @@ Start and Enable OpenSnitch service :
 
 ```sudo systemctl enable --now opensnitch```
 
-Download and launch the script : 
+Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/install.sh) script : 
 
 ```git clone https://github.com/TheCyberArcher/Respect-My-Internet.git``` \
 ```cd Respect-My-Internet``` \
