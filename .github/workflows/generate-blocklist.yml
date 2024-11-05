@@ -45,7 +45,8 @@ jobs:
   
       - name: Extra blocklists generation
         run: |
-          cd ./blocklist
+          mkdir -p ./blocklist/extra
+          cd ./blocklist/extra
           for url in https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/fortnite.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/adobe.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/tiktok.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/whatsapp.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/youtube.txt
           do
             curl $url | sed '/^#/d'  > $(basename $url)
