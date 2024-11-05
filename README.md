@@ -32,8 +32,6 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 ---> All sub-blocklists are OpenSnitch compatible [blocklist-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist) \
 ---> If you need more blocklists, check the [extra-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist/extra)
 
----
-
 | Respect-My-internet.txt | ip-protection.txt |
 | --- | --- |
 |     |     |
