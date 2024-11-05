@@ -44,7 +44,7 @@ jobs:
           curl https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset | sed '/^#/d' >> firehol-lv3.txt
   
       - name: Extra blocklists generation
-
+        run: |
           for url in https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/fortnite.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/adobe.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/tiktok.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/whatsapp.txt https://raw.githubusercontent.com/blocklistproject/Lists/refs/heads/master/youtube.txt
           do
             curl $url | sed '/^#/d'  > $(basename $url)
