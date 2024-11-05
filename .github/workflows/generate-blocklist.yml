@@ -1,5 +1,8 @@
 name: blocklists-update
-
+on:
+  push:
+    branches:
+      - main
 on:
   schedule:
     - cron: "0 * * * *"
