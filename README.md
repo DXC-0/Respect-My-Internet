@@ -51,6 +51,8 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 | [No-Track](https://gitlab.com/quidsup/notrack-blocklists/) | Fight global surveillance with this giant blocklist against Internet trackers |
 | [Respect-my-freedom]() | Blocks all TLDs linked to repressive, dictatorial governments that do not respect freedom of expression and human rights/values |
 | [Phishing Army](https://www.phishing.army/) | Generated every 6 hours from PhishTank, OpenPhish, Cert.pl, PhishFindR, Urlscan.io and Phishunt.io reports |
+| [FireHol-Lv3](https://iplists.firehol.org/) | Best IP protection for malwares, botnets, command and control servers and other cybercrime activities |
+| [duggytuxy](https://github.com/duggytuxy/malicious_ip_addresses/tree/main) | BE and FR IP protection for botnets, zombies_scanner, spam |
 
 ---
 
