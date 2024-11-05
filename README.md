@@ -28,8 +28,6 @@ Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-M
 
 For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
 
-You can also download and install manually the list : 
-
 | Blocklist version |  |
 | --- | --- |
 | Respect-My-Internet | [Download](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt) |
