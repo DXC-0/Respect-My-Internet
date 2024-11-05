@@ -26,8 +26,7 @@ Download and launch the script :
 ```cd Respect-My-Internet``` \
 ```bash install.sh```
 
-For the update part, schedule a cron task or use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script at the startup login (in KDE-Plasma or Gnome-Shell) \
-If you have problems, apply whitelists.
+For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script. If you have problems, apply whitelists.
 
 ---> Your can also install manually the list from [respect-my-internet.txt](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt)
 
