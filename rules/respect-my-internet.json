@@ -7,7 +7,7 @@
     "duration": "always",
     "operator": {
       "operand": "lists.domains",
-      "data": "/home/$USER/.config/opensnitch/blocklist/",
+      "data": "/etc/opensnitchd/blocklist/",
       "type": "lists",
       "list": [],
       "sensitive": false
