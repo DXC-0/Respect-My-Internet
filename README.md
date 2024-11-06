@@ -58,6 +58,7 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 | [No-Amazon](https://github.com/nickspaargaren/no-amazon) | Protect yourself from Amazon monopoly by using this blocklist |
 | [No-Microsoft](https://github.com/jmdugan/blocklists/tree/master) | Block Microsoft related domains |
 | [No-Windows](https://github.com/crazy-max/WindowsSpyBlocker/tree/master) | Windows Spy Blocker |
+| [No-BATX](https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt) | Block Alibaba, Huawei, Tencent and China services |
 | [No-Track](https://gitlab.com/quidsup/notrack-blocklists/) | Fight global surveillance with this giant blocklist against Internet trackers |
 | [Respect-my-freedom]() | Blocks all TLDs linked to repressive, dictatorial governments that do not respect freedom of expression and human rights/values |
 | [Phishing Army](https://www.phishing.army/) | Generated every 6 hours from PhishTank, OpenPhish, Cert.pl, PhishFindR, Urlscan.io and Phishunt.io reports |
