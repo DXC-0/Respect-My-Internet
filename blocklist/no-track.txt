@@ -2040,7 +2040,6 @@
 0.0.0.0 logauth.polarisoffice.com #First Party - Tracker
 0.0.0.0 logconfig.polarisoffice.com #First Party - Tracker
 0.0.0.0 logger.foxitcloud.com #Foxit - Tracker
-0.0.0.0 logger.unsplash.com #Unsplash - Tracker
 0.0.0.0 logger.virgul.com #Unknown - Tracker
 0.0.0.0 loggly.com #Loggly - Tracker
 0.0.0.0 loginradius.com #LoginRadius - Tracker
@@ -4567,6 +4566,8 @@
 0.0.0.0 mkt1224.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12240.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12241.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12242.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12243.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1225.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1226.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1227.com #IBM Silverpop - Advertising
@@ -15280,7 +15281,6 @@
 0.0.0.0 stickerchapelsailing.com #AdMeasures - Advertising
 0.0.0.0 stickervillain.com #AdMeasures - Advertising
 0.0.0.0 stickyadstv.com #StickyAdsTV - Advertising
-0.0.0.0 stimulateartificial.com #AdMeasures - Advertising
 0.0.0.0 stocks-analytics-events.apple.com #Apple - Tracker
 0.0.0.0 storeen.ldmnq.com #First Party - Advertising
 0.0.0.0 stores-counters.wix.com #Wix - Tracker
