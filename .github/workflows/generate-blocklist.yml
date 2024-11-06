@@ -20,7 +20,7 @@ jobs:
         run: |
           mkdir -p ./blocklist
           cd ./blocklist
-          for url in https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt https://raw.githubusercontent.com/nickspaargaren/no-google/refs/heads/master/pihole-google.txt https://raw.githubusercontent.com/cedws/apple-telemetry/refs/heads/master/blacklist https://raw.githubusercontent.com/nickspaargaren/no-amazon/refs/heads/master/amazon.txt https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt https://dl.red.flag.domains/red.flag.domains.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt https://phishing.army/download/phishing_army_blocklist_extended.txt
+          for url in https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/ultimate.txt https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/tif.txt https://raw.githubusercontent.com/nickspaargaren/no-google/refs/heads/master/pihole-google.txt https://raw.githubusercontent.com/cedws/apple-telemetry/refs/heads/master/blacklist https://raw.githubusercontent.com/nickspaargaren/no-amazon/refs/heads/master/amazon.txt https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/notrack-blocklist.txt https://dl.red.flag.domains/red.flag.domains.txt https://raw.githubusercontent.com/sjhgvr/oisd/main/domainswild_big.txt https://phishing.army/download/phishing_army_blocklist_extended.txt https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt
           do
             curl $url | sed '/^#/d' | sed 's/^/0.0.0.0 /g'  > $(basename $url)
           done
@@ -38,6 +38,7 @@ jobs:
           mv red.flag.domains.txt red-flag-domains.txt
           mv domainswild_big.txt oisd-big.txt
           mv phishing_army_blocklist_extended.txt phishing-army.txt
+          mv domain.txt no-china-batx.txt
 
           cat * >> respect-my-internet.txt
 
