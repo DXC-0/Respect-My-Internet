@@ -11,9 +11,9 @@
     "type": "list",
     "list": [
       {
-        "operand": "lists.nets",
-        "data": "/etc/opensnitchd/ip",
-        "type": "lists",
+        "operand": "protocol",
+        "data": "tcp",
+        "type": "simple",
         "list": null,
         "sensitive": false
       },
