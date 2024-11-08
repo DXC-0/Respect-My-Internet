@@ -46403,7 +46403,6 @@
 0.0.0.0 *.evrir.top
 0.0.0.0 *.evris.shop
 0.0.0.0 *.evrisparcels.top
-0.0.0.0 *.evrisrt.shop
 0.0.0.0 *.evrisuk.icu
 0.0.0.0 *.evrisuk.shop
 0.0.0.0 *.evritcb.top
@@ -83796,7 +83795,6 @@
 0.0.0.0 *.news.nevuer.com
 0.0.0.0 *.news.push.126.net
 0.0.0.0 *.news.qcyz.cn
-0.0.0.0 *.news.quantumcodelab.xyz
 0.0.0.0 *.news.solitut.online
 0.0.0.0 *.news.soptv.ws
 0.0.0.0 *.news.truth.delivery
