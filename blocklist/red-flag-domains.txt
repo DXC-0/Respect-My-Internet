@@ -1950,6 +1950,7 @@
 0.0.0.0 ameli-sante-2023.fr
 0.0.0.0 ameli-sante-assurance.fr
 0.0.0.0 amelisantecarte.fr
+0.0.0.0 ame-li-sante.fr
 0.0.0.0 ameli-santegouv.fr
 0.0.0.0 amelisantegouv.fr
 0.0.0.0 ameli-sante-info.fr
@@ -4325,6 +4326,7 @@
 0.0.0.0 bnfparis.fr
 0.0.0.0 bnox.fr
 0.0.0.0 bnp-acces.fr
+0.0.0.0 bnpbanq.fr
 0.0.0.0 bnp-cle-digitale.fr
 0.0.0.0 bnpepargne.fr
 0.0.0.0 bnp-espace-particuliers.fr
@@ -11415,6 +11417,7 @@
 0.0.0.0 happysribe.fr
 0.0.0.0 haribo-france.fr
 0.0.0.0 hariequin.fr
+0.0.0.0 harleydavidson-france.fr
 0.0.0.0 harrisinteractivesas.fr
 0.0.0.0 harrysparis.fr
 0.0.0.0 hartamann.fr
@@ -19227,6 +19230,7 @@
 0.0.0.0 regularisation-info.fr
 0.0.0.0 regularisation-infos-sante.fr
 0.0.0.0 regularisation-infraction.fr
+0.0.0.0 regularisationmonamendes.fr
 0.0.0.0 regularisation-moncompte.fr
 0.0.0.0 regularisation-netflix.fr
 0.0.0.0 regularisation-paiement.fr
@@ -20029,6 +20033,7 @@
 0.0.0.0 santeinterimaire.fr
 0.0.0.0 sante-macarte.fr
 0.0.0.0 santemacartevitale.fr
+0.0.0.0 sante-maladie-amelie.fr
 0.0.0.0 sante-maladie-france.fr
 0.0.0.0 santemarin.fr
 0.0.0.0 sante-mavitale.fr
@@ -23461,6 +23466,7 @@
 0.0.0.0 universite-evry.fr
 0.0.0.0 universite-jfc-rodez.fr
 0.0.0.0 universite-lyon1.fr
+0.0.0.0 universite-lyon3.fr
 0.0.0.0 universite-paris8.fr
 0.0.0.0 universite-parissaclay.fr
 0.0.0.0 universite-paris-salay.fr
