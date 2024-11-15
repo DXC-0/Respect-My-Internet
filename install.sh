@@ -1,3 +1,5 @@
+#!/bin/sh
+
 ####### RESPECT-MY-INTERNET INSTALL SCRIPT ########
 
 mkdir /etc/opensnitchd/blocklist/
