@@ -1,3 +1,5 @@
+#!/bin/sh
+
 ####### RESPECT-MY-INTERNET UPDATE SCRIPT ########
 
 rm -rf /etc/opensnitchd/respect-my-internet.txt
