@@ -4605,7 +4605,6 @@
 0.0.0.0 *.9-8.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 *.9-casino.fr
 0.0.0.0 *.9-casinos.fr
-0.0.0.0 *.9-ppt.icu
 0.0.0.0 *.90-music.com
 0.0.0.0 *.900jpg.com
 0.0.0.0 *.900tif.com
@@ -17644,7 +17643,6 @@
 0.0.0.0 *.assurance-maladie-gard.fr
 0.0.0.0 *.assurance-mutuelles-poitiers.fr
 0.0.0.0 *.assurance-resilie-pascher.fr
-0.0.0.0 *.assurance-vital.fr
 0.0.0.0 *.assuranceapprobationblackbird.com
 0.0.0.0 *.assurancedangerous.com
 0.0.0.0 *.assurancemae.fr
@@ -23725,7 +23723,6 @@
 0.0.0.0 *.bogosiom.beget.tech
 0.0.0.0 *.bogrodius.com
 0.0.0.0 *.bogus-disk.com
-0.0.0.0 *.boharaf.com
 0.0.0.0 *.bohecingrid.wixsite.com
 0.0.0.0 *.bohemiadaily.com
 0.0.0.0 *.bohkhufmvwim.online
@@ -29720,7 +29717,6 @@
 0.0.0.0 *.cigarette-online.com
 0.0.0.0 *.cigaretteintervals.com
 0.0.0.0 *.cigarettenotablymaker.com
-0.0.0.0 *.cigarettes-enligne.fr
 0.0.0.0 *.cigarsales.store
 0.0.0.0 *.cigpcl.com
 0.0.0.0 *.cihangcapital.com
@@ -30526,10 +30522,8 @@
 0.0.0.0 *.cliente-milleniumbcp.fr
 0.0.0.0 *.cliente-millenniumbcp.fr
 0.0.0.0 *.cliente74s8.rf.gd
-0.0.0.0 *.clientebddvonli.com
 0.0.0.0 *.clientele-creditmutuel.fr
 0.0.0.0 *.clientele-paylib.fr
-0.0.0.0 *.clientesbdvonline.com
 0.0.0.0 *.clientfloabank.fr
 0.0.0.0 *.clienti-dati.com
 0.0.0.0 *.clienti-verifica.com
@@ -41405,7 +41399,6 @@
 0.0.0.0 *.dpjszs.com
 0.0.0.0 *.dplus-pixar.com
 0.0.0.0 *.dpmsrv.com
-0.0.0.0 *.dpncnct.cn
 0.0.0.0 *.dpocc.com
 0.0.0.0 *.dppaivsn6f9dy.cloudfront.net
 0.0.0.0 *.dprince.org
@@ -46856,7 +46849,6 @@
 0.0.0.0 *.f4611b5cd8.9900149f2a.com
 0.0.0.0 *.f4823894ba.com
 0.0.0.0 *.f4vb9n3tdvh.life
-0.0.0.0 *.f5-facebook.click
 0.0.0.0 *.f58x48lpn.com
 0.0.0.0 *.f59408d48d.com
 0.0.0.0 *.f5app1ec.invierte.ec
@@ -48879,6 +48871,7 @@
 0.0.0.0 *.finalrenew.weebly.com
 0.0.0.0 *.finalshell.me
 0.0.0.0 *.financcesurv.com
+0.0.0.0 *.finance-analyst.com
 0.0.0.0 *.finance-hot-news.com
 0.0.0.0 *.finance-loans.com
 0.0.0.0 *.finance-ministers.com
@@ -50728,7 +50721,6 @@
 0.0.0.0 *.freebidnow.com
 0.0.0.0 *.freebiecodes.com
 0.0.0.0 *.freebienation.com
-0.0.0.0 *.freebiesgiveaways.net
 0.0.0.0 *.freebiesurveys.com
 0.0.0.0 *.freebitco.in
 0.0.0.0 *.freebitcoin.pages.dev
@@ -55428,7 +55420,6 @@
 0.0.0.0 *.gov.achggr.sbs
 0.0.0.0 *.gov.acs-gr.world
 0.0.0.0 *.gov.acytgr.buzz
-0.0.0.0 *.gov.admiralx-qgr.top
 0.0.0.0 *.gov.adult-btgr.xyz
 0.0.0.0 *.gov.adultbtgr.sbs
 0.0.0.0 *.gov.afezgr.info
@@ -55444,7 +55435,6 @@
 0.0.0.0 *.gov.aligr.sbs
 0.0.0.0 *.gov.allegr.ru
 0.0.0.0 *.gov.allinbloomgr.com
-0.0.0.0 *.gov.almogr.com
 0.0.0.0 *.gov.amenzingr.com
 0.0.0.0 *.gov.aocgr.buzz
 0.0.0.0 *.gov.apex-engr.com
@@ -55480,9 +55470,7 @@
 0.0.0.0 *.gov.c1gr.shop
 0.0.0.0 *.gov.caiygr.asia
 0.0.0.0 *.gov.cancerareacrgr.com
-0.0.0.0 *.gov.caregiverservicecaregivergr.today
 0.0.0.0 *.gov.cash-loan-gr.site
-0.0.0.0 *.gov.casinoexperiencesgr.com
 0.0.0.0 *.gov.casinoly-gr.info
 0.0.0.0 *.gov.cc10301gggr.info
 0.0.0.0 *.gov.cc11011gggr.info
@@ -55494,7 +55482,6 @@
 0.0.0.0 *.gov.cheatgr.com
 0.0.0.0 *.gov.chrimatistirio-gr.online
 0.0.0.0 *.gov.ckgr.lat
-0.0.0.0 *.gov.ckhorkxundmiogr.work
 0.0.0.0 *.gov.cndgr.buzz
 0.0.0.0 *.gov.colosseum-gr.ru
 0.0.0.0 *.gov.cqsggr.buzz
@@ -55526,14 +55513,12 @@
 0.0.0.0 *.gov.dhygr.buzz
 0.0.0.0 *.gov.dijegr.info
 0.0.0.0 *.gov.diymgr.com
-0.0.0.0 *.gov.djdygr.xyz
 0.0.0.0 *.gov.dkjhgr.site
 0.0.0.0 *.gov.dkjhgr.store
 0.0.0.0 *.gov.dkpgr.buzz
 0.0.0.0 *.gov.dqtbgr.buzz
 0.0.0.0 *.gov.dsflgr.info
 0.0.0.0 *.gov.dszztigr.shop
-0.0.0.0 *.gov.dtgr.uk
 0.0.0.0 *.gov.dungr.buzz
 0.0.0.0 *.gov.dxugr.info
 0.0.0.0 *.gov.dy81bgr.pro
@@ -55585,12 +55570,10 @@
 0.0.0.0 *.gov.gaming-headphones-gr.com
 0.0.0.0 *.gov.gaming-laptop-gr.com
 0.0.0.0 *.gov.garantgr.ru
-0.0.0.0 *.gov.geoxgr.com
 0.0.0.0 *.gov.getrangr.com
 0.0.0.0 *.gov.gfbgr.buzz
 0.0.0.0 *.gov.gfju123sdfigr.vip
 0.0.0.0 *.gov.gfrkgr.click
-0.0.0.0 *.gov.ggeh32ihgr.ch
 0.0.0.0 *.gov.ggrgdgr.buzz
 0.0.0.0 *.gov.giagr.sbs
 0.0.0.0 *.gov.gknrgr.buzz
@@ -55708,7 +55691,6 @@
 0.0.0.0 *.gov.ldjwkzgr.top
 0.0.0.0 *.gov.leastfxgygr.sbs
 0.0.0.0 *.gov.lecgr.buzz
-0.0.0.0 *.gov.ledegr.com
 0.0.0.0 *.gov.lgr.nu
 0.0.0.0 *.gov.libkrsgr.com
 0.0.0.0 *.gov.lidjxxgr.xyz
@@ -55743,7 +55725,6 @@
 0.0.0.0 *.gov.mobility-scooters-gr.click
 0.0.0.0 *.gov.mogr.buzz
 0.0.0.0 *.gov.moneymsngr.com
-0.0.0.0 *.gov.mrpunter-gr.com
 0.0.0.0 *.gov.msuagr.com
 0.0.0.0 *.gov.mtdgr.buzz
 0.0.0.0 *.gov.mtgr.shop
@@ -55792,7 +55773,6 @@
 0.0.0.0 *.gov.pkgr.buzz
 0.0.0.0 *.gov.pntggr.buzz
 0.0.0.0 *.gov.ppjixypgtngengr.work
-0.0.0.0 *.gov.privatedriver1gr.today
 0.0.0.0 *.gov.property-bxphgr.xyz
 0.0.0.0 *.gov.propertybxphgr.sbs
 0.0.0.0 *.gov.protothema-gr.life
@@ -55920,7 +55900,6 @@
 0.0.0.0 *.gov.tnggr.sbs
 0.0.0.0 *.gov.tnxsgr.buzz
 0.0.0.0 *.gov.top-10-casino-mgr.top
-0.0.0.0 *.gov.topperspizzagr.com
 0.0.0.0 *.gov.tqkvhzgr.vip
 0.0.0.0 *.gov.travelllroadgr.shop
 0.0.0.0 *.gov.trngr.buzz
@@ -55957,14 +55936,12 @@
 0.0.0.0 *.gov.vsygr.click
 0.0.0.0 *.gov.vxtef3ab-rgr.com
 0.0.0.0 *.gov.vyefgr.buzz
-0.0.0.0 *.gov.vygr.org
 0.0.0.0 *.gov.vzbgr.info
 0.0.0.0 *.gov.w11gr.com
 0.0.0.0 *.gov.w5gr.lat
 0.0.0.0 *.gov.wcixvugr.com
 0.0.0.0 *.gov.wdsgr.buzz
 0.0.0.0 *.gov.wdxgr.buzz
-0.0.0.0 *.gov.wfcgr.store
 0.0.0.0 *.gov.whphgr.info
 0.0.0.0 *.gov.wiegr.space
 0.0.0.0 *.gov.wildlogr.store
@@ -58517,7 +58494,6 @@
 0.0.0.0 *.havenwrite.com
 0.0.0.0 *.haveonlinedegreeace.com
 0.0.0.0 *.haveonlinedegreeaid.com
-0.0.0.0 *.haveorgranicbracepurch.com
 0.0.0.0 *.haveproceeding.com
 0.0.0.0 *.havepsychics.com
 0.0.0.0 *.haveskincare.com
@@ -61859,7 +61835,6 @@
 0.0.0.0 *.icloud-mydevice.com
 0.0.0.0 *.icloud-photos.fr
 0.0.0.0 *.icloud-privacy.com
-0.0.0.0 *.icloud-rastrear.com
 0.0.0.0 *.icloud-verifications.com
 0.0.0.0 *.icloud.account-id.com
 0.0.0.0 *.icloud.com.auth-id.us
@@ -64811,7 +64786,6 @@
 0.0.0.0 *.iqfindia.org
 0.0.0.0 *.iqgloin.com
 0.0.0.0 *.iqhosted.nl
-0.0.0.0 *.iqi4l.icu
 0.0.0.0 *.iqilogisticandcargo.com
 0.0.0.0 *.iqjzvexejtgrbrs.duckdns.org
 0.0.0.0 *.iqm.com
@@ -68891,7 +68865,6 @@
 0.0.0.0 *.kmspico.io
 0.0.0.0 *.kmspico10.com
 0.0.0.0 *.kmspicoactivator.net
-0.0.0.0 *.kmspicoativador.org
 0.0.0.0 *.kmspicoofficial.com
 0.0.0.0 *.kmspicoportable.com
 0.0.0.0 *.kmsupdateservice.com.br
@@ -70831,7 +70804,6 @@
 0.0.0.0 *.leading-flashing.gl.at.ply.gg
 0.0.0.0 *.leading-sexuality.gl.at.ply.gg
 0.0.0.0 *.leadingedgewatertechnologies.com
-0.0.0.0 *.leadingindication.pro
 0.0.0.0 *.leadingpostservices.com
 0.0.0.0 *.leadingservicesintimate.com
 0.0.0.0 *.leadlinemedia.com
@@ -73378,7 +73350,6 @@
 0.0.0.0 *.logicorganized.com
 0.0.0.0 *.logicschort.com
 0.0.0.0 *.logih.com
-0.0.0.0 *.login-account-rakuten.com
 0.0.0.0 *.login-account.servebeer.com
 0.0.0.0 *.login-app1epay.appsupport-locate.com
 0.0.0.0 *.login-apple.com
@@ -90017,7 +89988,6 @@
 0.0.0.0 *.pardentcapital.com
 0.0.0.0 *.pardetheezan.com
 0.0.0.0 *.pardonpopular.com
-0.0.0.0 *.parduawarj.site
 0.0.0.0 *.parefeu-verif.fr
 0.0.0.0 *.pareja.com.br
 0.0.0.0 *.parenteer.com
@@ -90861,7 +90831,6 @@
 0.0.0.0 *.pcil.blufysh.com
 0.0.0.0 *.pcinfo.secl.cc
 0.0.0.0 *.pcirurrkeazm.com
-0.0.0.0 *.pckybljxtarra.com
 0.0.0.0 *.pclick.internal.yahoo.com
 0.0.0.0 *.pclick.yahoo.com
 0.0.0.0 *.pclk.name
@@ -94305,7 +94274,6 @@
 0.0.0.0 *.prada.re
 0.0.0.0 *.pradafr.fr
 0.0.0.0 *.pradakomechanicals.com
-0.0.0.0 *.praddpro.de
 0.0.0.0 *.pradeepgyawali.com.np
 0.0.0.0 *.pradera.duckdns.org
 0.0.0.0 *.pradopro.ru
@@ -98431,7 +98399,6 @@
 0.0.0.0 *.rarebreedtriggers.usa.com
 0.0.0.0 *.rarebreedtriggersus.com
 0.0.0.0 *.rarecurious.com
-0.0.0.0 *.rareexoticbirds.com.au
 0.0.0.0 *.rarekeygencentral.com
 0.0.0.0 *.rarekidneyrevolution.com
 0.0.0.0 *.rareroad.com
@@ -100548,7 +100515,6 @@
 0.0.0.0 *.revrtb.com
 0.0.0.0 *.revrtb.net
 0.0.0.0 *.revsci.net
-0.0.0.0 *.revsee.com
 0.0.0.0 *.revsharecash.com
 0.0.0.0 *.revsherri.com
 0.0.0.0 *.revstats.com
@@ -107184,7 +107150,6 @@
 0.0.0.0 *.shophungakira.com
 0.0.0.0 *.shopiastore.com
 0.0.0.0 *.shopify-fast-tags.deliverr.com
-0.0.0.0 *.shopifydl.shop
 0.0.0.0 *.shopifysl.shop
 0.0.0.0 *.shopigo.fr
 0.0.0.0 *.shopingparty.com
@@ -108180,7 +108145,6 @@
 0.0.0.0 *.sixfootcattery.co.za
 0.0.0.0 *.sixft-apart.com
 0.0.0.0 *.sixja6sb.top
-0.0.0.0 *.sixjo16ht.top
 0.0.0.0 *.sixroads.com
 0.0.0.0 *.sixscissors.com
 0.0.0.0 *.sixsenseus.com
@@ -110766,7 +110730,6 @@
 0.0.0.0 *.spinsforwins.com
 0.0.0.0 *.spiny-plume-nitrogen.glitch.me
 0.0.0.0 *.spir.hit.gemius.pl
-0.0.0.0 *.spiraldigitalinc.com
 0.0.0.0 *.spiralextratread.com
 0.0.0.0 *.spiralsad.com
 0.0.0.0 *.spiralstab.com
@@ -110793,7 +110756,6 @@
 0.0.0.0 *.spitspacecraftfraternity.com
 0.0.0.0 *.spitter.pauk.ru
 0.0.0.0 *.spixel.socy.es
-0.0.0.0 *.spk-hilfe.info
 0.0.0.0 *.spk-login.net
 0.0.0.0 *.spkaktualisierung.com
 0.0.0.0 *.spklmis.com
@@ -114027,7 +113989,6 @@
 0.0.0.0 *.sumico.com.pk
 0.0.0.0 *.sumitkumar7978.github.io
 0.0.0.0 *.sumiyuki.co.jp
-0.0.0.0 *.summa.homes
 0.0.0.0 *.summa.yachts
 0.0.0.0 *.summarizel.com
 0.0.0.0 *.summary-athletic.gl.at.ply.gg
@@ -121623,7 +121584,6 @@
 0.0.0.0 *.trendifystoreshop.com
 0.0.0.0 *.trendinchick.com
 0.0.0.0 *.trendinformatica.eu
-0.0.0.0 *.trendingcharts.finance-analyst.com
 0.0.0.0 *.trendingcourse.com
 0.0.0.0 *.trendingnewstv.com
 0.0.0.0 *.trendingpatrol.com
@@ -127473,7 +127433,6 @@
 0.0.0.0 *.vitrinler3.com
 0.0.0.0 *.vittoriamall.com.br
 0.0.0.0 *.vittorio2024.com
-0.0.0.0 *.viurl.fun
 0.0.0.0 *.viva.api.xiaoying.co
 0.0.0.0 *.viva.gr.com
 0.0.0.0 *.vivads.net
@@ -128234,7 +128193,6 @@
 0.0.0.0 *.vx.azuresjukes.com
 0.0.0.0 *.vxdrfr.xyz
 0.0.0.0 *.vxiframe.biz
-0.0.0.0 *.vxjcalk.cn
 0.0.0.0 *.vxlysbz.cn
 0.0.0.0 *.vxmundo.com
 0.0.0.0 *.vxorjza.com
@@ -135533,7 +135491,6 @@
 0.0.0.0 *.zealotillustrate.com
 0.0.0.0 *.zealouscompassionatecranny.com
 0.0.0.0 *.zealouscourierexpresscompany.com
-0.0.0.0 *.zealousfield.com
 0.0.0.0 *.zealsalts.com
 0.0.0.0 *.zeas.eu
 0.0.0.0 *.zebbgroupofsuppliers.co.za
