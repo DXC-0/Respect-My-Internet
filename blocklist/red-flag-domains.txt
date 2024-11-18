@@ -4445,6 +4445,7 @@
 0.0.0.0 bohoo.fr
 0.0.0.0 boncoi.fr
 0.0.0.0 boncoinmessagerie.fr
+0.0.0.0 boncoinoffre-annonces-748483939273738.fr
 0.0.0.0 boncoinpaiementsecurise.fr
 0.0.0.0 boneville.fr
 0.0.0.0 bongacam.fr
@@ -4961,8 +4962,10 @@
 0.0.0.0 canaltvhub.fr
 0.0.0.0 canard-enchaine.fr
 0.0.0.0 cancelprimev.fr
+0.0.0.0 cancel-primevideo.fr
 0.0.0.0 cancelprimevid.fr
 0.0.0.0 cancel-societegenerale.fr
+0.0.0.0 cancel-videoprime.fr
 0.0.0.0 c-and-a-france.fr
 0.0.0.0 c-and-afrance.fr
 0.0.0.0 candidat-pole-emploi.fr
@@ -5602,6 +5605,7 @@
 0.0.0.0 chaussureetsvetements.fr
 0.0.0.0 chaussurefactorystore.fr
 0.0.0.0 chaussure-femme.fr
+0.0.0.0 chaussurefila.fr
 0.0.0.0 chaussurefranceparis.fr
 0.0.0.0 chaussurehoka.fr
 0.0.0.0 chaussureideale.fr
@@ -6831,6 +6835,7 @@
 0.0.0.0 colisreception.fr
 0.0.0.0 colisredirection.fr
 0.0.0.0 colis-reglement.fr
+0.0.0.0 colis-regularisations.fr
 0.0.0.0 colis-relais.fr
 0.0.0.0 colisrelais.fr
 0.0.0.0 colis-relay.fr
@@ -8280,6 +8285,7 @@
 0.0.0.0 departementantifraude.fr
 0.0.0.0 departement-livraison.fr
 0.0.0.0 departementsecurite.fr
+0.0.0.0 departement-tva-facturation-dgfip.fr
 0.0.0.0 departementvitale.fr
 0.0.0.0 department06.fr
 0.0.0.0 depistage-centre.fr
@@ -10090,6 +10096,7 @@
 0.0.0.0 finances-dgfip.fr
 0.0.0.0 finances-dgflip.fr
 0.0.0.0 finance-secu-publique.fr
+0.0.0.0 finances-gouv-dgfp-controle-tva.fr
 0.0.0.0 financesgouv.fr
 0.0.0.0 finances-gouv-info.fr
 0.0.0.0 finances-publique.fr
@@ -15645,6 +15652,7 @@
 0.0.0.0 mon-dossier-contravention.fr
 0.0.0.0 mon-dossier-en-cours-de-traitement.fr
 0.0.0.0 mon-dossier-infraction.fr
+0.0.0.0 mondossierloc.fr
 0.0.0.0 mon-dossier-maladie.fr
 0.0.0.0 mon-dossier-sante.fr
 0.0.0.0 mon-droit-cpf.fr
@@ -17418,6 +17426,7 @@
 0.0.0.0 oranqe.fr
 0.0.0.0 oranve.fr
 0.0.0.0 order-auchan.fr
+0.0.0.0 order-primevideo.fr
 0.0.0.0 ordremek.fr
 0.0.0.0 oreange.fr
 0.0.0.0 organicbasicsfrance.fr
@@ -18217,6 +18226,7 @@
 0.0.0.0 pierrecardinboutique.fr
 0.0.0.0 pierrecardin-france.fr
 0.0.0.0 pierrecardinfrance.fr
+0.0.0.0 pierrecardinfranceshop.fr
 0.0.0.0 pikabu.re
 0.0.0.0 pikolinosfrance.fr
 0.0.0.0 pillowpets.fr
@@ -18457,6 +18467,7 @@
 0.0.0.0 portail-connexion.fr
 0.0.0.0 portaildgfipfinances.fr
 0.0.0.0 portail-dgfip.fr
+0.0.0.0 portaileco-cciauvergne.fr
 0.0.0.0 portail-finances.fr
 0.0.0.0 portail-franceconnect.fr
 0.0.0.0 portailfree.fr
@@ -18609,6 +18620,7 @@
 0.0.0.0 pret-orange.fr
 0.0.0.0 prettylittlethings.fr
 0.0.0.0 prevention-amazon.fr
+0.0.0.0 prevention-gendarmerie.fr
 0.0.0.0 prevention-routiere-gouvernement.fr
 0.0.0.0 prev-maif.fr
 0.0.0.0 primadonnaparis.fr
@@ -22206,8 +22218,11 @@
 0.0.0.0 starflix-streaming.fr
 0.0.0.0 star-iptv.fr
 0.0.0.0 starlink-france.fr
+0.0.0.0 start-prime.fr
+0.0.0.0 start-primevideo.fr
 0.0.0.0 start-primevid.fr
 0.0.0.0 startprimevid.fr
+0.0.0.0 start-videoprime.fr
 0.0.0.0 star-wars-disney.fr
 0.0.0.0 statantamaj.fr
 0.0.0.0 stationnement-amandesgouv.fr
@@ -24988,6 +25003,7 @@
 0.0.0.0 xn--estrpublicain-ehb.fr
 0.0.0.0 xn--expdition-chrono-dqb.fr
 0.0.0.0 xn--expdition-chronopost-d2b.fr
+0.0.0.0 xn--facultdessciences-universiteparis-saclay-gsd.fr
 0.0.0.0 xn--famillechrtienne-kqb.fr
 0.0.0.0 xn--formulaire-sant-ameli-p5b.fr
 0.0.0.0 xn--formulaire-sant-pnb.fr
