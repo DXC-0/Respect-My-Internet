@@ -222,6 +222,7 @@
 0.0.0.0 abonnement-netflix.fr
 0.0.0.0 abonnement-netflx.fr
 0.0.0.0 abonnement-prime.fr
+0.0.0.0 abonnementprime.fr
 0.0.0.0 abonnement-primevideo.fr
 0.0.0.0 abonnement-reactivation.fr
 0.0.0.0 abonnement-regularisation.fr
@@ -246,6 +247,7 @@
 0.0.0.0 abonnement-support.fr
 0.0.0.0 abonnement-suspension.fr
 0.0.0.0 abonnement-verif.fr
+0.0.0.0 abonnement-videopr.fr
 0.0.0.0 abonnement-videoprime.fr
 0.0.0.0 abonner-insta.fr
 0.0.0.0 abonnplaymus.fr
@@ -869,6 +871,7 @@
 0.0.0.0 agenceorange.fr
 0.0.0.0 agenceparticuliersg-fr.fr
 0.0.0.0 agencepourlinformatiquefinancieredeletat.fr
+0.0.0.0 agence-sg.fr
 0.0.0.0 agencesg-societegenerale.fr
 0.0.0.0 agences-nationale-antai.fr
 0.0.0.0 agence-societegenerale.fr
@@ -4446,6 +4449,7 @@
 0.0.0.0 boncoi.fr
 0.0.0.0 boncoinmessagerie.fr
 0.0.0.0 boncoinoffre-annonces-748483939273738.fr
+0.0.0.0 boncoin-paiement.fr
 0.0.0.0 boncoinpaiementsecurise.fr
 0.0.0.0 boneville.fr
 0.0.0.0 bongacam.fr
@@ -5624,6 +5628,7 @@
 0.0.0.0 chaussure--nike.fr
 0.0.0.0 chaussureoutlet.fr
 0.0.0.0 chaussurepalladium.fr
+0.0.0.0 chaussureparisoutlet.fr
 0.0.0.0 chaussure-pas-chere.fr
 0.0.0.0 chaussurerabais.fr
 0.0.0.0 chaussureredwing.fr
@@ -6446,6 +6451,7 @@
 0.0.0.0 chrronopost.fr
 0.0.0.0 chru-brest.fr
 0.0.0.0 chru-montpellier.fr
+0.0.0.0 chruspro.fr
 0.0.0.0 ch-saintdizier-gdga.fr
 0.0.0.0 ch-saintemenehould.fr
 0.0.0.0 ch-selestat.fr
@@ -8285,6 +8291,7 @@
 0.0.0.0 departementantifraude.fr
 0.0.0.0 departement-livraison.fr
 0.0.0.0 departementsecurite.fr
+0.0.0.0 departement-tva-dgfip.fr
 0.0.0.0 departement-tva-facturation-dgfip.fr
 0.0.0.0 departementvitale.fr
 0.0.0.0 department06.fr
@@ -8508,6 +8515,7 @@
 0.0.0.0 dirtmountainbike.fr
 0.0.0.0 discord-claim.fr
 0.0.0.0 discord-login.fr
+0.0.0.0 discord-verif.fr
 0.0.0.0 discount-shop.fr
 0.0.0.0 discount-sneaks.fr
 0.0.0.0 disnayplusabonne.fr
@@ -8734,6 +8742,7 @@
 0.0.0.0 dossier-particulier.fr
 0.0.0.0 dossier-patient-ameli.fr
 0.0.0.0 dossierpatient-ameli.fr
+0.0.0.0 dossier-patient-secu-ameli.fr
 0.0.0.0 dossier-rattachees-amendes.fr
 0.0.0.0 dossier-regularisation.fr
 0.0.0.0 dossier-renouvellement.fr
@@ -9238,6 +9247,7 @@
 0.0.0.0 epaypal.fr
 0.0.0.0 epop-inserm.fr
 0.0.0.0 eporner.re
+0.0.0.0 eposte.fr
 0.0.0.0 epress.fr
 0.0.0.0 eprimo.fr
 0.0.0.0 epromos.fr
@@ -10197,6 +10207,7 @@
 0.0.0.0 forde.fr
 0.0.0.0 foreveliving.fr
 0.0.0.0 forfait-netflix.fr
+0.0.0.0 forfait-prime.fr
 0.0.0.0 forksoverknives.fr
 0.0.0.0 forload-leboncoin.fr
 0.0.0.0 formalite-juridique.fr
@@ -10286,6 +10297,7 @@
 0.0.0.0 formumactif.fr
 0.0.0.0 fortuneo-app.fr
 0.0.0.0 fortuneo-apps.fr
+0.0.0.0 fortuneo-bank.fr
 0.0.0.0 fortuneobank.fr
 0.0.0.0 fortuneobqu.fr
 0.0.0.0 fortuneo-client.fr
@@ -10369,6 +10381,7 @@
 0.0.0.0 france-connexion-support.fr
 0.0.0.0 france-contrav.fr
 0.0.0.0 francecorteiz.fr
+0.0.0.0 france-costco.fr
 0.0.0.0 francecoupon.fr
 0.0.0.0 france-critair.fr
 0.0.0.0 france-cybertek.fr
@@ -13244,6 +13257,7 @@
 0.0.0.0 lananquepostale.fr
 0.0.0.0 lanaquepostale.fr
 0.0.0.0 lancaster-officiel.fr
+0.0.0.0 lancasterofficiel.fr
 0.0.0.0 lancasterparissac.fr
 0.0.0.0 lancelfrance.fr
 0.0.0.0 lancement-xiaomi.fr
@@ -14697,6 +14711,7 @@
 0.0.0.0 manpawer.fr
 0.0.0.0 manteskajolie.fr
 0.0.0.0 mantruckbusfrance.fr
+0.0.0.0 manutant-france.fr
 0.0.0.0 man-watch.fr
 0.0.0.0 map-apple.fr
 0.0.0.0 maphotoclasse.fr
@@ -15379,6 +15394,7 @@
 0.0.0.0 mon-acheminement-chronopost.fr
 0.0.0.0 mon-actualisation-ameli.fr
 0.0.0.0 mon-actualisation-assure-en-ligne.fr
+0.0.0.0 mon-actualisation-assure-enligne.fr
 0.0.0.0 mon-actualisation-carte-vitale.fr
 0.0.0.0 mon-actualisation.fr
 0.0.0.0 mon-actualisation-sante-en-ligne.fr
@@ -18669,6 +18685,7 @@
 0.0.0.0 primerenew.fr
 0.0.0.0 prime-renouvellement.fr
 0.0.0.0 prime-renouvellement-pay.fr
+0.0.0.0 prime-service.fr
 0.0.0.0 primeservice.fr
 0.0.0.0 prime-souscription.fr
 0.0.0.0 primesouscription.fr
@@ -21056,6 +21073,7 @@
 0.0.0.0 servicemaladie-vitale.fr
 0.0.0.0 service-mesamendes-antai.fr
 0.0.0.0 service-messagerie-leboncoin.fr
+0.0.0.0 service-mondial-relay.fr
 0.0.0.0 service-monrenouvellement-vitale.fr
 0.0.0.0 service-mutuelledroit.fr
 0.0.0.0 service-national-antai.fr
@@ -21614,6 +21632,7 @@
 0.0.0.0 sgserviceparticuliers.fr
 0.0.0.0 sgservpass.fr
 0.0.0.0 sg-site.fr
+0.0.0.0 sg-societegenerale.fr
 0.0.0.0 sg-support.fr
 0.0.0.0 sg-sys.fr
 0.0.0.0 sgverif.fr
