@@ -316,6 +316,7 @@
 0.0.0.0 acces-assurance-maladie.fr
 0.0.0.0 acces-auth-espace.fr
 0.0.0.0 acces-auth.fr
+0.0.0.0 accesbanque.fr
 0.0.0.0 acces-bredinsecserv.fr
 0.0.0.0 acces-caisse-epargne.fr
 0.0.0.0 accescanada.fr
@@ -5009,6 +5010,7 @@
 0.0.0.0 carac-terres.fr
 0.0.0.0 carain.fr
 0.0.0.0 carboncreditregistry.fr
+0.0.0.0 carbu-service-public.fr
 0.0.0.0 cardifbnpparibas.fr
 0.0.0.0 cardsf.fr
 0.0.0.0 carefooure.fr
@@ -5706,6 +5708,7 @@
 0.0.0.0 chaussurespascher.fr
 0.0.0.0 chaussurespaschersoldes.fr
 0.0.0.0 chaussurespikolinos.fr
+0.0.0.0 chaussurespikolinosparis.fr
 0.0.0.0 chaussurespony.fr
 0.0.0.0 chaussurespourenfants.fr
 0.0.0.0 chaussurespromotion.fr
@@ -8362,6 +8365,7 @@
 0.0.0.0 dgccrf-enquete.fr
 0.0.0.0 dgccrf-fr.fr
 0.0.0.0 dgccrf-hautealsace.fr
+0.0.0.0 dgccrf-restauration.fr
 0.0.0.0 dgccrf-services.fr
 0.0.0.0 dgchaussures.fr
 0.0.0.0 dgfip-aide.fr
@@ -9155,6 +9159,7 @@
 0.0.0.0 emplpoi-store.fr
 0.0.0.0 emponline.fr
 0.0.0.0 emporio-armani.fr
+0.0.0.0 emporioarmanifrance.fr
 0.0.0.0 emrn.pm
 0.0.0.0 emryscarte.fr
 0.0.0.0 en2p3.fr
@@ -11175,6 +11180,7 @@
 0.0.0.0 gouvernement-antai.fr
 0.0.0.0 gouvernement-francaise.fr
 0.0.0.0 gouvernement-france.fr
+0.0.0.0 gouvernement-fr.fr
 0.0.0.0 gouvernementgouv.fr
 0.0.0.0 gouvernement-inteacttransfert-en.fr
 0.0.0.0 gouvernement-police.fr
@@ -11912,6 +11918,7 @@
 0.0.0.0 iinsa-lyon.fr
 0.0.0.0 iivraison-chronopost.fr
 0.0.0.0 ikarus342000.fr
+0.0.0.0 ikeafrance.fr
 0.0.0.0 ikeafranceonline.fr
 0.0.0.0 ikea.pm
 0.0.0.0 ikebana-store.fr
@@ -13072,6 +13079,7 @@
 0.0.0.0 kmehy-sg.fr
 0.0.0.0 kmmui.yt
 0.0.0.0 knomofrance.fr
+0.0.0.0 knsfrance.fr
 0.0.0.0 koatetherm.fr
 0.0.0.0 koccie.fr
 0.0.0.0 koffer-direkt.fr
@@ -14967,6 +14975,7 @@
 0.0.0.0 mertic.fr
 0.0.0.0 mes-abonnements-renouvellement.fr
 0.0.0.0 mes-acces-abonnement.fr
+0.0.0.0 mes-actualisations-assure-enligne.fr
 0.0.0.0 mes-aides-caf.fr
 0.0.0.0 mes-aidesgouv.fr
 0.0.0.0 mesalalyses.fr
@@ -17473,6 +17482,7 @@
 0.0.0.0 orranngee.fr
 0.0.0.0 orrannge.fr
 0.0.0.0 orsayparis.fr
+0.0.0.0 orsnge.fr
 0.0.0.0 ortange.fr
 0.0.0.0 orthoedition.fr
 0.0.0.0 ortliebfrance.fr
@@ -19995,6 +20005,7 @@
 0.0.0.0 s42l.fr
 0.0.0.0 s5amazo.fr
 0.0.0.0 s5amazos.fr
+0.0.0.0 saabfrance.fr
 0.0.0.0 sacboston.fr
 0.0.0.0 sacceline.fr
 0.0.0.0 saccoachfrance.fr
@@ -22112,6 +22123,7 @@
 0.0.0.0 sofino.fr
 0.0.0.0 sofonco.fr
 0.0.0.0 sogenparticlpro.fr
+0.0.0.0 sogen-sg.fr
 0.0.0.0 sogerisquesrecouvrement.fr
 0.0.0.0 sogexia-dsp2.fr
 0.0.0.0 sog-particuliers.fr
@@ -23432,6 +23444,7 @@
 0.0.0.0 ttripadvisor.fr
 0.0.0.0 tubr8.fr
 0.0.0.0 tubro.fr
+0.0.0.0 tudigofrance.fr
 0.0.0.0 tukchaussuresfrance.fr
 0.0.0.0 tukiffe.fr
 0.0.0.0 tukshoesfrance.fr
@@ -23478,6 +23491,7 @@
 0.0.0.0 ubuntu-fr.fr
 0.0.0.0 u-caen.fr
 0.0.0.0 ucaf.fr
+0.0.0.0 u-dauphine.fr
 0.0.0.0 ugg-boots.fr
 0.0.0.0 ugg-botte.fr
 0.0.0.0 ugg-bottes.fr
@@ -23597,6 +23611,7 @@
 0.0.0.0 universalstudioshollywood.fr
 0.0.0.0 universfoot.fr
 0.0.0.0 universita-corsica.fr
+0.0.0.0 universite-assas.fr
 0.0.0.0 universite-bordeaux.fr
 0.0.0.0 universiteconnexion.fr
 0.0.0.0 universite-corse.fr
@@ -24836,6 +24851,7 @@
 0.0.0.0 xiaomi.yt
 0.0.0.0 xinamax.fr
 0.0.0.0 xitf.fr
+0.0.0.0 xlientcpay.fr
 0.0.0.0 xmanpower.fr
 0.0.0.0 xn--accs-sap-30a.fr
 0.0.0.0 xn--accueil-socit-generale-m8bb.fr
