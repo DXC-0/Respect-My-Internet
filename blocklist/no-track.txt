@@ -1085,7 +1085,6 @@
 0.0.0.0 comscoreresearch.com #comScore - Tracker
 0.0.0.0 concertads-configs.vox-cdn.com #Vox - Advertising
 0.0.0.0 condenastdigital.com #Conde Nast Digital - Tracker
-0.0.0.0 condolencessumcomics.com #AdMeasures - Advertising
 0.0.0.0 conductmassage.com #AdMeasures - Advertising
 0.0.0.0 config.claspws.tv #First Party - Tracker
 0.0.0.0 config.sdk.scopely.io #First Party - Tracker
@@ -1142,7 +1141,6 @@
 0.0.0.0 cpx.to #Unknown - Tracker
 0.0.0.0 cqcounter.com #Unknown - Tracker
 0.0.0.0 cquotient.com #Unknown - Tracker
-0.0.0.0 crankyderangeabound.com #AdMeasures - Advertising
 0.0.0.0 crash-reporting.duowan.com #First Party - Tracker
 0.0.0.0 crashdump.spotify.com #Spotify - Tracker
 0.0.0.0 crashlytics.com #Crashlytics - Tracker
@@ -4568,7 +4566,10 @@
 0.0.0.0 mkt12246.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12247.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12248.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12249.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1225.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12250.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12251.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12252.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1226.com #IBM Silverpop - Advertising
 0.0.0.0 mkt1227.com #IBM Silverpop - Advertising
