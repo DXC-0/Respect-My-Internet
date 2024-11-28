@@ -956,6 +956,7 @@
 0.0.0.0 aide-critair.fr
 0.0.0.0 aide-cvitale.fr
 0.0.0.0 aidedd.fr
+0.0.0.0 aide-dgfip-rectification.fr
 0.0.0.0 aide-economie-relance.fr
 0.0.0.0 aide-espace-navigo.fr
 0.0.0.0 aide-facturation.fr
@@ -4325,6 +4326,7 @@
 0.0.0.0 blablacar-verify.fr
 0.0.0.0 blablcar.fr
 0.0.0.0 blackfriday-cookeo.fr
+0.0.0.0 blackugg.fr
 0.0.0.0 blakelyclothing.fr
 0.0.0.0 blakelyfrance.fr
 0.0.0.0 blancetanude.fr
@@ -5793,6 +5795,7 @@
 0.0.0.0 chorus-facture.fr
 0.0.0.0 chorus-pro-facture.fr
 0.0.0.0 chorusprofacture.fr
+0.0.0.0 chorus-pro-litiges.fr
 0.0.0.0 ch-pasteur.fr
 0.0.0.0 ch-paysdeploermel.fr
 0.0.0.0 chpoitiers.fr
@@ -7750,6 +7753,7 @@
 0.0.0.0 cram-sudest.fr
 0.0.0.0 cra-payment-online.fr
 0.0.0.0 crcindustriesfrancesas.fr
+0.0.0.0 crd-agricole.fr
 0.0.0.0 crdp-strsbourg.fr
 0.0.0.0 creadit-agricole-serviceclient.fr
 0.0.0.0 creanceamendesgouv.fr
@@ -10381,6 +10385,7 @@
 0.0.0.0 fr-ameli.fr
 0.0.0.0 fr-amelisecure-portail.fr
 0.0.0.0 framprix.fr
+0.0.0.0 francais-gouvernement.fr
 0.0.0.0 france3-lyon.ovh
 0.0.0.0 france-accreditation.fr
 0.0.0.0 france-aide-ameli.fr
@@ -10456,6 +10461,8 @@
 0.0.0.0 france-soir.fr
 0.0.0.0 francestussy.fr
 0.0.0.0 france-suivi-colis.fr
+0.0.0.0 france-supermarchesmatch.fr
+0.0.0.0 francetabac.fr
 0.0.0.0 francetelecomcable.fr
 0.0.0.0 france-televions.fr
 0.0.0.0 francetelevisons.fr
@@ -11034,6 +11041,7 @@
 0.0.0.0 goldengoosesoldes.fr
 0.0.0.0 goldengoose-store.fr
 0.0.0.0 golden-outlet.fr
+0.0.0.0 goldenoutlet.fr
 0.0.0.0 goldenstars.fr
 0.0.0.0 goldenwatches.fr
 0.0.0.0 goldtickets.fr
@@ -11795,6 +11803,7 @@
 0.0.0.0 hunter-france.fr
 0.0.0.0 huntersbootparis.fr
 0.0.0.0 hurleyparis.fr
+0.0.0.0 hushpuppiefrance.fr
 0.0.0.0 hushpuppies-france.fr
 0.0.0.0 husquevarna.fr
 0.0.0.0 huuor.yt
@@ -13214,6 +13223,7 @@
 0.0.0.0 labegecybertek.fr
 0.0.0.0 label-credit.fr
 0.0.0.0 labelleilloise.fr
+0.0.0.0 labelleugg.fr
 0.0.0.0 laboiteorse.fr
 0.0.0.0 laboncoin.fr
 0.0.0.0 labonquepostale.fr
@@ -13369,6 +13379,7 @@
 0.0.0.0 la-postes.fr
 0.0.0.0 laposte-suivi-colis.fr
 0.0.0.0 laposte-suivicolis.fr
+0.0.0.0 lapostesuivicolis.fr
 0.0.0.0 laposte-suivi-colissimo.fr
 0.0.0.0 laposte-suivicolissimo.fr
 0.0.0.0 laposte-suivie.fr
@@ -13718,6 +13729,7 @@
 0.0.0.0 ledemondujeu.fr
 0.0.0.0 ledepeche.fr
 0.0.0.0 lederprice.fr
+0.0.0.0 ledger-privacy.fr
 0.0.0.0 ledger-secure.fr
 0.0.0.0 ledger-securisation.fr
 0.0.0.0 ledger-securite.fr
@@ -15456,6 +15468,7 @@
 0.0.0.0 mon-actualisation-assure-en-ligne.fr
 0.0.0.0 mon-actualisation-assure-enligne.fr
 0.0.0.0 mon-actualisation-carte-vitale.fr
+0.0.0.0 mon-actualisation-espace-en-ligne.fr
 0.0.0.0 mon-actualisation-espace-enligne.fr
 0.0.0.0 mon-actualisation.fr
 0.0.0.0 mon-actualisation-sante-en-ligne.fr
@@ -15698,6 +15711,7 @@
 0.0.0.0 mondial-relay-fr.fr
 0.0.0.0 mondialrelay-infocolis.fr
 0.0.0.0 mondialrelay-livraison.fr
+0.0.0.0 mondialrelay-locker.fr
 0.0.0.0 mondialrelay-paiement.fr
 0.0.0.0 mondialrelay-relivraison.fr
 0.0.0.0 mondial-relays.fr
@@ -25319,6 +25333,7 @@
 0.0.0.0 xn--renouvellement-couverturesant-3uc.fr
 0.0.0.0 xn--renouvellement-infos-sant-en-ligne-z9c.fr
 0.0.0.0 xn--renouvellement-santame-t8b.fr
+0.0.0.0 xn--renouvellement-sant-en-ligne-trc.fr
 0.0.0.0 xn--renouvellementsant-swb.fr
 0.0.0.0 xn--renouvellement-sant-tzb.fr
 0.0.0.0 xn--renouvellement-securit-sociale-wxc.fr
