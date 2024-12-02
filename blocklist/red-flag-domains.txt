@@ -120,6 +120,7 @@
 0.0.0.0 3movs.fr
 0.0.0.0 3securitesend.fr
 0.0.0.0 3suisees.fr
+0.0.0.0 3suissesinternational.fr
 0.0.0.0 3suissses.fr
 0.0.0.0 3suisss.fr
 0.0.0.0 40anscartepass.fr
@@ -3232,6 +3233,7 @@
 0.0.0.0 assistance-sg.fr
 0.0.0.0 assistance-sgsecure.fr
 0.0.0.0 assistancesllbc.fr
+0.0.0.0 assistances-mac.fr
 0.0.0.0 assistances-mondial-relai.fr
 0.0.0.0 assistances-netflix.fr
 0.0.0.0 assistance-societe-generale.fr
@@ -14536,6 +14538,7 @@
 0.0.0.0 ma-cartevitalrenouvellement.fr
 0.0.0.0 macartevital-renouvellement.fr
 0.0.0.0 macartvitale.fr
+0.0.0.0 macassistances.fr
 0.0.0.0 maccas.fr
 0.0.0.0 maccif.fr
 0.0.0.0 macdonal.fr
@@ -14562,6 +14565,7 @@
 0.0.0.0 ma-contravention.fr
 0.0.0.0 ma-cpam.fr
 0.0.0.0 macpam.fr
+0.0.0.0 macsupport.fr
 0.0.0.0 m-activation-carrefourbanque.fr
 0.0.0.0 m-activation-ob.fr
 0.0.0.0 ma-demandeameli.fr
@@ -25517,6 +25521,7 @@
 0.0.0.0 xn--socit-gnrale-authentification-eucbcb.fr
 0.0.0.0 xn--socit-gnral-ebbbcb.fr
 0.0.0.0 xn--socit-gnrale-connexion-e8bbcb.fr
+0.0.0.0 xn--socit-gnrale-eebbcb.fr
 0.0.0.0 xn--socit-gnrale-support-e2bbcb.fr
 0.0.0.0 xn--socit-gnral-particuliers-efcbcb.fr
 0.0.0.0 xn--socit-gnralsecure-etbbcb.fr
