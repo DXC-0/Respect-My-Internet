@@ -14296,7 +14296,6 @@
 0.0.0.0 sanalytics.disneyplus.com #Adobe - Tracker
 0.0.0.0 sanalytics.verizon.com #Verizon - Tracker
 0.0.0.0 sanalytics.verizonwireless.com #Verizon - Tracker
-0.0.0.0 sas15k01.com #Lead Forensics - Tracker
 0.0.0.0 sascdn.com #Smart Ad Server - Advertising
 0.0.0.0 saymedia.com #Unknown - Tracker
 0.0.0.0 sayu.co.uk #Sayu - Advertising
@@ -14324,7 +14323,6 @@
 0.0.0.0 searchmarketing.com #Unknown - Tracker
 0.0.0.0 seat.it #Seat PG - Tracker
 0.0.0.0 secureanalytic.com #Push Ads - Tracker
-0.0.0.0 securecd-smnd.com #Unknown - Advertising
 0.0.0.0 securedvisit.com #4cite - Tracker
 0.0.0.0 securemetrics.apple.com #Adobe - Tracker
 0.0.0.0 securepaths.com #Forensiq - Tracker
