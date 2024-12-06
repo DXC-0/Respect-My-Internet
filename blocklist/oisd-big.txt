@@ -4327,7 +4327,6 @@
 0.0.0.0 *.8218166.com
 0.0.0.0 *.821e800dfd.com
 0.0.0.0 *.82211.net
-0.0.0.0 *.827fa7c868b4b.com
 0.0.0.0 *.828239sam.com
 0.0.0.0 *.828af6b8ce.com
 0.0.0.0 *.82920935978390920191003t225454-dot-wetransfer-auth-file7781.appspot.com
@@ -15426,12 +15425,10 @@
 0.0.0.0 *.app1e.cn
 0.0.0.0 *.app1e.cn.com
 0.0.0.0 *.app1e.co
-0.0.0.0 *.app1e.co.jp.user-reply.icu
 0.0.0.0 *.app1e.co.uk
 0.0.0.0 *.app1e.com.es
 0.0.0.0 *.app1e.com.nz-fix.restore.live
 0.0.0.0 *.app1e.com.tr
-0.0.0.0 *.app1e.de
 0.0.0.0 *.app1e.eu.org
 0.0.0.0 *.app1e.idv.tw
 0.0.0.0 *.app1e.in
@@ -18564,7 +18561,6 @@
 0.0.0.0 *.b92adrs.hit.gemius.pl
 0.0.0.0 *.b92rs.adocean.pl
 0.0.0.0 *.b97.yahoo.co.jp
-0.0.0.0 *.b98a81ab9e07420f26767130c9fa206e.shop
 0.0.0.0 *.b99.yahoo.co.jp
 0.0.0.0 *.b99m.com
 0.0.0.0 *.ba-shfrance.fr
@@ -22516,7 +22512,6 @@
 0.0.0.0 *.bookforall1.bookforall.ru
 0.0.0.0 *.bookhacks.com
 0.0.0.0 *.booking-tables.com
-0.0.0.0 *.booking.complaints7752352.world
 0.0.0.0 *.booking.page498942.shop
 0.0.0.0 *.bookingbuddy.com
 0.0.0.0 *.bookinghotel.fr
@@ -25409,7 +25404,6 @@
 0.0.0.0 *.cartemagique.fr
 0.0.0.0 *.cartepak.online
 0.0.0.0 *.cartes-maladie.fr
-0.0.0.0 *.cartevital-sante.fr
 0.0.0.0 *.cartier.re
 0.0.0.0 *.cartining-specute.com
 0.0.0.0 *.cartkitten.com
@@ -26944,7 +26938,6 @@
 0.0.0.0 *.chasehomesecure.serverpit.com
 0.0.0.0 *.chaselogin.serveftp.com
 0.0.0.0 *.chasemybank.com
-0.0.0.0 *.chasemysite.duckdns.org
 0.0.0.0 *.chaseonline.authenticationonlinever.com.d.wbsprt.com
 0.0.0.0 *.chaseonline.chase.com.afpoa.com
 0.0.0.0 *.chaseonlinepayment.com.iaga.com
@@ -27949,7 +27942,6 @@
 0.0.0.0 *.cisco.yt
 0.0.0.0 *.ciscocdn.com
 0.0.0.0 *.ciscoesfirring.guru
-0.0.0.0 *.ciscohelpcenter.com
 0.0.0.0 *.ciscominner.com
 0.0.0.0 *.ciscooutlet.fr
 0.0.0.0 *.ciscovpn1.com
@@ -28105,7 +28097,6 @@
 0.0.0.0 *.claimcentre.net
 0.0.0.0 *.claimcousins.com
 0.0.0.0 *.claimcutejustly.com
-0.0.0.0 *.claimdanagiveway.biz.id
 0.0.0.0 *.claimedentertainment.com
 0.0.0.0 *.claimedinvestcharitable.com
 0.0.0.0 *.claimedthwartweak.com
@@ -45150,7 +45141,6 @@
 0.0.0.0 *.fieldofbachus.com
 0.0.0.0 *.fieldparishskip.com
 0.0.0.0 *.fieldtrip.edina.ac.uk
-0.0.0.0 *.fieldyatomic.com
 0.0.0.0 *.fiendpreyencircle.com
 0.0.0.0 *.fieryinjure.com
 0.0.0.0 *.fierymint.com
@@ -45275,7 +45265,6 @@
 0.0.0.0 *.files.ly
 0.0.0.0 *.files.nuryana.com
 0.0.0.0 *.files.princetonit.com
-0.0.0.0 *.files.sflp.shop
 0.0.0.0 *.files.upscore.com
 0.0.0.0 *.files.veritas.org.ng
 0.0.0.0 *.files.xtpag.top
@@ -47595,7 +47584,6 @@
 0.0.0.0 *.frostyonce.com
 0.0.0.0 *.frothadditions.com
 0.0.0.0 *.frotic.com
-0.0.0.0 *.frotneels.shop
 0.0.0.0 *.frowzlynecklet.top
 0.0.0.0 *.frozentoaster.com
 0.0.0.0 *.frpa-vpdpwc.icu
@@ -51288,7 +51276,6 @@
 0.0.0.0 *.gosuvwinok.live
 0.0.0.0 *.gosuvwinsok.live
 0.0.0.0 *.gosyslugi.su
-0.0.0.0 *.gosyslygi.su
 0.0.0.0 *.got-to-be.com
 0.0.0.0 *.got-to-be.net
 0.0.0.0 *.got.k12insight.org
@@ -54898,6 +54885,7 @@
 0.0.0.0 *.hjgen.cn
 0.0.0.0 *.hjgk.net
 0.0.0.0 *.hjhbhddren.com
+0.0.0.0 *.hjimtyu.top
 0.0.0.0 *.hjjshv.xyz
 0.0.0.0 *.hjkhxfh.360doc.cn
 0.0.0.0 *.hjkld.yt
@@ -56182,7 +56170,6 @@
 0.0.0.0 *.huq.io
 0.0.0.0 *.huqbeiy.com
 0.0.0.0 *.hurampronand.com
-0.0.0.0 *.hurenviafrits.nl
 0.0.0.0 *.hurkarubypaths.com
 0.0.0.0 *.hurlaxiscame.com
 0.0.0.0 *.hurlcranky.com
@@ -57161,6 +57148,7 @@
 0.0.0.0 *.ihzuephjxb.com
 0.0.0.0 *.ii.iriiss.com
 0.0.0.0 *.ii1.chajiaotong.com
+0.0.0.0 *.ii3.icu
 0.0.0.0 *.ii9g0qj9.de
 0.0.0.0 *.iiad.com
 0.0.0.0 *.iias.eu
@@ -60009,7 +59997,6 @@
 0.0.0.0 *.jacksonnnn233.theworkpc.com
 0.0.0.0 *.jacksonours.com
 0.0.0.0 *.jacksons.store
-0.0.0.0 *.jackstopfrom.live
 0.0.0.0 *.jackthescribbler.com
 0.0.0.0 *.jackwolfskin-france.fr
 0.0.0.0 *.jaclottens.live
@@ -60869,7 +60856,6 @@
 0.0.0.0 *.jmipzsn.icu
 0.0.0.0 *.jmnzx3.hbg.hebdenbridgedental.co.uk
 0.0.0.0 *.jmpmedia.club
-0.0.0.0 *.jmpmedia.info
 0.0.0.0 *.jmqxise.in
 0.0.0.0 *.jmrnews.pro
 0.0.0.0 *.jmrtech.in
@@ -61666,7 +61652,6 @@
 0.0.0.0 *.justad.mobi
 0.0.0.0 *.justanalyst.com
 0.0.0.0 *.justandjust.com
-0.0.0.0 *.justatest.ddns.net
 0.0.0.0 *.justbillingandcoding.godaddysites.com
 0.0.0.0 *.justcause.fun
 0.0.0.0 *.justclean.site
@@ -62561,6 +62546,7 @@
 0.0.0.0 *.khd-intl.com
 0.0.0.0 *.khedelive.com
 0.0.0.0 *.khekwufgwbl.com
+0.0.0.0 *.khengrull.com
 0.0.0.0 *.khg-landau.de
 0.0.0.0 *.khgj.cn
 0.0.0.0 *.khhkfcf.com
@@ -65159,7 +65145,6 @@
 0.0.0.0 *.lelong.shop
 0.0.0.0 *.lelrouxoay.com
 0.0.0.0 *.lelruftoutufoux.net
-0.0.0.0 *.lemado.duckdns.org
 0.0.0.0 *.lemaillotdor.fr
 0.0.0.0 *.lemapfrance.org
 0.0.0.0 *.lemehost.net
@@ -69321,7 +69306,6 @@
 0.0.0.0 *.majffrinforants.fr
 0.0.0.0 *.majiainc.com
 0.0.0.0 *.majime-site-rk.com
-0.0.0.0 *.majmaj.fr
 0.0.0.0 *.majoagna.com
 0.0.0.0 *.major-video.click
 0.0.0.0 *.major.dvanadva.ru
@@ -72052,7 +72036,6 @@
 0.0.0.0 *.microsoftsupp.com
 0.0.0.0 *.microsoftsupportservices.com
 0.0.0.0 *.microsoftuk.122.2o7.net
-0.0.0.0 *.microsoftupdate.dynamicdns.org.uk
 0.0.0.0 *.microsoftupdate.in
 0.0.0.0 *.microsoftupdate67.wixsite.com
 0.0.0.0 *.microsoftwebaccessgovowa.editor.multiscreensite.com
@@ -73709,7 +73692,6 @@
 0.0.0.0 *.moratomengineering.com
 0.0.0.0 *.moravianjournal.upol.cz
 0.0.0.0 *.morclicks.com
-0.0.0.0 *.mordjene.fr
 0.0.0.0 *.mordoops.com
 0.0.0.0 *.more-followers.com
 0.0.0.0 *.more.square7.ch
@@ -75335,7 +75317,6 @@
 0.0.0.0 *.mzetic.fr
 0.0.0.0 *.mzicucalbw.com
 0.0.0.0 *.mziep.pw
-0.0.0.0 *.mziso.xyz
 0.0.0.0 *.mziwkyr.cn
 0.0.0.0 *.mzlas.xyz
 0.0.0.0 *.mzlit.com
@@ -76900,7 +76881,6 @@
 0.0.0.0 *.newsday.122.2o7.net
 0.0.0.0 *.newsdnya.ru
 0.0.0.0 *.newservoppl.it
-0.0.0.0 *.newsfeed.support
 0.0.0.0 *.newsfeedhome.com
 0.0.0.0 *.newsfeeds-microsoft.press
 0.0.0.0 *.newsfeedscroller.com
@@ -79567,7 +79547,6 @@
 0.0.0.0 *.oiavdib.com
 0.0.0.0 *.oibero.it
 0.0.0.0 *.oicode.com
-0.0.0.0 *.oiehxjpz.com
 0.0.0.0 *.oihdgpxipqavpxaumvg.com
 0.0.0.0 *.oihkldembdailah.com
 0.0.0.0 *.oil.sogoforms.com
@@ -82323,7 +82302,6 @@
 0.0.0.0 *.palpablefungussome.com
 0.0.0.0 *.palpablememoranduminvite.com
 0.0.0.0 *.palpedcahows.top
-0.0.0.0 *.palroudi.xyz
 0.0.0.0 *.palsin.com
 0.0.0.0 *.palsol.com
 0.0.0.0 *.palsybrush.com
@@ -84123,7 +84101,6 @@
 0.0.0.0 *.pharmapunt.nl
 0.0.0.0 *.pharmashop-online.com
 0.0.0.0 *.pharmcash.com
-0.0.0.0 *.pharmera.b0t.me
 0.0.0.0 *.pharmonline.space
 0.0.0.0 *.pharmshop-online.com
 0.0.0.0 *.pharmtalk.com
@@ -86481,7 +86458,6 @@
 0.0.0.0 *.prednisone-deltasone.com
 0.0.0.0 *.prednisone10mg.us.com
 0.0.0.0 *.predominanttamper.com
-0.0.0.0 *.preety.agency
 0.0.0.0 *.prefar.luminisconsultoria.io
 0.0.0.0 *.prefecturecagesgraphic.com
 0.0.0.0 *.prefecturedurhone.fr
@@ -90810,7 +90786,6 @@
 0.0.0.0 *.redetaailshiletteri.com
 0.0.0.0 *.redf.fr
 0.0.0.0 *.redfarred.com
-0.0.0.0 *.redflower.isasecret.com
 0.0.0.0 *.redfootcoclea.shop
 0.0.0.0 *.redfunny.com
 0.0.0.0 *.redheadinfluencedchill.com
@@ -92747,7 +92722,6 @@
 0.0.0.0 *.rocoads.com
 0.0.0.0 *.rod-bank.com
 0.0.0.0 *.rodandquill.com
-0.0.0.0 *.rodasiter.duckdns.org
 0.0.0.0 *.rodbuilds.com
 0.0.0.0 *.rodcamto.live
 0.0.0.0 *.roddw.com
@@ -97138,7 +97112,6 @@
 0.0.0.0 *.serverracer.com
 0.0.0.0 *.serversmtp.com.br
 0.0.0.0 *.serversoursmiling.com
-0.0.0.0 *.serversw.duckdns.org
 0.0.0.0 *.serverupdatemarch353.duckdns.org
 0.0.0.0 *.serverxa.com
 0.0.0.0 *.servetean.site
@@ -99323,7 +99296,6 @@
 0.0.0.0 *.skynet.servehttp.com
 0.0.0.0 *.skynetexpresslogistics.com
 0.0.0.0 *.skynetx.com.br
-0.0.0.0 *.skype-com.cn
 0.0.0.0 *.skypeburrito.duckdns.org
 0.0.0.0 *.skypedong.com
 0.0.0.0 *.skypeinc.com
@@ -104739,7 +104711,6 @@
 0.0.0.0 *.superfluousexecutivefinch.com
 0.0.0.0 *.superfolder.net
 0.0.0.0 *.superfutbolka.com
-0.0.0.0 *.supergoodjerseys.com
 0.0.0.0 *.supergreenbuildingmaterial.com
 0.0.0.0 *.supergrows.com
 0.0.0.0 *.superguiaweb.com.br
@@ -108491,7 +108462,6 @@
 0.0.0.0 *.timsef.com
 0.0.0.0 *.timvolpertlaw.com
 0.0.0.0 *.timyoung.ca
-0.0.0.0 *.tin-dung-uu-tien-vib.com
 0.0.0.0 *.tin-url.com
 0.0.0.0 *.tin.servicedoorstep.in
 0.0.0.0 *.tin247.website
@@ -112378,6 +112348,7 @@
 0.0.0.0 *.u595sebqih.com
 0.0.0.0 *.u5fsqf.com
 0.0.0.0 *.u68t5.icu
+0.0.0.0 *.u6u.icu
 0.0.0.0 *.u756fvjp.cn
 0.0.0.0 *.u76tfgssazx.appspot.com
 0.0.0.0 *.u7q2ej.blow.harrisretreat.com
@@ -112598,6 +112569,7 @@
 0.0.0.0 *.ufzwoiu.cn
 0.0.0.0 *.ug-sg.byteoversea.com
 0.0.0.0 *.ug.snssdk.com
+0.0.0.0 *.ugajiwft.icu
 0.0.0.0 *.ugcbrainient-a.akamaihd.net
 0.0.0.0 *.ugdtimg.com
 0.0.0.0 *.ugdturner.com
@@ -113263,7 +113235,6 @@
 0.0.0.0 *.unknowncrate.com
 0.0.0.0 *.unknownhormonesafeguard.com
 0.0.0.0 *.unknownidea.com
-0.0.0.0 *.unknownmoney.duckdns.org
 0.0.0.0 *.unknowntray.com
 0.0.0.0 *.unl1zvy2zuyn.franchiseplus.nl
 0.0.0.0 *.unlabeledmusic.com
@@ -114003,7 +113974,6 @@
 0.0.0.0 *.usps.com-tarpolid.cc
 0.0.0.0 *.usps.com-tmmfrghm.vip
 0.0.0.0 *.usps.com-trackaszc.vip
-0.0.0.0 *.usps.com-trackayrc.vip
 0.0.0.0 *.usps.com-trackdxr.top
 0.0.0.0 *.usps.com-trackfxf.top
 0.0.0.0 *.usps.com-trackgaz.top
@@ -118468,12 +118438,10 @@
 0.0.0.0 *.whatsapphack.com
 0.0.0.0 *.whatsappit.com
 0.0.0.0 *.whatsappjoingrup20.4dq.com
-0.0.0.0 *.whatsappjoins.4dq.com
 0.0.0.0 *.whatsappjoinss.4dq.com
 0.0.0.0 *.whatsappremajahot18new.vvip5.com
 0.0.0.0 *.whatsapps.org
 0.0.0.0 *.whatsappsexhottas9.a5z.club
-0.0.0.0 *.whatsappsexjoin.4dq.com
 0.0.0.0 *.whatsappss.serveirc.com
 0.0.0.0 *.whatsappx.com
 0.0.0.0 *.whatsay6.beget.tech
@@ -121723,7 +121691,6 @@
 0.0.0.0 *.xonderbox.fr
 0.0.0.0 *.xoom-ads.com
 0.0.0.0 *.xoomep1.com
-0.0.0.0 *.xoomep2.com
 0.0.0.0 *.xoomer.alice.it
 0.0.0.0 *.xoomer.virgilio.it
 0.0.0.0 *.xooplo.com
