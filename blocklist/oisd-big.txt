@@ -1800,7 +1800,6 @@
 0.0.0.0 *.247media.com
 0.0.0.0 *.247media.net
 0.0.0.0 *.247proxy.com
-0.0.0.0 *.247realmedia.com
 0.0.0.0 *.247software.org
 0.0.0.0 *.247surf.net
 0.0.0.0 *.248.sub-75-195-29.myvzw.com
@@ -122655,7 +122654,6 @@
 0.0.0.0 *.xn--aypl-73d812v.blogspot.com
 0.0.0.0 *.xn--b1af2aj.xn--p1ai
 0.0.0.0 *.xn--b1afajepzqk.shop
-0.0.0.0 *.xn--b1ak8abh4bfw.xn--p1ai
 0.0.0.0 *.xn--b1awck.xn--p1ai
 0.0.0.0 *.xn--bace-0pa2916bba.com
 0.0.0.0 *.xn--bance-5sa5073c.com
