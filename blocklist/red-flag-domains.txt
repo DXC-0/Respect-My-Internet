@@ -1,7 +1,7 @@
 0.0.0.0 <html>
-0.0.0.0 <head><title>504 Gateway Time-out</title></head>
+0.0.0.0 <head><title>502 Bad Gateway</title></head>
 0.0.0.0 <body>
-0.0.0.0 <center><h1>504 Gateway Time-out</h1></center>
+0.0.0.0 <center><h1>502 Bad Gateway</h1></center>
 0.0.0.0 <hr><center>openresty</center>
 0.0.0.0 </body>
 0.0.0.0 </html>
