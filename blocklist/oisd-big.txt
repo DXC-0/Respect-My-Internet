@@ -7959,7 +7959,6 @@
 0.0.0.0 *.adim.pinduoduo.com
 0.0.0.0 *.adimage.guardian.co.uk
 0.0.0.0 *.adimage.hankookilbo.com
-0.0.0.0 *.adimage.media
 0.0.0.0 *.adimage.sphdigital.com
 0.0.0.0 *.adimages.been.com
 0.0.0.0 *.adimages.carsoup.com
@@ -58604,7 +58603,6 @@
 0.0.0.0 *.info-delivery-notification.com
 0.0.0.0 *.info-duclot.fr
 0.0.0.0 *.info-electrum.org
-0.0.0.0 *.info-facturation.fr
 0.0.0.0 *.info-flirtme.com
 0.0.0.0 *.info-kundendienst.de
 0.0.0.0 *.info-lacentrale.fr
@@ -66096,7 +66094,6 @@
 0.0.0.0 *.lidlemploi.fr
 0.0.0.0 *.lidman.ru
 0.0.0.0 *.lidney.com
-0.0.0.0 *.lido-app.top
 0.0.0.0 *.lidsaich.net
 0.0.0.0 *.lidstop.com
 0.0.0.0 *.liebaovip.com
@@ -69247,7 +69244,6 @@
 0.0.0.0 *.m5iukps17y7.life
 0.0.0.0 *.m6500.top
 0.0.0.0 *.m65ln.com
-0.0.0.0 *.m66.metamaskapp.xyz
 0.0.0.0 *.m6690.top
 0.0.0.0 *.m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 0.0.0.0 *.m6r.eu
@@ -70142,7 +70138,6 @@
 0.0.0.0 *.mansostowce.com
 0.0.0.0 *.mansournejadrasool.com
 0.0.0.0 *.mansudee.net
-0.0.0.0 *.mantanetwork-8tn.pages.dev
 0.0.0.0 *.mantaray.bullshitgoggles.com
 0.0.0.0 *.mantasarctium.top
 0.0.0.0 *.mantax.pages.dev
@@ -98532,7 +98527,6 @@
 0.0.0.0 *.shinystat.it
 0.0.0.0 *.shinystat.shiny.it
 0.0.0.0 *.ship-care.com
-0.0.0.0 *.ship-ups-service-pending6356.com
 0.0.0.0 *.shipcolis.fr
 0.0.0.0 *.shiplandllc.net
 0.0.0.0 *.shippercontainers.com
