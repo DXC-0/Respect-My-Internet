@@ -896,7 +896,6 @@
 0.0.0.0 bstats.org #bStats - Tracker
 0.0.0.0 btloader.com #Unknown - Tracker
 0.0.0.0 btrll.com #BrightRoll - Advertising
-0.0.0.0 btserve.com #Blockthrough - Advertising
 0.0.0.0 btstatic.com #Btstatic - Tracker
 0.0.0.0 bttrack.com #Bidtellect - Tracker
 0.0.0.0 btttag.com #Blue Triangle Tech - Tracker
@@ -1036,7 +1035,6 @@
 0.0.0.0 clog.geniex.com #Geniex - Tracker
 0.0.0.0 clog.weverse.io #First Party - Tracker
 0.0.0.0 closealert.com #CloseAlert - Tracker
-0.0.0.0 clouddecrease.com #AdMeasures - Advertising
 0.0.0.0 clouderrorreporting.googleapis.com #Google - Tracker
 0.0.0.0 cloudservice14.kingsoft-office-service.com #First Party - Tracker
 0.0.0.0 cluep.com #Cluep - Tracker
@@ -1206,14 +1204,12 @@
 0.0.0.0 de.coremetrics.com #Coremetrics - Tracker
 0.0.0.0 de17a.com #Delta Projects - Tracker
 0.0.0.0 dealer.com # - Tracker
-0.0.0.0 dealtale.com #Dealtale - Tracker
 0.0.0.0 decenthat.com #SourcePoint - Tracker
 0.0.0.0 decibelinsight.com #Decibel Insight - Tracker
 0.0.0.0 decibelinsight.net #Decibel Insight - Tracker
 0.0.0.0 dedicated.domains #ClickMeter - Tracker
 0.0.0.0 deema.agency #Deema - Advertising
 0.0.0.0 deepintent.com #DeepIntent - Advertising
-0.0.0.0 deeprootedstranded.com #AdMeasures - Advertising
 0.0.0.0 deliverimp.com #Unknown - Tracker
 0.0.0.0 demand.supply #Sulvo - Advertising
 0.0.0.0 demandbase.com #Demandbase - Advertising
@@ -1255,7 +1251,6 @@
 0.0.0.0 display.io #DisplayIO - Advertising
 0.0.0.0 displaycontentnetwork.com #AdMeasures - Advertising
 0.0.0.0 displaycontentprofit.com #AdMeasures - Advertising
-0.0.0.0 displaymarketplace.com #Unknown - Tracker
 0.0.0.0 displayvertising.com #Unknown - Advertising
 0.0.0.0 disqusads.com #Disqus - Tracker
 0.0.0.0 disrespectpreceding.com #AdMeasures - Advertising
@@ -1616,7 +1611,6 @@
 0.0.0.0 granify.com #Granify - Advertising
 0.0.0.0 grantedpigsunborn.com #AdMeasures - Advertising
 0.0.0.0 grapeshot.co.uk #Oracle - Advertising
-0.0.0.0 grapeshot.com #Oracle - Advertising
 0.0.0.0 graph.accountkit.com #Facebook - Tracker
 0.0.0.0 graphiq.com #Graphiq - Advertising
 0.0.0.0 gravity.com #Gravity - Tracker
@@ -1654,7 +1648,6 @@
 0.0.0.0 headerlift.com #Headerlift - Advertising
 0.0.0.0 heapanalytics.com #Heap Analytics - Tracker
 0.0.0.0 heartbeat.dm.origin.com #EA - Tracker
-0.0.0.0 heartbeat.flickr.com #Flickr - Tracker
 0.0.0.0 heatmap.it #Heatmap - Tracker
 0.0.0.0 hellobar.com #Crazy Egg - Tracker
 0.0.0.0 hellosmpl.com #smpl - Advertising
@@ -1681,7 +1674,6 @@
 0.0.0.0 hisavana.com #Hisavana - Advertising
 0.0.0.0 histats.com #Histats - Tracker
 0.0.0.0 hit.gemius.pl #Gemius - Tracker
-0.0.0.0 hit.skrz.cz #First Party - Tracker
 0.0.0.0 hitbox.com #Adobe - Tracker
 0.0.0.0 hitslink.com #HitsLink - Tracker
 0.0.0.0 hitsteps.net #Hitsteps - Tracker
@@ -4586,6 +4578,7 @@
 0.0.0.0 mkt12283.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12284.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12285.com #IBM Silverpop - Advertising
+0.0.0.0 mkt12286.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12287.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12288.com #IBM Silverpop - Advertising
 0.0.0.0 mkt12289.com #IBM Silverpop - Advertising
