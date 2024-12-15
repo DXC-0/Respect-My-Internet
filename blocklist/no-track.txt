@@ -2020,7 +2020,6 @@
 0.0.0.0 logs.unchecky.com #First Party - Tracker
 0.0.0.0 logservice-dra.platform.hicloud.com #First Party - Tracker
 0.0.0.0 logservice-dre.platform.hicloud.com #Huawei - Tracker
-0.0.0.0 logservice-drru.dt.hicloud.com #First Party - Tracker
 0.0.0.0 logsss.com #Unknown - Tracker
 0.0.0.0 longabeach.com #Unknown Chinese - Tracker
 0.0.0.0 loopaautomate.com #Loopa Automate - Advertising
@@ -13677,7 +13676,6 @@
 0.0.0.0 mxlogic.com #Unknown - Tracker
 0.0.0.0 mxpnl.com #Mixpanel - Advertising
 0.0.0.0 mxptint.net #Unknown - Tracker
-0.0.0.0 my-tracking.info #Unknown - Tracker
 0.0.0.0 my.w.tt #Branch CNAME - Tracker
 0.0.0.0 myadmessenger.com #Zapp360 - Advertising
 0.0.0.0 myads.com #Rubicon - Advertising
@@ -13767,7 +13765,6 @@
 0.0.0.0 nyltx.com #Nyltx - Tracker
 0.0.0.0 nzme-ads.co.nz #Unknown - Advertising
 0.0.0.0 o333o.com #AdSpyglass - Advertising
-0.0.0.0 obnoxiousstackderide.com #AdMeasures - Advertising
 0.0.0.0 oclaserver.com #Unknown - Tracker
 0.0.0.0 oclasrv.com #Unknown - Advertising
 0.0.0.0 octotracker-clients.net #Octo Tracker - Tracker
@@ -13958,10 +13955,8 @@
 0.0.0.0 pixel.nur.kz #First Party - Tracker
 0.0.0.0 pixel.nymag.com #First Party - Tracker
 0.0.0.0 pixel.patch.com #First Party - Tracker
-0.0.0.0 pixel.redditmedia.com #Reddit - Tracker
 0.0.0.0 pixel.smr8.ru #First Party - Tracker
 0.0.0.0 pixel.spotify.com #Spotify - Tracker
-0.0.0.0 pixel.staticworld.net #First Party - Tracker
 0.0.0.0 pixel.watch #ClickMeter - Tracker
 0.0.0.0 pixel.web.roku.com #First Party - Tracker
 0.0.0.0 pixel.wenxuecity.com #First Party - Tracker
@@ -14021,10 +14016,8 @@
 0.0.0.0 premiumads.com.br #Premium - Advertising
 0.0.0.0 presage.io #Ogury MJM - Tracker
 0.0.0.0 prf.hn #Partnerize - Tracker
-0.0.0.0 prhzxq.com #Unknown - Advertising
 0.0.0.0 pricespider.com #Price Spider - Tracker
 0.0.0.0 primis.tech #Primis - Advertising
-0.0.0.0 privacity.se #Unknown - Advertising
 0.0.0.0 privacy.aol.com #AOL - Advertising
 0.0.0.0 privacymanager.io #LiveRamp - Tracker
 0.0.0.0 privacytrck.com #Unknown - Tracker
@@ -14035,7 +14028,6 @@
 0.0.0.0 prnx.net #Unknown - Tracker
 0.0.0.0 pro-market.net #Unknown - Tracker
 0.0.0.0 prod-telemetry.paradox-interactive.com #First Party - Tracker
-0.0.0.0 prod.telemetry.ros.rockstargames.com #Rockstar Games - Tracker
 0.0.0.0 productserve.com #Digital Window - Tracker
 0.0.0.0 profitablecpmgate.com #AdMeasures - Advertising
 0.0.0.0 profitablecpmnetwork.com #AdMeasures - Advertising
