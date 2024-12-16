@@ -51,6 +51,7 @@
 0.0.0.0 1password2.fr
 0.0.0.0 1percent.fr
 0.0.0.0 1sale.fr
+0.0.0.0 1s-creddit-mutueel.fr
 0.0.0.0 1securitelo.fr
 0.0.0.0 1sendsecuritefr.fr
 0.0.0.0 1sfcpart-impotsgouv.fr
@@ -2556,6 +2557,7 @@
 0.0.0.0 annulationpaiement-sg.fr
 0.0.0.0 annulation-prime.fr
 0.0.0.0 annulationprime.fr
+0.0.0.0 annulation-primevideo.fr
 0.0.0.0 annulationsgclient.fr
 0.0.0.0 annulationsg-exhpm.fr
 0.0.0.0 annulation-sg.fr
@@ -3107,6 +3109,7 @@
 0.0.0.0 ashchaussuressfrance.fr
 0.0.0.0 ashleyfires.fr
 0.0.0.0 ashshoesparis.fr
+0.0.0.0 asics-europe.fr
 0.0.0.0 asics-factory.fr
 0.0.0.0 asics-france.fr
 0.0.0.0 asicsfrance.fr
@@ -3918,6 +3921,7 @@
 0.0.0.0 avicenne-medical.fr
 0.0.0.0 avidenotifcation.fr
 0.0.0.0 avilis.fr
+0.0.0.0 avirexfrance.fr
 0.0.0.0 avis-amendes-antai.fr
 0.0.0.0 avis-antai-amende.fr
 0.0.0.0 avis-bourso-app.fr
@@ -11844,6 +11848,7 @@
 0.0.0.0 hotnews.re
 0.0.0.0 hotng-sg.fr
 0.0.0.0 hotpail.fr
+0.0.0.0 hotrnail.fr
 0.0.0.0 hotshapers.fr
 0.0.0.0 hotvideos.fr
 0.0.0.0 houseofkids.fr
