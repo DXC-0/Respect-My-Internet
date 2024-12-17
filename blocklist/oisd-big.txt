@@ -114351,7 +114351,6 @@
 0.0.0.0 *.usps.com-trackbss.top
 0.0.0.0 *.usps.com-trackckt.top
 0.0.0.0 *.usps.com-trackdda.top
-0.0.0.0 *.usps.com-trackdqs.top
 0.0.0.0 *.usps.com-trackevo.top
 0.0.0.0 *.usps.com-trackgly.top
 0.0.0.0 *.usps.com-trackgpa.top
@@ -122520,7 +122519,6 @@
 0.0.0.0 *.yacht-refit.eu
 0.0.0.0 *.yachtbars.fun
 0.0.0.0 *.yachtcharterinuae.com
-0.0.0.0 *.yackvidette.com
 0.0.0.0 *.yacurlik.com
 0.0.0.0 *.yads.tech
 0.0.0.0 *.yads.yahoo.co.jp
