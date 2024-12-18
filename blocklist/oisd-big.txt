@@ -38759,6 +38759,7 @@
 0.0.0.0 *.download-mcafee.com
 0.0.0.0 *.download-minecraft.ru
 0.0.0.0 *.download-performance.com
+0.0.0.0 *.download-privacybear.com
 0.0.0.0 *.download-project.com
 0.0.0.0 *.download-real-player.com
 0.0.0.0 *.download-stats.mozilla.org
