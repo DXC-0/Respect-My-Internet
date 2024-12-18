@@ -14639,7 +14639,6 @@
 0.0.0.0 smetrics.drschollsshoes.com #Adobe - Tracker
 0.0.0.0 smetrics.eastwestbank.com #Adobe - Tracker
 0.0.0.0 smetrics.edc.ca #Adobe - Tracker
-0.0.0.0 smetrics.eddiebauer.com #Adobe - Tracker
 0.0.0.0 smetrics.edge.ca #Adobe - Tracker
 0.0.0.0 smetrics.ee.co.uk #Adobe - Tracker
 0.0.0.0 smetrics.ehealthinsurance.com #Adobe - Tracker
@@ -14672,7 +14671,6 @@
 0.0.0.0 smetrics.famousfootwear.ca #Adobe - Tracker
 0.0.0.0 smetrics.famousfootwear.com #Adobe - Tracker
 0.0.0.0 smetrics.farnell.com #Adobe - Tracker
-0.0.0.0 smetrics.fatface.com #Adobe - Tracker
 0.0.0.0 smetrics.faz.net #Adobe - Tracker
 0.0.0.0 smetrics.fcacert.com #Adobe - Tracker
 0.0.0.0 smetrics.fcbarcelona.cat #Adobe - Tracker
@@ -14744,12 +14742,10 @@
 0.0.0.0 smetrics.hyundaiusa.com #Adobe - Tracker
 0.0.0.0 smetrics.i-law.com #Adobe - Tracker
 0.0.0.0 smetrics.ibfd.org #Adobe - Tracker
-0.0.0.0 smetrics.ice.gov #Adobe - Tracker
 0.0.0.0 smetrics.ifc.org #Adobe - Tracker
 0.0.0.0 smetrics.ig.ca #Adobe - Tracker
 0.0.0.0 smetrics.illinois.gov #Adobe - Tracker
 0.0.0.0 smetrics.illumina.com #Adobe - Tracker
-0.0.0.0 smetrics.ilsole24ore.com #Adobe - Tracker
 0.0.0.0 smetrics.insight.com #Adobe - Tracker
 0.0.0.0 smetrics.intact.ca #Adobe - Tracker
 0.0.0.0 smetrics.interbank.pe #Adobe - Tracker
@@ -15677,6 +15673,7 @@
 0.0.0.0 variouscreativeformats.com #AdMeasures - Advertising
 0.0.0.0 variousformatscontent.com #AdMeasures - Advertising
 0.0.0.0 vcardsdkservice.vivo.com.cn #Vivo - Tracker
+0.0.0.0 vcmdiawe.com #Unknown - Advertising
 0.0.0.0 vcmedia.vn #Unknown - Tracker
 0.0.0.0 vcommission.com #vCommission - Tracker
 0.0.0.0 vdna-assets.com #Imagini Holdings - Tracker
