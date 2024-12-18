@@ -40396,7 +40396,6 @@
 0.0.0.0 *.ebayasean.com
 0.0.0.0 *.ebaybanner.com
 0.0.0.0 *.ebayk.images.icas.io
-0.0.0.0 *.ebaymerchant.xyz
 0.0.0.0 *.ebaynonreg.112.2o7.net
 0.0.0.0 *.ebayreg.112.2o7.net
 0.0.0.0 *.ebayu.top
@@ -48232,7 +48231,6 @@
 0.0.0.0 *.funsuv.com
 0.0.0.0 *.funtoday.info
 0.0.0.0 *.funtravelperu.com
-0.0.0.0 *.funufc.fun
 0.0.0.0 *.funxgames.me
 0.0.0.0 *.funyarewesbegi.com
 0.0.0.0 *.funzel.info
@@ -107378,10 +107376,8 @@
 0.0.0.0 *.tehomercacom.112.2o7.net
 0.0.0.0 *.tehran-ballbearings.ir
 0.0.0.0 *.tehxzz.xyz
-0.0.0.0 *.teiagram.cafe
 0.0.0.0 *.teiegram.work
 0.0.0.0 *.teiegrma.gold
-0.0.0.0 *.teiegrma.market
 0.0.0.0 *.teinformam.ro
 0.0.0.0 *.teinlbw.com
 0.0.0.0 *.teixeirafam.com
