@@ -14333,7 +14333,6 @@
 0.0.0.0 sentry.ozon.ru #Sentry - Tracker
 0.0.0.0 sentry.platform24.tv #Sentry - Tracker
 0.0.0.0 sentry.prusa3d.com #Sentry - Tracker
-0.0.0.0 sentry.rustore.ru #Sentry - Tracker
 0.0.0.0 sentry.srv.habr.com #Sentry - Tracker
 0.0.0.0 seoab.io #SEMRush - Tracker
 0.0.0.0 servebom.com #Unknown - Tracker
@@ -15496,7 +15495,6 @@
 0.0.0.0 tracking.minitool.com #MiniTool - Tracker
 0.0.0.0 tracking.miui.com #Xiaomi - Tracker
 0.0.0.0 tracking.olx-st.com #First Party - Tracker
-0.0.0.0 tracking.onap.io #First Party - Tracker
 0.0.0.0 tracking.ott.yandex.net #Yandex - Tracker
 0.0.0.0 tracking.ott.yandex.ru #First Party - Tracker
 0.0.0.0 tracking.overwolf.com #First Party - Tracker
