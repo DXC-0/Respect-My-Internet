@@ -2189,6 +2189,7 @@
 0.0.0.0 amende-forfaitaire.fr
 0.0.0.0 amende-francaise.fr
 0.0.0.0 amendefrance.fr
+0.0.0.0 amende-g0uv.fr
 0.0.0.0 amendegouv2023.fr
 0.0.0.0 amende-gouv-antai.fr
 0.0.0.0 amendegouv-antai.fr
@@ -4295,6 +4296,7 @@
 0.0.0.0 billetterie-concert.fr
 0.0.0.0 billetterie-f1.fr
 0.0.0.0 billetteriejulofficiel.fr
+0.0.0.0 billetterieminute.fr
 0.0.0.0 billetteriepfl.fr
 0.0.0.0 billetterie-stade.fr
 0.0.0.0 billetteriestade.fr
@@ -4385,6 +4387,7 @@
 0.0.0.0 blankonline.fr
 0.0.0.0 blazeharmony.fr
 0.0.0.0 blippay.fr
+0.0.0.0 blizfrance.fr
 0.0.0.0 bloctelgouv.fr
 0.0.0.0 blogpsot.fr
 0.0.0.0 bloqqer.fr
@@ -7331,6 +7334,7 @@
 0.0.0.0 connectfraudn.fr
 0.0.0.0 connectgpal.fr
 0.0.0.0 connecticket.fr
+0.0.0.0 connecting-login.fr
 0.0.0.0 connectingopal.fr
 0.0.0.0 connectingpayal.fr
 0.0.0.0 connection-ameli.fr
@@ -12703,6 +12707,7 @@
 0.0.0.0 info-service-chronopost.fr
 0.0.0.0 info-service-client.fr
 0.0.0.0 info-service.fr
+0.0.0.0 infoservice-mondialrelay.fr
 0.0.0.0 infoservicepaypal.fr
 0.0.0.0 info-service-renouvellement.fr
 0.0.0.0 info-servicesamendes.fr
@@ -13320,6 +13325,7 @@
 0.0.0.0 k-wayoutlet.fr
 0.0.0.0 kwayoutlet.fr
 0.0.0.0 k-wayoutletfrance.fr
+0.0.0.0 k-wayoutlets.fr
 0.0.0.0 kwayshop.fr
 0.0.0.0 k-way-store.fr
 0.0.0.0 kway-store.fr
@@ -14404,6 +14410,7 @@
 0.0.0.0 login-espace-orange.fr
 0.0.0.0 login-gebuhrenfrei.fr
 0.0.0.0 login-identification.fr
+0.0.0.0 login-initial.fr
 0.0.0.0 login-instagram.fr
 0.0.0.0 login-lbc.fr
 0.0.0.0 loginleboncoin.fr
@@ -16347,6 +16354,7 @@
 0.0.0.0 mon-service-facturation.fr
 0.0.0.0 monservice-info.fr
 0.0.0.0 monservice-livraison.fr
+0.0.0.0 mon-service-livraison-mondialrelay.fr
 0.0.0.0 mon-service-mondial-relay.fr
 0.0.0.0 monservicepaypal.fr
 0.0.0.0 mon-service-public-ameli.fr
@@ -18129,7 +18137,9 @@
 0.0.0.0 parametres-credit-agricole.fr
 0.0.0.0 paratroopers.fr
 0.0.0.0 paravendu.fr
+0.0.0.0 parcasterix-billet.fr
 0.0.0.0 parcasterixfrance.fr
+0.0.0.0 parcasterix-parc.fr
 0.0.0.0 parccoursup.fr
 0.0.0.0 parcel-chronopost.fr
 0.0.0.0 parcorsup.fr
@@ -21804,6 +21814,7 @@
 0.0.0.0 sfr-abonnement.fr
 0.0.0.0 sfrabonnement.fr
 0.0.0.0 sfr-abonnements.fr
+0.0.0.0 sfradsl.fr
 0.0.0.0 sfr-aide.fr
 0.0.0.0 sfraide.fr
 0.0.0.0 sfr-annulation-esim.fr
@@ -22127,6 +22138,7 @@
 0.0.0.0 simploncertif.fr
 0.0.0.0 sim-sfr.fr
 0.0.0.0 sim-sfr-service.fr
+0.0.0.0 simulateur-finances-publiques.fr
 0.0.0.0 sinamax.fr
 0.0.0.0 singaporeairlines.fr
 0.0.0.0 sinochem.fr
@@ -22152,6 +22164,7 @@
 0.0.0.0 skechersfemme.fr
 0.0.0.0 skechersfrance.fr
 0.0.0.0 skechersfranceparis.fr
+0.0.0.0 skechersoutletfrance.fr
 0.0.0.0 sketchers.fr
 0.0.0.0 skimsfrancefr.fr
 0.0.0.0 skim.yt
