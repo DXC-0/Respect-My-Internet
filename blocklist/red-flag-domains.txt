@@ -2512,6 +2512,7 @@
 0.0.0.0 amzon-secure.fr
 0.0.0.0 amzon-service.fr
 0.0.0.0 amzprimeabonnement.fr
+0.0.0.0 amzprime.fr
 0.0.0.0 amzsecureprofil.fr
 0.0.0.0 amzsecurity.fr
 0.0.0.0 amz-support-clients.fr
@@ -5103,6 +5104,7 @@
 0.0.0.0 carglass-france.fr
 0.0.0.0 cargocorteizfrance.fr
 0.0.0.0 carhartoutletfrance.fr
+0.0.0.0 carhartt-france.fr
 0.0.0.0 carharttfrance.fr
 0.0.0.0 carharttoutletfrance.fr
 0.0.0.0 carhartt-paris.fr
@@ -7157,6 +7159,7 @@
 0.0.0.0 compte-auth.fr
 0.0.0.0 compte-banque.fr
 0.0.0.0 compte-bnpparibas.fr
+0.0.0.0 compte-ca-agricole.fr
 0.0.0.0 compte-caf.fr
 0.0.0.0 compte-caisse-epargne.fr
 0.0.0.0 compte-chronopost.fr
@@ -9434,6 +9437,7 @@
 0.0.0.0 erogames.fr
 0.0.0.0 erosto-shop.fr
 0.0.0.0 eroymerlin.fr
+0.0.0.0 erprimevideo.fr
 0.0.0.0 erreur-acheminement-chronopost.fr
 0.0.0.0 erreur-ants.fr
 0.0.0.0 erreur-chronopost.fr
@@ -16538,6 +16542,7 @@
 0.0.0.0 mutuelle-ent.fr
 0.0.0.0 mutuelleentrain.fr
 0.0.0.0 mutuelle-msae.fr
+0.0.0.0 mutuelle-neolian-france.fr
 0.0.0.0 mutuelle-pandaoptic.fr
 0.0.0.0 mutuelles-ca.fr
 0.0.0.0 mutuelles-de-poitiers.fr
@@ -17866,6 +17871,7 @@
 0.0.0.0 ouigo-sncf-connect.fr
 0.0.0.0 oulaf.fr
 0.0.0.0 ourchette-et-bikini.fr
+0.0.0.0 outblook.fr
 0.0.0.0 outlet-asics.fr
 0.0.0.0 outletasics.fr
 0.0.0.0 outletasicsfrance.fr
@@ -19478,6 +19484,7 @@
 0.0.0.0 recharges-coupons-easy.fr
 0.0.0.0 recharge-services.fr
 0.0.0.0 rechargesolde.fr
+0.0.0.0 recharges-tabac.fr
 0.0.0.0 recharge-verif.fr
 0.0.0.0 rechargevite.fr
 0.0.0.0 rechrge.fr
@@ -24959,6 +24966,7 @@
 0.0.0.0 walmart.re
 0.0.0.0 waltdisneyplus.fr
 0.0.0.0 wanaado.fr
+0.0.0.0 wanadddoo.fr
 0.0.0.0 wanaddo.fr
 0.0.0.0 wanaddooo.fr
 0.0.0.0 wanadio.fr
