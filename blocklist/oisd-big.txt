@@ -49399,7 +49399,6 @@
 0.0.0.0 *.geoip.pennlive.com
 0.0.0.0 *.geoip.silive.com
 0.0.0.0 *.geoip.syracuse.com
-0.0.0.0 *.geolantis.fr
 0.0.0.0 *.geolocation.outreach.com
 0.0.0.0 *.geoma.com.br
 0.0.0.0 *.geometra-bologna.it
@@ -59892,6 +59891,7 @@
 0.0.0.0 *.izzylogz.nn.r.appspot.com
 0.0.0.0 *.j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
 0.0.0.0 *.j-cta.org
+0.0.0.0 *.j-mxponyz.love
 0.0.0.0 *.j-natural.com
 0.0.0.0 *.j-toputvoutfitters.com
 0.0.0.0 *.j.baminw.cn
