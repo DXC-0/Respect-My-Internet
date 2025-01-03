@@ -1861,7 +1861,6 @@
 0.0.0.0 *.24hourcanadianpharmacyreview.ru
 0.0.0.0 *.24hourdentistlondon.co.uk
 0.0.0.0 *.24hourstrade.com
-0.0.0.0 *.24hstatic.com
 0.0.0.0 *.24in.ru
 0.0.0.0 *.24log.com
 0.0.0.0 *.24log.de
@@ -6969,6 +6968,7 @@
 0.0.0.0 *.ad-universe.com
 0.0.0.0 *.ad-unpack.com
 0.0.0.0 *.ad-up.com
+0.0.0.0 *.ad-us.24hstatic.com
 0.0.0.0 *.ad-visor.com
 0.0.0.0 *.ad-vortex.com
 0.0.0.0 *.ad-w-a-r-e.com
@@ -42842,6 +42842,7 @@
 0.0.0.0 *.ev.stellarlabs.ai
 0.0.0.0 *.ev.tpocdm.com
 0.0.0.0 *.ev2.api.bdg.com
+0.0.0.0 *.eva-ad.24hstatic.com
 0.0.0.0 *.evacommuniceert.nl
 0.0.0.0 *.evagriusponticus.net
 0.0.0.0 *.evakark.xyz
@@ -78428,6 +78429,7 @@
 0.0.0.0 *.nuwealthmedia.com
 0.0.0.0 *.nuwerk.monsterboard.nl
 0.0.0.0 *.nuxzin.cloud
+0.0.0.0 *.nv-ad.24hstatic.com
 0.0.0.0 *.nv-gboy.googlecode.com
 0.0.0.0 *.nv3tosjqd.com
 0.0.0.0 *.nvapi.feeldmc.com
@@ -107808,7 +107810,6 @@
 0.0.0.0 *.timepopsci.122.2o7.net
 0.0.0.0 *.timeq.uz
 0.0.0.0 *.timerealsimple.112.2o7.net
-0.0.0.0 *.timersbedbug.com
 0.0.0.0 *.timesaround.com
 0.0.0.0 *.timesaver.dlcodes.com
 0.0.0.0 *.timespctenbest.122.2o7.net
