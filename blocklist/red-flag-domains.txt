@@ -3126,6 +3126,7 @@
 0.0.0.0 asics-factory.fr
 0.0.0.0 asics-france.fr
 0.0.0.0 asicsfrance.fr
+0.0.0.0 asics-france-outlet.fr
 0.0.0.0 asics-franceoutlet.fr
 0.0.0.0 asicsfranceoutlet.fr
 0.0.0.0 asics-fr.fr
@@ -5316,6 +5317,7 @@
 0.0.0.0 cartevitale-service.fr
 0.0.0.0 cartevitaleservice.fr
 0.0.0.0 carte-vitales.fr
+0.0.0.0 cartevitales.fr
 0.0.0.0 carte-vitale-support.fr
 0.0.0.0 carte-vitale-urgence.fr
 0.0.0.0 carte-vitale-v3-ameli.fr
@@ -5339,6 +5341,7 @@
 0.0.0.0 cartevit-renouvel.fr
 0.0.0.0 cartevit-renouv.fr
 0.0.0.0 cartgris.fr
+0.0.0.0 cartierfrance.fr
 0.0.0.0 cartier.re
 0.0.0.0 cartoonnetworkarabic.fr
 0.0.0.0 casa-outlet.fr
@@ -8306,6 +8309,7 @@
 0.0.0.0 decathlon-france.fr
 0.0.0.0 decathlon-fr.fr
 0.0.0.0 decathlonparis.fr
+0.0.0.0 decathlon-sav.fr
 0.0.0.0 decathlons.fr
 0.0.0.0 dechatlon.fr
 0.0.0.0 declaration-ameli.fr
@@ -15841,6 +15845,7 @@
 0.0.0.0 mon-colis-mondialrelay.fr
 0.0.0.0 mon-colis-mondials.fr
 0.0.0.0 moncolisprive.fr
+0.0.0.0 mon-colis-relay.fr
 0.0.0.0 mon-colissimo.fr
 0.0.0.0 moncolissimo.fr
 0.0.0.0 mon-colissimo-suivi.fr
@@ -17061,6 +17066,7 @@
 0.0.0.0 netflix-payments.fr
 0.0.0.0 netflixpayments.fr
 0.0.0.0 netflixphp.fr
+0.0.0.0 netflix.pm
 0.0.0.0 netflix-prelevement.fr
 0.0.0.0 netflixprelevement.fr
 0.0.0.0 netflix-premium.fr
@@ -20492,10 +20498,14 @@
 0.0.0.0 sacostore.fr
 0.0.0.0 sacpolenefrance.fr
 0.0.0.0 sacsboutique.fr
+0.0.0.0 sacsdeluxeparis.fr
 0.0.0.0 sacsfausse.fr
 0.0.0.0 sacs-femme.fr
+0.0.0.0 sacsmoinscher.fr
 0.0.0.0 sacs-outlets.fr
 0.0.0.0 sacspascher.fr
+0.0.0.0 sacsreplique.fr
+0.0.0.0 sacsstyle.fr
 0.0.0.0 sae-m0.re
 0.0.0.0 saeve.fr
 0.0.0.0 safe-connecte.fr
@@ -20563,6 +20573,7 @@
 0.0.0.0 sanitasiteofficiel.fr
 0.0.0.0 sanofi-france.fr
 0.0.0.0 sanofi-groupe.fr
+0.0.0.0 sanofipasteur.fr
 0.0.0.0 sanofi-synthelabo.fr
 0.0.0.0 sansha.fr
 0.0.0.0 santanderbank.fr
@@ -24989,6 +25000,7 @@
 0.0.0.0 vssport.fr
 0.0.0.0 vsztxm-sg.fr
 0.0.0.0 vunted.fr
+0.0.0.0 vuori-france.fr
 0.0.0.0 vuoriparis.fr
 0.0.0.0 vusurlbc.fr
 0.0.0.0 vvanadoo.fr
