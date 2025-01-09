@@ -1760,7 +1760,6 @@
 0.0.0.0 *.24-7pharmacy.info
 0.0.0.0 *.24-news.online
 0.0.0.0 *.24-sportnews.com
-0.0.0.0 *.24-xxx.biz
 0.0.0.0 *.24.eu
 0.0.0.0 *.24052107.live
 0.0.0.0 *.240aca2365.com
@@ -5297,7 +5296,6 @@
 0.0.0.0 *.a.xanga.com
 0.0.0.0 *.a.xfreeservice.com
 0.0.0.0 *.a.xigua110.com
-0.0.0.0 *.a.xinwenge.net
 0.0.0.0 *.a.xixiyishu.com
 0.0.0.0 *.a.xizi.com
 0.0.0.0 *.a.xlpu.cc
@@ -13761,6 +13759,7 @@
 0.0.0.0 *.analytics-gateway.delta.dp.lightricks.com
 0.0.0.0 *.analytics-google.org
 0.0.0.0 *.analytics-ingestion-production.tubitv.com
+0.0.0.0 *.analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io
 0.0.0.0 *.analytics-ingestion.production-public.tubi.io
 0.0.0.0 *.analytics-ingress-global.bitmovin.com
 0.0.0.0 *.analytics-ingress.bitmovin.com
@@ -21106,7 +21105,6 @@
 0.0.0.0 *.bideo-blog.xyz
 0.0.0.0 *.bideo-cdn.com
 0.0.0.0 *.bideo-cdn.xyz
-0.0.0.0 *.bideo-chat.xyz
 0.0.0.0 *.bideo-endpoint.com
 0.0.0.0 *.bideo-schnellvpn.com
 0.0.0.0 *.bidfhimuqwij.com
@@ -28583,6 +28581,8 @@
 0.0.0.0 *.clientlog.midomi.com
 0.0.0.0 *.clientlog.music.163.com
 0.0.0.0 *.clientlog3.music.163.com
+0.0.0.0 *.clientlogdep.music.163.com
+0.0.0.0 *.clientlogsf.music.163.com
 0.0.0.0 *.clientmetrics-augmentum.kik.com
 0.0.0.0 *.clientmetrics-pa.googleapis.com
 0.0.0.0 *.clientmetrics.kik.com
@@ -29575,6 +29575,7 @@
 0.0.0.0 *.collector.statowl.com
 0.0.0.0 *.collector.superwall.me
 0.0.0.0 *.collector.szlcsc.com
+0.0.0.0 *.collector.t-idr.com
 0.0.0.0 *.collector.taoxh.life
 0.0.0.0 *.collector.unsplash.com
 0.0.0.0 *.collector.vhx.tv
@@ -34524,6 +34525,7 @@
 0.0.0.0 *.data.gosquared.com
 0.0.0.0 *.data.hicloud.com
 0.0.0.0 *.data.kameleoon.io
+0.0.0.0 *.data.kuiniuca.com
 0.0.0.0 *.data.minute.ly
 0.0.0.0 *.data.mistat.india.xiaomi.com
 0.0.0.0 *.data.mistat.rus.xiaomi.com
@@ -41738,6 +41740,7 @@
 0.0.0.0 *.ercnnier.com
 0.0.0.0 *.ercoeteasacom.com
 0.0.0.0 *.ercofusa.blogspot.com
+0.0.0.0 *.ercoils.com
 0.0.0.0 *.erdeallyighab.com
 0.0.0.0 *.erdecisesgeorg.info
 0.0.0.0 *.erdelt.nl
@@ -44755,7 +44758,6 @@
 0.0.0.0 *.fgtgr.buzz
 0.0.0.0 *.fgts-liberado.epizy.com
 0.0.0.0 *.fguhyg.cn
-0.0.0.0 *.fgwerg.top
 0.0.0.0 *.fgwuw.com
 0.0.0.0 *.fh259by01r25.com
 0.0.0.0 *.fhac.fr
@@ -50460,7 +50462,6 @@
 0.0.0.0 *.goldenstatebrokers.com
 0.0.0.0 *.goldenstatewarriorsstore.com
 0.0.0.0 *.goldensurvey.com
-0.0.0.0 *.goldenwatches.fr
 0.0.0.0 *.goldenwest.co.za
 0.0.0.0 *.goldfish.boleary.dev
 0.0.0.0 *.goldfish.clickand.de
@@ -53584,7 +53585,6 @@
 0.0.0.0 *.heavycom.112.2o7.net
 0.0.0.0 *.heavycom.122.2o7.net
 0.0.0.0 *.heavydetail.com
-0.0.0.0 *.heavyfigure.link
 0.0.0.0 *.heavypersian.weebly.com
 0.0.0.0 *.heavyplayground.com
 0.0.0.0 *.heavyuniversecandy.com
@@ -63939,7 +63939,6 @@
 0.0.0.0 *.laughing-pike-c6b1d5.netlify.com
 0.0.0.0 *.laughingrecordinggossipy.com
 0.0.0.0 *.laughnetwork.com
-0.0.0.0 *.laughteroccasionallywarp.com
 0.0.0.0 *.laughtersoundhealing.com
 0.0.0.0 *.laughtill.net
 0.0.0.0 *.lauglyhousebuyers.com
@@ -73796,7 +73795,6 @@
 0.0.0.0 *.mutuza.win
 0.0.0.0 *.mutzsotixck3ers-facebo0k.emochila.com
 0.0.0.0 *.muuxxu.com
-0.0.0.0 *.muwc.shop
 0.0.0.0 *.muwmedia.com
 0.0.0.0 *.muybjar.cn
 0.0.0.0 *.muybn.com
@@ -75413,6 +75411,7 @@
 0.0.0.0 *.netadclick.com
 0.0.0.0 *.netaffiliation.com
 0.0.0.0 *.netagent.cz
+0.0.0.0 *.netapm.music.163.com
 0.0.0.0 *.netavenir.com
 0.0.0.0 *.netbina.com
 0.0.0.0 *.netbulvar.eu
@@ -86766,6 +86765,7 @@
 0.0.0.0 *.publicrecordlookup.com
 0.0.0.0 *.publicsofa.com
 0.0.0.0 *.publicspeaking.co.id
+0.0.0.0 *.publictelemetry.tophat.com
 0.0.0.0 *.publictresor.fr
 0.0.0.0 *.publicunloadbags.com
 0.0.0.0 *.publicus.com
@@ -98616,7 +98616,6 @@
 0.0.0.0 *.socssite.ru
 0.0.0.0 *.sodallay.com
 0.0.0.0 *.sodamash.com
-0.0.0.0 *.sodaprostitutetar.com
 0.0.0.0 *.sodepebrasil.com.br
 0.0.0.0 *.sodexo-groupe.fr
 0.0.0.0 *.sodexo-sas.fr
@@ -112016,7 +112015,6 @@
 0.0.0.0 *.uspcworks.com
 0.0.0.0 *.uspolitics.news
 0.0.0.0 *.usps-mydeliver.com
-0.0.0.0 *.usps-mypackage.com
 0.0.0.0 *.usps-online-safe.com
 0.0.0.0 *.usps-online.com
 0.0.0.0 *.usps-pt.com
@@ -117260,7 +117258,6 @@
 0.0.0.0 *.wniamax.fr
 0.0.0.0 *.wnjjhksaue.com
 0.0.0.0 *.wnmaoc.xyz
-0.0.0.0 *.wnojded.icu
 0.0.0.0 *.wnrusisedprivatedq.info
 0.0.0.0 *.wnrvrwabnxa.com
 0.0.0.0 *.wnt-s0me-push.net
@@ -119701,7 +119698,6 @@
 0.0.0.0 *.xx3h.com
 0.0.0.0 *.xxa.uji8979erd77.jp
 0.0.0.0 *.xxad.cc
-0.0.0.0 *.xxaks01081sspao.xyz
 0.0.0.0 *.xxaks01091sspao.xyz
 0.0.0.0 *.xxbeeilm.ru.gg
 0.0.0.0 *.xxccdshj.com
@@ -120067,6 +120063,7 @@
 0.0.0.0 *.ydwlkj.com
 0.0.0.0 *.ydworld.com
 0.0.0.0 *.ydwrkwwqytj.xyz
+0.0.0.0 *.ye.dun.163yun.com
 0.0.0.0 *.ye185hcamw.com
 0.0.0.0 *.yea.uploadimagex.com
 0.0.0.0 *.yeabble.com
@@ -120479,7 +120476,6 @@
 0.0.0.0 *.yoiur.com
 0.0.0.0 *.yokananu.net
 0.0.0.0 *.yokeeroud.com
-0.0.0.0 *.yokesandusj.sbs
 0.0.0.0 *.yokonofrance.fr
 0.0.0.0 *.yoli.my.id
 0.0.0.0 *.yolkhandledwheels.com
@@ -121681,7 +121677,6 @@
 0.0.0.0 *.zimpolo.com
 0.0.0.0 *.zimu.nl
 0.0.0.0 *.zinghouse.co.uk
-0.0.0.0 *.zingmp3.pro
 0.0.0.0 *.zingshop.net
 0.0.0.0 *.zinhice.shop
 0.0.0.0 *.zinipx.xyz
