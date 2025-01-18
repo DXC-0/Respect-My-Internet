@@ -33,8 +33,10 @@
 0.0.0.0 1but.fr
 0.0.0.0 1cares.fr
 0.0.0.0 1cdn.fr
+0.0.0.0 1credditmutuell.fr
 0.0.0.0 1creditmutueel.fr
 0.0.0.0 1credittmutueel.fr
+0.0.0.0 1credittmutuuel.fr
 0.0.0.0 1creedit-mutueel.fr
 0.0.0.0 1creeditmutuel.fr
 0.0.0.0 1dclik.fr
@@ -5602,6 +5604,7 @@
 0.0.0.0 certificat-air-vignette.fr
 0.0.0.0 certificatairvignettegouv.fr
 0.0.0.0 certificat-air-web.fr
+0.0.0.0 certificatarretmaladie.fr
 0.0.0.0 certificatcartegrise.fr
 0.0.0.0 certificat-cirtair.fr
 0.0.0.0 certificat-compte.fr
@@ -7680,6 +7683,7 @@
 0.0.0.0 contraventions-france.fr
 0.0.0.0 contraventionsgouv.fr
 0.0.0.0 contraventions-paiement.fr
+0.0.0.0 contraventionspaiements.fr
 0.0.0.0 contraventions-recouvrement.fr
 0.0.0.0 contraventions-reglement.fr
 0.0.0.0 contravention-telepaiement.fr
@@ -9076,6 +9080,7 @@
 0.0.0.0 dtolib.fr
 0.0.0.0 dtoy.fr
 0.0.0.0 dubarry-france.fr
+0.0.0.0 dublinbetcasinos.fr
 0.0.0.0 ducati-france.fr
 0.0.0.0 ducation-scurit-routiere.fr
 0.0.0.0 duchduckgo.fr
@@ -10091,6 +10096,7 @@
 0.0.0.0 europ1.fr
 0.0.0.0 europacar.fr
 0.0.0.0 europa-diffusion.fr
+0.0.0.0 europcar-nord.fr
 0.0.0.0 europcar-paris.fr
 0.0.0.0 europcra.fr
 0.0.0.0 europe-colruyt.fr
@@ -13067,6 +13073,7 @@
 0.0.0.0 instructions-colis.fr
 0.0.0.0 instructions-livraison.fr
 0.0.0.0 instructions-relivraison.fr
+0.0.0.0 instructions-reprogrammation-colis.fr
 0.0.0.0 instruction-suivi-chronopost.fr
 0.0.0.0 instructure.re
 0.0.0.0 insurancemaaf.fr
@@ -15094,6 +15101,7 @@
 0.0.0.0 maladie-portail.fr
 0.0.0.0 maladie-vitale.fr
 0.0.0.0 maladie-vitale-gouve.fr
+0.0.0.0 malinacasinofrance.fr
 0.0.0.0 ma-livraison-chrono-post.fr
 0.0.0.0 ma-livraison-chronopost.fr
 0.0.0.0 malivraison-chronopost.fr
@@ -15106,6 +15114,7 @@
 0.0.0.0 malivraison-enligne.fr
 0.0.0.0 malivraisonlbc.fr
 0.0.0.0 ma-livraison-mondialrelay.fr
+0.0.0.0 malivraison-mondialrelay.fr
 0.0.0.0 ma-livraison-suivi.fr
 0.0.0.0 m-ameli.fr
 0.0.0.0 m-amende.fr
@@ -15313,6 +15322,7 @@
 0.0.0.0 mcdonnalds.fr
 0.0.0.0 mcfgvt.fr
 0.0.0.0 mcir0osoft.fr
+0.0.0.0 mckinley-consulting.fr
 0.0.0.0 mcleaks.fr
 0.0.0.0 mcodnalds.fr
 0.0.0.0 m-creditagricole.fr
@@ -15608,6 +15618,7 @@
 0.0.0.0 michaelkors-paris.fr
 0.0.0.0 michaelkorsparis.fr
 0.0.0.0 michaelkorspascher.fr
+0.0.0.0 michael-korss.fr
 0.0.0.0 michaelkorss.fr
 0.0.0.0 michaelkors-soldes.fr
 0.0.0.0 michaelpages.fr
@@ -17601,6 +17612,7 @@
 0.0.0.0 notifs-chronopost.fr
 0.0.0.0 notify-me-pypl.fr
 0.0.0.0 notiores.fr
+0.0.0.0 notraires.fr
 0.0.0.0 notre-billeterie.fr
 0.0.0.0 notre-compte.fr
 0.0.0.0 notredamecathedral.paris
@@ -18776,6 +18788,7 @@
 0.0.0.0 pharmacie-de-guyenne.fr
 0.0.0.0 pharmaciedelamphore.fr
 0.0.0.0 pharmaciedemouleydier.fr
+0.0.0.0 pharmaciedepersjussy.fr
 0.0.0.0 pharmaciedepombonne.fr
 0.0.0.0 pharmacie-des-angenoises.fr
 0.0.0.0 pharmaciedesorgues.fr
@@ -18785,6 +18798,7 @@
 0.0.0.0 pharmacieducomtal.fr
 0.0.0.0 pharmacieduhavre.fr
 0.0.0.0 pharmaciedulion-hagondange.fr
+0.0.0.0 pharmaciedutriolet-montpellier.fr
 0.0.0.0 pharmacie-gare-austerlitz.fr
 0.0.0.0 pharmaciegenilac.fr
 0.0.0.0 pharmaciegranderue-vaison.fr
@@ -19395,6 +19409,7 @@
 0.0.0.0 propitea.fr
 0.0.0.0 propulse-ca.fr
 0.0.0.0 protection-ameli.fr
+0.0.0.0 protectioncivile49.fr
 0.0.0.0 protection-client.fr
 0.0.0.0 protection-microsoft.fr
 0.0.0.0 protection-sfr.fr
@@ -19454,6 +19469,7 @@
 0.0.0.0 pumafrsoldes.fr
 0.0.0.0 pumaoutletfrance.fr
 0.0.0.0 pumaparisboutique.fr
+0.0.0.0 puma-pascher.fr
 0.0.0.0 pumapascher.fr
 0.0.0.0 pumapaschersoldes.fr
 0.0.0.0 pumashoesfrance.fr
@@ -19827,6 +19843,7 @@
 0.0.0.0 reebokoutletfrance.fr
 0.0.0.0 reebokoutletonline.fr
 0.0.0.0 reebok-paris.fr
+0.0.0.0 reeboksfrance.fr
 0.0.0.0 reeboksparis.fr
 0.0.0.0 refinitiv-france-sas.fr
 0.0.0.0 refprime.fr
@@ -20546,6 +20563,7 @@
 0.0.0.0 riekerfranceshop.fr
 0.0.0.0 rihoas.fr
 0.0.0.0 rimnow.fr
+0.0.0.0 rip-curl.fr
 0.0.0.0 ripcurlfrance.fr
 0.0.0.0 ritaespacechaussures.fr
 0.0.0.0 riveparis-banquepopulaire.fr
@@ -20866,6 +20884,7 @@
 0.0.0.0 santevitalesms.fr
 0.0.0.0 sante-vital.fr
 0.0.0.0 sanuk-france.fr
+0.0.0.0 sanukfrancesoldes.fr
 0.0.0.0 sanukshoes.fr
 0.0.0.0 sanukshoesfrance.fr
 0.0.0.0 saojq.yt
@@ -20945,6 +20964,7 @@
 0.0.0.0 scrolller.fr
 0.0.0.0 scrpaypl.fr
 0.0.0.0 sctgenerale.fr
+0.0.0.0 scuffersfrance.fr
 0.0.0.0 scure-transf.fr
 0.0.0.0 scvitale.fr
 0.0.0.0 scwharzkopf.fr
@@ -22420,9 +22440,11 @@
 0.0.0.0 skechersfemme.fr
 0.0.0.0 skechersfrance.fr
 0.0.0.0 skechersfranceparis.fr
+0.0.0.0 skechersfr.fr
 0.0.0.0 skechersoutletfrance.fr
 0.0.0.0 sketchers.fr
 0.0.0.0 skimsfrancefr.fr
+0.0.0.0 skimsfr.fr
 0.0.0.0 skim.yt
 0.0.0.0 sknhairidentifier.fr
 0.0.0.0 skycanner.fr
@@ -22882,6 +22904,7 @@
 0.0.0.0 spacex.yt
 0.0.0.0 spankbang.re
 0.0.0.0 sparkassecredit-md-eu.fr
+0.0.0.0 spartanshop.fr
 0.0.0.0 spartanstore.fr
 0.0.0.0 s-paypal.fr
 0.0.0.0 speakplanet.fr
@@ -24605,6 +24628,7 @@
 0.0.0.0 vansidgroupe.fr
 0.0.0.0 vans-pas-cher.fr
 0.0.0.0 vanss.fr
+0.0.0.0 vanssfrance.fr
 0.0.0.0 vans-shoes-france.fr
 0.0.0.0 vansshoesfrance.fr
 0.0.0.0 vapor-france.fr
