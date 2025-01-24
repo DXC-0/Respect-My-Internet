@@ -377,7 +377,6 @@
 0.0.0.0 advertserve.com #AdvertServe - Advertising
 0.0.0.0 advisor.api.2gis.ru #First Party - Tracker
 0.0.0.0 adviva.net #Specific Media - Tracker
-0.0.0.0 advolution.de #Advolutio - Advertising
 0.0.0.0 adworldmedia.com #AdWorldMedia - Advertising
 0.0.0.0 adx-id-ads.realmemobile.com #First Party - Advertising
 0.0.0.0 adx.promo #Unknown - Advertising
@@ -420,17 +419,14 @@
 0.0.0.0 aimtell.com #Aimtell - Advertising
 0.0.0.0 aireport.shalltry.com #Infinix Tracker - Tracker
 0.0.0.0 airpr.com #AirPR - Tracker
-0.0.0.0 aj1010.online #Epom - Advertising
 0.0.0.0 aj1047.online #Epom - Advertising
 0.0.0.0 aj1070.online #Unknown - Advertising
-0.0.0.0 aj1549.online #Epom - Advertising
 0.0.0.0 aj1559.online #Epom - Advertising
 0.0.0.0 aj1907.online #Epom - Advertising
 0.0.0.0 aj1985.online #Epom - Advertising
 0.0.0.0 aj2031.online #Epom - Advertising
 0.0.0.0 aj2178.online #Epom - Advertising
 0.0.0.0 aj2204.online #Epom - Advertising
-0.0.0.0 aj2295.online #Epom - Advertising
 0.0.0.0 aj2393.online #Epom - Advertising
 0.0.0.0 aj2550.bid #Unknown - Advertising
 0.0.0.0 ak-is.net #Unknown - Tracker
@@ -503,10 +499,8 @@
 0.0.0.0 analytics.faw.sky.com #Sky - Tracker
 0.0.0.0 analytics.feeder.co #First Party - Tracker
 0.0.0.0 analytics.ff.avast.com #Avast - Tracker
-0.0.0.0 analytics.flipperdevices.com #First Party - Tracker
 0.0.0.0 analytics.formstack.com #First Party - Tracker
 0.0.0.0 analytics.freemake.com #First Party - Tracker
-0.0.0.0 analytics.gandi.net #Gandi - Tracker
 0.0.0.0 analytics.getpostman.com #First Party - Tracker
 0.0.0.0 analytics.getshogun.com #First Party - Tracker
 0.0.0.0 analytics.global.sky.com #First Party - Tracker
@@ -601,7 +595,6 @@
 0.0.0.0 analytics.yinxiang.com #First Party - Tracker
 0.0.0.0 analytics.yiyouliao.com #First Party - Tracker
 0.0.0.0 analytics.yolacdn.net #First Party - Tracker
-0.0.0.0 analytics.yongjinbao.com.cn #First Party - Tracker
 0.0.0.0 analytics64.techsmith.com #First Party - Tracker
 0.0.0.0 analyticsmsp.com #MSP - Tracker
 0.0.0.0 analyticspixel.microsoft.com #Microsoft - Tracker
@@ -824,7 +817,6 @@
 0.0.0.0 bidtheatre.com #BidTheatre - Tracker
 0.0.0.0 bidvol.com #Bidvol - Advertising
 0.0.0.0 bigdata.adups.com #Unknown - Tracker
-0.0.0.0 bilateralgodmother.com #AdMeasures - Advertising
 0.0.0.0 bildirt.com #Unknown - Advertising
 0.0.0.0 bilgin.pro #Unknown - Advertising
 0.0.0.0 bilsyndication.com #Unknown - Tracker
@@ -1073,12 +1065,10 @@
 0.0.0.0 comscoreresearch.com #comScore - Tracker
 0.0.0.0 concertads-configs.vox-cdn.com #Vox - Advertising
 0.0.0.0 condenastdigital.com #Conde Nast Digital - Tracker
-0.0.0.0 conductmassage.com #AdMeasures - Advertising
 0.0.0.0 config.claspws.tv #First Party - Tracker
 0.0.0.0 config.sdk.scopely.io #First Party - Tracker
 0.0.0.0 config.toto.zipoapps.com #First Party - Tracker
 0.0.0.0 config.uca.cloud.unity3d.com #First Party - Tracker
-0.0.0.0 confinementpleabotany.com #AdMeasures - Advertising
 0.0.0.0 confirmsubscription.com #Campaign Monitor Pty - Tracker
 0.0.0.0 conjunctionrepresentativepowerless.com #AdMeasures - Advertising
 0.0.0.0 connatedresspint.com #AdMeasures - Advertising
