@@ -427,7 +427,6 @@
 0.0.0.0 aj2031.online #Epom - Advertising
 0.0.0.0 aj2178.online #Epom - Advertising
 0.0.0.0 aj2204.online #Epom - Advertising
-0.0.0.0 aj2393.online #Epom - Advertising
 0.0.0.0 aj2550.bid #Unknown - Advertising
 0.0.0.0 ak-is.net #Unknown - Tracker
 0.0.0.0 ak-is2.net #Unknown - Advertising
@@ -2010,7 +2009,6 @@
 0.0.0.0 lp4.io #Linkpulse - Tracker
 0.0.0.0 lpsnmedia.net #Unknown - Tracker
 0.0.0.0 lucidmedia.com #Unknown - Tracker
-0.0.0.0 luckarea.com #Unknown - Tracker
 0.0.0.0 luckyorange.com #Lucky Orange - Tracker
 0.0.0.0 luckyorange.net #Lucky Orange - Tracker
 0.0.0.0 luxup.ru #AdLabs - Tracker
@@ -2098,7 +2096,6 @@
 0.0.0.0 messages4.com #IBM Silverpop - Advertising
 0.0.0.0 messages5.com #IBM Silverpop - Advertising
 0.0.0.0 metadsp.co.uk #Avid - Advertising
-0.0.0.0 metahv.xyz #Unknown - Advertising
 0.0.0.0 metalyzer.com #Unknown - Tracker
 0.0.0.0 metaxads.com #Unknown - Advertising
 0.0.0.0 meteora.us #Unknown - Tracker
@@ -2151,7 +2148,6 @@
 0.0.0.0 midas-network.com #Midas Network - Advertising
 0.0.0.0 midgerelativelyhoax.com #AdMeasures - Advertising
 0.0.0.0 midgetincidentally.com #AdMeasures - Advertising
-0.0.0.0 millennialmedia.com #Unknown - Tracker
 0.0.0.0 mindbox.ru #Mindbox - Tracker
 0.0.0.0 mintegral.com #Mintegral - Advertising
 0.0.0.0 mintegral.net #Mintegral - Tracker
@@ -13611,7 +13607,6 @@
 0.0.0.0 mobileapptracking.com #MobileAppTracking - Tracker
 0.0.0.0 mobilefuse.com #MobileFuse - Advertising
 0.0.0.0 mobilegamestats.com #Unknown - Tracker
-0.0.0.0 mobilestats.ask.fm #First Party - Tracker
 0.0.0.0 mobiletelemetry.ebay.com #eBay - Tracker
 0.0.0.0 mobilewalla.com #Mobilewalla - Tracker
 0.0.0.0 mobilexpression.com #MobileXpression - Tracker
@@ -13663,7 +13658,6 @@
 0.0.0.0 mxptint.net #Unknown - Tracker
 0.0.0.0 my.w.tt #Branch CNAME - Tracker
 0.0.0.0 myadmessenger.com #Zapp360 - Advertising
-0.0.0.0 myads.com #Rubicon - Advertising
 0.0.0.0 mybbc-analytics.files.bbci.co.uk #BBC - Tracker
 0.0.0.0 mybestdc.com #RevenueHits - Tracker
 0.0.0.0 mybuys.com #Unknown - Tracker
@@ -13886,7 +13880,6 @@
 0.0.0.0 personaclick.com #PersonaClick - Tracker
 0.0.0.0 personyze.com #Personyze - Tracker
 0.0.0.0 persoo.cz #Persoo - Tracker
-0.0.0.0 perspirationfraction.com #AdMeasures - Advertising
 0.0.0.0 petametrics.com #Petametrics - Tracker
 0.0.0.0 petrolgraphcredibility.com #AdMeasures - Advertising
 0.0.0.0 pf.newegg.com #Newegg - Tracker
@@ -13957,7 +13950,6 @@
 0.0.0.0 plantationexhaust.com #AdMeasures - Advertising
 0.0.0.0 platform.linkedin.com #CedexisRadar - Tracker
 0.0.0.0 platformsrat.com #AdMeasures - Advertising
-0.0.0.0 platitudezeal.com #AdMeasures - Advertising
 0.0.0.0 plausible.io #Plausible - Tracker
 0.0.0.0 playbuzz.com #Playbuzz - Tracker
 0.0.0.0 player-telemetry.vimeo.com #First Party - Tracker
@@ -14058,7 +14050,6 @@
 0.0.0.0 pubnation.com #PubNation - Tracker
 0.0.0.0 pubnative.net #Pubnative - Advertising
 0.0.0.0 pubs.xl.pt #XLs - Advertising
-0.0.0.0 pubs2.latinspots.com #Revive Adserver - Advertising
 0.0.0.0 pubstack.io #Pubstack - Advertising
 0.0.0.0 pubtrack.co #Performance Tracking - Tracker
 0.0.0.0 pubwise.io #PubWise - Advertising
@@ -14099,7 +14090,6 @@
 0.0.0.0 pxlsrv.net #AppNexus Inc - Tracker
 0.0.0.0 pxltgr.com #WhiteOps - Tracker
 0.0.0.0 q1media.com #Q1Media - Tracker
-0.0.0.0 q1mediahydraplatform.com #Unknown - Tracker
 0.0.0.0 q8ntfhfngm.com #AdMeasures - Advertising
 0.0.0.0 qcinternal.io #Quantcast - Advertising
 0.0.0.0 qeryz.com #Unknown - Tracker

@@ -221,6 +221,7 @@
 0.0.0.0 abonnement-disneplus.fr
 0.0.0.0 abonnement-disney.fr
 0.0.0.0 abonnement-facturation.fr
+0.0.0.0 abonnementfranceiptv.fr
 0.0.0.0 abonnement-france-secures.fr
 0.0.0.0 abonnement-idf.fr
 0.0.0.0 abonnement-impayer.fr
@@ -2018,6 +2019,7 @@
 0.0.0.0 ameli-sante-securite.fr
 0.0.0.0 ameli-sante-service.fr
 0.0.0.0 ameli-santes.fr
+0.0.0.0 amelisantes.fr
 0.0.0.0 ameli-sante-vital.fr
 0.0.0.0 ameli-sav.fr
 0.0.0.0 amelis-droits.fr
@@ -3932,6 +3934,7 @@
 0.0.0.0 autrychaussures.fr
 0.0.0.0 autrychaussuresparis.fr
 0.0.0.0 autryensolde.fr
+0.0.0.0 autryensoldes.fr
 0.0.0.0 autrymarseille.fr
 0.0.0.0 autry-officiel.fr
 0.0.0.0 autry-outlet.fr
@@ -14002,6 +14005,7 @@
 0.0.0.0 leboncoinpaiement.fr
 0.0.0.0 leboncoin-paiementpro.fr
 0.0.0.0 leboncoin-paiement-securise.fr
+0.0.0.0 leboncoinpaiementsecurise.fr
 0.0.0.0 lebon-coin-paiements.fr
 0.0.0.0 leboncoin-paiements.fr
 0.0.0.0 leboncoin-paiement-suivilbc.fr
@@ -15524,6 +15528,7 @@
 0.0.0.0 mesdemarches-rouvroy62.fr
 0.0.0.0 mes-demarches-sante.fr
 0.0.0.0 mesdemarches-simplifiees.fr
+0.0.0.0 mesdroitsameli.fr
 0.0.0.0 mesdroitsgvt.fr
 0.0.0.0 mesdroitsociaux.fr
 0.0.0.0 mesdroits-renouvellement.fr
@@ -19291,6 +19296,7 @@
 0.0.0.0 ppl-info-securite.fr
 0.0.0.0 pplprom.fr
 0.0.0.0 pplpromotions.fr
+0.0.0.0 ppl-recovery.fr
 0.0.0.0 ppl-reviewsupport.fr
 0.0.0.0 ppl-secure.fr
 0.0.0.0 pplsecure.fr
@@ -20172,6 +20178,7 @@
 0.0.0.0 relaycolis.fr
 0.0.0.0 relay-livraison.fr
 0.0.0.0 relaymondial.fr
+0.0.0.0 relay-sms.fr
 0.0.0.0 relay-suivi.fr
 0.0.0.0 relay-suivis-colis.fr
 0.0.0.0 reliefstore.fr
@@ -24344,6 +24351,7 @@
 0.0.0.0 tuyfly.fr
 0.0.0.0 tv-abonnement.fr
 0.0.0.0 tva-controle-rev-dgp-gouv-economie.fr
+0.0.0.0 tva-gouv-finances.fr
 0.0.0.0 tvndo-sg.fr
 0.0.0.0 tvorange.fr
 0.0.0.0 tv-prime.fr
@@ -24488,6 +24496,8 @@
 0.0.0.0 univ6lehavre.fr
 0.0.0.0 univ6lorraine.fr
 0.0.0.0 univ-aix-provence.fr
+0.0.0.0 univ-amiens.fr
+0.0.0.0 univamiens.fr
 0.0.0.0 univbordeaux.fr
 0.0.0.0 univ-caen.fr
 0.0.0.0 univcorse.fr
