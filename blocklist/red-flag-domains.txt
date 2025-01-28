@@ -4927,6 +4927,7 @@
 0.0.0.0 caf-documents.fr
 0.0.0.0 cafeetcoton.fr
 0.0.0.0 cafe-express.fr
+0.0.0.0 caf-enquete.fr
 0.0.0.0 cafinistere.fr
 0.0.0.0 ca-finistere-france.fr
 0.0.0.0 cafj.fr
@@ -5357,6 +5358,7 @@
 0.0.0.0 cartevitale-renouv.fr
 0.0.0.0 carte-vitale-renseignements.fr
 0.0.0.0 carte-vitales-ameli.fr
+0.0.0.0 cartevitales-ameli.fr
 0.0.0.0 cartevitalesante-ameli.fr
 0.0.0.0 cartevitale-sante.fr
 0.0.0.0 cartevitalesante.fr
@@ -6948,6 +6950,7 @@
 0.0.0.0 code-offre-boursorama.fr
 0.0.0.0 code-promo-amazon.fr
 0.0.0.0 codifrance-distribution.fr
+0.0.0.0 cofidis-sa.fr
 0.0.0.0 cofidix.fr
 0.0.0.0 cofinaga.fr
 0.0.0.0 coflix-streaming.fr
@@ -7961,6 +7964,7 @@
 0.0.0.0 credit-agricole-acces.fr
 0.0.0.0 creditagricole-activation.fr
 0.0.0.0 creditagricole-alpesprovence.fr
+0.0.0.0 credit-agricole-atlantiquevendee.fr
 0.0.0.0 credit-agricole-banque.fr
 0.0.0.0 creditagricole-bastia.fr
 0.0.0.0 credit-agricoleb.fr
@@ -8553,7 +8557,9 @@
 0.0.0.0 destockphone.fr
 0.0.0.0 detail-contravention.fr
 0.0.0.0 detail-laposte.fr
+0.0.0.0 detail-prime.fr
 0.0.0.0 details-ameli.fr
+0.0.0.0 details-prime.fr
 0.0.0.0 details-renouvelement.fr
 0.0.0.0 detectiondesinformations.fr
 0.0.0.0 dette-amende.fr
@@ -9331,6 +9337,7 @@
 0.0.0.0 elecdestock.fr
 0.0.0.0 eleclerc-achats.fr
 0.0.0.0 eleclerc-cookeo-rouge.fr
+0.0.0.0 eleclerc-corporate.fr
 0.0.0.0 eleclerc-espace-culturel.fr
 0.0.0.0 eleclercgroupe.fr
 0.0.0.0 eleclerc-multicuiseur.fr
@@ -10081,6 +10088,7 @@
 0.0.0.0 etape-nickel.fr
 0.0.0.0 etaphotel.fr
 0.0.0.0 etat-coupon.fr
+0.0.0.0 etatfrancais.fr
 0.0.0.0 etatrecharge.fr
 0.0.0.0 etatticket.fr
 0.0.0.0 e-tecely.fr
@@ -11004,6 +11012,7 @@
 0.0.0.0 fr-unilever.fr
 0.0.0.0 fruniv-reims.fr
 0.0.0.0 fr-veoneerfrancesas.fr
+0.0.0.0 fr-vet.fr
 0.0.0.0 fr-vsc-technologies.fr
 0.0.0.0 fr-yarafrance.fr
 0.0.0.0 fryeboots.fr
@@ -12186,6 +12195,7 @@
 0.0.0.0 icloudmaps.fr
 0.0.0.0 icloud-photos.fr
 0.0.0.0 icloud.pm
+0.0.0.0 iclouds.fr
 0.0.0.0 icloud-support.fr
 0.0.0.0 icloudsupport.fr
 0.0.0.0 icloud.tf
@@ -15636,6 +15646,7 @@
 0.0.0.0 messssagerieleboncoin.fr
 0.0.0.0 mesurelettre.fr
 0.0.0.0 mes-virements-payliib.fr
+0.0.0.0 meta-france.fr
 0.0.0.0 meta-phone.fr
 0.0.0.0 meteciel.fr
 0.0.0.0 mete-france.fr
@@ -15709,6 +15720,7 @@
 0.0.0.0 microsoft-online-en.fr
 0.0.0.0 microsoft-online.fr
 0.0.0.0 microsoftonline.re
+0.0.0.0 microsoftonlin.fr
 0.0.0.0 microsoftonlne.fr
 0.0.0.0 microsoftpowerbi.fr
 0.0.0.0 microsoft-pro.fr
@@ -16181,6 +16193,7 @@
 0.0.0.0 mondialrelay-livraison.fr
 0.0.0.0 mondial-relay-livraisons.fr
 0.0.0.0 mondialrelay-locker.fr
+0.0.0.0 mondialrelay-malivraison.fr
 0.0.0.0 mondialrelay-monsuivi.fr
 0.0.0.0 mondialrelay-paiement.fr
 0.0.0.0 mondialrelay-pickup.fr
@@ -16637,6 +16650,7 @@
 0.0.0.0 mon-suivi-livraison.fr
 0.0.0.0 mon-suivi-llc-evaluation.fr
 0.0.0.0 mon-suivi-medical.fr
+0.0.0.0 mon-suivi-mondialrelay.fr
 0.0.0.0 monsuivi-mondialrelay.fr
 0.0.0.0 mon-suivi-sante.fr
 0.0.0.0 mon-suivis-chrono.fr
@@ -16720,6 +16734,7 @@
 0.0.0.0 m-securepass.fr
 0.0.0.0 msg-ovhcloud.fr
 0.0.0.0 ms-microsoft.fr
+0.0.0.0 msmsfr.fr
 0.0.0.0 msnhotmail.fr
 0.0.0.0 msnmessenger.fr
 0.0.0.0 msnn.fr
@@ -17531,6 +17546,7 @@
 0.0.0.0 nikedunk.fr
 0.0.0.0 nikedunks.fr
 0.0.0.0 nikeenfrance.fr
+0.0.0.0 nikefactory.fr
 0.0.0.0 nikefactoryoutletfrance.fr
 0.0.0.0 nikefitnesschaussure.fr
 0.0.0.0 nike-france.fr
@@ -18866,6 +18882,7 @@
 0.0.0.0 pharmacie-ameli.fr
 0.0.0.0 pharmacieandrein.fr
 0.0.0.0 pharmacieboieldieu.fr
+0.0.0.0 pharmaciebremond-manosque.fr
 0.0.0.0 pharmacie-carte-sante.fr
 0.0.0.0 pharmaciecraponne.fr
 0.0.0.0 pharmaciecuingnet.fr
@@ -18880,6 +18897,7 @@
 0.0.0.0 pharmaciedepombonne.fr
 0.0.0.0 pharmacie-des-angenoises.fr
 0.0.0.0 pharmaciedesorgues.fr
+0.0.0.0 pharmaciedesrochelles.fr
 0.0.0.0 pharmaciedesstades-lourdes.fr
 0.0.0.0 pharmaciedestroissapins-thann.fr
 0.0.0.0 pharmaciedesvallees.fr
@@ -18912,7 +18930,9 @@
 0.0.0.0 pharmacie-sterling.fr
 0.0.0.0 pharmaciethurin.fr
 0.0.0.0 pharmacieumbricht.fr
+0.0.0.0 pharmacievancappel.fr
 0.0.0.0 pharmacievittouris.fr
+0.0.0.0 pharmaciewallet.fr
 0.0.0.0 phen24-acheter.fr
 0.0.0.0 phildarstore.fr
 0.0.0.0 philotecnique.fr
@@ -19421,6 +19441,7 @@
 0.0.0.0 prime-services.fr
 0.0.0.0 prime-souscription.fr
 0.0.0.0 primesouscription.fr
+0.0.0.0 prime-souscriptions.fr
 0.0.0.0 prime-souscrire.fr
 0.0.0.0 primevabo.fr
 0.0.0.0 prime-validation.fr
@@ -20308,6 +20329,7 @@
 0.0.0.0 renouvelermacartevitale.fr
 0.0.0.0 renouveler-mon-abonnement.fr
 0.0.0.0 renouveler-mon-compte.fr
+0.0.0.0 renouveler-mon-espace.fr
 0.0.0.0 renouveler-vitale.fr
 0.0.0.0 renouvelervotrecartevitale.fr
 0.0.0.0 renouvelez-votre-vitale.fr
@@ -20431,6 +20453,7 @@
 0.0.0.0 renouvellement-mon-compte.fr
 0.0.0.0 renouvellement-moncompte.fr
 0.0.0.0 renouvellement-mon-espace-assure.fr
+0.0.0.0 renouvellement-mon-espace-secu.fr
 0.0.0.0 renouvellement-netfiix.fr
 0.0.0.0 renouvellement-netfilx.fr
 0.0.0.0 renouvellement-netflix.fr
@@ -23013,6 +23036,7 @@
 0.0.0.0 souscriptionprime-video.fr
 0.0.0.0 souscriptionprimevideo.fr
 0.0.0.0 souscription-renouvellement.fr
+0.0.0.0 souscriptions-prime.fr
 0.0.0.0 souscriptions-renouvellement.fr
 0.0.0.0 souscription-videoprime.fr
 0.0.0.0 souscriptionvideo-prime.fr
@@ -23252,6 +23276,7 @@
 0.0.0.0 suivi-bps.fr
 0.0.0.0 suivi-cartes.fr
 0.0.0.0 suivi-cartevitale.fr
+0.0.0.0 suivi-certif-mdts.fr
 0.0.0.0 suivichrono-acheminement.fr
 0.0.0.0 suivi-chronoclient.fr
 0.0.0.0 suivi-chrono-colis.fr
@@ -24339,6 +24364,7 @@
 0.0.0.0 tripavisor.fr
 0.0.0.0 trivagos.fr
 0.0.0.0 troteclaserfrancesas.fr
+0.0.0.0 trouvermoniphone.fr
 0.0.0.0 trouveunfilm.fr
 0.0.0.0 truereligionfrance.fr
 0.0.0.0 ts-mobile-ameli.fr
@@ -24506,6 +24532,7 @@
 0.0.0.0 univ-amiens.fr
 0.0.0.0 univamiens.fr
 0.0.0.0 univbordeaux.fr
+0.0.0.0 univ-bp.fr
 0.0.0.0 univ-caen.fr
 0.0.0.0 univcorse.fr
 0.0.0.0 univ-cote-azur.fr
@@ -24951,6 +24978,7 @@
 0.0.0.0 verif-urssaf.fr
 0.0.0.0 verifvitale.fr
 0.0.0.0 verify-app.fr
+0.0.0.0 verify-checking-online.fr
 0.0.0.0 verify-colissimo.fr
 0.0.0.0 verify-compte.fr
 0.0.0.0 verifycompte.fr
@@ -26087,6 +26115,7 @@
 0.0.0.0 xn--mesrsultats-ebb.fr
 0.0.0.0 xn--meto-dpa.fr
 0.0.0.0 xn--mhsant-gva.fr
+0.0.0.0 xn--ministre-des-finances-france-mqc.fr
 0.0.0.0 xn--ministre-vitale-zmb.fr
 0.0.0.0 xn--mobilitmutuelle-hnb.fr
 0.0.0.0 xn--monanesthsie-jeb.fr
