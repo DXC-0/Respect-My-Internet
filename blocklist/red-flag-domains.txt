@@ -62,6 +62,7 @@
 0.0.0.0 1securitelo.fr
 0.0.0.0 1sendsecuritefr.fr
 0.0.0.0 1sfcpart-impotsgouv.fr
+0.0.0.0 1winfrance.fr
 0.0.0.0 1winpro.fr
 0.0.0.0 1xbet-france.fr
 0.0.0.0 1zooplus.fr
@@ -151,6 +152,7 @@
 0.0.0.0 5dhjzjz.fr
 0.0.0.0 5eee-mo.re
 0.0.0.0 5ee-m0.re
+0.0.0.0 5eem0.re
 0.0.0.0 5ee-mo.re
 0.0.0.0 5emeavenue-chaussures.fr
 0.0.0.0 5escorts.fr
@@ -1471,6 +1473,7 @@
 0.0.0.0 amazonvpnclient.fr
 0.0.0.0 amazon-web-connexion.fr
 0.0.0.0 amazonzon.fr
+0.0.0.0 amaz-prime.fr
 0.0.0.0 amazxon.fr
 0.0.0.0 amazzzazzazon.fr
 0.0.0.0 ambassadefrance.fr
@@ -2543,6 +2546,7 @@
 0.0.0.0 amzon-secure.fr
 0.0.0.0 amzon-service.fr
 0.0.0.0 amzprimeabonnement.fr
+0.0.0.0 amz-prime.fr
 0.0.0.0 amzprime.fr
 0.0.0.0 amzsecureprofil.fr
 0.0.0.0 amzsecurity.fr
@@ -3062,6 +3066,7 @@
 0.0.0.0 apps-mailorangebank.fr
 0.0.0.0 apps-nickel.fr
 0.0.0.0 apps-secupass-agricole-assurance.fr
+0.0.0.0 appsshopify.fr
 0.0.0.0 appstore-localisation.fr
 0.0.0.0 appsweb-mabanque-cledigital-bnp-assurances.fr
 0.0.0.0 app-systeme.fr
@@ -3215,6 +3220,7 @@
 0.0.0.0 assistance-asus.fr
 0.0.0.0 assistance-auth.fr
 0.0.0.0 assistanceavoir-impotsgouv.fr
+0.0.0.0 assistancebnp-paaribas.fr
 0.0.0.0 assistance-bouygues.fr
 0.0.0.0 assistance-bouygues-telecom.fr
 0.0.0.0 assistance-cartevitale.fr
@@ -4312,6 +4318,7 @@
 0.0.0.0 betking.re
 0.0.0.0 betlic.fr
 0.0.0.0 betonred1.fr
+0.0.0.0 betonredcasinofrance.fr
 0.0.0.0 betonred-france.fr
 0.0.0.0 betonredfrance.fr
 0.0.0.0 betonred-login.fr
@@ -11681,6 +11688,7 @@
 0.0.0.0 grandjeu-magasin-u.fr
 0.0.0.0 grandtheftwiki.fr
 0.0.0.0 grand-voyageur-sncf.fr
+0.0.0.0 grandzcasinosfrance.fr
 0.0.0.0 gransino-casino.fr
 0.0.0.0 grapheneos.fr
 0.0.0.0 grasseparfumerie.fr
@@ -14592,6 +14600,7 @@
 0.0.0.0 livraisons-colis.fr
 0.0.0.0 livraisons-colisparticulier.fr
 0.0.0.0 livraisonscolis-particulier.fr
+0.0.0.0 livraisons-des-colis.fr
 0.0.0.0 livraison-service-infos.fr
 0.0.0.0 livraisons-mondial-relay.fr
 0.0.0.0 livraisons-particuliercolis.fr
@@ -15803,6 +15812,7 @@
 0.0.0.0 microsoftcare.fr
 0.0.0.0 microsoftcompte.fr
 0.0.0.0 microsofte.fr
+0.0.0.0 microsoftenligne.fr
 0.0.0.0 microsoft-exchange.fr
 0.0.0.0 microsoftexchange.fr
 0.0.0.0 microsoft-france.fr
@@ -16287,6 +16297,7 @@
 0.0.0.0 mondialrelay-fraiscolis.fr
 0.0.0.0 mondial-relay-fr.fr
 0.0.0.0 mondialrelay-infocolis.fr
+0.0.0.0 mondialrelay-livraisoncolis.fr
 0.0.0.0 mondial-relay-livraison.fr
 0.0.0.0 mondialrelay-livraison.fr
 0.0.0.0 mondial-relay-livraisons.fr
@@ -18429,6 +18440,7 @@
 0.0.0.0 paiementsecurecgv.fr
 0.0.0.0 paiement-secure.fr
 0.0.0.0 paiement-secure-lbc.fr
+0.0.0.0 paiement-secureleboncoin.fr
 0.0.0.0 paiementsecureleboncoin.fr
 0.0.0.0 paiement-secures.fr
 0.0.0.0 paiementsecuresleboncoin.fr
@@ -18991,6 +19003,7 @@
 0.0.0.0 pharmacie2000-caen.fr
 0.0.0.0 pharmacie-ameli.fr
 0.0.0.0 pharmacieandrein.fr
+0.0.0.0 pharmaciebastide-servian.fr
 0.0.0.0 pharmacieboieldieu.fr
 0.0.0.0 pharmaciebremond-manosque.fr
 0.0.0.0 pharmacie-carte-sante.fr
@@ -19011,6 +19024,7 @@
 0.0.0.0 pharmacie-des-palmiers.fr
 0.0.0.0 pharmaciedesponts-charny.fr
 0.0.0.0 pharmaciedesrochelles.fr
+0.0.0.0 pharmaciedesson.fr
 0.0.0.0 pharmaciedesstades-lourdes.fr
 0.0.0.0 pharmaciedestroissapins-thann.fr
 0.0.0.0 pharmaciedesvallees.fr
@@ -19032,11 +19046,14 @@
 0.0.0.0 pharmaciegranderue-vaison.fr
 0.0.0.0 pharmacie-gratte-ciel.fr
 0.0.0.0 pharmacielacombebourdinaud.fr
+0.0.0.0 pharmacielebrunmarc.fr
 0.0.0.0 pharmacie-leforestier-aigrefeuillesurmaine.fr
+0.0.0.0 pharmacielegoff-peillac.fr
 0.0.0.0 pharmaciemarbotin.fr
 0.0.0.0 pharmaciemartinet.fr
 0.0.0.0 pharmaciemorel.fr
 0.0.0.0 pharmaciepascalechapelle.fr
+0.0.0.0 pharmaciepierrefontaine.fr
 0.0.0.0 pharmacie-pontailler.fr
 0.0.0.0 pharmacieportedelachapelle.fr
 0.0.0.0 pharmacieprincipale-gardanne.fr
@@ -19044,6 +19061,7 @@
 0.0.0.0 pharmaciesaintgenes.fr
 0.0.0.0 pharmaciesaintjean-ajaccio.fr
 0.0.0.0 pharmacie-sterling.fr
+0.0.0.0 pharmaciethomas-guillers.fr
 0.0.0.0 pharmaciethurin.fr
 0.0.0.0 pharmacieumbricht.fr
 0.0.0.0 pharmacievancappel.fr
@@ -20561,6 +20579,7 @@
 0.0.0.0 renouvellement-facture.fr
 0.0.0.0 renouvellement-france-assure-en-ligne.fr
 0.0.0.0 renouvellement-france-assure-enligne.fr
+0.0.0.0 renouvellement-garantie-sante.fr
 0.0.0.0 renouvellement-impots.fr
 0.0.0.0 renouvellement-info-ameli.fr
 0.0.0.0 renouvellement-info-carte.fr
@@ -23108,6 +23127,7 @@
 0.0.0.0 sodexo-groupe.fr
 0.0.0.0 sodexogroupe.fr
 0.0.0.0 sodexogroupes.fr
+0.0.0.0 sodexo-groups.fr
 0.0.0.0 sodexo-pass-france-sa.fr
 0.0.0.0 sodexo-sas.fr
 0.0.0.0 sodia.yt
@@ -23223,6 +23243,7 @@
 0.0.0.0 spinit-casino.fr
 0.0.0.0 spinrollz.fr
 0.0.0.0 spin-spirit-casino.fr
+0.0.0.0 spinsycasinos.fr
 0.0.0.0 spiritcasino.fr
 0.0.0.0 splendidstore.fr
 0.0.0.0 sport200.fr
@@ -23534,7 +23555,10 @@
 0.0.0.0 suivie-colis.fr
 0.0.0.0 suiviecolis.fr
 0.0.0.0 suivie-collisimo.fr
+0.0.0.0 suivie-de-colis.fr
+0.0.0.0 suivie-de-livraison.fr
 0.0.0.0 suivie-facture-route.fr
+0.0.0.0 suivie-instruction-en-ligne.fr
 0.0.0.0 suivie-livraison.fr
 0.0.0.0 suivie-mondialrelay.fr
 0.0.0.0 suivi-envoi-colis.fr
@@ -23587,6 +23611,7 @@
 0.0.0.0 suivi-particulier-express.fr
 0.0.0.0 suiviposte.fr
 0.0.0.0 suivi-puc-serf.fr
+0.0.0.0 suivi-relais.fr
 0.0.0.0 suivi-relay.fr
 0.0.0.0 suivi-relay-fr.fr
 0.0.0.0 suivi-remboursement.fr
