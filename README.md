@@ -42,7 +42,7 @@ For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respe
 ---> All sub-blocklists are OpenSnitch compatible [blocklist-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist) \
 ---> If you need more blocklists, check the [extra-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist/extra)
 
----> Use [No-IA blocklist]() to clean up LLM shit and generation that pollutes the internet. Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:
+---> Use [No-IA blocklist]() to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
 
 ---
 
