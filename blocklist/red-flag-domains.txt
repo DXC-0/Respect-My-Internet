@@ -619,6 +619,8 @@
 0.0.0.0 activation-abonnements.fr
 0.0.0.0 activation-ameli.fr
 0.0.0.0 activation-authentification.fr
+0.0.0.0 activation-avantageprime.fr
+0.0.0.0 activation-avantagesprime.fr
 0.0.0.0 activation-bnp-paribas.fr
 0.0.0.0 activation-bnpparibas.fr
 0.0.0.0 activation-cagricole.fr
@@ -642,6 +644,7 @@
 0.0.0.0 activationgenerale.fr
 0.0.0.0 activation-idsecurpass.fr
 0.0.0.0 activation-jeux.fr
+0.0.0.0 activation-livraisonprime.fr
 0.0.0.0 activation-mabanque-bnpparibas.fr
 0.0.0.0 activation-moncompte.fr
 0.0.0.0 activation-netfiix.fr
@@ -1425,6 +1428,7 @@
 0.0.0.0 a-mazon.fr
 0.0.0.0 amazon-france.fr
 0.0.0.0 amazon-france-logistique.fr
+0.0.0.0 amazonfrance-sas.fr
 0.0.0.0 amazon-fraude.fr
 0.0.0.0 amazon-gestion.fr
 0.0.0.0 amazongiftcard.fr
@@ -4018,8 +4022,10 @@
 0.0.0.0 avance-immediate-urssaf.fr
 0.0.0.0 avantagecompte.fr
 0.0.0.0 avantagemacif.fr
+0.0.0.0 avantageprime-activation.fr
 0.0.0.0 avantage-prime.fr
 0.0.0.0 avantagesmacif.fr
+0.0.0.0 avantagesprime-activation.fr
 0.0.0.0 avantages-prime.fr
 0.0.0.0 avantagesprime.fr
 0.0.0.0 avast-france.fr
@@ -4917,6 +4923,7 @@
 0.0.0.0 brso-espace-certif.fr
 0.0.0.0 brunocasin.fr
 0.0.0.0 brunocasinoenligne.fr
+0.0.0.0 brunocasino-win.fr
 0.0.0.0 bruochedoree.fr
 0.0.0.0 brutal-casino.fr
 0.0.0.0 brutalcasino.fr
@@ -5208,6 +5215,7 @@
 0.0.0.0 canard-enchaine.fr
 0.0.0.0 cancelprimev.fr
 0.0.0.0 cancel-primevideo.fr
+0.0.0.0 cancelprimevideo.fr
 0.0.0.0 cancelprimevid.fr
 0.0.0.0 cancel-societegenerale.fr
 0.0.0.0 cancel-videoprime.fr
@@ -10402,6 +10410,7 @@
 0.0.0.0 expressdhl.fr
 0.0.0.0 express-mondial.fr
 0.0.0.0 express-mondialrelay.fr
+0.0.0.0 expressprime-activation.fr
 0.0.0.0 express-prime.fr
 0.0.0.0 express-suivi-chronopost.fr
 0.0.0.0 express-suivi-colis.fr
@@ -14776,6 +14785,7 @@
 0.0.0.0 livraison-mon-suivi.fr
 0.0.0.0 livraisonop.fr
 0.0.0.0 livraison-pickup.fr
+0.0.0.0 livraisonprime-activation.fr
 0.0.0.0 livraison-prime.fr
 0.0.0.0 livraisonprime.fr
 0.0.0.0 livraison-programmation.fr
@@ -16782,6 +16792,7 @@
 0.0.0.0 monespacesocietegeneral.fr
 0.0.0.0 monespaces-reglements.fr
 0.0.0.0 monespacessante.fr
+0.0.0.0 mon-espace-suivi-chronopost.fr
 0.0.0.0 mon-espace-suivi.fr
 0.0.0.0 monespace-suivi.fr
 0.0.0.0 monespacesuivi.fr
@@ -19886,6 +19897,7 @@
 0.0.0.0 primesouscription.fr
 0.0.0.0 prime-souscriptions.fr
 0.0.0.0 prime-souscrire.fr
+0.0.0.0 primestore.fr
 0.0.0.0 primevabo.fr
 0.0.0.0 prime-validation.fr
 0.0.0.0 primevalidation.fr
@@ -21051,6 +21063,7 @@
 0.0.0.0 reprogrammation-moncolis.fr
 0.0.0.0 reprogrammer-ma-livraison-colissimo.fr
 0.0.0.0 reprogrammer-mon-colissimo.fr
+0.0.0.0 reprogrammezvoscolis.fr
 0.0.0.0 repswebsite.fr
 0.0.0.0 republictechnologiesfrancesas.fr
 0.0.0.0 requete-vitale.fr
@@ -21551,6 +21564,7 @@
 0.0.0.0 saurclients.fr
 0.0.0.0 saurserviceclient.fr
 0.0.0.0 sauvelnatal.fr
+0.0.0.0 savaspin-casino.fr
 0.0.0.0 savaspincasino.fr
 0.0.0.0 sav-bouygues.fr
 0.0.0.0 sav-chrono-client.fr
