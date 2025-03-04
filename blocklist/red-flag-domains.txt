@@ -4740,6 +4740,7 @@
 0.0.0.0 boursidirect.fr
 0.0.0.0 boursoactivationprofils.fr
 0.0.0.0 boursoactivmobile.fr
+0.0.0.0 boursobank-indemnisation.fr
 0.0.0.0 boursobankinvestissement.fr
 0.0.0.0 boursobankonline.fr
 0.0.0.0 boursobanq.fr
@@ -5539,6 +5540,7 @@
 0.0.0.0 ca-scurepass-majlog.fr
 0.0.0.0 ca-securipass.fr
 0.0.0.0 case-id-10029083854.fr
+0.0.0.0 ca-sequestre.fr
 0.0.0.0 ca-serviceclient-france.fr
 0.0.0.0 ca-service.fr
 0.0.0.0 caservice.fr
@@ -5557,6 +5559,7 @@
 0.0.0.0 casinoazurfr.fr
 0.0.0.0 casino-banque.fr
 0.0.0.0 casinobanque.fr
+0.0.0.0 casino-casinoextra.fr
 0.0.0.0 casinoenargentreel.fr
 0.0.0.0 casinoenlignenouveau.fr
 0.0.0.0 casinoextra1.fr
@@ -5564,6 +5567,7 @@
 0.0.0.0 casino-francedistribution.fr
 0.0.0.0 casino-groupes.fr
 0.0.0.0 casinogroup.fr
+0.0.0.0 casino-jackpotbob.fr
 0.0.0.0 casinolab1.fr
 0.0.0.0 casinolegalenligne.fr
 0.0.0.0 casino-legiano.fr
@@ -5870,6 +5874,7 @@
 0.0.0.0 cetelel.fr
 0.0.0.0 cetelem-connecte.fr
 0.0.0.0 ceteleme.fr
+0.0.0.0 cetelemmiseajour.fr
 0.0.0.0 cetelem-particulier-notifications.fr
 0.0.0.0 cetelemw.fr
 0.0.0.0 cetelen.fr
@@ -6024,6 +6029,7 @@
 0.0.0.0 chaussuresjordan.fr
 0.0.0.0 chaussuresjoyafrance.fr
 0.0.0.0 chaussureskamikfrance.fr
+0.0.0.0 chaussureskechpascher.fr
 0.0.0.0 chaussures-keds.fr
 0.0.0.0 chaussures-keen.fr
 0.0.0.0 chaussureskeen.fr
@@ -6928,6 +6934,7 @@
 0.0.0.0 client-ameli.fr
 0.0.0.0 clientameli.fr
 0.0.0.0 client-ameli-sante.fr
+0.0.0.0 client-amendes-gov.fr
 0.0.0.0 client-antai.fr
 0.0.0.0 client-antal.fr
 0.0.0.0 client-authentification.fr
@@ -8267,6 +8274,7 @@
 0.0.0.0 crefingo.fr
 0.0.0.0 c-reg-asstsscr.fr
 0.0.0.0 c-regionale.fr
+0.0.0.0 creneau-mondialrelay.fr
 0.0.0.0 creneau-relay.fr
 0.0.0.0 c-rennes.fr
 0.0.0.0 cresu.fr
@@ -8708,6 +8716,7 @@
 0.0.0.0 demarches-simplifees.fr
 0.0.0.0 demarches-simplifier.fr
 0.0.0.0 demarchessimplifies.fr
+0.0.0.0 demarrage-prime.fr
 0.0.0.0 dematicsas.fr
 0.0.0.0 demellierfrance.fr
 0.0.0.0 demenageur-breton.fr
@@ -11921,6 +11930,7 @@
 0.0.0.0 groupaam.fr
 0.0.0.0 groupala.fr
 0.0.0.0 groupamaa.fr
+0.0.0.0 groupama-ara.fr
 0.0.0.0 groupama-assurances-guadeloupe.fr
 0.0.0.0 groupama-caisse-loire-bretagne.fr
 0.0.0.0 groupama-insurance.fr
@@ -12077,6 +12087,7 @@
 0.0.0.0 gymsharkmarseille.fr
 0.0.0.0 gymshark-outlet.fr
 0.0.0.0 gymsharkparisshop.fr
+0.0.0.0 gymsharkpascher.fr
 0.0.0.0 gymsharksfrance.fr
 0.0.0.0 gymsharkshopping.fr
 0.0.0.0 gymsharkshops.fr
@@ -13428,6 +13439,7 @@
 0.0.0.0 instruction-colis-enligne.fr
 0.0.0.0 instruction-colis.fr
 0.0.0.0 instruction-livraison.fr
+0.0.0.0 instruction-mondialrelay.fr
 0.0.0.0 instruction-relivraison-chrono.fr
 0.0.0.0 instruction-relivraison.fr
 0.0.0.0 instructions-chronopost.fr
@@ -15098,8 +15110,11 @@
 0.0.0.0 ltfc.fr
 0.0.0.0 lucky31-france.fr
 0.0.0.0 lucky8-casinos.fr
+0.0.0.0 lucky-bonus.fr
 0.0.0.0 luckyelf-casino.fr
+0.0.0.0 lucky-elf.fr
 0.0.0.0 luckym8.fr
+0.0.0.0 lucky-spins.fr
 0.0.0.0 lucky-treasure1.fr
 0.0.0.0 luckytreasure-casino.fr
 0.0.0.0 luckytreasurecasino-fr.fr
@@ -18239,6 +18254,7 @@
 0.0.0.0 nvlcvitale2023.fr
 0.0.0.0 nxnn.fr
 0.0.0.0 nyxbetcasino.fr
+0.0.0.0 nyxbets-casino.fr
 0.0.0.0 oac-versailles.fr
 0.0.0.0 oagesjaunes.fr
 0.0.0.0 oakleyfrance.fr
@@ -19193,11 +19209,13 @@
 0.0.0.0 payment-leboncoin.fr
 0.0.0.0 paymentnetfix.fr
 0.0.0.0 payment.pm
+0.0.0.0 payment-prime.fr
 0.0.0.0 payment-secure.fr
 0.0.0.0 paymentsecure.fr
 0.0.0.0 paymentsecureleboncoin.fr
 0.0.0.0 paymentsecuriseleboncoin.fr
 0.0.0.0 payments.pm
+0.0.0.0 payments-prime.fr
 0.0.0.0 paymenty-netflix.fr
 0.0.0.0 paymobile-2024.fr
 0.0.0.0 paynetflix.fr
@@ -19921,6 +19939,7 @@
 0.0.0.0 primedebut.fr
 0.0.0.0 prime-delivery.fr
 0.0.0.0 primedelivery.fr
+0.0.0.0 prime-demarrage.fr
 0.0.0.0 prime-desactivation.fr
 0.0.0.0 primedesactivation.fr
 0.0.0.0 primedesactiver.fr
@@ -19929,6 +19948,7 @@
 0.0.0.0 prime-distribution.fr
 0.0.0.0 prime-distributions.fr
 0.0.0.0 prime-essai.fr
+0.0.0.0 primefamily-annulation.fr
 0.0.0.0 prime-gerer.fr
 0.0.0.0 prime-gestion.fr
 0.0.0.0 primegestion.fr
@@ -19959,6 +19979,8 @@
 0.0.0.0 prime-panneau-solaire.fr
 0.0.0.0 prime-pass.fr
 0.0.0.0 prime-pay.fr
+0.0.0.0 prime-payment.fr
+0.0.0.0 prime-payments.fr
 0.0.0.0 prime-plus.fr
 0.0.0.0 prime-primevideo.fr
 0.0.0.0 prime-privacy.fr
@@ -21154,6 +21176,8 @@
 0.0.0.0 repliquekpl.fr
 0.0.0.0 repliquemontrepascher.fr
 0.0.0.0 repliquepolene.fr
+0.0.0.0 repliqueskechers.fr
+0.0.0.0 repliquetrapstar.fr
 0.0.0.0 reply-colissimo.fr
 0.0.0.0 repondeursfr.fr
 0.0.0.0 reportersansfrontieres.fr
@@ -24661,6 +24685,7 @@
 0.0.0.0 tedbaker-soldes.fr
 0.0.0.0 teddyfreshfrance.fr
 0.0.0.0 telcoupon.fr
+0.0.0.0 telecharger-bonb0rderausecu.fr
 0.0.0.0 telecom-france.fr
 0.0.0.0 teleconsigne-vosamendes.fr
 0.0.0.0 telecours.fr
@@ -25041,6 +25066,9 @@
 0.0.0.0 trapstarofficiel.fr
 0.0.0.0 trapstaroutlet.fr
 0.0.0.0 trapstar-paris.fr
+0.0.0.0 trapstarpascher.fr
+0.0.0.0 trapstarvip.fr
+0.0.0.0 trapvente.fr
 0.0.0.0 trasavia.fr
 0.0.0.0 traviseurope.fr
 0.0.0.0 travismathewfrance.fr
@@ -25095,6 +25123,7 @@
 0.0.0.0 tweetdeck.fr
 0.0.0.0 twinbuschfrance.fr
 0.0.0.0 twinbuschsarl.fr
+0.0.0.0 twinpromotlon.fr
 0.0.0.0 twitch.re
 0.0.0.0 twitch.tf
 0.0.0.0 twitpic.fr
@@ -25521,6 +25550,7 @@
 0.0.0.0 vdyl.yt
 0.0.0.0 vdyn.yt
 0.0.0.0 vdyr.yt
+0.0.0.0 vegasnow.fr
 0.0.0.0 vegas-plus-win.fr
 0.0.0.0 vehicule-information.fr
 0.0.0.0 vehicule-lbc.fr
@@ -25824,7 +25854,11 @@
 0.0.0.0 vinci-constructon.fr
 0.0.0.0 vinci-contruction.fr
 0.0.0.0 vinci-parking-orly.fr
+0.0.0.0 vinci-spin-casino.fr
 0.0.0.0 vinci-spin.fr
+0.0.0.0 vincispingaming.fr
+0.0.0.0 vincispin-jeux.fr
+0.0.0.0 vincispinonline.fr
 0.0.0.0 vinci-ulys-telepeage.fr
 0.0.0.0 vined.fr
 0.0.0.0 vinetd.fr
