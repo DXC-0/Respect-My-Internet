@@ -3528,6 +3528,7 @@
 0.0.0.0 assurancemaladiesecurises.fr
 0.0.0.0 assurancemaladie-service.fr
 0.0.0.0 assurancemaladies.fr
+0.0.0.0 assurancemaladies-renouvellement.fr
 0.0.0.0 assurancemaladies-santes.fr
 0.0.0.0 assurance-maladie-support.fr
 0.0.0.0 assurancemaladie-verification.fr
@@ -5126,6 +5127,7 @@
 0.0.0.0 caisse-epargne-appdemo.fr
 0.0.0.0 caisse-epargne-banxo.fr
 0.0.0.0 caisse-epargnebanxo.fr
+0.0.0.0 caisse-epargnecepac.fr
 0.0.0.0 caisse-epargne-client.fr
 0.0.0.0 caisse-epargne-compte.fr
 0.0.0.0 caisse-epargne-connexion.fr
@@ -5572,12 +5574,17 @@
 0.0.0.0 casinoazurfr.fr
 0.0.0.0 casino-banque.fr
 0.0.0.0 casinobanque.fr
+0.0.0.0 casino-betriot.fr
+0.0.0.0 casinobetriot.fr
 0.0.0.0 casino-casinoextra.fr
 0.0.0.0 casinoenargentreel.fr
 0.0.0.0 casinoenlignenouveau.fr
 0.0.0.0 casinoextra1.fr
 0.0.0.0 casinoextraonline.fr
 0.0.0.0 casino-francedistribution.fr
+0.0.0.0 casino-funbet.fr
+0.0.0.0 casinofunbet.fr
+0.0.0.0 casino-golden.fr
 0.0.0.0 casino-groupes.fr
 0.0.0.0 casinogroup.fr
 0.0.0.0 casino-jackpotbob.fr
@@ -5591,12 +5598,14 @@
 0.0.0.0 casinoposido.fr
 0.0.0.0 casinoquickwin.fr
 0.0.0.0 casinoretraitinstantane.fr
+0.0.0.0 casinos-barriere.fr
 0.0.0.0 casinosky.fr
 0.0.0.0 casino-spinsy.fr
 0.0.0.0 casinotopliste.fr
 0.0.0.0 casino-unique1.fr
 0.0.0.0 casinowildsultan.fr
 0.0.0.0 casino-wonaco.fr
+0.0.0.0 casinowonaco.fr
 0.0.0.0 casino-x7.fr
 0.0.0.0 casinozer-bet.fr
 0.0.0.0 casiogshock.fr
@@ -8561,6 +8570,7 @@
 0.0.0.0 dartry.fr
 0.0.0.0 dartyelectro.fr
 0.0.0.0 darty-sav.fr
+0.0.0.0 darty-store.fr
 0.0.0.0 dartyx.fr
 0.0.0.0 dassaultgroupe.fr
 0.0.0.0 dassaultgroup.fr
@@ -9625,6 +9635,7 @@
 0.0.0.0 elex-shop.fr
 0.0.0.0 elfree.fr
 0.0.0.0 eliexpress.fr
+0.0.0.0 elitecasino.fr
 0.0.0.0 elitrencontre.fr
 0.0.0.0 ellessefrance.fr
 0.0.0.0 elmordjene.fr
@@ -10708,6 +10719,7 @@
 0.0.0.0 fiscgouv.fr
 0.0.0.0 fit4form.fr
 0.0.0.0 fitflopsoutlet.fr
+0.0.0.0 fiverr-paymenttk.fr
 0.0.0.0 fizzydistributionsas.fr
 0.0.0.0 fjallraven-france.fr
 0.0.0.0 fjnfd.yt
@@ -11645,6 +11657,7 @@
 0.0.0.0 goldenwatches.fr
 0.0.0.0 goldspincasino.fr
 0.0.0.0 gold-spin.fr
+0.0.0.0 goldspins.fr
 0.0.0.0 goldtickets.fr
 0.0.0.0 golfwangfrance.fr
 0.0.0.0 golfzon.fr
@@ -16039,6 +16052,7 @@
 0.0.0.0 messagerie-info.fr
 0.0.0.0 messagerie-info-orange.fr
 0.0.0.0 messagerielbc.fr
+0.0.0.0 messagerielboncoin.fr
 0.0.0.0 messagerie-lcl.fr
 0.0.0.0 messagerie-le-boncoin.fr
 0.0.0.0 messagerie-leboncoin.fr
@@ -19126,12 +19140,16 @@
 0.0.0.0 partilyte.fr
 0.0.0.0 partiparticulperso.fr
 0.0.0.0 partisecusbpinfo.fr
+0.0.0.0 partouche-pasino.fr
+0.0.0.0 partouchepasino.fr
 0.0.0.0 part-socgenerale.fr
 0.0.0.0 paruvend.fr
 0.0.0.0 pasapaschaussures.fr
 0.0.0.0 pascherlouboutin.fr
 0.0.0.0 pascherlouisvuitton.fr
 0.0.0.0 paschermaillotnba.fr
+0.0.0.0 pasino-partouche.fr
+0.0.0.0 pasinopartouche.fr
 0.0.0.0 pass-actualisation.fr
 0.0.0.0 passage-secure.fr
 0.0.0.0 passbanquepopulaire.fr
@@ -19531,6 +19549,7 @@
 0.0.0.0 pirnhub.fr
 0.0.0.0 pirtekhydrauliqueservicesas.fr
 0.0.0.0 piste3salizia.fr
+0.0.0.0 pistolocasino.fr
 0.0.0.0 pitchbriochepasquier.fr
 0.0.0.0 pitsviperfrance.fr
 0.0.0.0 pit-viperfrance.fr
