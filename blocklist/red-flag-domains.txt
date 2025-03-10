@@ -3615,6 +3615,7 @@
 0.0.0.0 assure-ameli-infos.fr
 0.0.0.0 assure-ameli-renouvellement.fr
 0.0.0.0 assure-ameli-securite.fr
+0.0.0.0 assure-ameli-sms.fr
 0.0.0.0 assure-amelisms.fr
 0.0.0.0 assure-ameliv03.fr
 0.0.0.0 assure-ameli-v3.fr
@@ -3691,6 +3692,7 @@
 0.0.0.0 assure-sante-enligne.fr
 0.0.0.0 assuresante-enligne.fr
 0.0.0.0 assure-sante-renouvellement.fr
+0.0.0.0 assure-sante-sms.fr
 0.0.0.0 assures-cartesvital.fr
 0.0.0.0 assures-cartevitale.fr
 0.0.0.0 assures-formulaires.fr
@@ -3754,6 +3756,7 @@
 0.0.0.0 atollesopticiens.fr
 0.0.0.0 atriuum-sud.fr
 0.0.0.0 attasterecharger.fr
+0.0.0.0 attendez-prime.fr
 0.0.0.0 attentecolis-suivi.fr
 0.0.0.0 attente-paiement.fr
 0.0.0.0 attente-paiement-france.fr
@@ -6852,6 +6855,8 @@
 0.0.0.0 chu-bdx.fr
 0.0.0.0 chu-bordeau.fr
 0.0.0.0 chubordeaux.fr
+0.0.0.0 chu-clermon.fr
+0.0.0.0 chu-clermont.fr
 0.0.0.0 chudestrasbourg.fr
 0.0.0.0 chu-dijonbourgogne.fr
 0.0.0.0 chu-grenoble-alpes.fr
@@ -6987,6 +6992,7 @@
 0.0.0.0 client-edf.fr
 0.0.0.0 clientele-creditmutuel.fr
 0.0.0.0 clientele-paylib.fr
+0.0.0.0 clientele-prime.fr
 0.0.0.0 cliente-milleniumbcp.fr
 0.0.0.0 cliente-millenniumbcp.fr
 0.0.0.0 client-esim-sfr.fr
@@ -7081,6 +7087,7 @@
 0.0.0.0 cloudamazon.fr
 0.0.0.0 cloudflare.fr
 0.0.0.0 cloud-ovh.fr
+0.0.0.0 cloud-prime.fr
 0.0.0.0 clronopost.fr
 0.0.0.0 clubb-internet.fr
 0.0.0.0 clubcreatif.fr
@@ -7388,6 +7395,7 @@
 0.0.0.0 columbiasprtswear.fr
 0.0.0.0 comap-control.fr
 0.0.0.0 com-appleid.fr
+0.0.0.0 combo-prime.fr
 0.0.0.0 com-client.fr
 0.0.0.0 comissariatcenon.fr
 0.0.0.0 comission-vitale.fr
@@ -10071,6 +10079,7 @@
 0.0.0.0 espace-colis-acheminement.fr
 0.0.0.0 espace-colis.fr
 0.0.0.0 espace-colissimo.fr
+0.0.0.0 espacecolissimo.fr
 0.0.0.0 espace-compte-amende.fr
 0.0.0.0 espace-compte-client.fr
 0.0.0.0 espacecompte-client.fr
@@ -10369,6 +10378,7 @@
 0.0.0.0 e-tecely.fr
 0.0.0.0 etelem.fr
 0.0.0.0 ethikaparis.fr
+0.0.0.0 eticketshop.fr
 0.0.0.0 etnieschaussures.fr
 0.0.0.0 etran01amazo.fr
 0.0.0.0 etran02amazo.fr
@@ -11656,6 +11666,7 @@
 0.0.0.0 goldenoutlet.fr
 0.0.0.0 goldenpanda1.fr
 0.0.0.0 goldenpanda-casino.fr
+0.0.0.0 golden-pandas.fr
 0.0.0.0 golden-pass.fr
 0.0.0.0 goldenshoes.fr
 0.0.0.0 goldenstars.fr
@@ -12607,6 +12618,7 @@
 0.0.0.0 ifload-leboncoin.fr
 0.0.0.0 ifogreffe.fr
 0.0.0.0 ifpimpotsdgfip.fr
+0.0.0.0 if-prime.fr
 0.0.0.0 ifrancetvinfo.fr
 0.0.0.0 ifsneakers.fr
 0.0.0.0 ifta-carrefour.fr
@@ -14400,6 +14412,7 @@
 0.0.0.0 leboncoij.fr
 0.0.0.0 leboncoimn.fr
 0.0.0.0 leboncoin-ads.fr
+0.0.0.0 leboncoin-assistance.fr
 0.0.0.0 leboncoincer.fr
 0.0.0.0 leboncoin-certif.fr
 0.0.0.0 leboncoinchronopost.fr
@@ -16652,6 +16665,7 @@
 0.0.0.0 mondialrelais-livraison.fr
 0.0.0.0 mondialrelais-suivis.fr
 0.0.0.0 mondialrelaj.fr
+0.0.0.0 mondialrelay2025.fr
 0.0.0.0 mondialrelay-alertelivraison.fr
 0.0.0.0 mondialrelay-app.fr
 0.0.0.0 mondialrelay-client.fr
@@ -16674,6 +16688,7 @@
 0.0.0.0 mondialrelay-paiement.fr
 0.0.0.0 mondialrelay-pickup.fr
 0.0.0.0 mondialrelay-pointrelais.fr
+0.0.0.0 mondialrelay-reexpedition.fr
 0.0.0.0 mondialrelay-relivraison.fr
 0.0.0.0 mondialrelay-reprogrammation.fr
 0.0.0.0 mondial-relay-seine-maritime.fr
@@ -19010,6 +19025,7 @@
 0.0.0.0 parksidetools.fr
 0.0.0.0 parrainagenickelprime.fr
 0.0.0.0 parrainageprime.fr
+0.0.0.0 parrain-boursobank.fr
 0.0.0.0 partculiers-sg.fr
 0.0.0.0 part-debloc-clientele.fr
 0.0.0.0 partenaire-apple.fr
@@ -20001,8 +20017,11 @@
 0.0.0.0 primeavantages.fr
 0.0.0.0 prime-blablacar.fr
 0.0.0.0 prime-changement.fr
+0.0.0.0 prime-clientele.fr
 0.0.0.0 prime-client.fr
 0.0.0.0 primeclient.fr
+0.0.0.0 prime-cloud.fr
+0.0.0.0 prime-combo.fr
 0.0.0.0 prime-commande.fr
 0.0.0.0 prime-commandes.fr
 0.0.0.0 prime-confirmation.fr
@@ -20020,6 +20039,7 @@
 0.0.0.0 prime-discount.fr
 0.0.0.0 prime-distribution.fr
 0.0.0.0 prime-distributions.fr
+0.0.0.0 prime-education.fr
 0.0.0.0 prime-enrolement.fr
 0.0.0.0 prime-essai.fr
 0.0.0.0 primefamily-annulation.fr
@@ -20035,6 +20055,7 @@
 0.0.0.0 prime-infos.fr
 0.0.0.0 prime-inscription.fr
 0.0.0.0 primeiptvservice.fr
+0.0.0.0 prime-link.fr
 0.0.0.0 prime-livraisonexpress.fr
 0.0.0.0 prime-livraison.fr
 0.0.0.0 primelivraison.fr
@@ -20092,6 +20113,9 @@
 0.0.0.0 prime-souscriptions.fr
 0.0.0.0 prime-souscrire.fr
 0.0.0.0 primestore.fr
+0.0.0.0 prime-utilisateur.fr
+0.0.0.0 prime-utilisateurs.fr
+0.0.0.0 prime-utilisation.fr
 0.0.0.0 primevabo.fr
 0.0.0.0 prime-validation.fr
 0.0.0.0 primevalidation.fr
@@ -25561,6 +25585,9 @@
 0.0.0.0 ut1capitole.fr
 0.0.0.0 utauniv-lyon2.fr
 0.0.0.0 utcapitole.fr
+0.0.0.0 utilisateur-prime.fr
+0.0.0.0 utilisateurs-prime.fr
+0.0.0.0 utilisation-prime.fr
 0.0.0.0 utrace.fr
 0.0.0.0 utyg.pm
 0.0.0.0 uugy.fr
