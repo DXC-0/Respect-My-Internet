@@ -461,6 +461,7 @@
 0.0.0.0 accountsocietegenerale.fr
 0.0.0.0 accounts-payment.fr
 0.0.0.0 accounts-snapchat.fr
+0.0.0.0 accountupdate.fr
 0.0.0.0 account-validation.fr
 0.0.0.0 account-validations.fr
 0.0.0.0 accountvalidations.fr
@@ -1397,6 +1398,7 @@
 0.0.0.0 amaz0on.fr
 0.0.0.0 amazn-verification.fr
 0.0.0.0 amazo0n.fr
+0.0.0.0 amazobn.fr
 0.0.0.0 amazoclienfr.fr
 0.0.0.0 amazok.fr
 0.0.0.0 amazoln.fr
@@ -1409,6 +1411,7 @@
 0.0.0.0 amazon-assistance.fr
 0.0.0.0 amazonassistance.fr
 0.0.0.0 amazonassistance-info.fr
+0.0.0.0 amazonazon.fr
 0.0.0.0 amazon-billing.fr
 0.0.0.0 amazonboutique.fr
 0.0.0.0 amazon-ciient.fr
@@ -1444,10 +1447,12 @@
 0.0.0.0 amazongrowthmarketing.fr
 0.0.0.0 amazon-helper.fr
 0.0.0.0 amazonhelp.fr
+0.0.0.0 amazonh.fr
 0.0.0.0 amazoni.fr
 0.0.0.0 amazon-important.fr
 0.0.0.0 amazon-info.fr
 0.0.0.0 amazon-informations.fr
+0.0.0.0 amazonl.fr
 0.0.0.0 amazon-livraison-aide.fr
 0.0.0.0 amazon-livraisons-aides.fr
 0.0.0.0 amazon-log.fr
@@ -1467,6 +1472,7 @@
 0.0.0.0 amazon-prime-abonnement.fr
 0.0.0.0 amazonprime-abonnement.fr
 0.0.0.0 amazonprime-connexion.fr
+0.0.0.0 amazon-prime.fr
 0.0.0.0 amazonprimesec.fr
 0.0.0.0 amazon-primevideo.fr
 0.0.0.0 amazonprime-video.fr
@@ -2568,6 +2574,7 @@
 0.0.0.0 amonbetcasino.fr
 0.0.0.0 amonbet.fr
 0.0.0.0 amoncasinoenligne.fr
+0.0.0.0 amoncasino-france.fr
 0.0.0.0 amoncasinofrance.fr
 0.0.0.0 amonea.fr
 0.0.0.0 am-prime.fr
@@ -3206,6 +3213,7 @@
 0.0.0.0 as-amelis-france.fr
 0.0.0.0 asana.pm
 0.0.0.0 asconnexion.fr
+0.0.0.0 asctsncf.fr
 0.0.0.0 asemblee-nationale.fr
 0.0.0.0 asentia.fr
 0.0.0.0 asfbx.yt
@@ -4398,6 +4406,7 @@
 0.0.0.0 betfair.re
 0.0.0.0 bet-grouse.fr
 0.0.0.0 betifycasinoenligne.fr
+0.0.0.0 betifycasinofrance.fr
 0.0.0.0 betify-officiel1.fr
 0.0.0.0 betiro.fr
 0.0.0.0 betking.re
@@ -4412,6 +4421,7 @@
 0.0.0.0 betonred-officiel.fr
 0.0.0.0 betovo.fr
 0.0.0.0 bet-riot-casino.fr
+0.0.0.0 betriotcasinofrance.fr
 0.0.0.0 betroom24.fr
 0.0.0.0 betsamigo.fr
 0.0.0.0 betseyjohnsonparis.fr
@@ -4521,6 +4531,7 @@
 0.0.0.0 birkenstoock.fr
 0.0.0.0 birken-tocks.fr
 0.0.0.0 birkishoes.fr
+0.0.0.0 birkoutlet.fr
 0.0.0.0 birkstore.fr
 0.0.0.0 bison-fute.fr
 0.0.0.0 bitcasinos.fr
@@ -5569,6 +5580,7 @@
 0.0.0.0 cash-casino.fr
 0.0.0.0 cash-converters.fr
 0.0.0.0 cashed0.fr
+0.0.0.0 cashedcasinofrance.fr
 0.0.0.0 cashedcasinos.fr
 0.0.0.0 casheds.fr
 0.0.0.0 cashexpres.fr
@@ -5581,6 +5593,7 @@
 0.0.0.0 casinoazurfr.fr
 0.0.0.0 casino-banque.fr
 0.0.0.0 casinobanque.fr
+0.0.0.0 casino-bello.fr
 0.0.0.0 casino-betriot.fr
 0.0.0.0 casinobetriot.fr
 0.0.0.0 casino-casinoextra.fr
@@ -5604,8 +5617,10 @@
 0.0.0.0 casino-olympe.fr
 0.0.0.0 casinoolympe.fr
 0.0.0.0 casinoposido.fr
+0.0.0.0 casinoprivefrance.fr
 0.0.0.0 casinoquickwin.fr
 0.0.0.0 casinoretraitinstantane.fr
+0.0.0.0 casinos247.fr
 0.0.0.0 casinos-barriere.fr
 0.0.0.0 casinosky.fr
 0.0.0.0 casino-spinanga.fr
@@ -5671,6 +5686,7 @@
 0.0.0.0 cazeus1.fr
 0.0.0.0 cazeus-casino1.fr
 0.0.0.0 cazeuscasino.fr
+0.0.0.0 cazeuscasinofrance.fr
 0.0.0.0 cazimbo.fr
 0.0.0.0 cbackmarket.fr
 0.0.0.0 cbcare.fr
@@ -13780,6 +13796,7 @@
 0.0.0.0 juliuscasin.fr
 0.0.0.0 julius-casino1.fr
 0.0.0.0 juliuscasinoenligne.fr
+0.0.0.0 juliuscasinofrance.fr
 0.0.0.0 juliuscasinoonline.fr
 0.0.0.0 julius-casinos.fr
 0.0.0.0 jul-store.fr
@@ -13841,6 +13858,7 @@
 0.0.0.0 kedsparis.fr
 0.0.0.0 keenbordeaux.fr
 0.0.0.0 keenchaussure.fr
+0.0.0.0 keen-chaussures.fr
 0.0.0.0 keenchaussuresfrance.fr
 0.0.0.0 keenchaussuresparis.fr
 0.0.0.0 keenparis.fr
@@ -13881,6 +13899,7 @@
 0.0.0.0 kingchance1.fr
 0.0.0.0 kingjouets.fr
 0.0.0.0 kingmaker-casino.fr
+0.0.0.0 kingmakercasinofrance.fr
 0.0.0.0 kings-chance-casino.fr
 0.0.0.0 kingschancecasino.fr
 0.0.0.0 kingschanceenligne.fr
@@ -18356,6 +18375,7 @@
 0.0.0.0 nvgtnoutletfrance.fr
 0.0.0.0 nvlcvitale2023.fr
 0.0.0.0 nxnn.fr
+0.0.0.0 nx-prime.fr
 0.0.0.0 nyxbetcasino.fr
 0.0.0.0 nyxbets-casino.fr
 0.0.0.0 nyxbetscasino.fr
@@ -18454,6 +18474,8 @@
 0.0.0.0 olukai-france.fr
 0.0.0.0 olukaiparis.fr
 0.0.0.0 olx.re
+0.0.0.0 olympecasinoenligne.fr
+0.0.0.0 olympecasino-france.fr
 0.0.0.0 olympecasinofrance.fr
 0.0.0.0 olympecasinos.fr
 0.0.0.0 omd1478.fr
@@ -19455,6 +19477,7 @@
 0.0.0.0 persowanadoo.fr
 0.0.0.0 peterkaiserchaussures.fr
 0.0.0.0 peterskaiserparis.fr
+0.0.0.0 petitegolden.fr
 0.0.0.0 peugeot-service.fr
 0.0.0.0 peugoet.fr
 0.0.0.0 peypal.fr
@@ -19602,6 +19625,7 @@
 0.0.0.0 pirnhub.fr
 0.0.0.0 pirtekhydrauliqueservicesas.fr
 0.0.0.0 piste3salizia.fr
+0.0.0.0 pistolo-casino.fr
 0.0.0.0 pistolocasino.fr
 0.0.0.0 pitchbriochepasquier.fr
 0.0.0.0 pitsviperfrance.fr
@@ -20103,6 +20127,7 @@
 0.0.0.0 prime-modifier.fr
 0.0.0.0 prime-nflx.fr
 0.0.0.0 primenickel.fr
+0.0.0.0 prime-nx.fr
 0.0.0.0 prime-ok.fr
 0.0.0.0 prime-operation.fr
 0.0.0.0 prime-panneau-solaire.fr
@@ -20138,14 +20163,17 @@
 0.0.0.0 prime-resume.fr
 0.0.0.0 prime-retour.fr
 0.0.0.0 primesalto.fr
+0.0.0.0 prime-sav.fr
 0.0.0.0 prime-service.fr
 0.0.0.0 primeservice.fr
 0.0.0.0 prime-services.fr
+0.0.0.0 prime-sev.fr
 0.0.0.0 prime-souscription.fr
 0.0.0.0 primesouscription.fr
 0.0.0.0 prime-souscriptions.fr
 0.0.0.0 prime-souscrire.fr
 0.0.0.0 primestore.fr
+0.0.0.0 prime-sv.fr
 0.0.0.0 prime-utilisateur.fr
 0.0.0.0 prime-utilisateurs.fr
 0.0.0.0 prime-utilisation.fr
@@ -21862,6 +21890,7 @@
 0.0.0.0 sav-netflix.fr
 0.0.0.0 savorange.fr
 0.0.0.0 savportails.fr
+0.0.0.0 sav-prime.fr
 0.0.0.0 sberbank.re
 0.0.0.0 scamdoc.fr
 0.0.0.0 scarmor-sa.fr
@@ -22448,6 +22477,7 @@
 0.0.0.0 serff.fr
 0.0.0.0 sergiorossiparis.fr
 0.0.0.0 sericecartevitale.fr
+0.0.0.0 serienetflix.fr
 0.0.0.0 serieomar.fr
 0.0.0.0 ser-lebonc-sys.fr
 0.0.0.0 ser-majsg.fr
@@ -23020,6 +23050,7 @@
 0.0.0.0 session-nickel.fr
 0.0.0.0 sevice-mabanque-bnp-paribas.fr
 0.0.0.0 sevice-mabanque-bnpparibas.fr
+0.0.0.0 sev-prime.fr
 0.0.0.0 sexefelin.fr
 0.0.0.0 sexenbretagne.fr
 0.0.0.0 sextag.fr
@@ -23362,6 +23393,7 @@
 0.0.0.0 simploncertif.fr
 0.0.0.0 sim-sfr.fr
 0.0.0.0 sim-sfr-service.fr
+0.0.0.0 simsinocasinofrance.fr
 0.0.0.0 simsino-casino-fr.fr
 0.0.0.0 simsinocasino-fr.fr
 0.0.0.0 simsinocasinoo.fr
@@ -23629,6 +23661,7 @@
 0.0.0.0 socgenr-particuliers.fr
 0.0.0.0 socgen-toulouse.fr
 0.0.0.0 socgneralep.fr
+0.0.0.0 socgn-particulier.fr
 0.0.0.0 socgn-particuliers.fr
 0.0.0.0 soche.fr
 0.0.0.0 sociale-cartesecu.fr
@@ -24727,6 +24760,7 @@
 0.0.0.0 suvis-laposte.fr
 0.0.0.0 suzukiauto.fr
 0.0.0.0 suzuky.fr
+0.0.0.0 sv-prime.fr
 0.0.0.0 swarovski-france.fr
 0.0.0.0 swarovskiparis.fr
 0.0.0.0 swatchparis.fr
@@ -25225,6 +25259,7 @@
 0.0.0.0 trapstaroutlet.fr
 0.0.0.0 trapstar-paris.fr
 0.0.0.0 trapstarpascher.fr
+0.0.0.0 trapstarsfrance.fr
 0.0.0.0 trapstarvip.fr
 0.0.0.0 trapvente.fr
 0.0.0.0 trasavia.fr
@@ -25281,6 +25316,7 @@
 0.0.0.0 tweetdeck.fr
 0.0.0.0 twinbuschfrance.fr
 0.0.0.0 twinbuschsarl.fr
+0.0.0.0 twincasinofrance.fr
 0.0.0.0 twincasinos.fr
 0.0.0.0 twinpromotlon.fr
 0.0.0.0 twitch.re
@@ -25358,6 +25394,7 @@
 0.0.0.0 uinvloraine.fr
 0.0.0.0 uiv-tlse3.fr
 0.0.0.0 uiwz.fr
+0.0.0.0 ukamazon.fr
 0.0.0.0 ulij.pm
 0.0.0.0 ulisfrance.fr
 0.0.0.0 ultf.fr
@@ -25837,6 +25874,7 @@
 0.0.0.0 verifications-infos.fr
 0.0.0.0 verifications-netfiix-courrier.fr
 0.0.0.0 verifications-orange.fr
+0.0.0.0 verifications-prime.fr
 0.0.0.0 verifications-securite.fr
 0.0.0.0 verification-support.fr
 0.0.0.0 verification-ticket.fr
@@ -25905,6 +25943,7 @@
 0.0.0.0 veris-finance.fr
 0.0.0.0 verisue.fr
 0.0.0.0 verisure-alarme.fr
+0.0.0.0 verisure-france.fr
 0.0.0.0 verrouillage-netfiix.fr
 0.0.0.0 versaceparis.fr
 0.0.0.0 versbaudet.fr
