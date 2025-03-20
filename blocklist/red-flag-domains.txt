@@ -777,6 +777,7 @@
 0.0.0.0 adecoo.fr
 0.0.0.0 adef-residences.fr
 0.0.0.0 adequat-chaussures.fr
+0.0.0.0 adherence-prime.fr
 0.0.0.0 adherents-mmei.fr
 0.0.0.0 adhesion-prime.fr
 0.0.0.0 adhesionprime.fr
@@ -4876,6 +4877,7 @@
 0.0.0.0 bouygues-telecoms.fr
 0.0.0.0 bouyguesteleom.fr
 0.0.0.0 bouygues-tel.fr
+0.0.0.0 bouyguestel-info.fr
 0.0.0.0 bouyguestel-moncompte-a-jour.fr
 0.0.0.0 bouyguestravauxpublics.fr
 0.0.0.0 bouyuestelecom.fr
@@ -5604,6 +5606,7 @@
 0.0.0.0 casheds.fr
 0.0.0.0 cashexpres.fr
 0.0.0.0 cashwin-casino1.fr
+0.0.0.0 cashwin-casino.fr
 0.0.0.0 casier-judicaire.fr
 0.0.0.0 casier-judiciaire-express.fr
 0.0.0.0 casiersjudiciaires.fr
@@ -5626,6 +5629,7 @@
 0.0.0.0 casinofunbet.fr
 0.0.0.0 casino-golden.fr
 0.0.0.0 casino-golden-panda.fr
+0.0.0.0 casinogoldenpanda.fr
 0.0.0.0 casino-groupes.fr
 0.0.0.0 casinogroup.fr
 0.0.0.0 casino-jackpotbob.fr
@@ -5644,6 +5648,8 @@
 0.0.0.0 casinoretraitinstantane.fr
 0.0.0.0 casinos247.fr
 0.0.0.0 casinos-barriere.fr
+0.0.0.0 casinosg.fr
+0.0.0.0 casinosinstant.fr
 0.0.0.0 casinosky.fr
 0.0.0.0 casino-spinanga.fr
 0.0.0.0 casino-spinsy.fr
@@ -5783,6 +5789,7 @@
 0.0.0.0 centarlesupelec.fr
 0.0.0.0 centerdappel.fr
 0.0.0.0 centerpark.fr
+0.0.0.0 center-prime.fr
 0.0.0.0 centersparcs.fr
 0.0.0.0 centiane.fr
 0.0.0.0 centracor.fr
@@ -6196,6 +6203,7 @@
 0.0.0.0 ch-liborne.fr
 0.0.0.0 chloefrance.fr
 0.0.0.0 chloereplica.re
+0.0.0.0 ch-martiguse.fr
 0.0.0.0 ch-montbrison.fr
 0.0.0.0 ch-neris.fr
 0.0.0.0 choisimoncode.fr
@@ -7521,6 +7529,7 @@
 0.0.0.0 compte-auchan.fr
 0.0.0.0 compte-authentification.fr
 0.0.0.0 compte-auth.fr
+0.0.0.0 comptebancairefortuneo.fr
 0.0.0.0 compte-banque.fr
 0.0.0.0 compte-bnpparibas.fr
 0.0.0.0 compte-ca-agricole.fr
@@ -10666,6 +10675,9 @@
 0.0.0.0 fashion-outlet.fr
 0.0.0.0 fasola.fr
 0.0.0.0 fastfootball.fr
+0.0.0.0 fastslotcasino.fr
+0.0.0.0 fastslotscasino.fr
+0.0.0.0 fast-slots.fr
 0.0.0.0 fatboss-casino1.fr
 0.0.0.0 fatbosscasinos.fr
 0.0.0.0 fatboss-online.fr
@@ -10698,6 +10710,7 @@
 0.0.0.0 fdwz.fr
 0.0.0.0 federal-finances.fr
 0.0.0.0 federation-francaise-rugby.fr
+0.0.0.0 federation-prime.fr
 0.0.0.0 fedex-express.fr
 0.0.0.0 fedexexpress.fr
 0.0.0.0 fedex-tracking.fr
@@ -10995,6 +11008,7 @@
 0.0.0.0 forumphotovoltaique.fr
 0.0.0.0 foruneo.fr
 0.0.0.0 forurm-candaulisme.fr
+0.0.0.0 fossil-france.fr
 0.0.0.0 fossilmagasinparis.fr
 0.0.0.0 fossiloutletfrance.fr
 0.0.0.0 fotuneo.fr
@@ -12731,6 +12745,7 @@
 0.0.0.0 ildecasino.fr
 0.0.0.0 ildefrance-mobilites.fr
 0.0.0.0 iledefrace-mobilites.fr
+0.0.0.0 iledefrance-abonnement.fr
 0.0.0.0 iledefrance-credit-agricole.fr
 0.0.0.0 ile-defrance.fr
 0.0.0.0 ilede-france.fr
@@ -12740,6 +12755,7 @@
 0.0.0.0 iledefrance-navigo.fr
 0.0.0.0 iledefrance-renouvellement.fr
 0.0.0.0 iledefrance-transport.fr
+0.0.0.0 iledefrance-transports.fr
 0.0.0.0 ilefrance.fr
 0.0.0.0 illiad.fr
 0.0.0.0 ilnkedin.fr
@@ -13766,6 +13782,8 @@
 0.0.0.0 jellycatfrance.fr
 0.0.0.0 jellycatfr.fr
 0.0.0.0 jellycatsoldes.fr
+0.0.0.0 jemlitcasino.fr
+0.0.0.0 jemlit.fr
 0.0.0.0 je-paye-mon-amende.fr
 0.0.0.0 je-regularise-mon-abonnnement.fr
 0.0.0.0 jessemccartney.fr
@@ -15283,14 +15301,18 @@
 0.0.0.0 lucky31-france.fr
 0.0.0.0 lucky7casino.fr
 0.0.0.0 lucky8-casinos.fr
+0.0.0.0 luckyblockcasino.fr
 0.0.0.0 lucky-bonus.fr
+0.0.0.0 lucky-elfcasino.fr
 0.0.0.0 luckyelf-casino.fr
 0.0.0.0 lucky-elf.fr
+0.0.0.0 luckyloterie.fr
 0.0.0.0 luckym8.fr
 0.0.0.0 lucky-spins.fr
 0.0.0.0 lucky-treasure1.fr
 0.0.0.0 luckytreasure-casino.fr
 0.0.0.0 luckytreasurecasino-fr.fr
+0.0.0.0 lucky-treasure-fr.fr
 0.0.0.0 lucky-treasure-play.fr
 0.0.0.0 luckyvibecasino.fr
 0.0.0.0 ludovicblancsocietegenralefr.fr
@@ -16006,6 +16028,7 @@
 0.0.0.0 meetuc.fr
 0.0.0.0 meeyic.fr
 0.0.0.0 megaballcasino.fr
+0.0.0.0 megadicecasino.fr
 0.0.0.0 megawincasinos.fr
 0.0.0.0 megen.fr
 0.0.0.0 meindl-france.fr
@@ -18792,6 +18815,7 @@
 0.0.0.0 ortliebparis.fr
 0.0.0.0 orzange.fr
 0.0.0.0 osalto.fr
+0.0.0.0 oshicasino.fr
 0.0.0.0 osirisbasketsshop.fr
 0.0.0.0 osiriscasino.fr
 0.0.0.0 osirisparissale.fr
@@ -19755,6 +19779,7 @@
 0.0.0.0 platinmods.fr
 0.0.0.0 playbacpress.fr
 0.0.0.0 playbaspresse.fr
+0.0.0.0 play-flix.fr
 0.0.0.0 playio4.fr
 0.0.0.0 playmobill.fr
 0.0.0.0 playpal.fr
@@ -20156,6 +20181,7 @@
 0.0.0.0 primeactivation.fr
 0.0.0.0 prime-active.fr
 0.0.0.0 prime-activer.fr
+0.0.0.0 prime-adherence.fr
 0.0.0.0 prime-adhesion.fr
 0.0.0.0 primeadhesion.fr
 0.0.0.0 prime-amaz.fr
@@ -20527,6 +20553,7 @@
 0.0.0.0 rabparis.fr
 0.0.0.0 racasinoenligne.fr
 0.0.0.0 racasinos.fr
+0.0.0.0 raccord-prime.fr
 0.0.0.0 racetool.fr
 0.0.0.0 racharge.fr
 0.0.0.0 radio42.fr
@@ -20870,6 +20897,7 @@
 0.0.0.0 registre-compte-clients.fr
 0.0.0.0 registre-cpam.fr
 0.0.0.0 registre-votrecartevitale.fr
+0.0.0.0 reglage-prime.fr
 0.0.0.0 reglages-prime.fr
 0.0.0.0 reglement-amande.fr
 0.0.0.0 reglement-amandegouv.fr
@@ -21379,6 +21407,7 @@
 0.0.0.0 renouvellement-securitesociale-amel.fr
 0.0.0.0 renouvellement-securpass.fr
 0.0.0.0 renouvellement-secu-vitale.fr
+0.0.0.0 renouvellement-service-assure-en-ligne.fr
 0.0.0.0 renouvellement-service-assure-enligne.fr
 0.0.0.0 renouvellement-servicecarte.fr
 0.0.0.0 renouvellement-service-client.fr
@@ -22561,6 +22590,7 @@
 0.0.0.0 selarbiosites.fr
 0.0.0.0 selectedparis.fr
 0.0.0.0 selection-compte.fr
+0.0.0.0 selection-prime.fr
 0.0.0.0 selectrnic.fr
 0.0.0.0 selfhtml.fr
 0.0.0.0 selftissu.fr
@@ -25266,6 +25296,7 @@
 0.0.0.0 tommyhilfigerparis.fr
 0.0.0.0 tomschaussures.fr
 0.0.0.0 toms-france.fr
+0.0.0.0 tomsfrance.fr
 0.0.0.0 tomsparis.fr
 0.0.0.0 tomsshoesfrance.fr
 0.0.0.0 tonbonheurcheznous.fr
@@ -25444,6 +25475,7 @@
 0.0.0.0 tuperware.fr
 0.0.0.0 tupperwarefrance.fr
 0.0.0.0 turfomani.fr
+0.0.0.0 turkishairline.fr
 0.0.0.0 turtlediary.fr
 0.0.0.0 tuue.fr
 0.0.0.0 tuyfly.fr
@@ -25863,6 +25895,7 @@
 0.0.0.0 valider-edf.fr
 0.0.0.0 validite-du-coupon.fr
 0.0.0.0 validite-societe-generale.fr
+0.0.0.0 valid-prime.fr
 0.0.0.0 valophishabitat.fr
 0.0.0.0 valsnkrs98.fr
 0.0.0.0 vanessawuparis.fr
@@ -26683,6 +26716,7 @@
 0.0.0.0 wikipedia.wf
 0.0.0.0 wikipeida.fr
 0.0.0.0 wildberries.re
+0.0.0.0 wild-dicecasino.fr
 0.0.0.0 wilddice-casino.fr
 0.0.0.0 wilddice-casinos.fr
 0.0.0.0 wilddicecasinos.fr
