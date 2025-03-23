@@ -28,6 +28,8 @@ Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-M
 
 For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
 
+---
+
 ### ![image](https://github.com/user-attachments/assets/1337eada-e81e-49ae-b168-049062f55177) Archlinux Setup
 
 For Archlinux users, a package is present on [AUR repository](https://aur.archlinux.org/packages/respect-my-internet-git) :
