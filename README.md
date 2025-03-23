@@ -28,11 +28,17 @@ Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-M
 
 For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
 
-For Archlinux users, a package is present on [AUR repository](https://aur.archlinux.org/packages/respect-my-internet-git)
+### https://raw.githubusercontent.com/JotaRandom/archlinux-artwork/a9029989166ef42e10251f9d0f0fd09e60be2f31/icons/archlinux-icon-crystal-128.svg Archlinux Setup
+
+For Archlinux users, a package is present on [AUR repository](https://aur.archlinux.org/packages/respect-my-internet-git) :
+
+```yay -S respect-my-internet-git```
+
+Write ```respect-my-internet``` in your favorite terminal to initialise and update the blocklist
 
 ---
 
-### ✅ Downloads
+### ✅ Manual Downloads
 
 | Blocklist version | OpenSnitch | LittleSnitch |
 | --- | --- | --- |
