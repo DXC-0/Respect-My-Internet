@@ -4754,6 +4754,7 @@
 0.0.0.0 bookingsecure.fr
 0.0.0.0 bookingss.fr
 0.0.0.0 bookinq.fr
+0.0.0.0 boomerangbetcasino.fr
 0.0.0.0 boomerangcasino1.fr
 0.0.0.0 boomerangscasino.fr
 0.0.0.0 boomsbet-casino.fr
@@ -5441,6 +5442,7 @@
 0.0.0.0 carte-mobilite-imclusion.fr
 0.0.0.0 cartemutuelle.fr
 0.0.0.0 carte-opposition.fr
+0.0.0.0 carte-pass-carrefour.fr
 0.0.0.0 cartepass-carrefour.fr
 0.0.0.0 carte-pcs-security.fr
 0.0.0.0 carte-regularisation.fr
@@ -5645,6 +5647,7 @@
 0.0.0.0 casino-francedistribution.fr
 0.0.0.0 casino-funbet.fr
 0.0.0.0 casinofunbet.fr
+0.0.0.0 casinogodofcoins.fr
 0.0.0.0 casino-golden.fr
 0.0.0.0 casino-golden-panda.fr
 0.0.0.0 casinogoldenpanda.fr
@@ -8582,6 +8585,7 @@
 0.0.0.0 cyberinfractions-service.fr
 0.0.0.0 cybermalveillance-gov.fr
 0.0.0.0 cyberpanel.fr
+0.0.0.0 cyberpol-france.fr
 0.0.0.0 cyberpolicegouv.fr
 0.0.0.0 cyber-psn.fr
 0.0.0.0 cyberpsn.fr
@@ -10592,6 +10596,7 @@
 0.0.0.0 expedition-colis.fr
 0.0.0.0 expedition-colissimo.fr
 0.0.0.0 expedition-dhl.fr
+0.0.0.0 expedition-mondialrelay.fr
 0.0.0.0 expeditionmondialrelay.fr
 0.0.0.0 expedition-relivraison.fr
 0.0.0.0 expeditions-fnac.fr
@@ -11763,6 +11768,7 @@
 0.0.0.0 go9gle.fr
 0.0.0.0 go9ogle.fr
 0.0.0.0 godlen-goose.fr
+0.0.0.0 godofcoins-casino.fr
 0.0.0.0 go-flix.fr
 0.0.0.0 gogledrive.fr
 0.0.0.0 gogl.fr
@@ -11844,6 +11850,7 @@
 0.0.0.0 google-assistance.fr
 0.0.0.0 googlebank.fr
 0.0.0.0 googleblog.fr
+0.0.0.0 googledomaine.fr
 0.0.0.0 googledomaines.fr
 0.0.0.0 googledomains.fr
 0.0.0.0 google-drive.fr
@@ -18439,7 +18446,9 @@
 0.0.0.0 notif-alertesg.fr
 0.0.0.0 notif-chronopost.fr
 0.0.0.0 notif-cmb.fr
+0.0.0.0 notificationallocations-familiales.fr
 0.0.0.0 notification-ameli.fr
+0.0.0.0 notificationantaii-gouuv.fr
 0.0.0.0 notification-assurance.fr
 0.0.0.0 notification-auto.fr
 0.0.0.0 notification-carefour.fr
@@ -19423,6 +19432,7 @@
 0.0.0.0 passage-secure.fr
 0.0.0.0 passbanquepopulaire.fr
 0.0.0.0 pass-caisse-epargne.fr
+0.0.0.0 pass-carrefour.fr
 0.0.0.0 pass-carte-carrefour.fr
 0.0.0.0 passclientsnav.fr
 0.0.0.0 pass-connecte.fr
@@ -21581,6 +21591,8 @@
 0.0.0.0 reportersansfrontieres.fr
 0.0.0.0 reporterssansfrontieres.fr
 0.0.0.0 reprendre-mon-abonnement.fr
+0.0.0.0 repression-fraude.fr
+0.0.0.0 repressionfraudes.fr
 0.0.0.0 repressionsfraudes.fr
 0.0.0.0 reproduction-enligne.fr
 0.0.0.0 reprogrammation-colissimo.fr
@@ -22920,6 +22932,7 @@
 0.0.0.0 service-de-paiement-des-infractions.fr
 0.0.0.0 service-des-amendes.fr
 0.0.0.0 service-dgfip.fr
+0.0.0.0 service-dhl-enligne.fr
 0.0.0.0 service-dhl.fr
 0.0.0.0 service-digitale-client.fr
 0.0.0.0 servicedisney.fr
@@ -24178,6 +24191,7 @@
 0.0.0.0 spin-cash-win.fr
 0.0.0.0 spincastle.fr
 0.0.0.0 spin-fever.fr
+0.0.0.0 spinight-casino.fr
 0.0.0.0 spinightcasino.fr
 0.0.0.0 spinit-casino.fr
 0.0.0.0 spinmillion-casino.fr
@@ -26845,6 +26859,7 @@
 0.0.0.0 winamzx.fr
 0.0.0.0 winapax.fr
 0.0.0.0 winbay-casino.fr
+0.0.0.0 winbaycasinos.fr
 0.0.0.0 winbet-fr.fr
 0.0.0.0 windevv.fr
 0.0.0.0 windows-assistance.fr
@@ -26982,6 +26997,7 @@
 0.0.0.0 www-credit-du-nord-vpass.fr
 0.0.0.0 wwwcyves-rocher.fr
 0.0.0.0 wwwdhl.fr
+0.0.0.0 wwwdoctolib.fr
 0.0.0.0 www-dofus-com.fr
 0.0.0.0 wwwdofus.fr
 0.0.0.0 wwwdpd.fr
@@ -27020,14 +27036,17 @@
 0.0.0.0 wwwklesia.fr
 0.0.0.0 www-labanquepostale.fr
 0.0.0.0 wwwlacaf.fr
+0.0.0.0 wwwladepeche.fr
 0.0.0.0 wwwlangon33.fr
 0.0.0.0 wwwlaretraite.fr
+0.0.0.0 wwwlargus.fr
 0.0.0.0 www-larousse.fr
 0.0.0.0 wwwlautoentrepreneur.fr
 0.0.0.0 www-leboncoin.fr
 0.0.0.0 wwwleboncoin.fr
 0.0.0.0 wwwleparisien.fr
 0.0.0.0 wwwlhommemoderne.fr
+0.0.0.0 wwwliberation.fr
 0.0.0.0 www-linkedin.fr
 0.0.0.0 www-lmpotsgouv.fr
 0.0.0.0 wwwlunlon.fr
