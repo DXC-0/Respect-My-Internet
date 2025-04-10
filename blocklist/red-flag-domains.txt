@@ -4429,6 +4429,7 @@
 0.0.0.0 berlinale.fr
 0.0.0.0 berrybeautemarollessas.fr
 0.0.0.0 bershkaboutique.fr
+0.0.0.0 bershka-france.fr
 0.0.0.0 bershkafrance.fr
 0.0.0.0 bershkafr.fr
 0.0.0.0 bershkaparis.fr
@@ -5669,6 +5670,7 @@
 0.0.0.0 casino-betriot.fr
 0.0.0.0 casinobetriot.fr
 0.0.0.0 casino-casinoextra.fr
+0.0.0.0 casino-classic.fr
 0.0.0.0 casinocoolzino.fr
 0.0.0.0 casinoenargentreel.fr
 0.0.0.0 casinoenlignenouveau.fr
@@ -9354,6 +9356,7 @@
 0.0.0.0 doctolib-espace.fr
 0.0.0.0 doctolib-infos.fr
 0.0.0.0 doctolib-rdv.fr
+0.0.0.0 doctolib-remboursement.fr
 0.0.0.0 doctolibrendez-vous.fr
 0.0.0.0 doctolib-sms.fr
 0.0.0.0 doctoliob.fr
@@ -11335,6 +11338,7 @@
 0.0.0.0 fr-butgroupe.fr
 0.0.0.0 fr-calcuso.fr
 0.0.0.0 fr-carrefour.fr
+0.0.0.0 fr-casinoclassic.fr
 0.0.0.0 fr-cegedim-activ.fr
 0.0.0.0 fr-celad.fr
 0.0.0.0 fr-charal.fr
@@ -11439,6 +11443,7 @@
 0.0.0.0 fr-ivalua.fr
 0.0.0.0 fr-jacquemus.fr
 0.0.0.0 fr-jems-datafactory.fr
+0.0.0.0 fr-juliuscasino.fr
 0.0.0.0 fr-kubotaeurope.fr
 0.0.0.0 fr-leboncoin.fr
 0.0.0.0 fr-le-republicain-lorrain.fr
@@ -11895,6 +11900,7 @@
 0.0.0.0 golden-pass.fr
 0.0.0.0 goldenshoes.fr
 0.0.0.0 goldenstars.fr
+0.0.0.0 goldentiger.fr
 0.0.0.0 goldenwatches.fr
 0.0.0.0 goldspin-casino.fr
 0.0.0.0 goldspincasino.fr
@@ -12032,6 +12038,7 @@
 0.0.0.0 gouv-antai-regularisations.fr
 0.0.0.0 gouv-assistance-antai.fr
 0.0.0.0 gouv-assurance-maladie.fr
+0.0.0.0 gouv-auth.fr
 0.0.0.0 gouvb.fr
 0.0.0.0 gouv-cartevitale.fr
 0.0.0.0 gouv-cert-air.fr
@@ -12493,6 +12500,7 @@
 0.0.0.0 hentavost.fr
 0.0.0.0 hepatites-info-service.fr
 0.0.0.0 heritagebathrooms.fr
+0.0.0.0 hermes-casino.fr
 0.0.0.0 hermes-destock.fr
 0.0.0.0 hermes-france.fr
 0.0.0.0 hermesofficiel.fr
@@ -12884,6 +12892,8 @@
 0.0.0.0 ikebana-store.fr
 0.0.0.0 ildecasino.fr
 0.0.0.0 ildefrance-mobilites.fr
+0.0.0.0 iledecasinofrance.fr
+0.0.0.0 iledecasinos.fr
 0.0.0.0 iledefrace-mobilites.fr
 0.0.0.0 iledefrance-abonnement.fr
 0.0.0.0 iledefrance-credit-agricole.fr
@@ -18463,6 +18473,7 @@
 0.0.0.0 ninecasinoenligne.fr
 0.0.0.0 nine-casinos.fr
 0.0.0.0 ninho-billeterie.fr
+0.0.0.0 ninho-billetterie.fr
 0.0.0.0 ninho-officiel.fr
 0.0.0.0 ninite.re
 0.0.0.0 nintedo.fr
@@ -18515,6 +18526,7 @@
 0.0.0.0 noreply-assistance-bouyguestelecom.fr
 0.0.0.0 noreplycaisse-epargne.fr
 0.0.0.0 no-reply-chrono-delivery-france.fr
+0.0.0.0 no-reply-credit-agr.fr
 0.0.0.0 noreply-creditagricole22.fr
 0.0.0.0 noreplyepaypal.fr
 0.0.0.0 no-reply.fr
@@ -19785,6 +19797,7 @@
 0.0.0.0 pepejeansfrance.fr
 0.0.0.0 pepejeansparis.fr
 0.0.0.0 pepiniere-valderdre.fr
+0.0.0.0 peppermill-casino.fr
 0.0.0.0 pepsicofrance.fr
 0.0.0.0 pepsimetaverse.fr
 0.0.0.0 peractive.fr
@@ -25609,6 +25622,7 @@
 0.0.0.0 toujoursdesbillets.fr
 0.0.0.0 toulon-cybertek.fr
 0.0.0.0 touloncybertek.fr
+0.0.0.0 toulouse-aeroport.fr
 0.0.0.0 toulouse-cybertek.fr
 0.0.0.0 toulousecybertek.fr
 0.0.0.0 toulouse-magasincybertek.fr
@@ -27014,8 +27028,10 @@
 0.0.0.0 wikipedia.wf
 0.0.0.0 wikipeida.fr
 0.0.0.0 wildberries.re
+0.0.0.0 wilddicecasino24.fr
 0.0.0.0 wild-dicecasino.fr
 0.0.0.0 wilddice-casino.fr
+0.0.0.0 wilddicecasinoo.fr
 0.0.0.0 wilddice-casinos.fr
 0.0.0.0 wilddicecasinos.fr
 0.0.0.0 wildlingshoesfrance.fr
