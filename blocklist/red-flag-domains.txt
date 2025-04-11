@@ -3619,6 +3619,7 @@
 0.0.0.0 assurances-vitale.fr
 0.0.0.0 assurancesvitale.fr
 0.0.0.0 assurances-vitales.fr
+0.0.0.0 assurancevie-caisse-epargne.fr
 0.0.0.0 assurance-vitale-ameli.fr
 0.0.0.0 assurancevitale-ameli.fr
 0.0.0.0 assurance-vitale.fr
@@ -4261,6 +4262,7 @@
 0.0.0.0 banquepopulaire-annulation.fr
 0.0.0.0 banquepopulaire-appdemo.fr
 0.0.0.0 banquepopulaire-connexion.fr
+0.0.0.0 banquepopulairecotedazur.fr
 0.0.0.0 banquepopulairedesalpes.fr
 0.0.0.0 banquepopulairedunord.fr
 0.0.0.0 banque-populaire-fr.fr
@@ -4961,6 +4963,7 @@
 0.0.0.0 bppostaleparticulier-pro.fr
 0.0.0.0 bp-service.fr
 0.0.0.0 bp-sneakers.fr
+0.0.0.0 bpvfbanquepopulaire.fr
 0.0.0.0 bqnque-de-savoie.fr
 0.0.0.0 br27me-banquepopulaire.fr
 0.0.0.0 bracabrac.fr
@@ -5703,6 +5706,8 @@
 0.0.0.0 casino-olympe.fr
 0.0.0.0 casinoolympe.fr
 0.0.0.0 casinoorca.fr
+0.0.0.0 casino-pistolo.fr
+0.0.0.0 casinopistolo.fr
 0.0.0.0 casinoposido.fr
 0.0.0.0 casinoprivefrance.fr
 0.0.0.0 casinoquickwin.fr
@@ -9293,6 +9298,7 @@
 0.0.0.0 distriartisant.fr
 0.0.0.0 distrib-rely.fr
 0.0.0.0 distribution-prime.fr
+0.0.0.0 distributions-carrefour.fr
 0.0.0.0 distributions-prime.fr
 0.0.0.0 distri-francap.fr
 0.0.0.0 distri-matic.fr
@@ -9395,6 +9401,7 @@
 0.0.0.0 dopeparis.fr
 0.0.0.0 dope-snow-france.fr
 0.0.0.0 dopesnowsoldes.fr
+0.0.0.0 doretdeplatine-billet.fr
 0.0.0.0 doretdeplatine-billetterie.fr
 0.0.0.0 doretdeplatine-ticket.fr
 0.0.0.0 dossaudio.fr
@@ -9671,6 +9678,7 @@
 0.0.0.0 eden-park-paris.fr
 0.0.0.0 edenpark-paris.fr
 0.0.0.0 edenredfrance.fr
+0.0.0.0 e-depotdsfond-auth.fr
 0.0.0.0 edf-accounting.fr
 0.0.0.0 edf-agence.fr
 0.0.0.0 edf-arrieres.fr
@@ -14435,6 +14443,7 @@
 0.0.0.0 laposteredirection.fr
 0.0.0.0 laposte-relivraison.fr
 0.0.0.0 laposte-relivraisons.fr
+0.0.0.0 laposte-reprogrammation-colis.fr
 0.0.0.0 laposteservicecolis.fr
 0.0.0.0 laposteservice.fr
 0.0.0.0 la-postes.fr
@@ -19224,6 +19233,7 @@
 0.0.0.0 paiement-netflx.fr
 0.0.0.0 paiement-ouicar.fr
 0.0.0.0 paiementpaylibinstantencours.fr
+0.0.0.0 paiementpaypal.fr
 0.0.0.0 paiementrecuenligne.fr
 0.0.0.0 paiement-renouvellement.fr
 0.0.0.0 paiement-revolut.fr
