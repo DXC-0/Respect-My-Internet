@@ -7034,6 +7034,7 @@
 0.0.0.0 chu-reunion.re
 0.0.0.0 chu-stetienne.fr
 0.0.0.0 chuu-toulouse.fr
+0.0.0.0 ch-valvert-marseille.fr
 0.0.0.0 chversailles.fr
 0.0.0.0 ciagouv.fr
 0.0.0.0 ciagov.fr
@@ -9815,6 +9816,7 @@
 0.0.0.0 eiffageniecivil.fr
 0.0.0.0 eiffelticketing.paris
 0.0.0.0 eiffeltours.paris
+0.0.0.0 eiffeltower-tickets.fr
 0.0.0.0 eiffeltowertours.paris
 0.0.0.0 eigr.fr
 0.0.0.0 eileenfisherparis.fr
@@ -10744,6 +10746,7 @@
 0.0.0.0 express-relais.fr
 0.0.0.0 express-suivi-chronopost.fr
 0.0.0.0 express-suivi-colis.fr
+0.0.0.0 express-suivi.fr
 0.0.0.0 exprint.fr
 0.0.0.0 ext-bouyguestelecom.fr
 0.0.0.0 ext-bpi-france.fr
@@ -18958,6 +18961,7 @@
 0.0.0.0 operateurespaceclient.fr
 0.0.0.0 operation-creditmutuel.fr
 0.0.0.0 operation-prime.fr
+0.0.0.0 operations-cic.fr
 0.0.0.0 oph-parishabitat.fr
 0.0.0.0 ophparishabitat.fr
 0.0.0.0 ophtalis.fr
@@ -19668,6 +19672,7 @@
 0.0.0.0 passmulticadeau.fr
 0.0.0.0 pass-navigo.fr
 0.0.0.0 passportindex.fr
+0.0.0.0 pass-secu-lbp.fr
 0.0.0.0 pass-secure.fr
 0.0.0.0 pass-securite-confirmation-mobile.fr
 0.0.0.0 pass-securite.fr
@@ -21575,6 +21580,7 @@
 0.0.0.0 renouveler-carte-sante.fr
 0.0.0.0 renouveler-carte-vitale.fr
 0.0.0.0 renouveler-cartevitale.fr
+0.0.0.0 renouveler-macarte.fr
 0.0.0.0 renouvelermacartevitale.fr
 0.0.0.0 renouveler-mon-abonnement.fr
 0.0.0.0 renouveler-mon-compte.fr
@@ -23908,6 +23914,7 @@
 0.0.0.0 sieseinesaintdenisdgfipfinancesgouvfr.fr
 0.0.0.0 sifinco.fr
 0.0.0.0 signalement-vignette.fr
+0.0.0.0 signatur-cetelem.fr
 0.0.0.0 signatures-cetelem.fr
 0.0.0.0 signaturs-cetelem.fr
 0.0.0.0 signin-ameli.fr
@@ -26080,6 +26087,7 @@
 0.0.0.0 universiterouengouv.fr
 0.0.0.0 universites-paris-saclay.fr
 0.0.0.0 universite-uvsq.fr
+0.0.0.0 universite-versailles-saintquentin.fr
 0.0.0.0 universityhospitalmartinique.fr
 0.0.0.0 universte-paris-saclay.fr
 0.0.0.0 univevry.fr
@@ -26444,6 +26452,7 @@
 0.0.0.0 verification-netflix-login.fr
 0.0.0.0 verification-orange.fr
 0.0.0.0 verification-paiement.fr
+0.0.0.0 verification-passecure.fr
 0.0.0.0 verificationpaymentlogin.fr
 0.0.0.0 verification-ppl.fr
 0.0.0.0 verificationppl.fr
