@@ -4004,6 +4004,7 @@
 0.0.0.0 auth-netflixsecurity.fr
 0.0.0.0 auth-ntflx.fr
 0.0.0.0 auth-orange.fr
+0.0.0.0 auth-orange-fr.fr
 0.0.0.0 auth-paiement.fr
 0.0.0.0 authpal.fr
 0.0.0.0 authpal-sec.fr
@@ -8455,6 +8456,7 @@
 0.0.0.0 credit-du-nord-vpass.fr
 0.0.0.0 crediteerect.fr
 0.0.0.0 creditfoncie.fr
+0.0.0.0 credit-fortuneo.fr
 0.0.0.0 creditimutuel.fr
 0.0.0.0 creditimutuelfrance.fr
 0.0.0.0 credit-lcl.fr
@@ -11453,6 +11455,7 @@
 0.0.0.0 freenewes.fr
 0.0.0.0 freepalestina.fr
 0.0.0.0 free-recharge-authentifcation.fr
+0.0.0.0 free-renouvellement.fr
 0.0.0.0 free-server.fr
 0.0.0.0 free-subscribe.fr
 0.0.0.0 free-telecom.fr
@@ -11690,6 +11693,7 @@
 0.0.0.0 gamonic.fr
 0.0.0.0 gandinet.fr
 0.0.0.0 gant-france.fr
+0.0.0.0 gap-fr.fr
 0.0.0.0 gap-outlet.fr
 0.0.0.0 gapoutlet.fr
 0.0.0.0 garageclothingfrance.fr
@@ -12534,6 +12538,7 @@
 0.0.0.0 helly-hansen.fr
 0.0.0.0 helly-hansen-france.fr
 0.0.0.0 hellyhansen-france.fr
+0.0.0.0 helly-hansen-fr.fr
 0.0.0.0 hellyhansenfr.fr
 0.0.0.0 hellyhansenparis.fr
 0.0.0.0 hellyhansenworkwear.fr
@@ -15943,6 +15948,8 @@
 0.0.0.0 maillotsfootpascher.fr
 0.0.0.0 maillots-foot-pas-chers.fr
 0.0.0.0 maillotslbenfica.fr
+0.0.0.0 maillotsparissaintgermain.fr
+0.0.0.0 maillotspsg.fr
 0.0.0.0 maillotsretro.fr
 0.0.0.0 maillotssweatshirts.fr
 0.0.0.0 maillotstore.fr
@@ -19516,6 +19523,8 @@
 0.0.0.0 parisolympics2024.fr
 0.0.0.0 parisolympique.fr
 0.0.0.0 parisportail.fr
+0.0.0.0 parissaintgermainfc.fr
+0.0.0.0 parissaintgermainstore.fr
 0.0.0.0 paris-taxig7.fr
 0.0.0.0 paris-univ8.fr
 0.0.0.0 parkacanadagoosepascher.fr
@@ -19960,6 +19969,7 @@
 0.0.0.0 pharmaciecasalonga-75018.fr
 0.0.0.0 pharmaciecentraleduparc.fr
 0.0.0.0 pharmaciecondorcet-clamart.fr
+0.0.0.0 pharmaciecourbevoie.fr
 0.0.0.0 pharmaciecraponne.fr
 0.0.0.0 pharmaciecuingnet.fr
 0.0.0.0 pharmacie-d-arthez.fr
@@ -20118,6 +20128,7 @@
 0.0.0.0 planet7casino.fr
 0.0.0.0 planeteled.fr
 0.0.0.0 planetside2.fr
+0.0.0.0 planification-colis.fr
 0.0.0.0 planification-mondialrelay-enligne.fr
 0.0.0.0 plantfor.fr
 0.0.0.0 plantor.fr
@@ -21137,6 +21148,7 @@
 0.0.0.0 recouvrement-netflixaccount.fr
 0.0.0.0 recouvrement-netflix.fr
 0.0.0.0 recouvrement-netfllx.fr
+0.0.0.0 recouvrement-paiment.fr
 0.0.0.0 recouvrement-paypal.fr
 0.0.0.0 recouvrement-service.fr
 0.0.0.0 recouvrement-sfr.fr
@@ -24655,6 +24667,7 @@
 0.0.0.0 stevemaddenparissale.fr
 0.0.0.0 st-finances.fr
 0.0.0.0 sthil-revendeur.fr
+0.0.0.0 stihl-fr.fr
 0.0.0.0 stilnovo.fr
 0.0.0.0 stirileprotv.re
 0.0.0.0 st-nazaire-cybertek.fr
@@ -25598,6 +25611,7 @@
 0.0.0.0 the-outletugg.fr
 0.0.0.0 thermomix-offre.fr
 0.0.0.0 thermomix-tm6.fr
+0.0.0.0 thermomyx.fr
 0.0.0.0 thermonix.fr
 0.0.0.0 thesims3.fr
 0.0.0.0 thesimsresource.fr
@@ -26072,6 +26086,7 @@
 0.0.0.0 uniqlofr.fr
 0.0.0.0 uniqlo-paris.fr
 0.0.0.0 uniqloparis.fr
+0.0.0.0 uniqlosfrance.fr
 0.0.0.0 uniquecasino-france.fr
 0.0.0.0 uniqulo.fr
 0.0.0.0 uni-reims.fr
