@@ -4544,6 +4544,7 @@
 0.0.0.0 billetscouperugby.fr
 0.0.0.0 billets-montsaintmichel.fr
 0.0.0.0 billetterie-concert.fr
+0.0.0.0 billetterie-doretdeplatines.fr
 0.0.0.0 billetterie-f1.fr
 0.0.0.0 billetteriejulofficiel.fr
 0.0.0.0 billetterieminute.fr
@@ -10323,6 +10324,7 @@
 0.0.0.0 espace-clients-sfr.fr
 0.0.0.0 espaceclients-sfr.fr
 0.0.0.0 espaceclients-sfr-gestionforfait.fr
+0.0.0.0 espaceclientsuivi.fr
 0.0.0.0 espaceclient-vitale-ameli.fr
 0.0.0.0 espaceclintenligne.fr
 0.0.0.0 espace-cltverif.fr
@@ -19367,6 +19369,7 @@
 0.0.0.0 paiementleboncoin.fr
 0.0.0.0 paiement-livraison.fr
 0.0.0.0 paiement-mon-amende.fr
+0.0.0.0 paiement-mondialrelay.fr
 0.0.0.0 paiement-mycanal.fr
 0.0.0.0 paiement-netflix.fr
 0.0.0.0 paiementnetflix.fr
@@ -23554,6 +23557,7 @@
 0.0.0.0 service-sfr-esim.fr
 0.0.0.0 services-g7taxi.fr
 0.0.0.0 service-sg.fr
+0.0.0.0 service-sg-mail.fr
 0.0.0.0 servicesgouv.fr
 0.0.0.0 service-shopify.fr
 0.0.0.0 service-sim-sfr.fr
