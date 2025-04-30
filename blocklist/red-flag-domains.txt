@@ -14123,6 +14123,8 @@
 0.0.0.0 jouetspatpatrouille.fr
 0.0.0.0 joueurs-info-services.fr
 0.0.0.0 joulesfrance.fr
+0.0.0.0 journal-officiel-etat-org.fr
+0.0.0.0 journalofficiel-etat-org.fr
 0.0.0.0 jp-france.fr
 0.0.0.0 jpmorgan-bk-chase.fr
 0.0.0.0 judiciairegouv.fr
@@ -16695,7 +16697,9 @@
 0.0.0.0 ministeredesfinancesparis.fr
 0.0.0.0 ministere-ecologie-air.fr
 0.0.0.0 ministere-education.fr
+0.0.0.0 ministere-pfs.fr
 0.0.0.0 ministerepublique.fr
+0.0.0.0 ministere-spfs.fr
 0.0.0.0 ministere-travail-gouve.fr
 0.0.0.0 ministre-affaire-etrangere.fr
 0.0.0.0 ministre-justice.fr
@@ -17601,6 +17605,7 @@
 0.0.0.0 monsoonfrance.fr
 0.0.0.0 monsoonparis.fr
 0.0.0.0 monspacesante.fr
+0.0.0.0 mon-status-livraison.fr
 0.0.0.0 monsterclippers-france.fr
 0.0.0.0 monsterdealsfrance.fr
 0.0.0.0 monster-win.fr
@@ -18910,6 +18915,7 @@
 0.0.0.0 offre-leboncoin.fr
 0.0.0.0 offrelg.fr
 0.0.0.0 offres-annonces-lbc-6214097305.fr
+0.0.0.0 offres-annonces-lbc6477494879843.fr
 0.0.0.0 offres-annonces-lbc-8932140539.fr
 0.0.0.0 offres-annonces-lbc.fr
 0.0.0.0 offresdabonnement.fr
@@ -20887,6 +20893,8 @@
 0.0.0.0 puberthenrisas.fr
 0.0.0.0 pubic.fr
 0.0.0.0 public-amendes.fr
+0.0.0.0 publications-officielles-etat.fr
+0.0.0.0 publicationsofficielles-etat.fr
 0.0.0.0 publicgeofoncier.fr
 0.0.0.0 publicpaiement.fr
 0.0.0.0 public-seervice.fr
@@ -21341,6 +21349,10 @@
 0.0.0.0 registre-clients-compte.fr
 0.0.0.0 registre-compte-clients.fr
 0.0.0.0 registre-cpam.fr
+0.0.0.0 registre-ipeci-etat-org.fr
+0.0.0.0 registreipeci-etat-org.fr
+0.0.0.0 registre-ipfs-etat.fr
+0.0.0.0 registre-ipfs-etat-org.fr
 0.0.0.0 registre-votrecartevitale.fr
 0.0.0.0 reglage-prime.fr
 0.0.0.0 reglages-prime.fr
@@ -25541,6 +25553,7 @@
 0.0.0.0 tebeo.fr
 0.0.0.0 techblast.fr
 0.0.0.0 techmiseajour.fr
+0.0.0.0 technique-urssaf.fr
 0.0.0.0 technocite.fr
 0.0.0.0 technoit.fr
 0.0.0.0 tech-support-outlook.fr
@@ -26342,6 +26355,7 @@
 0.0.0.0 urologie-chu-montpellier.fr
 0.0.0.0 u-rouen.fr
 0.0.0.0 urps-santepublique.fr
+0.0.0.0 ursafe.fr
 0.0.0.0 ursaff-il-de-france.fr
 0.0.0.0 ursasf.fr
 0.0.0.0 urssaaf.fr
@@ -27881,6 +27895,7 @@
 0.0.0.0 xn--mesrsultats-ebb.fr
 0.0.0.0 xn--meto-dpa.fr
 0.0.0.0 xn--mhsant-gva.fr
+0.0.0.0 xn--ministere-franais-nsb.fr
 0.0.0.0 xn--ministre-des-finances-france-mqc.fr
 0.0.0.0 xn--ministre-vitale-zmb.fr
 0.0.0.0 xn--mobilitmutuelle-hnb.fr
