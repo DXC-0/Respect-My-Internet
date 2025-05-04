@@ -4599,6 +4599,7 @@
 0.0.0.0 birkendestock.fr
 0.0.0.0 birken-outlet.fr
 0.0.0.0 birkenoutlet.fr
+0.0.0.0 birkenstock-destock.fr
 0.0.0.0 birkenstockensolde.fr
 0.0.0.0 birken-stock.fr
 0.0.0.0 birkenstock-fr.fr
@@ -4677,6 +4678,7 @@
 0.0.0.0 bnpassistance.fr
 0.0.0.0 bnpassitance.fr
 0.0.0.0 bnpbanq.fr
+0.0.0.0 bnpbanque.fr
 0.0.0.0 bnp-cle-digitale.fr
 0.0.0.0 bnpdepotplainte.fr
 0.0.0.0 bnpepargne.fr
@@ -8513,6 +8515,7 @@
 0.0.0.0 credits-du-nord.fr
 0.0.0.0 creditsdunord.fr
 0.0.0.0 creditsecour.fr
+0.0.0.0 credits-mutel.fr
 0.0.0.0 credits-suisse.fr
 0.0.0.0 credittmunicipal.fr
 0.0.0.0 creditvalidation.fr
@@ -8900,6 +8903,7 @@
 0.0.0.0 delivery-pickup.fr
 0.0.0.0 delivery-prime.fr
 0.0.0.0 deliveryprime.fr
+0.0.0.0 deliveryrelay.fr
 0.0.0.0 deliveryservices.fr
 0.0.0.0 delivery-ups-express.fr
 0.0.0.0 delivrancedestitres-ants.fr
@@ -12413,6 +12417,7 @@
 0.0.0.0 groupqma.fr
 0.0.0.0 grouprandstad.fr
 0.0.0.0 group-safran.fr
+0.0.0.0 group-scc.fr
 0.0.0.0 group-sodexo.fr
 0.0.0.0 groupsodexo.fr
 0.0.0.0 group-vinci-construction.fr
