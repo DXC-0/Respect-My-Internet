@@ -5960,6 +5960,8 @@
 0.0.0.0 centralpneu.fr
 0.0.0.0 centralsupelec.fr
 0.0.0.0 central-ticket.fr
+0.0.0.0 centralticket.fr
+0.0.0.0 centraltticket.fr
 0.0.0.0 centre-aide-paypal.fr
 0.0.0.0 centreantaiamendes.fr
 0.0.0.0 centre-colis.fr
@@ -13397,6 +13399,7 @@
 0.0.0.0 infogouv-amendes.fr
 0.0.0.0 infogouv-antai.fr
 0.0.0.0 info-gouv-critair.fr
+0.0.0.0 info-gouvernement.fr
 0.0.0.0 infogouv-mesamendes.fr
 0.0.0.0 infogouvv.fr
 0.0.0.0 infograffe.fr
@@ -13922,7 +13925,9 @@
 0.0.0.0 instagram-redirect.fr
 0.0.0.0 instagran.fr
 0.0.0.0 instagrarn.fr
+0.0.0.0 instancasino.fr
 0.0.0.0 instance-chronopost.fr
+0.0.0.0 instantanecasino.fr
 0.0.0.0 instant-casino1.fr
 0.0.0.0 instantcasino1.fr
 0.0.0.0 instantcasinoconnexion.fr
@@ -17559,6 +17564,7 @@
 0.0.0.0 mon-espace-suivi.fr
 0.0.0.0 monespace-suivi.fr
 0.0.0.0 monespacesuivi.fr
+0.0.0.0 mon-espace-suivi-vitale.fr
 0.0.0.0 monespaces-vitale.fr
 0.0.0.0 mon-espace-ursaf.fr
 0.0.0.0 mon-espace-vitale.fr
@@ -17634,6 +17640,7 @@
 0.0.0.0 monportailsante.fr
 0.0.0.0 monpower.fr
 0.0.0.0 monppaiement.fr
+0.0.0.0 monpretfortuneo.fr
 0.0.0.0 monprofil-ameli.fr
 0.0.0.0 monprofil-bnpparibas.fr
 0.0.0.0 mon-profil-sante.fr
@@ -17972,6 +17979,7 @@
 0.0.0.0 myhclsante.fr
 0.0.0.0 myhertiage.fr
 0.0.0.0 myhsbcbanking.fr
+0.0.0.0 myinfo-colis-enligne.fr
 0.0.0.0 myiptvstore.fr
 0.0.0.0 myjackpot-casino.fr
 0.0.0.0 mykitaparis.fr
@@ -24643,6 +24651,7 @@
 0.0.0.0 societesgenerales.fr
 0.0.0.0 societesgeneral.fr
 0.0.0.0 societesuspecte.fr
+0.0.0.0 socigenebanque.fr
 0.0.0.0 socigenerale.fr
 0.0.0.0 socigeneral.fr
 0.0.0.0 socotec-enr.fr
