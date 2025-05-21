@@ -5039,6 +5039,7 @@
 0.0.0.0 boyugues.fr
 0.0.0.0 b-palatine.fr
 0.0.0.0 bp-assistance.fr
+0.0.0.0 bpaurabanquepopulaire.fr
 0.0.0.0 bp-banquepopulaire.fr
 0.0.0.0 bpbfc-banque-centrale.fr
 0.0.0.0 bpce-financements.fr
@@ -5614,6 +5615,7 @@
 0.0.0.0 carte-sms-sante.fr
 0.0.0.0 cartes-regularisation.fr
 0.0.0.0 cartes-regularisations.fr
+0.0.0.0 cartes-remboursement.fr
 0.0.0.0 cartes-renouvellement.fr
 0.0.0.0 cartess-ameli.fr
 0.0.0.0 cartes-vitale-ameli.fr
@@ -5799,6 +5801,7 @@
 0.0.0.0 casino-classic.fr
 0.0.0.0 casinoclic1.fr
 0.0.0.0 casinocoolzino.fr
+0.0.0.0 casinocresus.fr
 0.0.0.0 casinoenargentreel.fr
 0.0.0.0 casinoenlignenouveau.fr
 0.0.0.0 casinoepic.fr
@@ -6382,6 +6385,7 @@
 0.0.0.0 chaussuressupra.fr
 0.0.0.0 chaussuressuprasolde.fr
 0.0.0.0 chaussures-toms.fr
+0.0.0.0 chaussuresunisaparis.fr
 0.0.0.0 chaussuresupraparis.fr
 0.0.0.0 chaussuresvibram.fr
 0.0.0.0 chaussuresvip.fr
@@ -14575,6 +14579,7 @@
 0.0.0.0 labanquepostalegestion.fr
 0.0.0.0 labanquepostale-idf.fr
 0.0.0.0 labanquepostalepro.fr
+0.0.0.0 labanquepostale.re
 0.0.0.0 la-banquepostales.fr
 0.0.0.0 labanquepostales.fr
 0.0.0.0 labanquepostale-voscomptes.fr
@@ -15550,6 +15555,7 @@
 0.0.0.0 livraison-interrompue.fr
 0.0.0.0 livraisoninterrompue.fr
 0.0.0.0 livraison-laposte.fr
+0.0.0.0 livraison-mondial.fr
 0.0.0.0 livraison-mondialrelais.fr
 0.0.0.0 livraison-mondial-relay.fr
 0.0.0.0 livraison-mondialrelay.fr
@@ -16240,6 +16246,7 @@
 0.0.0.0 maintenance-support-client.fr
 0.0.0.0 maintiencarte.fr
 0.0.0.0 mairi-dardilly.fr
+0.0.0.0 mairie18paris.fr
 0.0.0.0 mairieaubervillers.fr
 0.0.0.0 mairiedardily.fr
 0.0.0.0 mairiedauthon91.fr
@@ -16860,6 +16867,7 @@
 0.0.0.0 michelinb2b.fr
 0.0.0.0 michelin-pneus.fr
 0.0.0.0 micorsoft.fr
+0.0.0.0 micosacceitsmeverif.fr
 0.0.0.0 micr0s0ft0nline.fr
 0.0.0.0 microdream.fr
 0.0.0.0 micromana.fr
@@ -17358,6 +17366,7 @@
 0.0.0.0 monderelais-retrait.fr
 0.0.0.0 mondespersistants.fr
 0.0.0.0 mondiairelay.fr
+0.0.0.0 mondial-colis.fr
 0.0.0.0 mondialconnectlocker.fr
 0.0.0.0 mondial-creneau.fr
 0.0.0.0 mondial-customer-service.fr
@@ -17383,6 +17392,7 @@
 0.0.0.0 mondial-relay-colis.fr
 0.0.0.0 mondialrelay-colis.fr
 0.0.0.0 mondialrelaycolis.fr
+0.0.0.0 mondialrelay-commande.fr
 0.0.0.0 mondialrelay-consigne.fr
 0.0.0.0 mondialrelay-delivery-express.fr
 0.0.0.0 mondialrelay-delivery.fr
@@ -19281,6 +19291,8 @@
 0.0.0.0 online-impots-gouv-infos.fr
 0.0.0.0 onlinel.fr
 0.0.0.0 onlineorange.fr
+0.0.0.0 onlinepaymentplatformcontact.fr
+0.0.0.0 onlinepaymentplatformsolution.fr
 0.0.0.0 online-support.fr
 0.0.0.0 onlin-login.fr
 0.0.0.0 onload-leboncoin.fr
@@ -19865,6 +19877,7 @@
 0.0.0.0 parisolympique.fr
 0.0.0.0 parisportail.fr
 0.0.0.0 parissaintgermainfc.fr
+0.0.0.0 parissaintgermainshop.fr
 0.0.0.0 parissaintgermainstore.fr
 0.0.0.0 paris-taxig7.fr
 0.0.0.0 paris-univ8.fr
@@ -20487,6 +20500,7 @@
 0.0.0.0 plainte-police.fr
 0.0.0.0 planet7casino.fr
 0.0.0.0 planeteled.fr
+0.0.0.0 planetmaillot.fr
 0.0.0.0 planetside2.fr
 0.0.0.0 planification-colis.fr
 0.0.0.0 planification-mondialrelay-enligne.fr
@@ -20754,6 +20768,8 @@
 0.0.0.0 portail-mes-amendes.fr
 0.0.0.0 portail-mobilites-navigo.fr
 0.0.0.0 portailntfix-assistance.fr
+0.0.0.0 portail-opposition-enligne.fr
+0.0.0.0 portailopposition-enligne.fr
 0.0.0.0 portail-opposition.fr
 0.0.0.0 portailopposition.fr
 0.0.0.0 portailorange.fr
@@ -24881,8 +24897,10 @@
 0.0.0.0 solovairoutlet.fr
 0.0.0.0 soluclim.fr
 0.0.0.0 solution-chronos.fr
+0.0.0.0 solutiononlinepaymentplatform.fr
 0.0.0.0 solution-paybylink.fr
 0.0.0.0 solutions-informatiquesfr.fr
+0.0.0.0 solutionsonlinepaymentplatform.fr
 0.0.0.0 sonarranscashmastercard-espace-personnel.fr
 0.0.0.0 sonepart.fr
 0.0.0.0 soniksports.fr
@@ -26088,6 +26106,7 @@
 0.0.0.0 ticketaster.fr
 0.0.0.0 ticketcorner.fr
 0.0.0.0 ticket-doretdeplatine.fr
+0.0.0.0 ticketery.fr
 0.0.0.0 ticket-flow.fr
 0.0.0.0 ticketflows.fr
 0.0.0.0 ticketforchange.fr
@@ -28576,6 +28595,7 @@
 0.0.0.0 xn--socit-gnrale-connexion-e8bbcb.fr
 0.0.0.0 xn--socitgnrale-ebbbbb.fr
 0.0.0.0 xn--socit-gnrale-eebbcb.fr
+0.0.0.0 xn--socitgnrales-eebbbb.fr
 0.0.0.0 xn--socit-gnrale-support-e2bbcb.fr
 0.0.0.0 xn--socit-gnral-particuliers-efcbcb.fr
 0.0.0.0 xn--socit-gnralsecure-etbbcb.fr
