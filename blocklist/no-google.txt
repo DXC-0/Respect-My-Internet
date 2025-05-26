@@ -4140,7 +4140,6 @@
 0.0.0.0 r1---sn-uxaxh5g-jo46.gvt1.com
 0.0.0.0 r1---sn-vgqsrnez.c.docs.google.com
 0.0.0.0 r1---sn-x5guiapo3uxax-ow46.gvt1.com
-0.0.0.0 r1.sn-i3belnlz.c.drive.google.com
 0.0.0.0 r1.sn-n3cgv5qc5oq-nf06.gvt1.com
 0.0.0.0 r1.sn-nx5s7n76.gvt1.com
 0.0.0.0 r1.sn-ug5on-5a5e.gvt1.com
@@ -6502,7 +6501,6 @@
 0.0.0.0 config-stage.gcp.fitbit.com
 0.0.0.0 config.site-ops.fitbit.com
 0.0.0.0 contact.fitbit.com
-0.0.0.0 content.fitbit.com
 0.0.0.0 corporate-webapps.fitbit.com
 0.0.0.0 corporate.fitbit.com
 0.0.0.0 cs-tableau-bpo.corp.fitbit.com
