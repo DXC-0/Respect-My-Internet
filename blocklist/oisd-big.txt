@@ -40778,7 +40778,6 @@
 0.0.0.0 *.compte-facebook.ws
 0.0.0.0 *.compte-free.fr
 0.0.0.0 *.compte-livraison.fr
-0.0.0.0 *.compteamazon.fr
 0.0.0.0 *.compteinfo.fr
 0.0.0.0 *.compteur.websiteout.net
 0.0.0.0 *.compteverif.fr
