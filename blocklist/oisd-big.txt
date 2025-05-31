@@ -350,7 +350,6 @@
 0.0.0.0 *.0dm.de
 0.0.0.0 *.0dwm.icu
 0.0.0.0 *.0e0.jp.eu.org
-0.0.0.0 *.0e08114be8.disnnplus.click
 0.0.0.0 *.0e4256d4f1.com
 0.0.0.0 *.0eab70c429.a567dda4c2.com
 0.0.0.0 *.0eb1d4c35c.dis-my.eu
@@ -6499,6 +6498,7 @@
 0.0.0.0 *.aawdlvr.com
 0.0.0.0 *.aawwewew.hipstor.kz
 0.0.0.0 *.aax.amazon-adsystem.amazon.com
+0.0.0.0 *.aax.amazon-adsystem.com
 0.0.0.0 *.aax6.com
 0.0.0.0 *.aaxads.com
 0.0.0.0 *.aazcio.cn
@@ -32512,6 +32512,7 @@
 0.0.0.0 *.c.adyield.co
 0.0.0.0 *.c.albss.com
 0.0.0.0 *.c.amazinglybrilliant.com.au
+0.0.0.0 *.c.amazon-adsystem.com
 0.0.0.0 *.c.ar.msn.com
 0.0.0.0 *.c.at.msn.com
 0.0.0.0 *.c.autohome.com.cn
@@ -97666,6 +97667,8 @@
 0.0.0.0 *.madrtnjkmoulj.web.app
 0.0.0.0 *.mads-eu.amazon.com
 0.0.0.0 *.mads-fe.amazon.com
+0.0.0.0 *.mads.amazon-adsystem.com
+0.0.0.0 *.mads.amazon.com
 0.0.0.0 *.mads.dailymail.co.uk
 0.0.0.0 *.madsabs.com
 0.0.0.0 *.madsack-native.de
@@ -110699,7 +110702,6 @@
 0.0.0.0 *.noleather.com
 0.0.0.0 *.nolerpe.lxhelp.top
 0.0.0.0 *.nolika.top
-0.0.0.0 *.nolimeo.fr
 0.0.0.0 *.nolix.ru
 0.0.0.0 *.nolojo.com
 0.0.0.0 *.noltra.top
@@ -174698,7 +174700,6 @@
 0.0.0.0 *.winnerm8.com
 0.0.0.0 *.winners.in
 0.0.0.0 *.winnersolutions.net
-0.0.0.0 *.winnertrophy.world
 0.0.0.0 *.winnerzcasino.fr
 0.0.0.0 *.winnewcarok.live
 0.0.0.0 *.winnies-bikeservice.de
