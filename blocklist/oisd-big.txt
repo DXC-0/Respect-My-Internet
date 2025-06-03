@@ -1528,6 +1528,7 @@
 0.0.0.0 *.1k1vn.trk.elasticemail.com
 0.0.0.0 *.1kdailyprofit.biz
 0.0.0.0 *.1kdailyprofit.co
+0.0.0.0 *.1kdailys.online
 0.0.0.0 *.1kmb.cn
 0.0.0.0 *.1knhg4mmq.de
 0.0.0.0 *.1kxun.mobi
@@ -14899,6 +14900,7 @@
 0.0.0.0 *.allegrolokalnie.listing-98410.shop
 0.0.0.0 *.allegrolokalnie.listing77.shop
 0.0.0.0 *.allegrolokalnie.lsl-5837573isto.top
+0.0.0.0 *.allegrolokalnie.oferta-02192272.sbs
 0.0.0.0 *.allegrolokalnie.oferta-4181461.com
 0.0.0.0 *.allegrolokalnie.oferta-57839.cfd
 0.0.0.0 *.allegrolokalnie.oferta-7482.cfd
@@ -15122,6 +15124,7 @@
 0.0.0.0 *.allegrolokalnie.psl-5827565.top
 0.0.0.0 *.allegrolokalnie.psl-5837573.top
 0.0.0.0 *.allegrolokalnie.pz-235677.xyz
+0.0.0.0 *.allegrolokalnie.pz-535677.xyz
 0.0.0.0 *.allegrolokalnie.r92.rest
 0.0.0.0 *.allegrolokalnie.search-18951.rest
 0.0.0.0 *.allegrolokalnie.search-1985.rest
@@ -15159,6 +15162,7 @@
 0.0.0.0 *.allegrolokalniepl.p24-809856465638903994.icu
 0.0.0.0 *.allegrolokalniepl.p24-8764653627823.icu
 0.0.0.0 *.allegrolokalniepl.pl-95736748895994.cfd
+0.0.0.0 *.allegronagroda.online
 0.0.0.0 *.allegroonline.shop
 0.0.0.0 *.allegrosalevip.com
 0.0.0.0 *.allegross.com
@@ -23657,7 +23661,6 @@
 0.0.0.0 *.b.ranking.apis.sankei-digital.co.jp
 0.0.0.0 *.b.recwwcc5.info
 0.0.0.0 *.b.resad.mediaid.click
-0.0.0.0 *.b.sat02.my.id
 0.0.0.0 *.b.seksohub.com
 0.0.0.0 *.b.sli-spark.com
 0.0.0.0 *.b.smartnews.be
@@ -44560,6 +44563,7 @@
 0.0.0.0 *.csvd.ru
 0.0.0.0 *.csvhwubije.firebaseapp.com
 0.0.0.0 *.csvhwubije.web.app
+0.0.0.0 *.csvtowow.com
 0.0.0.0 *.cswilliamsburg.com
 0.0.0.0 *.cswr.com.au
 0.0.0.0 *.csxjys.com
@@ -47268,6 +47272,7 @@
 0.0.0.0 *.dailynessresiduals.com
 0.0.0.0 *.dailynewsalerting.com
 0.0.0.0 *.dailynewsobituaries.co.cc
+0.0.0.0 *.dailynewspeek.com
 0.0.0.0 *.dailynewsscope.click
 0.0.0.0 *.dailynewszone.click
 0.0.0.0 *.dailyniner.com
@@ -48917,6 +48922,7 @@
 0.0.0.0 *.dekksonsanitarysurabaya.com
 0.0.0.0 *.deklassikosilva.top
 0.0.0.0 *.deklerk.co.za
+0.0.0.0 *.deknang.com
 0.0.0.0 *.deko-bundd.de
 0.0.0.0 *.dekoform.ru
 0.0.0.0 *.dekorfsale.com
@@ -49663,6 +49669,7 @@
 0.0.0.0 *.detaires.com
 0.0.0.0 *.detan2go.firebaseapp.com
 0.0.0.0 *.detan2go.web.app
+0.0.0.0 *.detasinfeu.com
 0.0.0.0 *.detaymaxinet.com
 0.0.0.0 *.detect-login-lapses.vercel.app
 0.0.0.0 *.detect.mb.qq.com
@@ -59384,6 +59391,7 @@
 0.0.0.0 *.eventchain.co
 0.0.0.0 *.eventclergy.com
 0.0.0.0 *.eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 *.eventdailyhorizon.com
 0.0.0.0 *.eventexistence.com
 0.0.0.0 *.eventful24.com
 0.0.0.0 *.eventgateway.soundcloud.com
@@ -62737,6 +62745,13 @@
 0.0.0.0 *.filefordownload.com
 0.0.0.0 *.fileformonkeypoxpayment.weebly.com
 0.0.0.0 *.fileharmony.com
+0.0.0.0 *.filehost1.cfd
+0.0.0.0 *.filehost2.cfd
+0.0.0.0 *.filehost3.cfd
+0.0.0.0 *.filehost4.cfd
+0.0.0.0 *.filehost5.cfd
+0.0.0.0 *.filehost6.cfd
+0.0.0.0 *.filehost7.cfd
 0.0.0.0 *.filehostingz.com
 0.0.0.0 *.filehuge.com
 0.0.0.0 *.fileice.com
@@ -63876,6 +63891,7 @@
 0.0.0.0 *.flashpoint.life
 0.0.0.0 *.flashpulse.cfd
 0.0.0.0 *.flashreportbuzz.click
+0.0.0.0 *.flashreportertrend.com
 0.0.0.0 *.flashreportupdateclick.click
 0.0.0.0 *.flashscope.life
 0.0.0.0 *.flashscope.live
@@ -69325,6 +69341,7 @@
 0.0.0.0 *.giftedmarten.pro
 0.0.0.0 *.giftguidesgalore.com
 0.0.0.0 *.giftmoments.shop
+0.0.0.0 *.giftodallegro.space
 0.0.0.0 *.giftprizewinner.com
 0.0.0.0 *.giftprovider.com
 0.0.0.0 *.giftrewardzone.com
@@ -69616,6 +69633,7 @@
 0.0.0.0 *.gkmfx.net
 0.0.0.0 *.gknkargo.com
 0.0.0.0 *.gknog.weebly.com
+0.0.0.0 *.gkpge.exone-web.pl
 0.0.0.0 *.gksdh.cn
 0.0.0.0 *.gksukeo.shop
 0.0.0.0 *.gkyju.space
@@ -74845,6 +74863,7 @@
 0.0.0.0 *.hedraighugru.net
 0.0.0.0 *.hedubeo.com
 0.0.0.0 *.hedungirgassi.xyz
+0.0.0.0 *.hedvikson.online
 0.0.0.0 *.hedyloe.com
 0.0.0.0 *.heecat.com
 0.0.0.0 *.heed-mvor.com
@@ -80508,6 +80527,7 @@
 0.0.0.0 *.impactmatrix.info
 0.0.0.0 *.impactmobile.com
 0.0.0.0 *.impactnewswire.click
+0.0.0.0 *.impactofnews.online
 0.0.0.0 *.impactradius-event.com
 0.0.0.0 *.impactradius-go.com
 0.0.0.0 *.impactslam.com
@@ -80773,6 +80793,7 @@
 0.0.0.0 *.imyqb.cn
 0.0.0.0 *.in-appadvertising.com
 0.0.0.0 *.in-bdcvlj.love
+0.0.0.0 *.in-depthstories.online
 0.0.0.0 *.in-informaalersuspen.github.io
 0.0.0.0 *.in-li.fr
 0.0.0.0 *.in-like.com
@@ -80780,6 +80801,7 @@
 0.0.0.0 *.in-page-push.net
 0.0.0.0 *.in-posts.cc
 0.0.0.0 *.in-t-h-e.cn
+0.0.0.0 *.in-the-know.online
 0.0.0.0 *.in-weather.com
 0.0.0.0 *.in.beizhoujt.cn
 0.0.0.0 *.in.brilliant.org
@@ -81605,6 +81627,7 @@
 0.0.0.0 *.infotrigger.net
 0.0.0.0 *.infouned5142.weebly.com
 0.0.0.0 *.infoupdatecheck.weebly.com
+0.0.0.0 *.infowaveflair.com
 0.0.0.0 *.infowebhelp-center.weebly.com
 0.0.0.0 *.infowedmes.weebly.com
 0.0.0.0 *.infowind.info
@@ -82514,6 +82537,7 @@
 0.0.0.0 *.intelligenceprimecapital.com
 0.0.0.0 *.intelligenceretarget.com
 0.0.0.0 *.intelligent-rubin.94-156-177-241.plesk.page
+0.0.0.0 *.intelligentcoverage.online
 0.0.0.0 *.intelligentscissors.com
 0.0.0.0 *.intelligentspoonbill.pro
 0.0.0.0 *.intellipopup.com
@@ -88604,6 +88628,7 @@
 0.0.0.0 *.klh3j19w.xyz
 0.0.0.0 *.klhan.com
 0.0.0.0 *.klhswcxt-o.icu
+0.0.0.0 *.klienci-indywidualne-santander-polska.avasu.az
 0.0.0.0 *.klient.total-main.shop
 0.0.0.0 *.klienta.nxpteams.com
 0.0.0.0 *.klientamaildisneysupport.com
@@ -89830,6 +89855,7 @@
 0.0.0.0 *.kvxnvbdvv.com
 0.0.0.0 *.kvxtt5.hbg.hebdenbridgedental.co.uk
 0.0.0.0 *.kw3y5otoeuniv7e9rsi.com
+0.0.0.0 *.kw5ofx8n6l27ehd.ofplat82a.pl
 0.0.0.0 *.kwanvibist.com
 0.0.0.0 *.kwaterowanie.pl
 0.0.0.0 *.kway-france.fr
@@ -90387,6 +90413,7 @@
 0.0.0.0 *.lamjpiarmas.com
 0.0.0.0 *.lamkatgho.com
 0.0.0.0 *.lamkemepkim.com
+0.0.0.0 *.lamlet.com
 0.0.0.0 *.lammasbananas.com
 0.0.0.0 *.lammersville.ddns.net
 0.0.0.0 *.lammysecurity.com
@@ -108663,6 +108690,7 @@
 0.0.0.0 *.newspolandinvestgovtokeninf.com
 0.0.0.0 *.newsportalforthright.online
 0.0.0.0 *.newsprofin.com
+0.0.0.0 *.newspulses.online
 0.0.0.0 *.newspush.sinajs.cn
 0.0.0.0 *.newsquestdigitalmedia.122.2o7.net
 0.0.0.0 *.newsregular.com
@@ -109789,7 +109817,6 @@
 0.0.0.0 *.nocreditcarswestpalm.com
 0.0.0.0 *.noctafrance.fr
 0.0.0.0 *.noctibatte.pro
-0.0.0.0 *.nocturnal-employer.pro
 0.0.0.0 *.nocturnalcharm.pro
 0.0.0.0 *.nocturnalfoxhound.pro
 0.0.0.0 *.nocturnalkangaroo.pro
@@ -110552,6 +110579,7 @@
 0.0.0.0 *.novosoft.org
 0.0.0.0 *.novosti247.com
 0.0.0.0 *.novostiexpert.com
+0.0.0.0 *.novostihub.com
 0.0.0.0 *.novostimira.biz
 0.0.0.0 *.novotransz.hu
 0.0.0.0 *.novoxprofessional.com
@@ -112856,7 +112884,6 @@
 0.0.0.0 *.olx-pl.dealstack.sbs
 0.0.0.0 *.olx-pl.eebelt.shop
 0.0.0.0 *.olx-pl.gabzhal.cfd
-0.0.0.0 *.olx-pl.gunixleak.cfd
 0.0.0.0 *.olx-pl.hanwkziwl.cfd
 0.0.0.0 *.olx-pl.jskdfiies.cfd
 0.0.0.0 *.olx-pl.ndelaoxk.cfd
@@ -120314,6 +120341,7 @@
 0.0.0.0 *.pl-oferta89756.com
 0.0.0.0 *.pl-oferta9182068.sbs
 0.0.0.0 *.pl-oferta9270318.shop
+0.0.0.0 *.pl-oferta9281732.top
 0.0.0.0 *.pl-oferta9327229.shop
 0.0.0.0 *.pl-oferta9378696.shop
 0.0.0.0 *.pl-oferta941274.rest
@@ -122081,6 +122109,7 @@
 0.0.0.0 *.pornxxx3.com
 0.0.0.0 *.pornxxxfilm.com
 0.0.0.0 *.pornz.fr
+0.0.0.0 *.poroce-geteki.site
 0.0.0.0 *.porojo.net
 0.0.0.0 *.poroseliquer.shop
 0.0.0.0 *.porovname.cz
@@ -131317,7 +131346,6 @@
 0.0.0.0 *.referencement-one.com
 0.0.0.0 *.referencet.art
 0.0.0.0 *.referinnat.pro
-0.0.0.0 *.referity.info
 0.0.0.0 *.refermystudent.com
 0.0.0.0 *.referraggr.pro
 0.0.0.0 *.referral.best
@@ -139004,6 +139032,7 @@
 0.0.0.0 *.secretivesheep.com
 0.0.0.0 *.secretivesponge.com
 0.0.0.0 *.secretledgerai.com
+0.0.0.0 *.secretlifelabs.com
 0.0.0.0 *.secretmantis.pro
 0.0.0.0 *.secretmassageclub.co.uk
 0.0.0.0 *.secretmedia.s3.amazonaws.com
@@ -145482,7 +145511,6 @@
 0.0.0.0 *.soc.plaerkn.cfd
 0.0.0.0 *.soc.rgbkeys.sbs
 0.0.0.0 *.soc.tnizaenrm.cfd
-0.0.0.0 *.socalmasterroofer.com
 0.0.0.0 *.socalpeaks.com
 0.0.0.0 *.socamil-eleclerc.fr
 0.0.0.0 *.soccerflog.com
@@ -160928,6 +160956,7 @@
 0.0.0.0 *.trendki.com
 0.0.0.0 *.trendline.cfd
 0.0.0.0 *.trendlinez.co.in
+0.0.0.0 *.trendlooppulse.com
 0.0.0.0 *.trendmarker.cfd
 0.0.0.0 *.trendmd.com
 0.0.0.0 *.trendmicro-update.org
@@ -168340,6 +168369,7 @@
 0.0.0.0 *.virpropcnow.xyz
 0.0.0.0 *.virprotect.com
 0.0.0.0 *.virrrrrg.weebly.com
+0.0.0.0 *.virtcdn.info
 0.0.0.0 *.virtgallery.com
 0.0.0.0 *.virtuagirlhd.com
 0.0.0.0 *.virtual-on.biz
@@ -169834,6 +169864,8 @@
 0.0.0.0 *.w1nd36e506qqi.life
 0.0.0.0 *.w1thy0u.com
 0.0.0.0 *.w2-geiuhsewhoictwuhetiuhwie.cloudd1.workers.dev
+0.0.0.0 *.w2-jas.osgas.top
+0.0.0.0 *.w2-kil.osgas.top
 0.0.0.0 *.w22-fghkdjgkvdfhgvdfkgss.joy-hughes.workers.dev
 0.0.0.0 *.w24jfih5e.homepage.t-online.de
 0.0.0.0 *.w29cg2jpgi8hr3083s4j0t9i.craftsstars.com
