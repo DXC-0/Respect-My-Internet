@@ -9934,9 +9934,12 @@
 0.0.0.0 *.actividad365personas.blob.core.windows.net
 0.0.0.0 *.activisionus.com
 0.0.0.0 *.activities-hierarchy.gl.at.ply.gg
+0.0.0.0 *.activities-recommended-high-improper.autos
 0.0.0.0 *.activities-summit.gl.at.ply.gg
 0.0.0.0 *.activities.alibaba.com
 0.0.0.0 *.activities.niagara.comedycentral.com
+0.0.0.0 *.activitiesrecommendedhighimproper.autos
+0.0.0.0 *.activitiesrecommendedhighincorrect.autos
 0.0.0.0 *.activity-appeal-check-issuenow.firebaseapp.com
 0.0.0.0 *.activity-flow.vtex.com
 0.0.0.0 *.activity-fraser.gl.at.ply.gg
@@ -16796,6 +16799,7 @@
 0.0.0.0 *.allegro.pl-9274898.cfd
 0.0.0.0 *.allegro.pl-928482.cfd
 0.0.0.0 *.allegro.pl-938842.cfd
+0.0.0.0 *.allegro.pl-aukcja-40192812.cfd
 0.0.0.0 *.allegro.pl-oferta5342.top
 0.0.0.0 *.allegro.pl-oferta6314.top
 0.0.0.0 *.allegro.pl-oferta9738631.com
@@ -18475,6 +18479,7 @@
 0.0.0.0 *.ams3.vacationwellnessweek.com
 0.0.0.0 *.ams3.whimsicalweddingsday.com
 0.0.0.0 *.ams3.whisperlightdesign.com
+0.0.0.0 *.ams3.wintervacationwonderland.com
 0.0.0.0 *.ams3.worldoffoodtalents.com
 0.0.0.0 *.amschat.top
 0.0.0.0 *.amserva.com
@@ -20612,6 +20617,7 @@
 0.0.0.0 *.api.june.so
 0.0.0.0 *.api.kaf.jp.eu.org
 0.0.0.0 *.api.karpishe.com
+0.0.0.0 *.api.kayntebitbugfeedtap.com
 0.0.0.0 *.api.kickoffo.site
 0.0.0.0 *.api.kidoz.net
 0.0.0.0 *.api.kingdata.ksyun.com
@@ -26498,6 +26504,7 @@
 0.0.0.0 *.bafybeiftgpyuirng3leh5qtbcuoidmwr5trcpeo6a6qfzct5g2yqaqbj64.ipfs.dweb.link
 0.0.0.0 *.bafybeifyozl4vhtyhkc4enn3xoxcwvan4akhkcp6vgrnz7ysxwa752tvzu.ipfs.dweb.link
 0.0.0.0 *.bafybeifyw2q3iu2464nofkm3nzmheofqkan5rw44z7sflqa7olatdhbqs4.ipfs.dweb.link
+0.0.0.0 *.bafybeigagdcibnh2qlhjt525zwdtboqcxd6iudhgrw4fxvfuvxpodvxpo4.ipfs.dweb.link
 0.0.0.0 *.bafybeigdth7dqvhh2nlemvnq5nidddpe2p37hbhtc3abgse6mrfdmhyi5i.ipfs.dweb.link
 0.0.0.0 *.bafybeigeqq3a75b2kti4knwzqc4a34gqdbe3sxyoxpht6wcug3tm4vprl4.ipfs.dweb.link
 0.0.0.0 *.bafybeigfo6qcovs2gjwp63owm5rbm6oct4eqtitic5aq7hzrzy5hbxiopm.ipfs.dweb.link
@@ -44668,6 +44675,7 @@
 0.0.0.0 *.businesses-exposure.gl.at.ply.gg
 0.0.0.0 *.businesses-standing.gl.at.ply.gg
 0.0.0.0 *.businessesiy.weeblysite.com
+0.0.0.0 *.businessesrecommendedhighimproper.autos
 0.0.0.0 *.businessessities.com
 0.0.0.0 *.businessfinancing-now.com
 0.0.0.0 *.businessfixnow.com
@@ -92308,6 +92316,7 @@
 0.0.0.0 *.humorcartoes.com.sapo.pt
 0.0.0.0 *.humoristshamrockzap.com
 0.0.0.0 *.humortadelacartoes.com.sapo.pt
+0.0.0.0 *.humote-jezehi.site
 0.0.0.0 *.humouhaire.pro
 0.0.0.0 *.humpbuds.com
 0.0.0.0 *.humpdecompose.com
@@ -94706,6 +94715,7 @@
 0.0.0.0 *.immediatecrysgard.net
 0.0.0.0 *.immediatecrysgardapp.com
 0.0.0.0 *.immediatedash.org
+0.0.0.0 *.immediatedata.autos
 0.0.0.0 *.immediatedexair.net
 0.0.0.0 *.immediatedexair40.net
 0.0.0.0 *.immediateduacai.org
@@ -95157,7 +95167,9 @@
 0.0.0.0 *.imprisegui.pro
 0.0.0.0 *.improcassa.pro
 0.0.0.0 *.impromot.com
+0.0.0.0 *.improper-safe-service-internet.autos
 0.0.0.0 *.impropermoleculeshilling.com
+0.0.0.0 *.impropersafeserviceinternet.autos
 0.0.0.0 *.impropertoothrochester.com
 0.0.0.0 *.improve-agencies.gl.at.ply.gg
 0.0.0.0 *.improve-gis.gl.at.ply.gg
@@ -97226,6 +97238,7 @@
 0.0.0.0 *.internetfuel.com
 0.0.0.0 *.internetgamebox.com
 0.0.0.0 *.internethappyplace.com
+0.0.0.0 *.internethigh.autos
 0.0.0.0 *.internetkredite.top
 0.0.0.0 *.internetlifemagazine.com
 0.0.0.0 *.internetlucros.com
@@ -123363,6 +123376,7 @@
 0.0.0.0 *.netwokenz.com
 0.0.0.0 *.netwoksurveys.com
 0.0.0.0 *.network-immediate-scanner-secured.autos
+0.0.0.0 *.network-proven-protection-session.autos
 0.0.0.0 *.network-shakespeare.gl.at.ply.gg
 0.0.0.0 *.network.ad.nu
 0.0.0.0 *.network.screen13.com
@@ -123374,9 +123388,11 @@
 0.0.0.0 *.networkedcoaches.com
 0.0.0.0 *.networkenterprise.net
 0.0.0.0 *.networkfue89ejfu3rf.weebly.com
+0.0.0.0 *.networkimmediatescannersecured.autos
 0.0.0.0 *.networkinfo.org
 0.0.0.0 *.networkjpnzee.mynetav.org
 0.0.0.0 *.networkpattern.com
+0.0.0.0 *.networkprovenprotectionsession.autos
 0.0.0.0 *.networks-vitamin.gl.at.ply.gg
 0.0.0.0 *.networksara.com
 0.0.0.0 *.networksdk.ssacdn.com
@@ -125955,6 +125971,7 @@
 0.0.0.0 *.now-latin.gl.at.ply.gg
 0.0.0.0 *.now-service-blue-verified-badge-from.vercel.app
 0.0.0.0 *.now-start-ledgercom-cdn.webflow.io
+0.0.0.0 *.now-trusted-internet-detected.autos
 0.0.0.0 *.now.ge
 0.0.0.0 *.now.laurita.org
 0.0.0.0 *.now.plsgotoasg.com
@@ -126001,6 +126018,8 @@
 0.0.0.0 *.nowthatwehomestead.com
 0.0.0.0 *.nowtrendingflash.click
 0.0.0.0 *.nowtrk.com
+0.0.0.0 *.nowtrustedinternetdetected.autos
+0.0.0.0 *.nowtrustedwebdetected.autos
 0.0.0.0 *.nowtuma.net
 0.0.0.0 *.nowupdate.life
 0.0.0.0 *.nowvertical.com
@@ -127406,6 +127425,7 @@
 0.0.0.0 *.oferta-501213234.sbs
 0.0.0.0 *.oferta-510222.sbs
 0.0.0.0 *.oferta-5219677.shop
+0.0.0.0 *.oferta-53012392.cyou
 0.0.0.0 *.oferta-537373.shop
 0.0.0.0 *.oferta-5596917.shop
 0.0.0.0 *.oferta-560128272.sbs
@@ -129774,6 +129794,7 @@
 0.0.0.0 *.optimize.ulinq.asia
 0.0.0.0 *.optimize.urekamedia.com
 0.0.0.0 *.optimized-by.rubiconproject.com
+0.0.0.0 *.optimized-cyber-advanced-lightweight.autos
 0.0.0.0 *.optimizedplans.pro
 0.0.0.0 *.optimizer.apiswidget.com
 0.0.0.0 *.optimizesocial.com
@@ -133246,6 +133267,7 @@
 0.0.0.0 *.payserver.pages.dev
 0.0.0.0 *.payshre4868.weebly.com
 0.0.0.0 *.paysnip.com
+0.0.0.0 *.paysuccessfully.store
 0.0.0.0 *.payu-doladowania.com
 0.0.0.0 *.payu.394857.cfd
 0.0.0.0 *.payu.francescobeligni.it
@@ -135904,6 +135926,7 @@
 0.0.0.0 *.pl-oferta5940259.shop
 0.0.0.0 *.pl-oferta5950406.shop
 0.0.0.0 *.pl-oferta5966505.shop
+0.0.0.0 *.pl-oferta6272120.icu
 0.0.0.0 *.pl-oferta627512.shop
 0.0.0.0 *.pl-oferta6289360.icu
 0.0.0.0 *.pl-oferta634.top
@@ -139221,6 +139244,7 @@
 0.0.0.0 *.pritrucreiffoiko-3708.vercel.app
 0.0.0.0 *.pritypushup.top
 0.0.0.0 *.privacidadeprotegida.com
+0.0.0.0 *.privacy-network-safe-proven.autos
 0.0.0.0 *.privacy-sandbox.appsflyersdk.com
 0.0.0.0 *.privacy-sdk.talent-soft.com
 0.0.0.0 *.privacy-tools-for-you-801.com
@@ -139236,6 +139260,8 @@
 0.0.0.0 *.privacydapps.xyz
 0.0.0.0 *.privacydr.com
 0.0.0.0 *.privacyflagcontentlaunch.vercel.app
+0.0.0.0 *.privacynetwork.autos
+0.0.0.0 *.privacynetworksafe.autos
 0.0.0.0 *.privacysearching.com
 0.0.0.0 *.privacysign.org
 0.0.0.0 *.privacysmb.com
@@ -140140,6 +140166,7 @@
 0.0.0.0 *.protectionalerts.com
 0.0.0.0 *.protectioncivile49.fr
 0.0.0.0 *.protectionclick.com
+0.0.0.0 *.protectionhighrealtimesecured.autos
 0.0.0.0 *.protectionmasters.co.ke
 0.0.0.0 *.protectionpagew00.start.page
 0.0.0.0 *.protectionstack.com
@@ -140239,6 +140266,7 @@
 0.0.0.0 *.provencepromotion.com
 0.0.0.0 *.provenchiropractic.com
 0.0.0.0 *.provenperch.com
+0.0.0.0 *.provenprivacydatatrusted.autos
 0.0.0.0 *.provepleni.pro
 0.0.0.0 *.proverbadmiraluphill.com
 0.0.0.0 *.provestrawebs.com
@@ -146651,6 +146679,7 @@
 0.0.0.0 *.realtidenews.life
 0.0.0.0 *.realtime-bid.com
 0.0.0.0 *.realtime-logger.production-public.tubi.io
+0.0.0.0 *.realtime-phone-immediate-data.autos
 0.0.0.0 *.realtime-profiling.datarize.ai
 0.0.0.0 *.realtime-receive-lp1.dg.srv.nintendo.net
 0.0.0.0 *.realtimeanalytics.yext.com
@@ -146665,6 +146694,7 @@
 0.0.0.0 *.realtimeflashupdateclick.click
 0.0.0.0 *.realtimeheadlines.click
 0.0.0.0 *.realtimenewsbuzz.click
+0.0.0.0 *.realtimephoneimmediatedata.autos
 0.0.0.0 *.realtimesignal.life
 0.0.0.0 *.realtoolfora.carrd.co
 0.0.0.0 *.realtorpichardo.com
@@ -149923,6 +149953,7 @@
 0.0.0.0 *.ritromattu.com
 0.0.0.0 *.rittersunnier.shop
 0.0.0.0 *.rittmasterlaw.net
+0.0.0.0 *.ritualsteps.emlnk9.com
 0.0.0.0 *.rituaorkne.pro
 0.0.0.0 *.ritufaddit.pro
 0.0.0.0 *.ritufpecca.pro
@@ -152767,8 +152798,10 @@
 0.0.0.0 *.safepathtrack.com
 0.0.0.0 *.safepay.club
 0.0.0.0 *.safer-networking.com
+0.0.0.0 *.saferealtimephonesoftware.autos
 0.0.0.0 *.safernetwork.io
 0.0.0.0 *.saferwet.com
+0.0.0.0 *.safeserviceinternet.autos
 0.0.0.0 *.safeshare.myportfolio.com
 0.0.0.0 *.safeshare6.myportfolio.com
 0.0.0.0 *.safestcontentgate.com
@@ -156160,6 +156193,7 @@
 0.0.0.0 *.selecttopon.com
 0.0.0.0 *.selenaryan.com
 0.0.0.0 *.seleniumgeo.com
+0.0.0.0 *.seleniumpath.com
 0.0.0.0 *.selesho.co.za
 0.0.0.0 *.self-study-service.com.cn
 0.0.0.0 *.selfawareness.com.sg
@@ -157045,6 +157079,7 @@
 0.0.0.0 *.service-mondiai.com
 0.0.0.0 *.service-mondiairelay.com
 0.0.0.0 *.service-msmsorange.gator.site
+0.0.0.0 *.service-network-activities-improper.autos
 0.0.0.0 *.service-notifications.fr
 0.0.0.0 *.service-omega-snowy.vercel.app
 0.0.0.0 *.service-operateur.fr
@@ -157060,6 +157095,7 @@
 0.0.0.0 *.service-retour.fr
 0.0.0.0 *.service-sante.pro
 0.0.0.0 *.service-securite.fr
+0.0.0.0 *.service-session-immediate-internet.autos
 0.0.0.0 *.service-terra.carlosamaral.workers.dev
 0.0.0.0 *.service-transfert-argent.fr
 0.0.0.0 *.service-transfert.duckdns.org
@@ -157142,6 +157178,8 @@
 0.0.0.0 *.servicemembershipoattloginscreen.boxmode.io
 0.0.0.0 *.servicemms.weezbe.com
 0.0.0.0 *.servicemoa.com
+0.0.0.0 *.servicenetwork.autos
+0.0.0.0 *.servicenetworkactivities.autos
 0.0.0.0 *.servicenterelectronic.com
 0.0.0.0 *.serviceorange.godaddysites.com
 0.0.0.0 *.serviceorange0221djk.weebly.com
@@ -159088,6 +159126,7 @@
 0.0.0.0 *.sicma-media.com
 0.0.0.0 *.sicredibr.com
 0.0.0.0 *.sicrednet.byethost7.com
+0.0.0.0 *.siculio9.pro
 0.0.0.0 *.sicurezza.me
 0.0.0.0 *.sicurhands.pro
 0.0.0.0 *.sicurmotot.pro
@@ -178469,8 +178508,10 @@
 0.0.0.0 *.trusted-collector-bk.tmocce.com
 0.0.0.0 *.trusted-immigration.com
 0.0.0.0 *.trusted-invest.com
+0.0.0.0 *.trusted-network-advanced-secured.autos
 0.0.0.0 *.trusted-verification-service-d.vercel.app
 0.0.0.0 *.trusted-verification-service-m10-fc11.vercel.app
+0.0.0.0 *.trusted-verified-service-realtime.autos
 0.0.0.0 *.trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 *.trustedadvice.pro
 0.0.0.0 *.trustedadviser.co.nz
@@ -178481,6 +178522,8 @@
 0.0.0.0 *.trustedgatetocontent.com
 0.0.0.0 *.trustedhacks.com
 0.0.0.0 *.trustedmedicalpersonnel.com
+0.0.0.0 *.trustednetworkadvancedsecured.autos
+0.0.0.0 *.trustednetworktopsecured.autos
 0.0.0.0 *.trustedpeach.com
 0.0.0.0 *.trustedpillspot.com
 0.0.0.0 *.trustedprotection.com
@@ -178489,6 +178532,8 @@
 0.0.0.0 *.trustedsource.world
 0.0.0.0 *.trustedtablets.ru
 0.0.0.0 *.trustedtrade.org
+0.0.0.0 *.trustedverifiedservicerealtime.autos
+0.0.0.0 *.trustedwebadvancedsecured.autos
 0.0.0.0 *.trustedzone.info
 0.0.0.0 *.trusteecorporation.org
 0.0.0.0 *.trusteverything.de
@@ -188405,6 +188450,7 @@
 0.0.0.0 *.webgozar.ir
 0.0.0.0 *.webgroundadbg.hit.gemius.pl
 0.0.0.0 *.webgroundbg.adocean.pl
+0.0.0.0 *.webguardsync.com
 0.0.0.0 *.webgvtel.weebly.com
 0.0.0.0 *.webh5.newfastloan.cc
 0.0.0.0 *.webhancer.com
