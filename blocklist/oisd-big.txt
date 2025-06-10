@@ -30291,6 +30291,7 @@
 0.0.0.0 *.bitcoin-profit-app.net
 0.0.0.0 *.bitcoin-profit.com
 0.0.0.0 *.bitcoin-prosystem.net
+0.0.0.0 *.bitcoin-prosystemapp.com
 0.0.0.0 *.bitcoin-revolution.net
 0.0.0.0 *.bitcoin-revolution.org
 0.0.0.0 *.bitcoin-revolution.software
@@ -51479,6 +51480,7 @@
 0.0.0.0 *.clearask.com
 0.0.0.0 *.clearbitjs.com
 0.0.0.0 *.clearbrasie.blogspot.com
+0.0.0.0 *.clearbyte.info
 0.0.0.0 *.clearcheckers.com
 0.0.0.0 *.clearchoice-investments.com
 0.0.0.0 *.clearcomb.com
@@ -62051,6 +62053,7 @@
 0.0.0.0 *.debtscene.com
 0.0.0.0 *.debttowealthbundle.com
 0.0.0.0 *.debtuse.com
+0.0.0.0 *.debugfitz.buzz
 0.0.0.0 *.debugworkz.click
 0.0.0.0 *.deburenschiedam.nl
 0.0.0.0 *.deburrfleshes.com
@@ -77269,6 +77272,7 @@
 0.0.0.0 *.finessebaitsupply.com
 0.0.0.0 *.finesseplates.co.uk
 0.0.0.0 *.finesseserendipidade.net
+0.0.0.0 *.finestintention.com
 0.0.0.0 *.finestplacement.com
 0.0.0.0 *.finesubles.firebaseapp.com
 0.0.0.0 *.finesubles.web.app
@@ -80665,6 +80669,7 @@
 0.0.0.0 *.funded-next.net
 0.0.0.0 *.funded-trader.net
 0.0.0.0 *.fundednextapp.com
+0.0.0.0 *.fundexocripto.com
 0.0.0.0 *.fundform.click
 0.0.0.0 *.fundfusion-95.com
 0.0.0.0 *.fundfusionapp.com
@@ -80684,6 +80689,7 @@
 0.0.0.0 *.funds-zoning.gl.at.ply.gg
 0.0.0.0 *.fundsforfounders.com
 0.0.0.0 *.fundsolvaren.net
+0.0.0.0 *.fundsolvarenapp.com
 0.0.0.0 *.fundtraveller.com
 0.0.0.0 *.fundzit.com
 0.0.0.0 *.funeral-coversa.co.za
@@ -85757,11 +85763,17 @@
 0.0.0.0 *.gpt-83-iplex.com
 0.0.0.0 *.gpt-90-lisproai.com
 0.0.0.0 *.gpt-9000-adipex.com
+0.0.0.0 *.gpt-adipex-3v.com
+0.0.0.0 *.gpt-adipex-90.com
 0.0.0.0 *.gpt-adipex-9000.net
 0.0.0.0 *.gpt-adipex-9v.com
 0.0.0.0 *.gpt-adipex-app.com
+0.0.0.0 *.gpt-adipex-v9000.com
+0.0.0.0 *.gpt-adipex30.com
+0.0.0.0 *.gpt-adipex3000.com
 0.0.0.0 *.gpt-ai-lispro.net
 0.0.0.0 *.gpt-alora-80.com
+0.0.0.0 *.gpt-alora-800.com
 0.0.0.0 *.gpt-coinora-pulses.net
 0.0.0.0 *.gpt-cointra-labs.net
 0.0.0.0 *.gpt-driftlink.net
@@ -85775,12 +85787,14 @@
 0.0.0.0 *.gpt-mentax-app.com
 0.0.0.0 *.gpt-mentax-app.net
 0.0.0.0 *.gpt-mentax-v800.com
+0.0.0.0 *.gpt-mentax8x.com
 0.0.0.0 *.gpt-nexo-tradenex.com
 0.0.0.0 *.gpt-nexo-tradenex.net
 0.0.0.0 *.gpt-permax-70-pro.com
 0.0.0.0 *.gpt-permax-ai-40.com
 0.0.0.0 *.gpt-permax-app.com
 0.0.0.0 *.gpt-permax-xp-700.com
+0.0.0.0 *.gpt-permax-xp.com
 0.0.0.0 *.gpt-pro-lispro.com
 0.0.0.0 *.gpt-segal-infosfera.com
 0.0.0.0 *.gpt-senales-tradis.com
@@ -92483,6 +92497,7 @@
 0.0.0.0 *.hunterpascher.fr
 0.0.0.0 *.huntersaturateunbeaten.com
 0.0.0.0 *.huntersbootparis.fr
+0.0.0.0 *.huntersolder.top
 0.0.0.0 *.huntington.net.au
 0.0.0.0 *.huntingtoncabinets.org
 0.0.0.0 *.huntmad.com
@@ -94587,7 +94602,9 @@
 0.0.0.0 *.immededgepl.info
 0.0.0.0 *.immediat-tokenify.net
 0.0.0.0 *.immediate-13x-iquix.com
+0.0.0.0 *.immediate-1a-proair-ai.com
 0.0.0.0 *.immediate-1a-proair.net
+0.0.0.0 *.immediate-2-2-keflex.com
 0.0.0.0 *.immediate-20-diamox.net
 0.0.0.0 *.immediate-20-intal.com
 0.0.0.0 *.immediate-200-oluxapp.com
@@ -94598,12 +94615,14 @@
 0.0.0.0 *.immediate-4x-intal.net
 0.0.0.0 *.immediate-62-keflex.com
 0.0.0.0 *.immediate-8-evista-app.com
+0.0.0.0 *.immediate-8000-chenix.com
 0.0.0.0 *.immediate-8a-cormax.com
 0.0.0.0 *.immediate-8x-intal.com
 0.0.0.0 *.immediate-8x-intal.net
 0.0.0.0 *.immediate-9a-iquix.com
 0.0.0.0 *.immediate-achieve-ai.net
 0.0.0.0 *.immediate-achieve.net
+0.0.0.0 *.immediate-ai-bankapp.com
 0.0.0.0 *.immediate-ai-max-app.com
 0.0.0.0 *.immediate-ai-maxapp.com
 0.0.0.0 *.immediate-akpro.com
@@ -94618,6 +94637,7 @@
 0.0.0.0 *.immediate-atarax.net
 0.0.0.0 *.immediate-atom.com
 0.0.0.0 *.immediate-avage.net
+0.0.0.0 *.immediate-avapro-x6.com
 0.0.0.0 *.immediate-avenium.net
 0.0.0.0 *.immediate-avita-ai.com
 0.0.0.0 *.immediate-avita-app.net
@@ -94641,15 +94661,18 @@
 0.0.0.0 *.immediate-connect.com
 0.0.0.0 *.immediate-core-ai.com
 0.0.0.0 *.immediate-core-app.net
+0.0.0.0 *.immediate-dayproapp.com
 0.0.0.0 *.immediate-definity-ai-app.com
 0.0.0.0 *.immediate-definity-aiapp.com
 0.0.0.0 *.immediate-definity.net
+0.0.0.0 *.immediate-definityaiapp.com
 0.0.0.0 *.immediate-definityaiapp.net
 0.0.0.0 *.immediate-diamox-360.com
 0.0.0.0 *.immediate-diamox.net
 0.0.0.0 *.immediate-edge-3.com
 0.0.0.0 *.immediate-edge-ai-app.com
 0.0.0.0 *.immediate-edge-app-ai.com
+0.0.0.0 *.immediate-edge-appai.com
 0.0.0.0 *.immediate-edge.co
 0.0.0.0 *.immediate-edgeapp.net
 0.0.0.0 *.immediate-elitas.net
@@ -94670,6 +94693,8 @@
 0.0.0.0 *.immediate-flex-app.com
 0.0.0.0 *.immediate-folex-app.com
 0.0.0.0 *.immediate-forteo-70.net
+0.0.0.0 *.immediate-forteo-700.com
+0.0.0.0 *.immediate-future-ai.com
 0.0.0.0 *.immediate-gpt.com
 0.0.0.0 *.immediate-granimator-app.com
 0.0.0.0 *.immediate-granimator.net
@@ -94687,6 +94712,7 @@
 0.0.0.0 *.immediate-intalai.net
 0.0.0.0 *.immediate-iplex-ai.com
 0.0.0.0 *.immediate-iquix-10.com
+0.0.0.0 *.immediate-iquix-1a.com
 0.0.0.0 *.immediate-iquix-ai.com
 0.0.0.0 *.immediate-lens30.net
 0.0.0.0 *.immediate-lexipro.net
@@ -94798,6 +94824,7 @@
 0.0.0.0 *.immediate81crypto.com
 0.0.0.0 *.immediate8xintal.net
 0.0.0.0 *.immediate9000flarex.com
+0.0.0.0 *.immediate900keflex.com
 0.0.0.0 *.immediateachieve.com
 0.0.0.0 *.immediateachieve.net
 0.0.0.0 *.immediateai-app.com
@@ -94815,11 +94842,15 @@
 0.0.0.0 *.immediateapexaiapp.net
 0.0.0.0 *.immediateappdexairai.com
 0.0.0.0 *.immediateappdiamox.com
+0.0.0.0 *.immediateappiquix.com
 0.0.0.0 *.immediateauverse.net
+0.0.0.0 *.immediateavaprox6.com
 0.0.0.0 *.immediateavenium.com
+0.0.0.0 *.immediateavita-ai.com
 0.0.0.0 *.immediateavonex2000.com
 0.0.0.0 *.immediateavonexapp.com
 0.0.0.0 *.immediateaxert.net
+0.0.0.0 *.immediateaxiomai.com
 0.0.0.0 *.immediatebenevex.com
 0.0.0.0 *.immediatebextra.net
 0.0.0.0 *.immediatebinc60app.net
@@ -94828,12 +94859,14 @@
 0.0.0.0 *.immediatebitwave.com
 0.0.0.0 *.immediateblu.net
 0.0.0.0 *.immediatebumex30.net
+0.0.0.0 *.immediatecapexaiapp.com
 0.0.0.0 *.immediateceenu.net
 0.0.0.0 *.immediatechainapp.com
 0.0.0.0 *.immediatechainova.com
 0.0.0.0 *.immediatechantix3000.com
 0.0.0.0 *.immediatechantixapp.net
 0.0.0.0 *.immediatechenix4000.net
+0.0.0.0 *.immediatechenixi9app.com
 0.0.0.0 *.immediatecinnect.com
 0.0.0.0 *.immediatecode360.net
 0.0.0.0 *.immediateconnect.co
@@ -94860,6 +94893,7 @@
 0.0.0.0 *.immediateedgeplatform.com
 0.0.0.0 *.immediateedgepro.com
 0.0.0.0 *.immediateelyfin.net
+0.0.0.0 *.immediateenigma-ai.com
 0.0.0.0 *.immediateetherfusion.net
 0.0.0.0 *.immediateeurax.ai
 0.0.0.0 *.immediateeuraxai.net
@@ -94871,6 +94905,7 @@
 0.0.0.0 *.immediateexalgo5000.net
 0.0.0.0 *.immediateexalgo8000.com
 0.0.0.0 *.immediateexalgo8x.com
+0.0.0.0 *.immediateexalgo9.com
 0.0.0.0 *.immediateexalgoapp.com
 0.0.0.0 *.immediatefaridexapp.com
 0.0.0.0 *.immediatefastx-be.com
@@ -94920,6 +94955,7 @@
 0.0.0.0 *.immediatelexipro300.net
 0.0.0.0 *.immediatelidexapp.net
 0.0.0.0 *.immediatelispro.net
+0.0.0.0 *.immediatelisproai.com
 0.0.0.0 *.immediatelotemax8000.com
 0.0.0.0 *.immediateluminary.com
 0.0.0.0 *.immediateluminaryapp.net
@@ -94943,6 +94979,8 @@
 0.0.0.0 *.immediatemomentumapp.com
 0.0.0.0 *.immediatemonexa-ai.com
 0.0.0.0 *.immediateneonai.net
+0.0.0.0 *.immediatenexavar-ai.com
+0.0.0.0 *.immediatenexavarai.com
 0.0.0.0 *.immediatenexavarapp.com
 0.0.0.0 *.immediatenextgenai.net
 0.0.0.0 *.immediatenextgenapp.com
@@ -94952,6 +94990,9 @@
 0.0.0.0 *.immediateoluxapp.com
 0.0.0.0 *.immediatepathapp.net
 0.0.0.0 *.immediatepermaxai.net
+0.0.0.0 *.immediatepower-pro.com
+0.0.0.0 *.immediatepowerproapp.com
+0.0.0.0 *.immediateprimebit.com
 0.0.0.0 *.immediateproair.ai
 0.0.0.0 *.immediateproair.co
 0.0.0.0 *.immediateproair.com
@@ -94971,6 +95012,7 @@
 0.0.0.0 *.immediaterenova90.net
 0.0.0.0 *.immediatereopro500app.com
 0.0.0.0 *.immediaterichmax.net
+0.0.0.0 *.immediaterift.com
 0.0.0.0 *.immediaterift.net
 0.0.0.0 *.immediaterobboapp.net
 0.0.0.0 *.immediatesanorexapp.net
@@ -96940,6 +96982,7 @@
 0.0.0.0 *.instant-12v-forteo.com
 0.0.0.0 *.instant-16x-cormax.com
 0.0.0.0 *.instant-19x-renova.com
+0.0.0.0 *.instant-200-akpro.com
 0.0.0.0 *.instant-2x-akpro.com
 0.0.0.0 *.instant-3000-renova.net
 0.0.0.0 *.instant-4a-cormax.com
@@ -96954,6 +96997,7 @@
 0.0.0.0 *.instant-9x-akpro.com
 0.0.0.0 *.instant-adblock.xyz
 0.0.0.0 *.instant-akpro-2x.com
+0.0.0.0 *.instant-akpro-ai.com
 0.0.0.0 *.instant-amrix-10.com
 0.0.0.0 *.instant-amrix-500.com
 0.0.0.0 *.instant-amrix-x5.com
@@ -96978,6 +97022,7 @@
 0.0.0.0 *.instant-iquix-app.com
 0.0.0.0 *.instant-lispro-30.com
 0.0.0.0 *.instant-lispro-70.com
+0.0.0.0 *.instant-prolia-4000.com
 0.0.0.0 *.instant-renova-ai.com
 0.0.0.0 *.instant-renova.net
 0.0.0.0 *.instant-v4-prolia.com
@@ -96988,6 +97033,7 @@
 0.0.0.0 *.instant06akpro600x.com
 0.0.0.0 *.instant1000iquix.net
 0.0.0.0 *.instant11sanorex.com
+0.0.0.0 *.instant16xrenova.com
 0.0.0.0 *.instant19xiquix.com
 0.0.0.0 *.instant19xiquix.net
 0.0.0.0 *.instant20lasix.com
@@ -96995,16 +97041,20 @@
 0.0.0.0 *.instant30chenix.com
 0.0.0.0 *.instant30chenix.net
 0.0.0.0 *.instant40chenix.com
+0.0.0.0 *.instant40mentax.com
 0.0.0.0 *.instant4acormax.net
+0.0.0.0 *.instant60bumex.com
 0.0.0.0 *.instant60renova.com
 0.0.0.0 *.instant6oluxapp.com
 0.0.0.0 *.instant700xakprov6.com
 0.0.0.0 *.instant8chenix.com
+0.0.0.0 *.instant9000chantixai.com
 0.0.0.0 *.instant9000iquix.com
 0.0.0.0 *.instant9000renova.net
 0.0.0.0 *.instant900exalgo.com
 0.0.0.0 *.instant90cormaxapp.com
 0.0.0.0 *.instant90iquix.com
+0.0.0.0 *.instant91akproapp.com
 0.0.0.0 *.instant91daypro.com
 0.0.0.0 *.instant91daypro.net
 0.0.0.0 *.instantakpro07.com
@@ -97013,6 +97063,7 @@
 0.0.0.0 *.instantanecasino.fr
 0.0.0.0 *.instantavapro.net
 0.0.0.0 *.instantavelox71.net
+0.0.0.0 *.instantavita.com
 0.0.0.0 *.instantavonex.com
 0.0.0.0 *.instantbreakingbuzz.click
 0.0.0.0 *.instantbuzzflashreport.click
@@ -97023,8 +97074,11 @@
 0.0.0.0 *.instantcasinofr.fr
 0.0.0.0 *.instantcasinologin.fr
 0.0.0.0 *.instantchenix.net
+0.0.0.0 *.instantchenix2000.com
+0.0.0.0 *.instantchenix80.com
 0.0.0.0 *.instantcodegenerator.com
 0.0.0.0 *.instantcormax11x.com
+0.0.0.0 *.instantcormax700.com
 0.0.0.0 *.instantcormaxai.com
 0.0.0.0 *.instantcormaxapp.com
 0.0.0.0 *.instantcredithelper.com
@@ -97039,9 +97093,12 @@
 0.0.0.0 *.instantherplex.com
 0.0.0.0 *.instantherplexxp.net
 0.0.0.0 *.instanthq.com
+0.0.0.0 *.instantinsiderfeed.com
 0.0.0.0 *.instantiquix.com
 0.0.0.0 *.instantiquix17x.com
 0.0.0.0 *.instantiquix90.com
+0.0.0.0 *.instantlasixv7700.com
+0.0.0.0 *.instantlisproai.com
 0.0.0.0 *.instantloanfinder.com
 0.0.0.0 *.instantloansdirectly.com
 0.0.0.0 *.instantlogin.square.site
@@ -97056,7 +97113,9 @@
 0.0.0.0 *.instantnewstracker.click
 0.0.0.0 *.instantolux.net
 0.0.0.0 *.instantonlineverification.usaabank.verification.fajitaritas.com
+0.0.0.0 *.instantprolia-4000.com
 0.0.0.0 *.instantprolia.com
+0.0.0.0 *.instantprolia7000.com
 0.0.0.0 *.instantprolia71.com
 0.0.0.0 *.instantprolia71.net
 0.0.0.0 *.instantrenova16x.com
@@ -126153,6 +126212,7 @@
 0.0.0.0 *.novasprig.pro
 0.0.0.0 *.novaspritz.pro
 0.0.0.0 *.novastakingwallet.com
+0.0.0.0 *.novastra.info
 0.0.0.0 *.novastraem.com
 0.0.0.0 *.novasyner.com
 0.0.0.0 *.novatech-fx.com
@@ -128300,6 +128360,7 @@
 0.0.0.0 *.ojfaxtavjdt.com
 0.0.0.0 *.ojfowfsij.com
 0.0.0.0 *.ojiang.com
+0.0.0.0 *.ojix.c6efjj.cyou
 0.0.0.0 *.ojkaqzrcy.com
 0.0.0.0 *.ojkduzbm.com
 0.0.0.0 *.ojkfmoackqp.com
@@ -139785,6 +139846,7 @@
 0.0.0.0 *.prod-analytics.royal.drmgms.com
 0.0.0.0 *.prod-collecticon.outlookmobile.com
 0.0.0.0 *.prod-collector.bigbasket.com
+0.0.0.0 *.prod-iscoverz.info
 0.0.0.0 *.prod-mhaa.mhtr.be
 0.0.0.0 *.prod-origin.truendo.com
 0.0.0.0 *.prod-pre.fns.tunein.com
@@ -156793,6 +156855,7 @@
 0.0.0.0 *.sensifyfugged.com
 0.0.0.0 *.sensiligus.pro
 0.0.0.0 *.sensitiveclick.com
+0.0.0.0 *.sensityforzens.xyz
 0.0.0.0 *.sensobose.com
 0.0.0.0 *.sensofranc.pro
 0.0.0.0 *.sensor-technology.com
@@ -196929,6 +196992,7 @@
 0.0.0.0 *.zdqdc.ru
 0.0.0.0 *.zdqeakct.e-kei.pl
 0.0.0.0 *.zdrap.com
+0.0.0.0 *.zdrapaj.com
 0.0.0.0 *.zdrapka.com
 0.0.0.0 *.zdrapkipl.com
 0.0.0.0 *.zdrapkni.com
