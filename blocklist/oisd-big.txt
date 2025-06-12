@@ -25750,7 +25750,6 @@
 0.0.0.0 *.bcm.interactives.dk
 0.0.0.0 *.bcmediagroup.com
 0.0.0.0 *.bcnccustom.com
-0.0.0.0 *.bcni.net
 0.0.0.0 *.bcnproduction.com
 0.0.0.0 *.bcode-wallet.firebaseapp.com
 0.0.0.0 *.bcode-wallet.web.app
@@ -25994,6 +25993,7 @@
 0.0.0.0 *.beaconcdn.qq.com
 0.0.0.0 *.beaconfyldra.com
 0.0.0.0 *.beaconin2.notinote.me
+0.0.0.0 *.beaconloop.cfd
 0.0.0.0 *.beaconplanning.net
 0.0.0.0 *.beacons.digital.disneyadvertising.com
 0.0.0.0 *.beacons.hottraffic.nl
@@ -26867,7 +26867,6 @@
 0.0.0.0 *.bestellung-sicher.com.de
 0.0.0.0 *.bestellungrezeptfrei.de
 0.0.0.0 *.besteonlineapotheke.de
-0.0.0.0 *.besterezensionen.com
 0.0.0.0 *.bestes-leben.com.de
 0.0.0.0 *.bestes-liebesleben.com.de
 0.0.0.0 *.bestesgrous.firebaseapp.com
@@ -49633,7 +49632,6 @@
 0.0.0.0 *.deepseekapp.download
 0.0.0.0 *.deepseeklogin.com
 0.0.0.0 *.deepseeklogins.com
-0.0.0.0 *.deepswan.store
 0.0.0.0 *.deeptack.com
 0.0.0.0 *.deepvion.info
 0.0.0.0 *.deepwebsearchengine.org
@@ -65187,7 +65185,6 @@
 0.0.0.0 *.flaxconfession.com
 0.0.0.0 *.flaxierfilmset.com
 0.0.0.0 *.flbhwgoibnoku.space
-0.0.0.0 *.fld.e11ty.shop
 0.0.0.0 *.fld.e11ty.top
 0.0.0.0 *.fld.e1ity.cyou
 0.0.0.0 *.fld.e1ity.qpon
@@ -72717,7 +72714,6 @@
 0.0.0.0 *.gouzoogoosoa.com
 0.0.0.0 *.gov-aabb.vip
 0.0.0.0 *.gov-aabn.vip
-0.0.0.0 *.gov-aanb.vip
 0.0.0.0 *.gov-aanm.vip
 0.0.0.0 *.gov-aavc.vip
 0.0.0.0 *.gov-aavv.vip
@@ -80195,7 +80191,6 @@
 0.0.0.0 *.i65wsmrj5.com
 0.0.0.0 *.i7.mayoblast.com
 0.0.0.0 *.i79o.glitch.me
-0.0.0.0 *.i7ece0xrg4nx.com
 0.0.0.0 *.i8.mayoblast.com
 0.0.0.0 *.i867.journal-advocate.com
 0.0.0.0 *.i8xkjci7nd.com
@@ -85216,6 +85211,7 @@
 0.0.0.0 *.ipitel.com
 0.0.0.0 *.ipko-bp.pl-verif.com
 0.0.0.0 *.ipko-pl.bp-pl.com
+0.0.0.0 *.ipko-secure.skiopening.rs
 0.0.0.0 *.ipko.110299.com
 0.0.0.0 *.ipko.294731.com
 0.0.0.0 *.ipko.bp-pl.com
@@ -110372,7 +110368,6 @@
 0.0.0.0 *.netinswebmail0765.weebly.com
 0.0.0.0 *.netizen.co
 0.0.0.0 *.netizennepal.com
-0.0.0.0 *.netizenspace.com
 0.0.0.0 *.netking.duckdns.org
 0.0.0.0 *.netlens.com.br
 0.0.0.0 *.netlify-rum.netlify.app
@@ -140848,7 +140843,6 @@
 0.0.0.0 *.sbfw.work
 0.0.0.0 *.sbhight.com
 0.0.0.0 *.sbi-sberbank-9443.ru
-0.0.0.0 *.sbiab.top
 0.0.0.0 *.sbiac.top
 0.0.0.0 *.sbiad.top
 0.0.0.0 *.sbiae.top
@@ -147084,6 +147078,7 @@
 0.0.0.0 *.skillerszone.com
 0.0.0.0 *.skilleservices.com
 0.0.0.0 *.skilletperonei.com
+0.0.0.0 *.skillevo.info
 0.0.0.0 *.skillfuldrop.com
 0.0.0.0 *.skillhr.com
 0.0.0.0 *.skillpropulsion.com
@@ -164495,7 +164490,6 @@
 0.0.0.0 *.trcksp.cordial.io
 0.0.0.0 *.trd.absolute-glltd.com
 0.0.0.0 *.trd.bprofit-ai.com
-0.0.0.0 *.trd.cabtml.com
 0.0.0.0 *.trd.rate1taker.com
 0.0.0.0 *.trd.stockwise.life
 0.0.0.0 *.trdad.zeabur.app
@@ -180479,6 +180473,7 @@
 0.0.0.0 *.xn--albilet-b9a.pl-oferta3452784.pl
 0.0.0.0 *.xn--albilet-b9a.pl-oferta5102958.top
 0.0.0.0 *.xn--albilet-b9a.pl-oferta9325917.top
+0.0.0.0 *.xn--albilet-b9a.pl-oferta9799704.top
 0.0.0.0 *.xn--allyspin-casin-job.fr
 0.0.0.0 *.xn--allyspincasin-8kb.fr
 0.0.0.0 *.xn--alterna-nergie-ikb.fr
@@ -181501,7 +181496,6 @@
 0.0.0.0 *.yceleb.com
 0.0.0.0 *.ycestebanleather.com
 0.0.0.0 *.ycflyfishing.com
-0.0.0.0 *.ycgmnpp.icu
 0.0.0.0 *.ychildrenasthey.com
 0.0.0.0 *.ychynt.com
 0.0.0.0 *.yci416ame.5b0qyh1qd.xyz
