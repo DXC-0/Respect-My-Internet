@@ -15154,6 +15154,7 @@
 0.0.0.0 *.allegrolokalnie.pl-2929.shop
 0.0.0.0 *.allegrolokalnie.pl-31310.cfd
 0.0.0.0 *.allegrolokalnie.pl-319586.cfd
+0.0.0.0 *.allegrolokalnie.pl-34960792.icu
 0.0.0.0 *.allegrolokalnie.pl-37292.cfd
 0.0.0.0 *.allegrolokalnie.pl-38848.shop
 0.0.0.0 *.allegrolokalnie.pl-3934.cfd
@@ -15188,6 +15189,7 @@
 0.0.0.0 *.allegrolokalnie.pl-89124.shop
 0.0.0.0 *.allegrolokalnie.pl-89251221.cfd
 0.0.0.0 *.allegrolokalnie.pl-89610513.icu
+0.0.0.0 *.allegrolokalnie.pl-9005315.sbs
 0.0.0.0 *.allegrolokalnie.pl-912082.shop
 0.0.0.0 *.allegrolokalnie.pl-919482.cfd
 0.0.0.0 *.allegrolokalnie.pl-927482.cfd
@@ -24335,6 +24337,7 @@
 0.0.0.0 *.bafkraiel2aylqwqzrj3evobzkslbtjrjdcf2c7j65teevcqzxlhd5dmcoq.glitch.me
 0.0.0.0 *.bafkreia6xrm6o4ostewlwwhbn5ccmgrxokg3u7p37wdvx6mi3m7rl2pfma.ipfs.dweb.link
 0.0.0.0 *.bafkreiabf4tr62cpdhuxjn5xxfljx66utkfxyfruiu4xq2xjyn2saxj3sy.ipfs.dweb.link
+0.0.0.0 *.bafkreiabtsovihysqhhubwfysrngo2lihtiydkeatrcivyjms5i26rzwoy.ipfs.dweb.link
 0.0.0.0 *.bafkreiaemiaoe3s6gn6xior5tuy3i2ovsp5yplgbhggt2durufnotoj52i.ipfs.dweb.link
 0.0.0.0 *.bafkreiaeznnj2lecrfidivlkn5jkngnljhkgcomczikqp35uczufywi2ny.ipfs.dweb.link
 0.0.0.0 *.bafkreiaj3re3z4vwsjzdsepngnywk4624jizydc4tnfchn2k3dfz5vlvi4.ipfs.dweb.link
@@ -24349,6 +24352,7 @@
 0.0.0.0 *.bafkreibsgtzfyklmsvlapd7ia5tbe3v3e323zubxzvtepkvq7kixapyr4u.ipfs.dweb.link
 0.0.0.0 *.bafkreiburw5smfvrgla5ph2brsti5mfolorbskwmtsdxx3gqrxmt3i4v5q.ipfs.dweb.link
 0.0.0.0 *.bafkreiby65mpko6naibnsfrd6sujsbo7sguq3eiaprdqvwhjcjwzfegtai.ipfs.dweb.link
+0.0.0.0 *.bafkreibyqs4eq3hztmme5eyw42fesrvdjwq5f4ekclulyahaa6jaz6ibii.ipfs.dweb.link
 0.0.0.0 *.bafkreibzh2f7x2cnjdtfjdpzxpaa44fvufstbd6p6gm5piznlbgrqshgmy.ipfs.dweb.link
 0.0.0.0 *.bafkreiccpbu46e3u7vhvh4y6d3sf2ksbau2mw4q2ipxncaqybyx35b76ly.ipfs.dweb.link
 0.0.0.0 *.bafkreicfs5kd2sujjkyuouhgbcsx2vesaqdseue3i4xuurpqlgp6kqs4ou.ipfs.dweb.link
@@ -24400,13 +24404,16 @@
 0.0.0.0 *.bafkreigncckxf56wemtlxrrxs66csmkk4f2h7giibzrra7jjtkxtf33kw4.ipfs.dweb.link
 0.0.0.0 *.bafkreigydfmhypvnhhgnz4to3jfe4s572r7ljk5dob5ppv4dp3ohko3u6e.ipfs.dweb.link
 0.0.0.0 *.bafkreigzu2lviimykex3t7j6v7g7rr2limyaqlj2rbtm3ws2grooxkj6iq.ipfs.dweb.link
+0.0.0.0 *.bafkreih6wk4uwgtu3nxz7fz3zfsfikekg72zmficr2uehbhmvtqi3jmdfe.ipfs.dweb.link
 0.0.0.0 *.bafkreihanifu2khj7ha5h2g5owjwegmmdrguna3zshetpdaqedtrshkkti.ipfs.dweb.link
 0.0.0.0 *.bafkreihb3vw52dinyr3kpwmy4ym4smnqqf4osesbp5yatkjyegjezwieci.ipfs.dweb.link
 0.0.0.0 *.bafkreihbuaki4ahvu2skacwydrjhqr2sjknwxevwj7rbx7mvs2xk3lelcm.ipfs.dweb.link
 0.0.0.0 *.bafkreihbvrdzotm6ue2z5qq7keyf65jkqzzff2dsv5vxu4qwrthu3fkve4.ipfs.dweb.link
+0.0.0.0 *.bafkreihfobpt74h62ysdro2ekuili3nsdkkvz67vsir3o63wjcivqb33ma.ipfs.dweb.link
 0.0.0.0 *.bafkreihhctl6thjm5w7xk52xiyiaffkoi3ardg6atcp6rpdiiqkk27kcdi.ipfs.dweb.link
 0.0.0.0 *.bafkreihitaduxmdqk3n72qdzcqjuds2jbl3zahhib6kdp233tm35zkxl34.ipfs.dweb.link
 0.0.0.0 *.bafkreihoncx735fuumihtpr5e6ngzvoiv7gs4jc63i4fpmiuqp5nqoqx5q.ipfs.dweb.link
+0.0.0.0 *.bafkreihz56iqmzrigwird475wmjbe2sxfj5n7zqqqxqijleyo5ocqmn45m.ipfs.dweb.link
 0.0.0.0 *.bafybeia37aijcmncpbru77cq5jqlhs4wdm55ah4n52ywr72y7t6shbsx2e.ipfs.dweb.link
 0.0.0.0 *.bafybeia6bulyrhm2hajcg2tcl7dvsrvfc5a47hlnxifr6a6i4n4ebvxwki.ipfs.dweb.link
 0.0.0.0 *.bafybeiaa2wna74mfiecgfrq5oyspsx5ftb5ikekcmnijwqt2u7ollndxrm.ipfs.dweb.link
@@ -65846,6 +65853,7 @@
 0.0.0.0 *.foirede-paris.fr
 0.0.0.0 *.fojbd.yt
 0.0.0.0 *.fojjk.yt
+0.0.0.0 *.fojuca-nugafu.site
 0.0.0.0 *.fokeniz.com
 0.0.0.0 *.folamsan.kovo.vn
 0.0.0.0 *.folawau.com
@@ -122845,6 +122853,7 @@
 0.0.0.0 *.pl-kategorie-ogrod-id-359487.sbs
 0.0.0.0 *.pl-kategorie-ogrod-oferty-id87721.sbs
 0.0.0.0 *.pl-kategorie-polecane-82839.shop
+0.0.0.0 *.pl-kategorie1471247671274.icu
 0.0.0.0 *.pl-kategorie62692641836.icu
 0.0.0.0 *.pl-kategorie7255972657398.icu
 0.0.0.0 *.pl-kategorie7256986151942.icu
@@ -183936,6 +183945,9 @@
 0.0.0.0 *.zlx.com.br
 0.0.0.0 *.zlzgfj.icu
 0.0.0.0 *.zlzwhrhkavos.xyz
+0.0.0.0 *.zm-meeting0pa8-l6webmail-1sgm8my6g-mike-vernamines-projects.vercel.app
+0.0.0.0 *.zm-meetinga6b-ay1webmail-i4wjjc058-mike-vernamines-projects.vercel.app
+0.0.0.0 *.zm-meetingtnx-en9webmail-3hu7rqqfr-mike-vernamines-projects.vercel.app
 0.0.0.0 *.zm232.com
 0.0.0.0 *.zm9dui4x.duckdns.org
 0.0.0.0 *.zmail-auth.weebly.com
