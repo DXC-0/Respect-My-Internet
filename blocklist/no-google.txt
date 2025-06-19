@@ -1611,6 +1611,7 @@
 0.0.0.0 security.google.com
 0.0.0.0 services.google.com
 0.0.0.0 services2.google.com
+0.0.0.0 share.google
 0.0.0.0 sheets.google.com
 0.0.0.0 shopping.google.com
 0.0.0.0 simtransfer.goog
