@@ -252,6 +252,7 @@
 0.0.0.0 abonnement-impayer.fr
 0.0.0.0 abonnement-info.fr
 0.0.0.0 abonnement-information.fr
+0.0.0.0 abonnementiptvcode.fr
 0.0.0.0 abonnementip-tv.fr
 0.0.0.0 abonnement-iptvfrance.fr
 0.0.0.0 abonnementiptv-francetv.fr
@@ -4656,6 +4657,7 @@
 0.0.0.0 billetterie-doretdeplatine.fr
 0.0.0.0 billetterie-doretdeplatines.fr
 0.0.0.0 billetterie-f1.fr
+0.0.0.0 billetterie-fromzeroworldtour.fr
 0.0.0.0 billetteriejulofficiel.fr
 0.0.0.0 billetterie-loomwordltour.fr
 0.0.0.0 billetterie-loomworldtour.fr
@@ -8733,6 +8735,7 @@
 0.0.0.0 creditmutuel-entreprise.fr
 0.0.0.0 creditmutuel-epargesalariale.fr
 0.0.0.0 creditmutuel-epargnsalariale.fr
+0.0.0.0 creditmutuelfrance.fr
 0.0.0.0 credit-mutuelle-connecte.fr
 0.0.0.0 creditmutuelnord.fr
 0.0.0.0 creditmutuel-opposition.fr
@@ -14836,6 +14839,7 @@
 0.0.0.0 laboutique-sfr.fr
 0.0.0.0 labqanquepostale.fr
 0.0.0.0 labqpostale.fr
+0.0.0.0 labubu-pop.fr
 0.0.0.0 lacaisse-depargne.fr
 0.0.0.0 lacaissederetraite.fr
 0.0.0.0 la-caisse-epargne.fr
@@ -19294,6 +19298,7 @@
 0.0.0.0 notification-support.fr
 0.0.0.0 notifnpal.fr
 0.0.0.0 notifs-chronopost.fr
+0.0.0.0 notifs-conseiller.fr
 0.0.0.0 notify-me-pypl.fr
 0.0.0.0 notiores.fr
 0.0.0.0 notraires.fr
@@ -19968,6 +19973,7 @@
 0.0.0.0 paiementpaylibinstantencours.fr
 0.0.0.0 paiementpaypal.fr
 0.0.0.0 paiementrecuenligne.fr
+0.0.0.0 paiement-reglement.fr
 0.0.0.0 paiement-renouvellement.fr
 0.0.0.0 paiement-revolut.fr
 0.0.0.0 paiements-amende-en-ligne.fr
@@ -20439,6 +20445,7 @@
 0.0.0.0 paylincpal.fr
 0.0.0.0 paylink-online.fr
 0.0.0.0 paylipay.fr
+0.0.0.0 payliv.fr
 0.0.0.0 payload-leboncoin.fr
 0.0.0.0 payment3descurelimited.fr
 0.0.0.0 payment-antai.fr
@@ -24031,6 +24038,7 @@
 0.0.0.0 servicefiscal.fr
 0.0.0.0 servicefoncia.fr
 0.0.0.0 service-frais-douane.fr
+0.0.0.0 servicefraudecmb.fr
 0.0.0.0 service-fraude.fr
 0.0.0.0 servicefraudes-ca.fr
 0.0.0.0 service-fr.fr
@@ -26929,6 +26937,7 @@
 0.0.0.0 unionharmoniemutuelle.fr
 0.0.0.0 uni-paris1.fr
 0.0.0.0 uni-paris-diderot.fr
+0.0.0.0 uni-paris.fr
 0.0.0.0 uniqleo.fr
 0.0.0.0 uniqloenfrance.fr
 0.0.0.0 uni-qlofrance.fr
@@ -28965,6 +28974,7 @@
 0.0.0.0 xn--societegnralscuritdsp2-i8bbef.fr
 0.0.0.0 xn--societ-genarale-gnb.fr
 0.0.0.0 xn--socitaireducreditagricole-eic.fr
+0.0.0.0 xn--socitgeneral-eebb.fr
 0.0.0.0 xn--socit-general-ehbb.fr
 0.0.0.0 xn--socitgeneraleparticulier-efcb.fr
 0.0.0.0 xn--socitgenerales-ekbb.fr
