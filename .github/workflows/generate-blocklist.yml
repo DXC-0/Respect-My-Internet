@@ -41,6 +41,7 @@ jobs:
           mv domain.txt no-china-batx.txt
 
           cat * | sort | uniq > respect-my-internet.txt
+          cat * | sort | uniq | sed 's/^/||/g' | sed 's/$/^/g' > respect-my-internet-adblock.txt #adguard/adblock
 
           mkdir -p ./ip
           cd ./ip
