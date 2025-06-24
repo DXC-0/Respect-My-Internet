@@ -40,7 +40,7 @@ jobs:
           mv phishing_army_blocklist_extended.txt phishing-army.txt
           mv domain.txt no-china-batx.txt
 
-          cat * >> respect-my-internet.txt
+          cat * | sort | uniq > respect-my-internet.txt
 
           mkdir -p ./ip
           cd ./ip
@@ -49,7 +49,7 @@ jobs:
            curl $url | sed '/^#/d'  > $(basename $url)
           done
           
-          cat * >> ip-protection.txt
+          cat * | sort | uniq > ip-protection.txt
           
       - name: Extra blocklists generation
         run: |
