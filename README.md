@@ -42,7 +42,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 
 ### ✅ Manual Downloads
 
-| Blocklist version | OpenSnitch | LittleSnitch | Adguard / Ublock |
+| Blocklist version | OpenSnitch | LittleSnitch | Adguard |
 | --- | --- | --- | --- |
 | Respect-My-Internet | [Download](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt) | Soon | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/respect-my-internet-adblock.txt) |
 | IP-Protection | [Download](https://raw.githubusercontent.com/TheCyberArcher/Respect-My-Internet/refs/heads/main/blocklist/ip/ip-protection.txt) | Soon |  |
