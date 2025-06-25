@@ -60,7 +60,6 @@
 0.0.0.0 aax-us-iad.amazon.com #Amazon - Advertising
 0.0.0.0 aaxads.com #Acceptable Ads - Tracker
 0.0.0.0 abmr.net #Unknown - Advertising
-0.0.0.0 absolveparticlesanti.com #AdMeasures - Advertising
 0.0.0.0 abtasty.com #AB Tasty - Tracker
 0.0.0.0 abtest.mistat.xiaomi.com #Xiaomi - Tracker
 0.0.0.0 ac24horas.com #Revive Adserver - Advertising
@@ -1886,7 +1885,6 @@
 0.0.0.0 linkis.com #Linkis - Tracker
 0.0.0.0 linkonclick.com #Unknown - Advertising
 0.0.0.0 linksynergy.com #Unknown - Advertising
-0.0.0.0 linktrack.co.nz #Performance Tracking - Tracker
 0.0.0.0 lipperhey.com #Lipperhey - Tracker
 0.0.0.0 liqwid.net #Liqwid - Advertising
 0.0.0.0 listrakbi.com #Unknown - Tracker
