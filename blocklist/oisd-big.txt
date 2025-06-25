@@ -15399,6 +15399,7 @@
 0.0.0.0 *.allegrolokalnie.pl-kategorie-pozostale-4125.rest
 0.0.0.0 *.allegrolokalnie.pl-oferta-id2387942371.top
 0.0.0.0 *.allegrolokalnie.pl-oferta1097025.icu
+0.0.0.0 *.allegrolokalnie.pl-oferta186079300.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta32242.top
 0.0.0.0 *.allegrolokalnie.pl-oferta331789.com
 0.0.0.0 *.allegrolokalnie.pl-oferta436836.com
@@ -93083,6 +93084,7 @@
 0.0.0.0 *.kotulin.com.pl
 0.0.0.0 *.kotuo.cn
 0.0.0.0 *.kotzzdwl.com
+0.0.0.0 *.koualmalda.com
 0.0.0.0 *.koubeepsoubavo.net
 0.0.0.0 *.koubi.jp
 0.0.0.0 *.koucinllogin.webflow.io
@@ -124523,6 +124525,7 @@
 0.0.0.0 *.pi-8201029351030192736.rest
 0.0.0.0 *.pi-836454210.rest
 0.0.0.0 *.pi-91717262515152.rest
+0.0.0.0 *.pi-9201029351030192736.rest
 0.0.0.0 *.pi-934502712537.icu
 0.0.0.0 *.pi-98612568214.icu
 0.0.0.0 *.pi-access.com
@@ -125514,7 +125517,9 @@
 0.0.0.0 *.pl-oferta2693800.shop
 0.0.0.0 *.pl-oferta2784529.shop
 0.0.0.0 *.pl-oferta279529.cfd
+0.0.0.0 *.pl-oferta284954029.sbs
 0.0.0.0 *.pl-oferta295820.cfd
+0.0.0.0 *.pl-oferta3072852076.cfd
 0.0.0.0 *.pl-oferta3102817.shop
 0.0.0.0 *.pl-oferta3109197.shop
 0.0.0.0 *.pl-oferta3339534.shop
@@ -125528,6 +125533,7 @@
 0.0.0.0 *.pl-oferta3767447.shop
 0.0.0.0 *.pl-oferta3946163.shop
 0.0.0.0 *.pl-oferta4059941.shop
+0.0.0.0 *.pl-oferta41651.icu
 0.0.0.0 *.pl-oferta4277662.shop
 0.0.0.0 *.pl-oferta4330509.shop
 0.0.0.0 *.pl-oferta4376566.cfd
@@ -125642,6 +125648,7 @@
 0.0.0.0 *.pl-oferta9426621.icu
 0.0.0.0 *.pl-oferta9443.icu
 0.0.0.0 *.pl-oferta9528675.shop
+0.0.0.0 *.pl-oferta9548869.icu
 0.0.0.0 *.pl-oferta9573722.shop
 0.0.0.0 *.pl-oferta9621680.icu
 0.0.0.0 *.pl-oferta978532.cfd
@@ -147294,6 +147301,7 @@
 0.0.0.0 *.serwer2532409.home.pl
 0.0.0.0 *.serwer2537704.home.pl
 0.0.0.0 *.serwer2539586.home.pl
+0.0.0.0 *.serwer2559087.home.pl
 0.0.0.0 *.serwer2575341.home.pl
 0.0.0.0 *.serwer2583293.home.pl
 0.0.0.0 *.serwis-laptopow24.pl
@@ -180583,6 +180591,7 @@
 0.0.0.0 *.wiatygrill91.shop
 0.0.0.0 *.wiatyogrod36.shop
 0.0.0.0 *.wiatyogrod45.shop
+0.0.0.0 *.wiatyogrod59.shop
 0.0.0.0 *.wiatyogrod63.shop
 0.0.0.0 *.wiatyogrod64.shop
 0.0.0.0 *.wiatyogrod77.shop
