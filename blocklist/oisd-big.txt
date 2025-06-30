@@ -24257,7 +24257,6 @@
 0.0.0.0 *.allegrolokalnie.pl-kategorie-inne-9812.icu
 0.0.0.0 *.allegrolokalnie.pl-kategorie-ogrod-oferty-id29838.sbs
 0.0.0.0 *.allegrolokalnie.pl-kategorie-pozostale-4125.rest
-0.0.0.0 *.allegrolokalnie.pl-kategorie812831727412523.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta-id2387942371.top
 0.0.0.0 *.allegrolokalnie.pl-oferta1097025.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta17490048.cfd
@@ -24279,6 +24278,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta590874.com
 0.0.0.0 *.allegrolokalnie.pl-oferta6326635.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta724394.com
+0.0.0.0 *.allegrolokalnie.pl-oferta72919703.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta745285.com
 0.0.0.0 *.allegrolokalnie.pl-oferta745689.com
 0.0.0.0 *.allegrolokalnie.pl-oferta746829.com
@@ -130785,7 +130785,6 @@
 0.0.0.0 *.locatelli.us
 0.0.0.0 *.locatemee.com
 0.0.0.0 *.locathypov.pro
-0.0.0.0 *.location-package.xyz
 0.0.0.0 *.location.cyou
 0.0.0.0 *.location.ximalaya.com
 0.0.0.0 *.locations-often.gl.at.ply.gg
@@ -164934,6 +164933,7 @@
 0.0.0.0 *.pl-kategorie8124878127516.icu
 0.0.0.0 *.pl-kategorie8127317641925162.icu
 0.0.0.0 *.pl-kategorie812831277125.icu
+0.0.0.0 *.pl-kategorie812831727412523.icu
 0.0.0.0 *.pl-kategorie8128317412453.icu
 0.0.0.0 *.pl-kategorie8128318234512.icu
 0.0.0.0 *.pl-kategorie81283182577163.icu
@@ -219034,6 +219034,7 @@
 0.0.0.0 *.ttvpaassociation.com
 0.0.0.0 *.ttvpjqyrpw.duckdns.org
 0.0.0.0 *.ttwmed.com
+0.0.0.0 *.ttwtw.com
 0.0.0.0 *.ttwzjs.cn
 0.0.0.0 *.ttxknb.com
 0.0.0.0 *.ttyunos.com
