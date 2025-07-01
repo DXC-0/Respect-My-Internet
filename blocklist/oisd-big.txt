@@ -9490,6 +9490,7 @@
 0.0.0.0 *.6oacak2siparislerin.cloud
 0.0.0.0 *.6obfl40.duckdns.org
 0.0.0.0 *.6obvdk3i.duckdns.org
+0.0.0.0 *.6oe2.msyoxvxe.es
 0.0.0.0 *.6oejb2frd.duckdns.org
 0.0.0.0 *.6oi7mfa1w.com
 0.0.0.0 *.6ok40ctf.duckdns.org
@@ -31478,7 +31479,6 @@
 0.0.0.0 *.assistance-chronopost.fr
 0.0.0.0 *.assistance-colis-chronopost.fr
 0.0.0.0 *.assistance-compte.fr
-0.0.0.0 *.assistance-compteameli.fr
 0.0.0.0 *.assistance-esim-sfr.fr
 0.0.0.0 *.assistance-free.fr
 0.0.0.0 *.assistance-gesti9.firebaseapp.com
@@ -43334,6 +43334,7 @@
 0.0.0.0 *.booking.confirmation-id1722.com
 0.0.0.0 *.booking.confirmation-id19173.com
 0.0.0.0 *.booking.confirmation-id34897.com
+0.0.0.0 *.booking.confirmation-id41240.com
 0.0.0.0 *.booking.confirmation-id4726.com
 0.0.0.0 *.booking.confirmation-id4810.com
 0.0.0.0 *.booking.confirmation-id48329.com
@@ -57721,7 +57722,6 @@
 0.0.0.0 *.compte-livraison.fr
 0.0.0.0 *.compte-online.duckdns.org
 0.0.0.0 *.compte-pavpal-login.hopto.org
-0.0.0.0 *.compteameli-assistance.fr
 0.0.0.0 *.compteinfo.fr
 0.0.0.0 *.compteur.websiteout.net
 0.0.0.0 *.compteverif.fr
@@ -97118,7 +97118,6 @@
 0.0.0.0 *.goalrtpwin.com
 0.0.0.0 *.goals4pets.com
 0.0.0.0 *.goalterusrtp.com
-0.0.0.0 *.goalvaidclub.com
 0.0.0.0 *.goantuprevi.pro
 0.0.0.0 *.goapoachowoovol.net
 0.0.0.0 *.goaseniorlifehousingpageok.live
@@ -113366,6 +113365,7 @@
 0.0.0.0 *.innasnatro.pro
 0.0.0.0 *.innastripl.pro
 0.0.0.0 *.innate-cold-bubble.glitch.me
+0.0.0.0 *.innatechnic.ro
 0.0.0.0 *.innatecomb.com
 0.0.0.0 *.innco.onmore.top
 0.0.0.0 *.inncreasukedrev.info
@@ -132253,6 +132253,7 @@
 0.0.0.0 *.lostsailorbookpress.com
 0.0.0.0 *.lostwithintention.com
 0.0.0.0 *.losu.112.2o7.net
+0.0.0.0 *.losu.metaengisignal.com
 0.0.0.0 *.losvirus.es
 0.0.0.0 *.losystem.com
 0.0.0.0 *.lot-clothes.gl.at.ply.gg
@@ -135760,7 +135761,6 @@
 0.0.0.0 *.maisoncardin.fr
 0.0.0.0 *.maisoncherry.com
 0.0.0.0 *.maisondeange.com
-0.0.0.0 *.maisonhoek.com
 0.0.0.0 *.maisonkway.fr
 0.0.0.0 *.maisonpierrecardin.fr
 0.0.0.0 *.maisonprime.fr
@@ -162839,8 +162839,10 @@
 0.0.0.0 *.performhighlylatestthe-file.top
 0.0.0.0 *.performhighlynewestthe-file.top
 0.0.0.0 *.performhighlyoriginalthe-file.top
+0.0.0.0 *.performhighlyprecisethe-file.top
 0.0.0.0 *.performhighlyprogressivethe-file.top
 0.0.0.0 *.performhighlyrecentthe-file.top
+0.0.0.0 *.performhighlyrefinedthe-file.top
 0.0.0.0 *.performhighlyrenewedthe-file.top
 0.0.0.0 *.performhighlysophisticatedthe-file.top
 0.0.0.0 *.performhighlyspeedythe-file.top
@@ -175026,7 +175028,6 @@
 0.0.0.0 *.qewqwe.click
 0.0.0.0 *.qewsdxzcwsa.com
 0.0.0.0 *.qewwklaovmmw.top
-0.0.0.0 *.qewwklewvvmz.top
 0.0.0.0 *.qexiacase.fun
 0.0.0.0 *.qexiacase.pro
 0.0.0.0 *.qexwknfkfr.duckdns.org
@@ -231343,7 +231344,6 @@
 0.0.0.0 *.wbkdsg.xyz
 0.0.0.0 *.wbkokfwzpfuai.life
 0.0.0.0 *.wbkoliter.exfhelp.top
-0.0.0.0 *.wbllomblyyjk.top
 0.0.0.0 *.wblrrwegleepo.website
 0.0.0.0 *.wbmailzimm.weebly.com
 0.0.0.0 *.wbmajidojhdh345.weebly.com
