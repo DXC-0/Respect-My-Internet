@@ -59,6 +59,7 @@
 0.0.0.0 aatkit.com #AddApptr - Advertising
 0.0.0.0 aax-us-iad.amazon.com #Amazon - Advertising
 0.0.0.0 aaxads.com #Acceptable Ads - Tracker
+0.0.0.0 ab1n.net #Unknown - Advertising
 0.0.0.0 abmr.net #Unknown - Advertising
 0.0.0.0 abtasty.com #AB Tasty - Tracker
 0.0.0.0 abtest.mistat.xiaomi.com #Xiaomi - Tracker
@@ -348,6 +349,7 @@
 0.0.0.0 adv.ettoday.net #ETtoday - Advertising
 0.0.0.0 adv.r7.com #First Party - Advertising
 0.0.0.0 adv.sec.intl.miui.com #Xiaomi - Advertising
+0.0.0.0 adv.widdimo.com #Third Party - Advertising
 0.0.0.0 advanced-web-analytics.com #Unknown - Tracker
 0.0.0.0 advcake.com #Adv.Cake - Advertising
 0.0.0.0 adventive.com #Adventive - Advertising
@@ -461,6 +463,7 @@
 0.0.0.0 analytics.algolia.com #First Party - Tracker
 0.0.0.0 analytics.apache.org #First Party - Tracker
 0.0.0.0 analytics.archive.org #First Party - Tracker
+0.0.0.0 analytics.audioeye.com #First Party - Tracker
 0.0.0.0 analytics.autodesk.com #First Party - Tracker
 0.0.0.0 analytics.bigdata.samsung.com #Samsung - Tracker
 0.0.0.0 analytics.binaryfortress.com #First Party - Tracker
@@ -729,7 +732,6 @@
 0.0.0.0 backstory.ebay.ph #eBay - Tracker
 0.0.0.0 backstory.ebay.pl #eBay - Tracker
 0.0.0.0 bam-x.com #Narrativ - Tracker
-0.0.0.0 bande2az.com #Unknown - Advertising
 0.0.0.0 bankerconcludeshare.com #AdMeasures - Advertising
 0.0.0.0 banner.ws.pho.to #First Party - Advertising
 0.0.0.0 bannerflow.com #Bannerflow - Tracker
