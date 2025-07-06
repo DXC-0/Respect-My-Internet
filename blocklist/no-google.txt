@@ -2339,7 +2339,6 @@
 0.0.0.0 firebase.google.com
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebase.io
-0.0.0.0 firebaseanalytics.com
 0.0.0.0 firebaseapp.com
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
