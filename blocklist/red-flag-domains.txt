@@ -3739,6 +3739,8 @@
 0.0.0.0 assureameli-assistance.fr
 0.0.0.0 assure-ameli-cartevitale.fr
 0.0.0.0 assureameli-cartevitale.fr
+0.0.0.0 assureameli-compte-france.fr
+0.0.0.0 assureameli-compteremboursement.fr
 0.0.0.0 assure-amelie.fr
 0.0.0.0 assure-ameli.fr
 0.0.0.0 assure-ameli-info.fr
@@ -6570,6 +6572,7 @@
 0.0.0.0 check-account-netflix.fr
 0.0.0.0 check-amendesgouv.fr
 0.0.0.0 checking-amazon.fr
+0.0.0.0 checkmacarte.fr
 0.0.0.0 checkmycoupon.fr
 0.0.0.0 check-netflix.fr
 0.0.0.0 checkout3dsecure.fr
@@ -7945,6 +7948,7 @@
 0.0.0.0 compteameii.fr
 0.0.0.0 compteameli-assistance.fr
 0.0.0.0 compteameliassurancemaladie.fr
+0.0.0.0 compte-ameliassure-france.fr
 0.0.0.0 compteameli-cartevitale.fr
 0.0.0.0 compteameliconnexion.fr
 0.0.0.0 compte-amelie.fr
@@ -8016,6 +8020,7 @@
 0.0.0.0 compte-prime.fr
 0.0.0.0 compte-reactivation.fr
 0.0.0.0 compte-regularisation.fr
+0.0.0.0 compteremboursement-assureameli.fr
 0.0.0.0 compte-renouvellement.fr
 0.0.0.0 comptereset.fr
 0.0.0.0 compte-restreint.fr
@@ -11769,6 +11774,7 @@
 0.0.0.0 francetravailparis.fr
 0.0.0.0 francetravails.fr
 0.0.0.0 francetvlnfo.fr
+0.0.0.0 francetvreplay.fr
 0.0.0.0 france-verif.fr
 0.0.0.0 france-verif-id-administration.fr
 0.0.0.0 france-verify-connect.fr
@@ -14510,6 +14516,7 @@
 0.0.0.0 itbeginner.fr
 0.0.0.0 itel-mobile.fr
 0.0.0.0 it-leboncoin.fr
+0.0.0.0 itslabubu.fr
 0.0.0.0 itunes.re
 0.0.0.0 iucc.yt
 0.0.0.0 iusmn.yt
@@ -14968,6 +14975,7 @@
 0.0.0.0 labqpostale.fr
 0.0.0.0 labubu-pop.fr
 0.0.0.0 labubus-officiel.fr
+0.0.0.0 labubustock.fr
 0.0.0.0 lacaisse-depargne.fr
 0.0.0.0 lacaissederetraite.fr
 0.0.0.0 la-caisse-epargne.fr
@@ -18417,6 +18425,7 @@
 0.0.0.0 mqn.fr
 0.0.0.0 mqtmut.fr
 0.0.0.0 mrbriccolage.fr
+0.0.0.0 mr-colisrelay.fr
 0.0.0.0 mrdeepfake.fr
 0.0.0.0 mrelay.fr
 0.0.0.0 mrelay-support.fr
@@ -23338,6 +23347,7 @@
 0.0.0.0 sante-publique-vitale.fr
 0.0.0.0 santerecouvrement.fr
 0.0.0.0 santeremboursement-ameli.fr
+0.0.0.0 sante-remboursement.fr
 0.0.0.0 sante-renouvellement-en-ligne.fr
 0.0.0.0 sante-renouvellement-enligne.fr
 0.0.0.0 sante-renouvellement-en-ligne-sms.fr
@@ -23960,6 +23970,7 @@
 0.0.0.0 secvitaleinfo.fr
 0.0.0.0 seeamo.re
 0.0.0.0 seebox.fr
+0.0.0.0 seecmo.re
 0.0.0.0 seeee-more.re
 0.0.0.0 seee-m0.re
 0.0.0.0 seeem0.re
@@ -23969,6 +23980,7 @@
 0.0.0.0 seee--mo.re
 0.0.0.0 seeemore.re
 0.0.0.0 seeemor.re
+0.0.0.0 seeimo.re
 0.0.0.0 see-m00.re
 0.0.0.0 see-m0o.re
 0.0.0.0 see--m0.re
@@ -28193,6 +28205,7 @@
 0.0.0.0 vroupama.fr
 0.0.0.0 vssport.fr
 0.0.0.0 vsztxm-sg.fr
+0.0.0.0 vtb-bank-france.fr
 0.0.0.0 vtn-prime.fr
 0.0.0.0 vunted.fr
 0.0.0.0 vuori-france.fr
@@ -28243,6 +28256,7 @@
 0.0.0.0 watchchrono.fr
 0.0.0.0 watchnetflix.fr
 0.0.0.0 watchoutlet.fr
+0.0.0.0 watchpascher.fr
 0.0.0.0 watchpro.fr
 0.0.0.0 watchverified.fr
 0.0.0.0 watchyour.fr
@@ -29238,9 +29252,14 @@
 0.0.0.0 xn--securitsocit-gnrale-lzbbcb.fr
 0.0.0.0 xn--see-m-4ta.re
 0.0.0.0 xn--seem-oqa.re
+0.0.0.0 xn--seem-tqa.re
 0.0.0.0 xn--see-m-yta.re
 0.0.0.0 xn--semo-5oa.re
+0.0.0.0 xn--semo-bpa.re
 0.0.0.0 xn--se-mo-bsa.re
+0.0.0.0 xn--semo-cpa.re
+0.0.0.0 xn--semo-lpa.re
+0.0.0.0 xn--semo-mpa.re
 0.0.0.0 xn--serviceclientle-6mb.fr
 0.0.0.0 xn--service-clientle-6pb.fr
 0.0.0.0 xn--service-clientle-netflix-yec.fr
