@@ -10671,6 +10671,7 @@
 0.0.0.0 *.adprotected.com
 0.0.0.0 *.adproxy.autohome.com.cn
 0.0.0.0 *.adproxy.tf1.fr
+0.0.0.0 *.adprozz.top
 0.0.0.0 *.adprudence.com
 0.0.0.0 *.adpublish.ydstatic.com
 0.0.0.0 *.adpublisher.s3.amazonaws.com
@@ -15702,6 +15703,7 @@
 0.0.0.0 *.allegrolokalnie.182.rest
 0.0.0.0 *.allegrolokalnie.189723520-vsa87a-1398124.shop
 0.0.0.0 *.allegrolokalnie.19261.cfd
+0.0.0.0 *.allegrolokalnie.19763112260.icu
 0.0.0.0 *.allegrolokalnie.20646390.shop
 0.0.0.0 *.allegrolokalnie.220525.shop
 0.0.0.0 *.allegrolokalnie.2841-94219-48124.shop
@@ -15948,7 +15950,6 @@
 0.0.0.0 *.allegrolokalnie.pl-4014.shop
 0.0.0.0 *.allegrolokalnie.pl-4125.shop
 0.0.0.0 *.allegrolokalnie.pl-4299.cfd
-0.0.0.0 *.allegrolokalnie.pl-4850210.cfd
 0.0.0.0 *.allegrolokalnie.pl-4987.shop
 0.0.0.0 *.allegrolokalnie.pl-4g5g34f34f.shop
 0.0.0.0 *.allegrolokalnie.pl-51079.cfd
@@ -16048,6 +16049,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta785701.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta78851522.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta78851524.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta78852345.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta7888524.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta7888542.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta8349.cfd
@@ -35010,6 +35012,7 @@
 0.0.0.0 *.buzzflashstories.click
 0.0.0.0 *.buzzflying.shop
 0.0.0.0 *.buzzheadlinesupdate.click
+0.0.0.0 *.buzzhit.xyz
 0.0.0.0 *.buzzibeass.pro
 0.0.0.0 *.buzzingdiscrepancyheadphone.com
 0.0.0.0 *.buzzinstantbreakingupdate.click
@@ -37128,6 +37131,7 @@
 0.0.0.0 *.casadebill.org
 0.0.0.0 *.casadeespanapr.com
 0.0.0.0 *.casaderitmo.com
+0.0.0.0 *.casaiva.com
 0.0.0.0 *.casalemedia.com
 0.0.0.0 *.casalmedia.com
 0.0.0.0 *.casalomaminca.com
@@ -40557,6 +40561,7 @@
 0.0.0.0 *.chevy.ru
 0.0.0.0 *.chewiebakings.top
 0.0.0.0 *.chewstore.com
+0.0.0.0 *.chewyqtext.lat
 0.0.0.0 *.chexdomiki.ru
 0.0.0.0 *.chexirbeld.net
 0.0.0.0 *.chexirbeldai.com
@@ -41988,6 +41993,7 @@
 0.0.0.0 *.cleanatrocious.com
 0.0.0.0 *.cleanbrowser.network
 0.0.0.0 *.cleanchain.net
+0.0.0.0 *.cleandayz.top
 0.0.0.0 *.cleandownload.net
 0.0.0.0 *.cleaneratwrinkle.com
 0.0.0.0 *.cleanerbest.online
@@ -79310,6 +79316,8 @@
 0.0.0.0 *.gptaloraapp.com
 0.0.0.0 *.gptamlwerif.com
 0.0.0.0 *.gptappifexai.com
+0.0.0.0 *.gptcoinorapulses.net
+0.0.0.0 *.gptcoinovaai.net
 0.0.0.0 *.gptcoinovaaiapp.com
 0.0.0.0 *.gptcoinovaaiapp.net
 0.0.0.0 *.gptcomercio.com
@@ -84659,6 +84667,7 @@
 0.0.0.0 *.holdingservicefr.firebaseapp.com
 0.0.0.0 *.holdingservicefr.web.app
 0.0.0.0 *.holdingwager.com
+0.0.0.0 *.holdnetpro.net
 0.0.0.0 *.holdstory.com
 0.0.0.0 *.holecatorange.com
 0.0.0.0 *.holendor.today
@@ -85356,6 +85365,7 @@
 0.0.0.0 *.horizonfind.site
 0.0.0.0 *.horizoninvest.cc
 0.0.0.0 *.horizonis-quethar.net
+0.0.0.0 *.horizonisquethar.net
 0.0.0.0 *.horizonme.net
 0.0.0.0 *.horizonmeadow.org
 0.0.0.0 *.horizonnudge.pro
@@ -87939,6 +87949,7 @@
 0.0.0.0 *.igdibsm1sy5ef.life
 0.0.0.0 *.igdigital.com.br
 0.0.0.0 *.igeek.ru
+0.0.0.0 *.igeniusai.net
 0.0.0.0 *.igesthenmon.com
 0.0.0.0 *.igetintopc.com
 0.0.0.0 *.igetnaughty.com
@@ -88950,8 +88961,10 @@
 0.0.0.0 *.immediate200-prolia.com
 0.0.0.0 *.immediate20daypro.net
 0.0.0.0 *.immediate20diamox.net
+0.0.0.0 *.immediate20flarex.net
 0.0.0.0 *.immediate20intal.net
 0.0.0.0 *.immediate20lexi.com
+0.0.0.0 *.immediate20renova.net
 0.0.0.0 *.immediate20t620avenium.com
 0.0.0.0 *.immediate3000chantix.net
 0.0.0.0 *.immediate3000chantixapp.com
@@ -89039,7 +89052,9 @@
 0.0.0.0 *.immediatechantix3000.com
 0.0.0.0 *.immediatechantix4x.net
 0.0.0.0 *.immediatechantixapp.net
+0.0.0.0 *.immediatechenix2000.net
 0.0.0.0 *.immediatechenix4000.net
+0.0.0.0 *.immediatechenix9000.net
 0.0.0.0 *.immediatechenixapp-ai.com
 0.0.0.0 *.immediatechenixi7.com
 0.0.0.0 *.immediatechenixi9app.com
@@ -89177,6 +89192,7 @@
 0.0.0.0 *.immediateone.com
 0.0.0.0 *.immediateoneapp.com
 0.0.0.0 *.immediatepathapp.net
+0.0.0.0 *.immediatepeakai.net
 0.0.0.0 *.immediatepermaxai.net
 0.0.0.0 *.immediatepermaxi800.com
 0.0.0.0 *.immediateploud.net
@@ -89250,6 +89266,7 @@
 0.0.0.0 *.immediatev4prolia.net
 0.0.0.0 *.immediatev6avapro.net
 0.0.0.0 *.immediatev6avaproapp.com
+0.0.0.0 *.immediatev7renova.net
 0.0.0.0 *.immediatevel.com
 0.0.0.0 *.immediatevel.net
 0.0.0.0 *.immediatevipclubai.com
@@ -91679,8 +91696,10 @@
 0.0.0.0 *.instant20lasix.com
 0.0.0.0 *.instant21akpro.com
 0.0.0.0 *.instant3000renova-app.com
+0.0.0.0 *.instant3000renova.net
 0.0.0.0 *.instant30chenix.com
 0.0.0.0 *.instant30chenix.net
+0.0.0.0 *.instant30sprix.net
 0.0.0.0 *.instant360adipex.com
 0.0.0.0 *.instant360amrix.com
 0.0.0.0 *.instant40chenix.com
@@ -91688,6 +91707,7 @@
 0.0.0.0 *.instant410sanorex41.com
 0.0.0.0 *.instant4acormax.net
 0.0.0.0 *.instant4xintal.com
+0.0.0.0 *.instant5bumex.net
 0.0.0.0 *.instant60bumex.com
 0.0.0.0 *.instant60renova.com
 0.0.0.0 *.instant6oluxapp.com
@@ -91707,6 +91727,7 @@
 0.0.0.0 *.instantakpro07.com
 0.0.0.0 *.instantakproapp.com
 0.0.0.0 *.instantakproapp.net
+0.0.0.0 *.instantalora41.net
 0.0.0.0 *.instantanecasino.fr
 0.0.0.0 *.instantavapro.net
 0.0.0.0 *.instantavelox71.net
@@ -91743,6 +91764,7 @@
 0.0.0.0 *.instantinsiderfeed.com
 0.0.0.0 *.instantiquix.com
 0.0.0.0 *.instantiquix17x.com
+0.0.0.0 *.instantiquix360.net
 0.0.0.0 *.instantiquix90.com
 0.0.0.0 *.instantlasixv7700.com
 0.0.0.0 *.instantlisproai.com
@@ -94325,6 +94347,7 @@
 0.0.0.0 *.japans-offers.com
 0.0.0.0 *.japanskinbio.com
 0.0.0.0 *.japantraveler.com
+0.0.0.0 *.japanycc.com
 0.0.0.0 *.japbdpdmazimj.club
 0.0.0.0 *.japdevelopment.com.au
 0.0.0.0 *.japegr.click
@@ -104568,6 +104591,7 @@
 0.0.0.0 *.loader.word-grabber.com
 0.0.0.0 *.loader.worldhistory.org
 0.0.0.0 *.loader.yougame.biz
+0.0.0.0 *.loadfusionvisi6on.online
 0.0.0.0 *.loadglobal.com
 0.0.0.0 *.loading-connection-in-action.firebaseapp.com
 0.0.0.0 *.loading-connection-in-action.web.app
@@ -110530,6 +110554,7 @@
 0.0.0.0 *.maximinilife.com
 0.0.0.0 *.maximkimmerle.de
 0.0.0.0 *.maximtoaster.com
+0.0.0.0 *.maximum-a.net
 0.0.0.0 *.maximumdecimus.clicknplay.to
 0.0.0.0 *.maximumductpictorial.com
 0.0.0.0 *.maximumpushtodaynotnowbut.com
@@ -132438,6 +132463,7 @@
 0.0.0.0 *.pgdt.gtimg.cn
 0.0.0.0 *.pge.aabirdavood.com
 0.0.0.0 *.pgeolded2025.weebly.com
+0.0.0.0 *.pgepl.aabirdavood.com
 0.0.0.0 *.pgflow.cloud
 0.0.0.0 *.pgg4a0.emailer.appsflyer.com
 0.0.0.0 *.pggsklep.com
@@ -134210,6 +134236,7 @@
 0.0.0.0 *.pl-oferta7032999.shop
 0.0.0.0 *.pl-oferta7063653.cfd
 0.0.0.0 *.pl-oferta7069474.shop
+0.0.0.0 *.pl-oferta7171357908073.cfd
 0.0.0.0 *.pl-oferta7195291.icu
 0.0.0.0 *.pl-oferta7228592.sbs
 0.0.0.0 *.pl-oferta7444108.com
@@ -134231,6 +134258,7 @@
 0.0.0.0 *.pl-oferta7837363.icu
 0.0.0.0 *.pl-oferta7842497.shop
 0.0.0.0 *.pl-oferta78456.cfd
+0.0.0.0 *.pl-oferta78456.icu
 0.0.0.0 *.pl-oferta785824.cfd
 0.0.0.0 *.pl-oferta78849382.shop
 0.0.0.0 *.pl-oferta7983724.shop
@@ -157925,6 +157953,7 @@
 0.0.0.0 *.setauketpitahouse.com
 0.0.0.0 *.setbeat.com
 0.0.0.0 *.setcarinsurance.com
+0.0.0.0 *.setdatadriv4e.online
 0.0.0.0 *.seteamsobtantion.com
 0.0.0.0 *.setelagos.com.br
 0.0.0.0 *.setforconfigplease.com
@@ -172702,6 +172731,7 @@
 0.0.0.0 *.tardtodtimpi.com
 0.0.0.0 *.tarewry.xyz
 0.0.0.0 *.targad.de
+0.0.0.0 *.targadsz.top
 0.0.0.0 *.targaubs.com
 0.0.0.0 *.targer.co.za
 0.0.0.0 *.target-gonna.gl.at.ply.gg
@@ -188187,6 +188217,7 @@
 0.0.0.0 *.viewpointvistaupdate.com
 0.0.0.0 *.viewpropertiesrealtor.weebly.com
 0.0.0.0 *.viewpulse.cfd
+0.0.0.0 *.viewrise.top
 0.0.0.0 *.views-base.com
 0.0.0.0 *.views-dual.hulu.com
 0.0.0.0 *.views-enables.gl.at.ply.gg
@@ -189915,6 +189946,7 @@
 0.0.0.0 *.vroomocity.com
 0.0.0.0 *.vroupama.fr
 0.0.0.0 *.vrqdzfzzlyalb.space
+0.0.0.0 *.vrr-boostt.xyz
 0.0.0.0 *.vrrlon.digital
 0.0.0.0 *.vrs.cz
 0.0.0.0 *.vrsmicros38msfteducationstorepr.112.2o7.net
