@@ -162309,6 +162309,7 @@
 0.0.0.0 *.smblock.s3.amazonaws.com
 0.0.0.0 *.smbttxpafponx.store
 0.0.0.0 *.smccard.com
+0.0.0.0 *.smcg.shop
 0.0.0.0 *.smcshippingdlhl.com
 0.0.0.0 *.smdc-carb2.info.pl
 0.0.0.0 *.smdc-carb5.org.pl
@@ -198434,7 +198435,6 @@
 0.0.0.0 *.xoftdomain.kro.kr
 0.0.0.0 *.xogaxea.pro
 0.0.0.0 *.xogezue.icu
-0.0.0.0 *.xoharoe.com
 0.0.0.0 *.xohezocebi.com
 0.0.0.0 *.xoilactv123.gdn
 0.0.0.0 *.xoishznugrjzy.store
