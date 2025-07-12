@@ -404,7 +404,6 @@
 0.0.0.0 ahalogy.com #Ahalogy - Tracker
 0.0.0.0 aiactiv.io #Unknown - Advertising
 0.0.0.0 aidata.io #Aidata - Tracker
-0.0.0.0 aidspectacle.com #AdMeasures - Advertising
 0.0.0.0 aiir.net #Aiir - Advertising
 0.0.0.0 aimatch.com #aiMatch - Tracker
 0.0.0.0 aimtell.com #Aimtell - Advertising
@@ -626,9 +625,7 @@
 0.0.0.0 api64.com #Unknown - Advertising
 0.0.0.0 apien.ldmnq.com #First Party - Tracker
 0.0.0.0 apnanalytics.com #Ask Toolbar - Tracker
-0.0.0.0 app-analytics-us.huami.com #First Party - Tracker
 0.0.0.0 app-analytics-v2.snapchat.com #Snapchat - Tracker
-0.0.0.0 app-analytics.huami.com #First Party - Tracker
 0.0.0.0 app-analytics.snapchat.com #Snapchat - Tracker
 0.0.0.0 app-measurement.com #Google - Tracker
 0.0.0.0 app.link #Branch - Tracker
@@ -682,7 +679,6 @@
 0.0.0.0 asia-vcode-od.vivoglobal.com #Vivo - Tracker
 0.0.0.0 assemblyexchange.com #Assembly Exchange - Advertising
 0.0.0.0 assets.emarsys.net #Unknown - Advertising
-0.0.0.0 astutemetrics.com #Astute - Tracker
 0.0.0.0 at-o.net #AT Internet - Tracker
 0.0.0.0 atdmt.com #Facebook - Advertising
 0.0.0.0 atemda.com #WO Programmatic Digital - Tracker
