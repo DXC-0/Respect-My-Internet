@@ -102227,6 +102227,7 @@
 0.0.0.0 *.lnpost.paczkanaweekend.rest
 0.0.0.0 *.lnpost.paczkanaweekend.world
 0.0.0.0 *.lnpost.paczkaposzla.site
+0.0.0.0 *.lnpost.paczkaprzezstrona24h.cyou
 0.0.0.0 *.lnpost.paczkaszybkonadana82.com
 0.0.0.0 *.lnpost.paczkaweekend.cyou
 0.0.0.0 *.lnpost.paczkaweekend.icu
@@ -131679,6 +131680,8 @@
 0.0.0.0 *.pl-9212.cfd
 0.0.0.0 *.pl-938596.rest
 0.0.0.0 *.pl-9402394.shop
+0.0.0.0 *.pl-94134.cfd
+0.0.0.0 *.pl-942821.cfd
 0.0.0.0 *.pl-948195912.sbs
 0.0.0.0 *.pl-a7d83mxp5lkq9zfu21ceq8.com
 0.0.0.0 *.pl-a7d83mxp5lkq9zfu21ceq8.info
@@ -131783,6 +131786,7 @@
 0.0.0.0 *.pl-oferta-iphone.com
 0.0.0.0 *.pl-oferta.help
 0.0.0.0 *.pl-oferta087640.shop
+0.0.0.0 *.pl-oferta0896589725.cfd
 0.0.0.0 *.pl-oferta09284671.icu
 0.0.0.0 *.pl-oferta1082902.shop
 0.0.0.0 *.pl-oferta11091.shop
@@ -131867,6 +131871,7 @@
 0.0.0.0 *.pl-oferta6290171.icu
 0.0.0.0 *.pl-oferta634.top
 0.0.0.0 *.pl-oferta634653.live
+0.0.0.0 *.pl-oferta6359.icu
 0.0.0.0 *.pl-oferta6449004.shop
 0.0.0.0 *.pl-oferta64634.icu
 0.0.0.0 *.pl-oferta648278315.shop
@@ -131917,6 +131922,7 @@
 0.0.0.0 *.pl-oferta8296-playstation.shop
 0.0.0.0 *.pl-oferta836285432.com
 0.0.0.0 *.pl-oferta8372384.shop
+0.0.0.0 *.pl-oferta842837438.shop
 0.0.0.0 *.pl-oferta847532.com
 0.0.0.0 *.pl-oferta8528457362.com
 0.0.0.0 *.pl-oferta8529356385.com
@@ -140746,6 +140752,7 @@
 0.0.0.0 *.qnw1tsg4ogxa0.life
 0.0.0.0 *.qnxrfwtnijcvj.space
 0.0.0.0 *.qnytr.cn
+0.0.0.0 *.qo4ikk.skin
 0.0.0.0 *.qo5lmcyhdzxlf.life
 0.0.0.0 *.qoaaa.com
 0.0.0.0 *.qoansbw2.anondns.net
@@ -153636,6 +153643,7 @@
 0.0.0.0 *.security-check-l2j4.com
 0.0.0.0 *.security-check-u8a6.com
 0.0.0.0 *.security-check.start.page
+0.0.0.0 *.security-checkify.cfolks.pl
 0.0.0.0 *.security-cleaner.com
 0.0.0.0 *.security-help20.at.ua
 0.0.0.0 *.security-malware.com
@@ -155017,6 +155025,7 @@
 0.0.0.0 *.service-cic-cm.fr
 0.0.0.0 *.service-client.godaddysites.com
 0.0.0.0 *.service-comfirmation.fr
+0.0.0.0 *.service-completeshiptranst.cfolks.pl
 0.0.0.0 *.service-compte.fr
 0.0.0.0 *.service-dgccrf.fr
 0.0.0.0 *.service-enlignet.firebaseapp.com
@@ -193154,6 +193163,7 @@
 0.0.0.0 *.wybierzopcje.com
 0.0.0.0 *.wyborczagazeta.com
 0.0.0.0 *.wydarzenia-24.x9.eu
+0.0.0.0 *.wydarzenia-infonadmorzem.pl
 0.0.0.0 *.wydarzenia-naszemiasto-24.x9.eu
 0.0.0.0 *.wydarzenia-naszemiasto.x9.eu
 0.0.0.0 *.wydarzenia-naszemiasto24.x9.eu
