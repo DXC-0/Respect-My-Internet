@@ -5284,6 +5284,7 @@
 0.0.0.0 *.9.20.storysaverr.app
 0.0.0.0 *.9.yubaby.top
 0.0.0.0 *.90-music.com
+0.0.0.0 *.9000-firebase-todaysplan-1753172319755.cluster-ux5mmlia3zhhask7riihruxydo.cloudworkstations.dev
 0.0.0.0 *.90001.lovestoblog.com
 0.0.0.0 *.900jpg.com
 0.0.0.0 *.900tif.com
@@ -14245,8 +14246,8 @@
 0.0.0.0 *.alebilet.pl-4281.cfd
 0.0.0.0 *.alebilet.pl-4299.cfd
 0.0.0.0 *.alebilet.pl-5185.cfd
-0.0.0.0 *.alebilet.pl-54273.icu
 0.0.0.0 *.alebilet.pl-62189.cfd
+0.0.0.0 *.alebilet.pl-642358.icu
 0.0.0.0 *.alebilet.pl-64826.icu
 0.0.0.0 *.alebilet.pl-64847.icu
 0.0.0.0 *.alebilet.pl-6493.cfd
@@ -14832,12 +14833,12 @@
 0.0.0.0 *.allegro.pl-12879.shop
 0.0.0.0 *.allegro.pl-201.cfd
 0.0.0.0 *.allegro.pl-4014.shop
-0.0.0.0 *.allegro.pl-54273.icu
 0.0.0.0 *.allegro.pl-563489234.shop
 0.0.0.0 *.allegro.pl-56745745332.shop
 0.0.0.0 *.allegro.pl-573048537209.shop
 0.0.0.0 *.allegro.pl-589234078237.shop
 0.0.0.0 *.allegro.pl-62189.cfd
+0.0.0.0 *.allegro.pl-642358.icu
 0.0.0.0 *.allegro.pl-6435523432.shop
 0.0.0.0 *.allegro.pl-64826.icu
 0.0.0.0 *.allegro.pl-64847.icu
@@ -15217,12 +15218,12 @@
 0.0.0.0 *.allegrolokalnie.pl-4g5g34f34f.shop
 0.0.0.0 *.allegrolokalnie.pl-51079.cfd
 0.0.0.0 *.allegrolokalnie.pl-534634634.shop
-0.0.0.0 *.allegrolokalnie.pl-54273.icu
 0.0.0.0 *.allegrolokalnie.pl-564534.shop
 0.0.0.0 *.allegrolokalnie.pl-56978f3748.shop
 0.0.0.0 *.allegrolokalnie.pl-6172934.rest
 0.0.0.0 *.allegrolokalnie.pl-62189.cfd
 0.0.0.0 *.allegrolokalnie.pl-6345634745.shop
+0.0.0.0 *.allegrolokalnie.pl-642358.icu
 0.0.0.0 *.allegrolokalnie.pl-6435523432.shop
 0.0.0.0 *.allegrolokalnie.pl-64826.icu
 0.0.0.0 *.allegrolokalnie.pl-64847.icu
@@ -100644,6 +100645,7 @@
 0.0.0.0 *.lidl-zh.vip
 0.0.0.0 *.lidl.deals
 0.0.0.0 *.lidlemploi.fr
+0.0.0.0 *.lidleuoffod.shop
 0.0.0.0 *.lidleuropa.fr
 0.0.0.0 *.lidlmmarketde.vip
 0.0.0.0 *.lidlsalesun.com
@@ -122457,6 +122459,7 @@
 0.0.0.0 *.oferta32945.cyou
 0.0.0.0 *.oferta32945.sbs
 0.0.0.0 *.oferta3712371273.shop
+0.0.0.0 *.oferta38846629.cfd
 0.0.0.0 *.oferta425353529.shop
 0.0.0.0 *.oferta42539009.shop
 0.0.0.0 *.oferta425395609.cfd
@@ -123442,6 +123445,7 @@
 0.0.0.0 *.olx.pl-4299.cfd
 0.0.0.0 *.olx.pl-5185.cfd
 0.0.0.0 *.olx.pl-62189.cfd
+0.0.0.0 *.olx.pl-642358.icu
 0.0.0.0 *.olx.pl-64826.icu
 0.0.0.0 *.olx.pl-64847.icu
 0.0.0.0 *.olx.pl-6493.cfd
@@ -131469,6 +131473,7 @@
 0.0.0.0 *.pl-53724.icu
 0.0.0.0 *.pl-537536459.sbs
 0.0.0.0 *.pl-539574532.shop
+0.0.0.0 *.pl-54273.icu
 0.0.0.0 *.pl-54873.icu
 0.0.0.0 *.pl-57273.icu
 0.0.0.0 *.pl-57283.icu
@@ -132164,6 +132169,7 @@
 0.0.0.0 *.platform.wondershare.com
 0.0.0.0 *.platformcoop.net
 0.0.0.0 *.platformsrat.com
+0.0.0.0 *.platformtrackload.online
 0.0.0.0 *.plati-num.com
 0.0.0.0 *.platif.com
 0.0.0.0 *.platillosfaciles.com
@@ -142281,6 +142287,7 @@
 0.0.0.0 *.raffrrisov.pro
 0.0.0.0 *.raffrspeci.pro
 0.0.0.0 *.rafika.top
+0.0.0.0 *.rafobiu.com
 0.0.0.0 *.rafogey9.pro
 0.0.0.0 *.rafujyi2.pro
 0.0.0.0 *.rafunea.pro
@@ -170029,6 +170036,7 @@
 0.0.0.0 *.task1.ziyemy.shop
 0.0.0.0 *.task2.ziyemy.shop
 0.0.0.0 *.taskae.com
+0.0.0.0 *.taskco1ntrolunit.online
 0.0.0.0 *.taskcoinj.top
 0.0.0.0 *.taskdelight.com
 0.0.0.0 *.taskdoners.uk
