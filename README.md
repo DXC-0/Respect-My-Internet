@@ -52,7 +52,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 ---> All sub-blocklists are OpenSnitch compatible [blocklist-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist) \
 ---> If you need more blocklists, check the [extra-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist/extra)
 
----> Use [No-IA blocklist]() to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
+---> Use [No-IA blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/noai_hosts.txt) to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
 
 ---
 
