@@ -12412,6 +12412,7 @@
 0.0.0.0 *.aelfricedenfrance.fr
 0.0.0.0 *.aeli.fr
 0.0.0.0 *.aem-collector.daumkakao.io
+0.0.0.0 *.aem.dentsuchina.cn
 0.0.0.0 *.aemgt.com
 0.0.0.0 *.aemmestore.it
 0.0.0.0 *.aemmfiu.cc
@@ -14596,6 +14597,8 @@
 0.0.0.0 *.alicezdsl.fr
 0.0.0.0 *.aliciabot.azurewebsites.net
 0.0.0.0 *.aliciatrans.free.fr
+0.0.0.0 *.alicoccdncnc-xn.inter.71edge.com
+0.0.0.0 *.alicoccdnct-xn.inter.71edge.com
 0.0.0.0 *.alicradsl.fr
 0.0.0.0 *.alictcarno.pro
 0.0.0.0 *.aliczadsl.fr
@@ -26642,6 +26645,7 @@
 0.0.0.0 *.bdbweussercancel.webcindario.com
 0.0.0.0 *.bdc92feedb.ddb284b21b.com
 0.0.0.0 *.bdcdncmn-gd.inter.71edge.com
+0.0.0.0 *.bdcdncnc.inter.71edge.com
 0.0.0.0 *.bdcelectricalservices.com
 0.0.0.0 *.bdcmwcl.icu
 0.0.0.0 *.bdcode.2345.com
@@ -60222,6 +60226,7 @@
 0.0.0.0 *.edujikim.com
 0.0.0.0 *.edukicationandasm.com
 0.0.0.0 *.eduluciona.com
+0.0.0.0 *.edumagicu.vercel.app
 0.0.0.0 *.edumakerb.digital
 0.0.0.0 *.edumedcourses.com
 0.0.0.0 *.eduodu.weebly.com
@@ -73763,6 +73768,7 @@
 0.0.0.0 *.gdeil.hit.gemius.pl
 0.0.0.0 *.gdelt.hit.gemius.pl
 0.0.0.0 *.gdelv.hit.gemius.pl
+0.0.0.0 *.gdenwui.pages.dev
 0.0.0.0 *.gders.hit.gemius.pl
 0.0.0.0 *.gdesigns.info
 0.0.0.0 *.gdesk.hit.gemius.pl
@@ -86683,6 +86689,7 @@
 0.0.0.0 *.img11.biyan8.com
 0.0.0.0 *.img16.diyifanwen.com
 0.0.0.0 *.img18.com
+0.0.0.0 *.img2.360buyimg.com
 0.0.0.0 *.img2.578965.com
 0.0.0.0 *.img2.static.9xiu.com
 0.0.0.0 *.img2.titan007.com
@@ -95581,6 +95588,7 @@
 0.0.0.0 *.kebapsaray.be
 0.0.0.0 *.kebegvpl.com
 0.0.0.0 *.keboncoin.fr
+0.0.0.0 *.keboziw.com
 0.0.0.0 *.kebreddullogrou.vercel.app
 0.0.0.0 *.kebun77rtp.com
 0.0.0.0 *.kebunrayabaturraden.id
@@ -105244,6 +105252,7 @@
 0.0.0.0 *.m.hua6.cn
 0.0.0.0 *.m.hue2b.com
 0.0.0.0 *.m.hy10010.com.cn
+0.0.0.0 *.m.iqiyipic.com
 0.0.0.0 *.m.iunhelp.top
 0.0.0.0 *.m.j5s9b.cn
 0.0.0.0 *.m.juhuasuanguanwang.cn
@@ -122503,6 +122512,7 @@
 0.0.0.0 *.oferta477353529.shop
 0.0.0.0 *.oferta4985703.shop
 0.0.0.0 *.oferta512512.cfd
+0.0.0.0 *.oferta54179201.pl
 0.0.0.0 *.oferta541910101.pl
 0.0.0.0 *.oferta574322371273.shop
 0.0.0.0 *.oferta63816492.com
@@ -131768,6 +131778,7 @@
 0.0.0.0 *.pl-oferta5950406.shop
 0.0.0.0 *.pl-oferta5966505.shop
 0.0.0.0 *.pl-oferta59685945.cfd
+0.0.0.0 *.pl-oferta627154.icu
 0.0.0.0 *.pl-oferta627424.icu
 0.0.0.0 *.pl-oferta627512.shop
 0.0.0.0 *.pl-oferta627954.icu
@@ -149143,6 +149154,7 @@
 0.0.0.0 *.rtty.in
 0.0.0.0 *.rtuinrjezwkj.love
 0.0.0.0 *.rtunitytostaracaree.com
+0.0.0.0 *.rturtle.mmunoz.net
 0.0.0.0 *.rtvmax.pl
 0.0.0.0 *.rtxfeed.com
 0.0.0.0 *.rtxpx-a.akamaihd.net
@@ -164133,6 +164145,7 @@
 0.0.0.0 *.static-rtb2.talkdonttext.com
 0.0.0.0 *.static-rtb2.torchad.com
 0.0.0.0 *.static-rtb2.voisetech.com
+0.0.0.0 *.static-s.iqiyi.com
 0.0.0.0 *.static-ssp.yidianzixun.com
 0.0.0.0 *.static-tracking.klaviyo.com
 0.0.0.0 *.static.100conversions.com
@@ -190191,6 +190204,7 @@
 0.0.0.0 *.whafwl.com
 0.0.0.0 *.whagrolt.com
 0.0.0.0 *.whai.fr
+0.0.0.0 *.whai.whilpes.top
 0.0.0.0 *.whaidsoalsans.net
 0.0.0.0 *.whaigrooque.net
 0.0.0.0 *.whaijoawaiftee.net
@@ -196117,8 +196131,10 @@
 0.0.0.0 *.yjustingexcelele.org
 0.0.0.0 *.yjy8x5.jik.thetreecentre.com
 0.0.0.0 *.yk-freelance-tools.com
+0.0.0.0 *.yk-ssp-ad.cp31.ott.cibntv.net
 0.0.0.0 *.yk0712.com
 0.0.0.0 *.yk8.xyz
+0.0.0.0 *.ykad-data.cp31.ott.cibntv.net
 0.0.0.0 *.ykad-data.youku.com
 0.0.0.0 *.ykad-gateway.youku.com
 0.0.0.0 *.ykapi.luyou.360.cn
