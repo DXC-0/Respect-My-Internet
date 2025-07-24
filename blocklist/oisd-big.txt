@@ -15247,6 +15247,7 @@
 0.0.0.0 *.allegrolokalnie.pl-9005315.sbs
 0.0.0.0 *.allegrolokalnie.pl-912082.shop
 0.0.0.0 *.allegrolokalnie.pl-919482.cfd
+0.0.0.0 *.allegrolokalnie.pl-923860.cfd
 0.0.0.0 *.allegrolokalnie.pl-92648.icu
 0.0.0.0 *.allegrolokalnie.pl-927482.cfd
 0.0.0.0 *.allegrolokalnie.pl-9274825.cfd
@@ -15325,7 +15326,6 @@
 0.0.0.0 *.allegrolokalnie.pl-ofertaid52355235.top
 0.0.0.0 *.allegrolokalnie.pl-oferty-prywatne-id567.icu
 0.0.0.0 *.allegrolokalnie.pl-ogloszenia-9841.icu
-0.0.0.0 *.allegrolokalnie.pl-ogloszenia-firmowe-83482.com
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-9726039.icu
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-firmowe-8127.shop
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-firmowe-8576.shop
@@ -15353,6 +15353,7 @@
 0.0.0.0 *.allegrolokalnie.pl453278.cfd
 0.0.0.0 *.allegrolokalnie.pl53480.cfd
 0.0.0.0 *.allegrolokalnie.pl67475.cfd
+0.0.0.0 *.allegrolokalnie.pl70079przedmiot.icu
 0.0.0.0 *.allegrolokalnie.pl88382.cfd
 0.0.0.0 *.allegrolokalnie.pl90184.cfd
 0.0.0.0 *.allegrolokalnie.plac-online24.icu
@@ -24944,6 +24945,7 @@
 0.0.0.0 *.bafkreicr7pirntactnmxecmhfq6xkjjt2hfcsgor3zscscpv45i7duz7hy.ipfs.dweb.link
 0.0.0.0 *.bafkreicrvpms36p2nlki6b5vufccqpytsg6jdz3tyhkmjlhwbbselnu3e4.ipfs.dweb.link
 0.0.0.0 *.bafkreict25ck2ag7rrsdkzwsrbt72t5cwayj3a24n2ypfvbllhaphjsa5i.ipfs.dweb.link
+0.0.0.0 *.bafkreictnmbtnilrzvxnz5fkamy3rj5vbgmyedxcniwhqxxr64f2a5zzfq.ipfs.dweb.link
 0.0.0.0 *.bafkreictofs66vspmgjhbk4nfctoro6465no2uispq7rzldk37z65a7zby.ipfs.dweb.link
 0.0.0.0 *.bafkreicxaz4pdkedwj2z6hpb3hfpijas6oxnfz4j5ihdky6coxzs2tbqoe.ipfs.dweb.link
 0.0.0.0 *.bafkreicxezsseou2z52szvbr3z2knoqnwgco7odmz6ocvbttr65ggqxcp4.ipfs.dweb.link
@@ -30939,6 +30941,7 @@
 0.0.0.0 *.booking.it.pn
 0.0.0.0 *.booking.itemsidguest.com
 0.0.0.0 *.booking.mrityunjyatourism.com
+0.0.0.0 *.booking.page-confirm-reserve.com
 0.0.0.0 *.booking.paid-confirmations.com
 0.0.0.0 *.booking.pamer-pulse.com
 0.0.0.0 *.booking.parner-id-010101743.com
@@ -68180,6 +68183,7 @@
 0.0.0.0 *.finalizeforce.com
 0.0.0.0 *.finallyswirly.cfd
 0.0.0.0 *.finalmisac.pro
+0.0.0.0 *.finalpromo.store
 0.0.0.0 *.finalrem.duckdns.org
 0.0.0.0 *.finalrmc.duckdns.org
 0.0.0.0 *.finaltouchmedia.ca
@@ -85886,6 +85890,7 @@
 0.0.0.0 *.ifgapwtm.info
 0.0.0.0 *.ifgtbrecruitment.com
 0.0.0.0 *.ifgzbqqkakhzb.today
+0.0.0.0 *.ifieldlearning.com
 0.0.0.0 *.ifigent.com
 0.0.0.0 *.ifilautosit.online
 0.0.0.0 *.ifilez.org
@@ -122461,6 +122466,7 @@
 0.0.0.0 *.oferta218.com
 0.0.0.0 *.oferta22429.shop
 0.0.0.0 *.oferta25609.cfd
+0.0.0.0 *.oferta287428.cfd
 0.0.0.0 *.oferta287461.cfd
 0.0.0.0 *.oferta32945.cyou
 0.0.0.0 *.oferta32945.sbs
@@ -131456,6 +131462,7 @@
 0.0.0.0 *.pl-12897.shop
 0.0.0.0 *.pl-16111.sbs
 0.0.0.0 *.pl-20.cfd
+0.0.0.0 *.pl-20.icu
 0.0.0.0 *.pl-241352463.icu
 0.0.0.0 *.pl-283.icu
 0.0.0.0 *.pl-29374.icu
@@ -131515,6 +131522,7 @@
 0.0.0.0 *.pl-92032932.rest
 0.0.0.0 *.pl-92049021.rest
 0.0.0.0 *.pl-9212.cfd
+0.0.0.0 *.pl-928485.cfd
 0.0.0.0 *.pl-938596.rest
 0.0.0.0 *.pl-9402394.shop
 0.0.0.0 *.pl-94134.cfd
@@ -131663,6 +131671,7 @@
 0.0.0.0 *.pl-oferta2379113.shop
 0.0.0.0 *.pl-oferta2432933.shop
 0.0.0.0 *.pl-oferta2453498.shop
+0.0.0.0 *.pl-oferta24567.icu
 0.0.0.0 *.pl-oferta2546631.shop
 0.0.0.0 *.pl-oferta2654432.shop
 0.0.0.0 *.pl-oferta2693800.shop
@@ -131735,6 +131744,7 @@
 0.0.0.0 *.pl-oferta5950406.shop
 0.0.0.0 *.pl-oferta5966505.shop
 0.0.0.0 *.pl-oferta59685945.cfd
+0.0.0.0 *.pl-oferta627424.icu
 0.0.0.0 *.pl-oferta627512.shop
 0.0.0.0 *.pl-oferta627954.icu
 0.0.0.0 *.pl-oferta6290171.icu
@@ -131764,6 +131774,7 @@
 0.0.0.0 *.pl-oferta70492346.cfd
 0.0.0.0 *.pl-oferta7069474.shop
 0.0.0.0 *.pl-oferta7128406.shop
+0.0.0.0 *.pl-oferta7151922.com
 0.0.0.0 *.pl-oferta7222555.icu
 0.0.0.0 *.pl-oferta7284647.cfd
 0.0.0.0 *.pl-oferta7297493.cfd
@@ -131788,6 +131799,7 @@
 0.0.0.0 *.pl-oferta79953201743.cfd
 0.0.0.0 *.pl-oferta8117565.shop
 0.0.0.0 *.pl-oferta8117995.shop
+0.0.0.0 *.pl-oferta8139134.cfd
 0.0.0.0 *.pl-oferta8170857.shop
 0.0.0.0 *.pl-oferta82348.cfd
 0.0.0.0 *.pl-oferta82348.icu
@@ -131829,6 +131841,7 @@
 0.0.0.0 *.pl-oferta9270318.shop
 0.0.0.0 *.pl-oferta927154.icu
 0.0.0.0 *.pl-oferta9327229.shop
+0.0.0.0 *.pl-oferta9336793.cfd
 0.0.0.0 *.pl-oferta9378696.shop
 0.0.0.0 *.pl-oferta941274.rest
 0.0.0.0 *.pl-oferta94264924.icu
@@ -131856,6 +131869,8 @@
 0.0.0.0 *.pl-ogloszenia-firmowe-82393.icu
 0.0.0.0 *.pl-ogloszenia-firmowe-82839.com
 0.0.0.0 *.pl-ogloszenia-firmowe-83281.cfd
+0.0.0.0 *.pl-ogloszenia-firmowe-83481.com
+0.0.0.0 *.pl-ogloszenia-firmowe-83482.com
 0.0.0.0 *.pl-ogloszenia-firmowe-83491.com
 0.0.0.0 *.pl-ogloszenia-firmowe-92193.cfd
 0.0.0.0 *.pl-ogloszenia-firmowe-931242.cfd
@@ -131957,7 +131972,9 @@
 0.0.0.0 *.pl34823.cfd
 0.0.0.0 *.pl39351.cfd
 0.0.0.0 *.pl39391.cfd
+0.0.0.0 *.pl423689.cfd
 0.0.0.0 *.pl42399.cfd
+0.0.0.0 *.pl4295.cfd
 0.0.0.0 *.pl43503.cfd
 0.0.0.0 *.pl43543.cfd
 0.0.0.0 *.pl43758.cfd
@@ -133390,6 +133407,7 @@
 0.0.0.0 *.polska-ternes.codeanyapp.com
 0.0.0.0 *.polska-today.live
 0.0.0.0 *.polska-tracking.online
+0.0.0.0 *.polska.bonus-store-game.com
 0.0.0.0 *.polskaformula.com
 0.0.0.0 *.polskafortuna.click
 0.0.0.0 *.polskagoldai.com
@@ -165590,6 +165608,7 @@
 0.0.0.0 *.stoicquoll.pro
 0.0.0.0 *.stokergin.com
 0.0.0.0 *.stokomani-group.fr
+0.0.0.0 *.stolicametro.pl
 0.0.0.0 *.stolldesignz.com
 0.0.0.0 *.stoltzfamily.co.za
 0.0.0.0 *.stomaaccom.pro
