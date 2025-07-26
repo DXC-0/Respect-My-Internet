@@ -75,7 +75,6 @@
 0.0.0.0 acscdn.com #Unknown - Advertising
 0.0.0.0 active-agent.com #Active Agent - Tracker
 0.0.0.0 activeconversion.com #Active Conversion - Tracker
-0.0.0.0 actuallyhierarchyjudgement.com #AdMeasures - Advertising
 0.0.0.0 acuityplatform.com #Acuityads - Advertising
 0.0.0.0 acxiom-online.com #Acxiom - Tracker
 0.0.0.0 ad-delivery.net #Ad Delivery - Advertising
@@ -13753,7 +13752,6 @@
 0.0.0.0 origunix.com #Unknown - Advertising
 0.0.0.0 ort-stsdk.vivo.com.cn #Vivo - Tracker
 0.0.0.0 os-code.shalltry.com #Infinix Tracker - Tracker
-0.0.0.0 ostlon.com #Performance Tracking - Tracker
 0.0.0.0 ota.lokalise.co #First Party - Tracker
 0.0.0.0 oth.eve.mdt.qq.com #QQ - Tracker
 0.0.0.0 oth.str.mdt.qq.com #QQ - Tracker
