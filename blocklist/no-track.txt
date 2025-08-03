@@ -551,7 +551,6 @@
 0.0.0.0 analytics.santander.co.uk #First Party - Tracker
 0.0.0.0 analytics.schoolwires.com #First Party - Tracker
 0.0.0.0 analytics.sendsafely.com #First Party - Tracker
-0.0.0.0 analytics.site123.io #First Party - Tracker
 0.0.0.0 analytics.sketchup.com #First Party - Tracker
 0.0.0.0 analytics.skyscanner.net #First Party - Tracker
 0.0.0.0 analytics.slashdotmedia.com #Slash dot - Tracker
@@ -579,7 +578,6 @@
 0.0.0.0 analytics.xl.pt #First Party - Tracker
 0.0.0.0 analytics.yahoo.com #Yahoo - Tracker
 0.0.0.0 analytics.yinxiang.com #First Party - Tracker
-0.0.0.0 analytics.yiyouliao.com #First Party - Tracker
 0.0.0.0 analytics.yolacdn.net #First Party - Tracker
 0.0.0.0 analytics64.techsmith.com #First Party - Tracker
 0.0.0.0 analyticsmsp.com #MSP - Tracker
@@ -1136,7 +1134,6 @@
 0.0.0.0 customerevents.dradis.netflix.com #Netflix - Tracker
 0.0.0.0 customerevents.netflix.com #Netflix - Tracker
 0.0.0.0 customize.cz #Customize.cz - Tracker
-0.0.0.0 customshirelingcrushing.com #AdMeasures - Advertising
 0.0.0.0 cxaff.com #Unknown - Tracker
 0.0.0.0 cxense.com #Cxsense - Tracker
 0.0.0.0 d41.co #Dun and Bradstreet - Tracker
