@@ -4945,6 +4945,7 @@
 0.0.0.0 bnpparibas-service-clients.fr
 0.0.0.0 bnp-paribas-service.fr
 0.0.0.0 bnpparibas-service.fr
+0.0.0.0 bnpparibas-servicefraude.fr
 0.0.0.0 bnpparibas-service-technique.fr
 0.0.0.0 bnpparibois.fr
 0.0.0.0 bnp-parisbas.fr
@@ -5421,6 +5422,7 @@
 0.0.0.0 cafeetcoton.fr
 0.0.0.0 cafe-express.fr
 0.0.0.0 caf-enquete.fr
+0.0.0.0 cafibank.fr
 0.0.0.0 cafinistere.fr
 0.0.0.0 ca-finistere-france.fr
 0.0.0.0 cafj.fr
@@ -6024,6 +6026,8 @@
 0.0.0.0 casinolo1.fr
 0.0.0.0 casinolo-casino.fr
 0.0.0.0 casino-locowin.fr
+0.0.0.0 casino-lunubet.fr
+0.0.0.0 casinolunubet.fr
 0.0.0.0 casinoly-casino.fr
 0.0.0.0 casinolyenligne.fr
 0.0.0.0 casinomagius.fr
@@ -6389,6 +6393,7 @@
 0.0.0.0 cetelel.fr
 0.0.0.0 cetelem-connecte.fr
 0.0.0.0 ceteleme.fr
+0.0.0.0 cetelem-financement.fr
 0.0.0.0 cetelemmiseajour.fr
 0.0.0.0 cetelem-particulier-notifications.fr
 0.0.0.0 cetelemw.fr
@@ -6632,6 +6637,7 @@
 0.0.0.0 check-amendesgouv.fr
 0.0.0.0 checking-amazon.fr
 0.0.0.0 checkmacarte.fr
+0.0.0.0 checkmoncoupon.fr
 0.0.0.0 checkmycoupon.fr
 0.0.0.0 check-netflix.fr
 0.0.0.0 checkout3dsecure.fr
@@ -12280,6 +12286,7 @@
 0.0.0.0 garantiecabaia.fr
 0.0.0.0 gardea.fr
 0.0.0.0 garde-d-enfants-ooreka.fr
+0.0.0.0 garderepubliquefrancaise.fr
 0.0.0.0 garentiedesdepots.fr
 0.0.0.0 garminconnect.fr
 0.0.0.0 garminfr.fr
@@ -14796,6 +14803,7 @@
 0.0.0.0 jordanfemme.fr
 0.0.0.0 jordanfemmepascher.fr
 0.0.0.0 jordansoldes.fr
+0.0.0.0 josefseibelfr.fr
 0.0.0.0 josefseibelsoldes.fr
 0.0.0.0 jott-officiel.fr
 0.0.0.0 jouerclub.fr
@@ -16176,6 +16184,7 @@
 0.0.0.0 loakechaussure.fr
 0.0.0.0 loakesfrance.fr
 0.0.0.0 locales-insee.fr
+0.0.0.0 localiser-app.fr
 0.0.0.0 localiser-appleid.fr
 0.0.0.0 localiser-assistance.fr
 0.0.0.0 localiser-connect.fr
@@ -16187,6 +16196,7 @@
 0.0.0.0 localiser-map.fr
 0.0.0.0 localisermaps.fr
 0.0.0.0 localiser-service.fr
+0.0.0.0 localiserservice.fr
 0.0.0.0 localiser-services.fr
 0.0.0.0 localisersupport.fr
 0.0.0.0 localiser-traking.fr
@@ -17851,6 +17861,7 @@
 0.0.0.0 mon-compte-amendes.fr
 0.0.0.0 moncompte-ants-gou.fr
 0.0.0.0 moncompte-assistance.fr
+0.0.0.0 moncompte-asssureameli.fr
 0.0.0.0 mon-compte-assurance.fr
 0.0.0.0 moncompteassurancemaladie.fr
 0.0.0.0 moncompte-assure.fr
@@ -18003,6 +18014,7 @@
 0.0.0.0 mondialrelay-colis.fr
 0.0.0.0 mondialrelaycolis.fr
 0.0.0.0 mondialrelay-commande.fr
+0.0.0.0 mondialrelay-connect.fr
 0.0.0.0 mondialrelay-consigne.fr
 0.0.0.0 mondialrelay-delivery-express.fr
 0.0.0.0 mondialrelay-delivery.fr
@@ -18128,6 +18140,7 @@
 0.0.0.0 monespaceants.fr
 0.0.0.0 monespaceapril.fr
 0.0.0.0 monespaceassistance.fr
+0.0.0.0 monespace-asssureameli.fr
 0.0.0.0 mon-espace-assurance.fr
 0.0.0.0 monespaceassurancemaladie.fr
 0.0.0.0 mon-espace-assure-en-ligne.fr
@@ -18830,6 +18843,7 @@
 0.0.0.0 myticketfrance.fr
 0.0.0.0 mytickets.fr
 0.0.0.0 mytoyota.fr
+0.0.0.0 my-ugg.fr
 0.0.0.0 myupstracking.fr
 0.0.0.0 myusbstore.fr
 0.0.0.0 myverif-orange.fr
@@ -19661,6 +19675,7 @@
 0.0.0.0 notaiire.fr
 0.0.0.0 notairee.fr
 0.0.0.0 notairegouv.fr
+0.0.0.0 notaires-f.fr
 0.0.0.0 notaires-fr.fr
 0.0.0.0 notairess.fr
 0.0.0.0 notairies.fr
@@ -22053,6 +22068,7 @@
 0.0.0.0 pve-reglement.fr
 0.0.0.0 pve-stationnement.fr
 0.0.0.0 pv-prime.fr
+0.0.0.0 pwcaudit-france.fr
 0.0.0.0 pw-prime.fr
 0.0.0.0 px-prime.fr
 0.0.0.0 pylsuccessremoved.fr
@@ -24728,6 +24744,7 @@
 0.0.0.0 servicepubliquesante.fr
 0.0.0.0 service-publiques.fr
 0.0.0.0 service-pulic.fr
+0.0.0.0 servicepypl.fr
 0.0.0.0 serviceqonto.fr
 0.0.0.0 service-reactivation.fr
 0.0.0.0 service-reactivations.fr
@@ -25745,6 +25762,7 @@
 0.0.0.0 sodexo-sas.fr
 0.0.0.0 sodia.yt
 0.0.0.0 sodibrag.fr
+0.0.0.0 sodif-france.fr
 0.0.0.0 sodigema-eleclerc.fr
 0.0.0.0 sodimodisfrance.fr
 0.0.0.0 sodimodis-hyper.fr
