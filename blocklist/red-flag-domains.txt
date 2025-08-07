@@ -1280,6 +1280,7 @@
 0.0.0.0 alias-investissement-ehpad.fr
 0.0.0.0 alibabacloud.fr
 0.0.0.0 alibabafrance.fr
+0.0.0.0 alibabet.fr
 0.0.0.0 alibris.fr
 0.0.0.0 alicaedsl.fr
 0.0.0.0 alicceadsl.fr
@@ -4630,11 +4631,16 @@
 0.0.0.0 bet-grouse.fr
 0.0.0.0 bethall-casino.fr
 0.0.0.0 bethallcasino.fr
+0.0.0.0 betify-app.fr
+0.0.0.0 betify-bonus.fr
 0.0.0.0 betifycasino3.fr
 0.0.0.0 betifycasinoenligne.fr
 0.0.0.0 betifycasinofrance.fr
 0.0.0.0 betifycasinoo.fr
+0.0.0.0 betifycasinos.fr
 0.0.0.0 betify-france.fr
+0.0.0.0 betify-login.fr
+0.0.0.0 betifylogin.fr
 0.0.0.0 betify-officiel1.fr
 0.0.0.0 betify-online.fr
 0.0.0.0 betiro.fr
@@ -6408,6 +6414,7 @@
 0.0.0.0 cett.fr
 0.0.0.0 cfdt-chu-besancon.fr
 0.0.0.0 cfdt-iledefrance.fr
+0.0.0.0 cfegouv.fr
 0.0.0.0 cfe-metiers.fr
 0.0.0.0 cfgouv.fr
 0.0.0.0 cfpt.fr
@@ -8936,6 +8943,7 @@
 0.0.0.0 cred-mutuel-annulation.fr
 0.0.0.0 creeperstukchaussures.fr
 0.0.0.0 crefingo.fr
+0.0.0.0 crefranceconnect.fr
 0.0.0.0 c-reg-asstsscr.fr
 0.0.0.0 c-regionale.fr
 0.0.0.0 creneau-mondialrelay.fr
@@ -12582,8 +12590,13 @@
 0.0.0.0 goldenpanda1.fr
 0.0.0.0 goldenpanda2.fr
 0.0.0.0 golden-pandaa.fr
+0.0.0.0 goldenpanda-app.fr
+0.0.0.0 goldenpanda-bonus.fr
 0.0.0.0 goldenpanda-casino.fr
+0.0.0.0 golden-panda-casinos.fr
 0.0.0.0 goldenpanda-casinos.fr
+0.0.0.0 golden-panda-login.fr
+0.0.0.0 goldenpanda-login.fr
 0.0.0.0 goldenpanda-online.fr
 0.0.0.0 golden-pandas.fr
 0.0.0.0 golden-pass.fr
@@ -14415,6 +14428,7 @@
 0.0.0.0 infosvitalesante.fr
 0.0.0.0 infos-votrecompteameli.fr
 0.0.0.0 infos-votrecompte.fr
+0.0.0.0 infoswetransfrt.fr
 0.0.0.0 info-tgvinoui-sncf.fr
 0.0.0.0 info-transfercash.fr
 0.0.0.0 info-transport-colis.fr
@@ -19752,6 +19766,7 @@
 0.0.0.0 notresecuriteinterieurgouv.fr
 0.0.0.0 nounouautop.fr
 0.0.0.0 nourixofficiel.fr
+0.0.0.0 nouslib-connexion.fr
 0.0.0.0 nouveau-service-bnpparibas.fr
 0.0.0.0 nouveautes-bnpparibas.fr
 0.0.0.0 nouvelcartevitale.fr
@@ -25924,6 +25939,9 @@
 0.0.0.0 spigenfr.fr
 0.0.0.0 spinaro-casino.fr
 0.0.0.0 spinarocasino.fr
+0.0.0.0 spinaura-casino.fr
+0.0.0.0 spinauracasino.fr
+0.0.0.0 spinaura.fr
 0.0.0.0 spin-cash-win.fr
 0.0.0.0 spin-casino.fr
 0.0.0.0 spincastle.fr
@@ -25958,9 +25976,14 @@
 0.0.0.0 spinsofglory.fr
 0.0.0.0 spin-spirit-casino.fr
 0.0.0.0 spinstars.fr
+0.0.0.0 spinsy-app.fr
+0.0.0.0 spinsy-bonus.fr
 0.0.0.0 spinsycasinoenligne.fr
+0.0.0.0 spinsy-casinos.fr
 0.0.0.0 spinsycasinos.fr
 0.0.0.0 spinsycasinoz.fr
+0.0.0.0 spinsy-login.fr
+0.0.0.0 spinsylogin.fr
 0.0.0.0 spinsyy.fr
 0.0.0.0 spin-tropolis.fr
 0.0.0.0 spiritcasino.fr
@@ -26648,6 +26671,7 @@
 0.0.0.0 supporte-assistance.fr
 0.0.0.0 supporteat.fr
 0.0.0.0 support-eatpal.fr
+0.0.0.0 supportedenred.fr
 0.0.0.0 supportemail.fr
 0.0.0.0 support-enregistrement.fr
 0.0.0.0 support-esim-sfr.fr
@@ -27111,6 +27135,7 @@
 0.0.0.0 thomasmore.fr
 0.0.0.0 thorcasino1.fr
 0.0.0.0 thorcasino.fr
+0.0.0.0 thrillcasino.fr
 0.0.0.0 thursdayboots.fr
 0.0.0.0 thursdayboots-france.fr
 0.0.0.0 thursdaybootsfrance-fr.fr
@@ -27165,6 +27190,7 @@
 0.0.0.0 tickets-joparis2024.fr
 0.0.0.0 ticketsjoparis2024.fr
 0.0.0.0 ticketslive.fr
+0.0.0.0 tickets-loisirs-caf-indre.fr
 0.0.0.0 tickets-louvre.fr
 0.0.0.0 ticketslouvre.fr
 0.0.0.0 ticketsmaster.fr
@@ -29373,6 +29399,7 @@
 0.0.0.0 xn--dmarche-vitale-bkb.fr
 0.0.0.0 xn--dossier-rgularisation-antai-joc.fr
 0.0.0.0 xn--dossier-rgularisation-j5b.fr
+0.0.0.0 xn--dossier-sants-mhb.fr
 0.0.0.0 xn--dpartement13-beb.fr
 0.0.0.0 xn--dpartement41-beb.fr
 0.0.0.0 xn--dpistagecancer-ge-btb.fr
