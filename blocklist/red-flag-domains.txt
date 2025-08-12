@@ -72,6 +72,7 @@
 0.0.0.0 1securitelo.fr
 0.0.0.0 1sendsecuritefr.fr
 0.0.0.0 1sfcpart-impotsgouv.fr
+0.0.0.0 1win-club.fr
 0.0.0.0 1winfrance.fr
 0.0.0.0 1wingains.fr
 0.0.0.0 1winpro.fr
@@ -654,6 +655,7 @@
 0.0.0.0 action-france.fr
 0.0.0.0 action-france-sas.fr
 0.0.0.0 action-requise.fr
+0.0.0.0 actionsdgfipgouv.fr
 0.0.0.0 action-securi-client.fr
 0.0.0.0 activate-cvitale.fr
 0.0.0.0 activate-prime.fr
@@ -911,6 +913,7 @@
 0.0.0.0 adpays.fr
 0.0.0.0 adquantum.fr
 0.0.0.0 adressedatagouv.fr
+0.0.0.0 adultfriendfinder-connexion.fr
 0.0.0.0 adult-friendfinder.fr
 0.0.0.0 advair.fr
 0.0.0.0 advanced-esim.fr
@@ -1133,6 +1136,7 @@
 0.0.0.0 aide-vitales-renew.fr
 0.0.0.0 aifeprofacturations.fr
 0.0.0.0 aifryerfrance.fr
+0.0.0.0 aiglefr.fr
 0.0.0.0 aigleparis.fr
 0.0.0.0 aiglepascher.fr
 0.0.0.0 ailceadsl.fr
@@ -4316,6 +4320,7 @@
 0.0.0.0 b0urs0rama.fr
 0.0.0.0 baalenciaga.fr
 0.0.0.0 babaa.fr
+0.0.0.0 babolatfrance.fr
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 babyboofashionfrance.fr
 0.0.0.0 babylissfr.fr
@@ -5986,6 +5991,7 @@
 0.0.0.0 casino-banque.fr
 0.0.0.0 casinobanque.fr
 0.0.0.0 casinobanzaii.fr
+0.0.0.0 casinobarrieree.fr
 0.0.0.0 casino-bello.fr
 0.0.0.0 casino-betriot.fr
 0.0.0.0 casinobetriot.fr
@@ -5999,6 +6005,7 @@
 0.0.0.0 casinocresus.fr
 0.0.0.0 casinocresus-france.fr
 0.0.0.0 casinodonbet.fr
+0.0.0.0 casino-duospin.fr
 0.0.0.0 casinoenargentreel.fr
 0.0.0.0 casino-en-ligne-argen-treel.fr
 0.0.0.0 casino-enligne-argentreel.fr
@@ -13476,6 +13483,7 @@
 0.0.0.0 httpsassurance-cartevitale-ameli.fr
 0.0.0.0 httpscpam-ameli.fr
 0.0.0.0 https-leboncoin.fr
+0.0.0.0 httpsrivieracoworking.fr
 0.0.0.0 httpsteresaexpress.fr
 0.0.0.0 httpstrouveit.fr
 0.0.0.0 httpsupport-amelifrances.fr
@@ -14574,6 +14582,7 @@
 0.0.0.0 instantcasinologin.fr
 0.0.0.0 instant-casinoo.fr
 0.0.0.0 instantcasinoo.fr
+0.0.0.0 instantcasino-online.fr
 0.0.0.0 instant-casinos.fr
 0.0.0.0 instante-casino.fr
 0.0.0.0 instantpaylibencaissement.fr
@@ -14797,6 +14806,7 @@
 0.0.0.0 jeansetbottines.fr
 0.0.0.0 je-demenage-avec-laposte.fr
 0.0.0.0 jedemenageaveclaposte.fr
+0.0.0.0 jelly-cat.fr
 0.0.0.0 jelly-cat-france.fr
 0.0.0.0 jellycat-france.fr
 0.0.0.0 jellycatfrance.fr
@@ -19655,9 +19665,12 @@
 0.0.0.0 ninecasinobonus.fr
 0.0.0.0 ninecasino-com.fr
 0.0.0.0 ninecasinoconnexion.fr
+0.0.0.0 nine-casino-enligne.fr
+0.0.0.0 ninecasino-enligne.fr
 0.0.0.0 ninecasinoenligne.fr
 0.0.0.0 ninecasinofrance1.fr
 0.0.0.0 ninecasinofr.fr
+0.0.0.0 ninecasino-online.fr
 0.0.0.0 nine-casinos.fr
 0.0.0.0 ninewincasinos.fr
 0.0.0.0 ninho-billeterie.fr
@@ -21094,6 +21107,7 @@
 0.0.0.0 pcsrecharge.fr
 0.0.0.0 pcs-services65.fr
 0.0.0.0 p-cybertek.fr
+0.0.0.0 pdf-wetransfer.fr
 0.0.0.0 pearinc-france.fr
 0.0.0.0 pearlfeet.fr
 0.0.0.0 pedigre.fr
@@ -23214,6 +23228,7 @@
 0.0.0.0 rent-a-car.fr
 0.0.0.0 rentacars.fr
 0.0.0.0 rentamotorcycle.fr
+0.0.0.0 rentregouv.fr
 0.0.0.0 renvcvitale.fr
 0.0.0.0 renvoi-chronopost.fr
 0.0.0.0 renvouvelement-cv.fr
@@ -27803,6 +27818,7 @@
 0.0.0.0 univ-g-eiffel.fr
 0.0.0.0 univguyane.fr
 0.0.0.0 univ-iae.fr
+0.0.0.0 univ-lacatholille.fr
 0.0.0.0 univ-le-havre.fr
 0.0.0.0 univ-leman.fr
 0.0.0.0 univ-lille-med.fr
@@ -28995,6 +29011,7 @@
 0.0.0.0 winoui1.fr
 0.0.0.0 winouibet.fr
 0.0.0.0 win-oui-casino.fr
+0.0.0.0 winouicasinofr.fr
 0.0.0.0 win-oui-casinos.fr
 0.0.0.0 winoui-online.fr
 0.0.0.0 winqmax.fr
@@ -29443,6 +29460,7 @@
 0.0.0.0 xn--cpam-isre-63a.fr
 0.0.0.0 xn--crance-cva.fr
 0.0.0.0 xn--crances-publiques-ctb.fr
+0.0.0.0 xn--crdit-agrcol-ydbk0d.fr
 0.0.0.0 xn--crdit-agrcole-chb.fr
 0.0.0.0 xn--crdit-agricoles-cnb.fr
 0.0.0.0 xn--crditagricolescurit-czbmf.fr
