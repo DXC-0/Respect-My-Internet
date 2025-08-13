@@ -74,6 +74,7 @@
 0.0.0.0 1sfcpart-impotsgouv.fr
 0.0.0.0 1win-club.fr
 0.0.0.0 1winfrance.fr
+0.0.0.0 1winfr-app.fr
 0.0.0.0 1wingains.fr
 0.0.0.0 1winpro.fr
 0.0.0.0 1winsportbets.fr
@@ -1277,6 +1278,7 @@
 0.0.0.0 alexandarcasino.fr
 0.0.0.0 alexandercasino2.fr
 0.0.0.0 alexandercasino777.fr
+0.0.0.0 alexandercasino-bonus.fr
 0.0.0.0 alexandercasinoenligne.fr
 0.0.0.0 alexandercasino-france.fr
 0.0.0.0 alexandercasinofr.fr
@@ -3951,6 +3953,7 @@
 0.0.0.0 attestercoupon.fr
 0.0.0.0 attesterecharge.fr
 0.0.0.0 attester-enligne.fr
+0.0.0.0 attestez-vos-recharges.fr
 0.0.0.0 attium-sud.fr
 0.0.0.0 attpaysecurise.fr
 0.0.0.0 att-psecuriser.fr
@@ -4809,6 +4812,7 @@
 0.0.0.0 birkenstockensolde.fr
 0.0.0.0 birken-stock.fr
 0.0.0.0 birkenstock-fr.fr
+0.0.0.0 birkenstockoff.fr
 0.0.0.0 birkenstock-official.fr
 0.0.0.0 birkenstockofficial.fr
 0.0.0.0 birkenstockofficiel.fr
@@ -8166,6 +8170,8 @@
 0.0.0.0 comptesnetflix.fr
 0.0.0.0 compte-societe-general.fr
 0.0.0.0 comptes-particuliers-sg.fr
+0.0.0.0 comptes-patient.fr
+0.0.0.0 comptes-rdv-santes.fr
 0.0.0.0 compte-support-client.fr
 0.0.0.0 compte-support.fr
 0.0.0.0 compte-support-france.fr
@@ -9742,6 +9748,7 @@
 0.0.0.0 discord-claim.fr
 0.0.0.0 discord-login.fr
 0.0.0.0 discord-verif.fr
+0.0.0.0 discord-verification.fr
 0.0.0.0 discount-prime.fr
 0.0.0.0 discount-shop.fr
 0.0.0.0 discount-sneaks.fr
@@ -10737,6 +10744,7 @@
 0.0.0.0 espacebanquepostale.fr
 0.0.0.0 espacebanxo-ce.fr
 0.0.0.0 espace-bnpparibas.fr
+0.0.0.0 espace-bordereaudutransction.fr
 0.0.0.0 espace-bred.fr
 0.0.0.0 espace-brsm-clients.fr
 0.0.0.0 espace-brsm-debloc.fr
@@ -11269,6 +11277,7 @@
 0.0.0.0 eurosxport.fr
 0.0.0.0 eu-snapchat.fr
 0.0.0.0 eu-stussy.fr
+0.0.0.0 euuktour-billetterie.fr
 0.0.0.0 euuktour-tickets.fr
 0.0.0.0 euw-snapchat.fr
 0.0.0.0 ev26dm-societegenerale.fr
@@ -13507,6 +13516,7 @@
 0.0.0.0 hulusport-bet.fr
 0.0.0.0 humanitaires-pompiers.fr
 0.0.0.0 humanite-lyon69.ovh
+0.0.0.0 hummelfr.fr
 0.0.0.0 hummel-paris.fr
 0.0.0.0 hummelparis.fr
 0.0.0.0 hunkemoeller.fr
@@ -16831,6 +16841,7 @@
 0.0.0.0 magasintoulouse-cybertek.fr
 0.0.0.0 magasintoulousecybertek.fr
 0.0.0.0 magasinvansfrance.fr
+0.0.0.0 magicalspin24.fr
 0.0.0.0 magicalspincasino1.fr
 0.0.0.0 magicalspin-online.fr
 0.0.0.0 magic-flight.fr
@@ -21508,6 +21519,7 @@
 0.0.0.0 poleneparis-france.fr
 0.0.0.0 poleneparisfrance.fr
 0.0.0.0 polene-paris-outlet.fr
+0.0.0.0 poleneparisoutlet.fr
 0.0.0.0 polenepascher.fr
 0.0.0.0 polenevente.fr
 0.0.0.0 pole-particulier-debloc.fr
@@ -27178,6 +27190,7 @@
 0.0.0.0 thedogstore.fr
 0.0.0.0 thefrankieshop-france.fr
 0.0.0.0 thejacquemus.fr
+0.0.0.0 thekooplesfr.fr
 0.0.0.0 thelem-assurences.fr
 0.0.0.0 themoviedb.fr
 0.0.0.0 the-newbalance.fr
@@ -29460,8 +29473,8 @@
 0.0.0.0 xn--cpam-isre-63a.fr
 0.0.0.0 xn--crance-cva.fr
 0.0.0.0 xn--crances-publiques-ctb.fr
-0.0.0.0 xn--crdit-agrcol-ydbk0d.fr
 0.0.0.0 xn--crdit-agrcole-chb.fr
+0.0.0.0 xn--crdit-agrcol-ydbk0d.fr
 0.0.0.0 xn--crdit-agricoles-cnb.fr
 0.0.0.0 xn--crditagricolescurit-czbmf.fr
 0.0.0.0 xn--crditmutuels-ceb.fr
