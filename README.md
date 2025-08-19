@@ -6,15 +6,6 @@
 
 > This script and these rules are provided for the ["OpenSnitch"](https://github.com/evilsocket/opensnitch) firewall for Linux. It's an application firewall that offers in addition to classic blocking, DNS blocking and blocking applications directly on your favorite Linux distribution!
 
-
-
-## 📝 Update Note
-
-| Date       | Modification                                      |
-|------------|---------------------------------------------------|
-| 2025-08-19 | ➕ Improve Tencent telecom blocklist feeds |
-| 2025-08-19 | ➕ Improve Messenger and Meta related feeds     |
-| 2025-07-28 | ➕ Adguard and Ublock format available !     |
 ---
 
 ### :memo: Setup
@@ -62,6 +53,16 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 ---> If you need more blocklists, check the [extra-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist/extra)
 
 ---> Use [No-IA blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/noai_hosts.txt) to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
+
+---
+
+## 📝 Update Note
+
+| Date       | Modification                                      |
+|------------|---------------------------------------------------|
+| 2025-08-19 | ➕ Improve Tencent telecom blocklist feeds |
+| 2025-08-19 | ➕ Improve Messenger and Meta related feeds     |
+| 2025-07-28 | ➕ Adguard and Ublock format available !     |
 
 ---
 
