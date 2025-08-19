@@ -6,6 +6,25 @@
 
 > This script and these rules are provided for the ["OpenSnitch"](https://github.com/evilsocket/opensnitch) firewall for Linux. It's an application firewall that offers in addition to classic blocking, DNS blocking and blocking applications directly on your favorite Linux distribution!
 
+## ⚠️ Update Note 
+
+## 📝 Update Note
+
+| Date       | Modification                                      |
+|------------|---------------------------------------------------|
+| 2025-08-19 | ➕ Improve Tencent telecom blocklist feeds |
+| 2025-08-19 | ➕ Improve Messenger and Meta related feeds     |
+| 2025-07-28 | ➕ Adguard and Ublock format available !     |
+
+
+---
+
+## 📬 Suggestions
+
+Si vous avez des domaines à ajouter ou des remarques, ouvrez une [issue](https://github.com/votre-repo/blocklist/issues) ou proposez une [pull request](https://github.com/votre-repo/blocklist/pulls).  
+Merci pour votre contribution 🙌
+
+
 ---
 
 ### :memo: Setup
