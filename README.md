@@ -54,9 +54,8 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 
 ---> Use [No-IA blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/noai_hosts.txt) to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
 
----
 
-## 📝 Update Note
+### 📝 Update Note
 
 | Date       | Modification                                      |
 |------------|---------------------------------------------------|
