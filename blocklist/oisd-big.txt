@@ -19085,7 +19085,6 @@
 0.0.0.0 *.api.bzmajiang.cn
 0.0.0.0 *.api.cdn-zoom-cloudflare.live
 0.0.0.0 *.api.centinyxlivetagfile.com
-0.0.0.0 *.api.co-operativefinance.com
 0.0.0.0 *.api.collect.data.intl.miui.com
 0.0.0.0 *.api.cupid.iqiyi.com
 0.0.0.0 *.api.cupid.ptqy.gitv.tv
@@ -53062,7 +53061,6 @@
 0.0.0.0 *.db2017417b23.zapto.org
 0.0.0.0 *.db35b0c4c1.com
 0.0.0.0 *.db35y.codesandbox.io
-0.0.0.0 *.db3b91a-ea93-419b-b51b-0a69902759c5.usrfiles.com
 0.0.0.0 *.db4zl9wffwnmb.cloudfront.net
 0.0.0.0 *.db7q4jg5rkhk8.cloudfront.net
 0.0.0.0 *.dba1bc1fdf.com
@@ -165812,7 +165810,6 @@
 0.0.0.0 *.soma.3xforum.ro
 0.0.0.0 *.somacrdge.pro
 0.0.0.0 *.somadress.com
-0.0.0.0 *.somahuertos.com
 0.0.0.0 *.somakeawish.com
 0.0.0.0 *.somanidiagnostic.com
 0.0.0.0 *.somascom.com
@@ -167425,7 +167422,6 @@
 0.0.0.0 *.spnut.com
 0.0.0.0 *.spo-play.live
 0.0.0.0 *.spoan.com
-0.0.0.0 *.spoar.org.in
 0.0.0.0 *.spoaven.top
 0.0.0.0 *.spocccesoi.pro
 0.0.0.0 *.spocordbetadder.weebly.com
@@ -171452,7 +171448,6 @@
 0.0.0.0 *.studinary.com
 0.0.0.0 *.studio-s.studio.site
 0.0.0.0 *.studio-taddei.it
-0.0.0.0 *.studio.clanweb.eu
 0.0.0.0 *.studio.discounteatz.com
 0.0.0.0 *.studio.doubleclick.com
 0.0.0.0 *.studio.fisheye.eu
@@ -195485,7 +195480,6 @@
 0.0.0.0 *.weddingcelebrantinspain.com
 0.0.0.0 *.weddingeeos.com
 0.0.0.0 *.weddingofficiantssd.com
-0.0.0.0 *.weddingphotomenu.com
 0.0.0.0 *.weddtetu.weebly.com
 0.0.0.0 *.wedeawlaoko.duckdns.org
 0.0.0.0 *.wedebtrelief.com
