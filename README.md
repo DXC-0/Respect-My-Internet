@@ -71,7 +71,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 | [No-Microsoft](https://github.com/jmdugan/blocklists/tree/master) | Block Microsoft related domains |
 | [No-Windows](https://github.com/crazy-max/WindowsSpyBlocker/tree/master) | Windows Spy Blocker |
 | [No-Batx](https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt) | Block Alibaba, Huawei, Tencent and China related services |
-| [No-Tencent](https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt) | Blocks all areas of Tencent, China's telecomunication giant |
+| [No-Tencent](https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt) | Blocks all areas of Tencent, China's telecom giant |
 | [No-Track](https://gitlab.com/quidsup/notrack-blocklists/) | Fight global surveillance with this giant blocklist against Internet trackers |
 | [Respect-my-freedom]() | Blocks all TLDs linked to repressive, dictatorial governments that do not respect freedom of expression and human rights/values |
 | [Phishing Army](https://www.phishing.army/) | Generated every 6 hours from PhishTank, OpenPhish, Cert.pl, PhishFindR, Urlscan.io and Phishunt.io reports |
