@@ -56,13 +56,13 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 
 ---
 
-### 📝 Update Note
+### 📝 Update Notes
 
 | Date       | Modification                                      |
 |------------|---------------------------------------------------|
-| 2025-08-19 | ➕ Improve Tencent telecom blocklist feeds |
+| 2025-08-19 | ➕ Improve Tencent Telecom blocklist feeds |
 | 2025-08-19 | ➕ Improve Messenger and Meta related feeds     |
-| 2025-07-28 | ➕ Adguard and Ublock format available !     |
+| 2025-07-28 | ➕ Adguard and Ublock format availables !     |
 
 ---
 
