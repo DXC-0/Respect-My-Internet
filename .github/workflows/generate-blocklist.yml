@@ -41,7 +41,6 @@ jobs:
           mv domainswild_big.txt oisd-big.txt
           mv phishing_army_blocklist_extended.txt phishing-army.txt
           mv domain.txt no-china-batx.txt
-          mv blocklist-tencent.txt no-china-tencent.txt
 
           cat * | sort | uniq | sed '/^#/d' | sed '/^0\.0\.0\.0$/d' > respect-my-internet.txt
           cat * | sort | uniq | sed '/^#/d' | sed 's/^/||/g' | sed 's/$/^/g' | sed 's/^||0\.0\.0\.0 /||/g' | sed 's/\s\+/\^/g' | sed '/^||\^/d' > respect-my-internet-adblock.txt
