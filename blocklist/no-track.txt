@@ -33,7 +33,6 @@
 0.0.0.0 4wnetwork.com #4W Marketplace - Advertising
 0.0.0.0 51.la #Unknown - Tracker
 0.0.0.0 5min.com #AOL - Advertising
-0.0.0.0 5nt1gx7o57.com #AdMeasures - Advertising
 0.0.0.0 63r2vxacp0pr.com #AdMeasures - Advertising
 0.0.0.0 65twenty.com #Unknown - Tracker
 0.0.0.0 6sc.co #Unknown - Tracker
@@ -2066,7 +2065,6 @@
 0.0.0.0 microad.net #MicroAd - Advertising
 0.0.0.0 midas-network.com #Midas Network - Advertising
 0.0.0.0 midgerelativelyhoax.com #AdMeasures - Advertising
-0.0.0.0 midgetincidentally.com #AdMeasures - Advertising
 0.0.0.0 mindbox.ru #Mindbox - Tracker
 0.0.0.0 mintegral.com #Mintegral - Advertising
 0.0.0.0 mintegral.net #Mintegral - Tracker
@@ -13625,7 +13623,6 @@
 0.0.0.0 nexage.com #Admax - Advertising
 0.0.0.0 nextdocs.com #Aurea - Advertising
 0.0.0.0 nextplatform.com #Unknown - Tracker
-0.0.0.0 nextpsh.top #Unknown - Advertising
 0.0.0.0 nigelmidnightrappers.com #Unknown - Advertising
 0.0.0.0 nighkclick.biz #Unknown - Advertising
 0.0.0.0 nineanalytics.io #Nine Analytics - Tracker
@@ -14869,7 +14866,6 @@
 0.0.0.0 smetrics.tfl.gov.uk #Adobe - Tracker
 0.0.0.0 smetrics.tgw.com #Adobe - Tracker
 0.0.0.0 smetrics.theathletesfoot.com.au #Adobe - Tracker
-0.0.0.0 smetrics.thebay.com #Adobe - Tracker
 0.0.0.0 smetrics.thelawyer.com #Adobe - Tracker
 0.0.0.0 smetrics.theweathernetwork.com #Adobe - Tracker
 0.0.0.0 smetrics.thewhitecompany.com #Adobe - Tracker
@@ -14893,7 +14889,6 @@
 0.0.0.0 smetrics.traction.com #Adobe - Tracker
 0.0.0.0 smetrics.tractorsupply.com #Adobe - Tracker
 0.0.0.0 smetrics.traderonline.com #Adobe - Tracker
-0.0.0.0 smetrics.travelchannel.com #Adobe - Tracker
 0.0.0.0 smetrics.travelmoneyonline.co.uk #Adobe - Tracker
 0.0.0.0 smetrics.trilliumhealthplan.com #Adobe - Tracker
 0.0.0.0 smetrics.tryg.dk #Adobe - Tracker
@@ -14940,13 +14935,11 @@
 0.0.0.0 smetrics.wilson.com #Adobe - Tracker
 0.0.0.0 smetrics.wimbledon.com #Adobe - Tracker
 0.0.0.0 smetrics.winc.com.au #Adobe - Tracker
-0.0.0.0 smetrics.wm.com #Adobe - Tracker
 0.0.0.0 smetrics.wmg.com #Adobe - Tracker
 0.0.0.0 smetrics.womensecret.com #Adobe - Tracker
 0.0.0.0 smetrics.workingadvantage.com #Adobe - Tracker
 0.0.0.0 smetrics.worldbank.org #Adobe - Tracker
 0.0.0.0 smetrics.worldmarket.com #Adobe - Tracker
-0.0.0.0 smetrics.wowtv.de #Adobe - Tracker
 0.0.0.0 smetrics.wradio.com.mx #Adobe - Tracker
 0.0.0.0 smetrics.wyndhamhotels.com #Adobe - Tracker
 0.0.0.0 smetrics.yaencontre.com #Adobe - Tracker
@@ -15005,7 +14998,6 @@
 0.0.0.0 springboardplatform.com #Unknown - Tracker
 0.0.0.0 springserve.com #SpringServe - Advertising
 0.0.0.0 sprinklecontent.com #Strossle - Tracker
-0.0.0.0 sptrack.mailer.humblebundle.com #First Party - Tracker
 0.0.0.0 spylog.com #OpenStat - Tracker
 0.0.0.0 spynet2.microsoft.com #Microsoft - Tracker
 0.0.0.0 spynetalt.microsoft.com #Microsoft - Tracker
@@ -15069,8 +15061,6 @@
 0.0.0.0 stats.ryzeo.com #Ryzeo - Tracker
 0.0.0.0 stats.sa-as.com #Unknown - Tracker
 0.0.0.0 stats.safeway.com #First Party - Tracker
-0.0.0.0 stats.schoolholidays.com.au #First Party - Tracker
-0.0.0.0 stats.videoseyred.in #First Party - Tracker
 0.0.0.0 stats.vk-portal.net #VK - Tracker
 0.0.0.0 stats.wikimedia.org #First Party - Tracker
 0.0.0.0 stats.windscribe.com #First Party - Tracker
