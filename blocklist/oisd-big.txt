@@ -13506,12 +13506,14 @@
 0.0.0.0 *.aidsvc.netflix.com
 0.0.0.0 *.aiebilet.pl-ofereta788542455.cfd
 0.0.0.0 *.aiebilet.pl-oferta1427061.cfd
+0.0.0.0 *.aiebilet.pl-oferta214101512.sbs
 0.0.0.0 *.aiebilet.pl-oferta21410591.sbs
 0.0.0.0 *.aiebilet.pl-oferta5089971.com
 0.0.0.0 *.aiebilet.pl-oferta523921.cfd
 0.0.0.0 *.aiebilet.pl-oferta6326635.cfd
 0.0.0.0 *.aiebilet.pl-oferta78851522.cfd
 0.0.0.0 *.aiebilet.pl-oferta78851524.cfd
+0.0.0.0 *.aiebilet.pl-oferta87765782.cfd
 0.0.0.0 *.aiebilet.pl-oferta8875757325.cfd
 0.0.0.0 *.aiebilet.pl-oferta888755424.cfd
 0.0.0.0 *.aiebilet.pl-oferta9349475.cfd
@@ -14302,6 +14304,7 @@
 0.0.0.0 *.alebilet.pl-ofereta788542455.cfd
 0.0.0.0 *.alebilet.pl-oferta1427061.cfd
 0.0.0.0 *.alebilet.pl-oferta16943.pl
+0.0.0.0 *.alebilet.pl-oferta214101512.sbs
 0.0.0.0 *.alebilet.pl-oferta21410591.sbs
 0.0.0.0 *.alebilet.pl-oferta34682.pl
 0.0.0.0 *.alebilet.pl-oferta425139854.sbs
@@ -14319,6 +14322,8 @@
 0.0.0.0 *.alebilet.pl-oferta8349.cfd
 0.0.0.0 *.alebilet.pl-oferta8467139251.icu
 0.0.0.0 *.alebilet.pl-oferta85210.icu
+0.0.0.0 *.alebilet.pl-oferta87765782.cfd
+0.0.0.0 *.alebilet.pl-oferta8785243242.cfd
 0.0.0.0 *.alebilet.pl-oferta8875757325.cfd
 0.0.0.0 *.alebilet.pl-oferta888755424.cfd
 0.0.0.0 *.alebilet.pl-oferta90909.icu
@@ -14810,12 +14815,15 @@
 0.0.0.0 *.alleasvign.pro
 0.0.0.0 *.allebilet.pl-ofereta788542455.cfd
 0.0.0.0 *.allebilet.pl-oferta1427061.cfd
+0.0.0.0 *.allebilet.pl-oferta214101512.sbs
 0.0.0.0 *.allebilet.pl-oferta21410591.sbs
 0.0.0.0 *.allebilet.pl-oferta5089971.com
 0.0.0.0 *.allebilet.pl-oferta523921.cfd
 0.0.0.0 *.allebilet.pl-oferta6326635.cfd
 0.0.0.0 *.allebilet.pl-oferta78851522.cfd
 0.0.0.0 *.allebilet.pl-oferta78851524.cfd
+0.0.0.0 *.allebilet.pl-oferta87765782.cfd
+0.0.0.0 *.allebilet.pl-oferta8785243242.cfd
 0.0.0.0 *.allebilet.pl-oferta8875757325.cfd
 0.0.0.0 *.allebilet.pl-oferta888755424.cfd
 0.0.0.0 *.allebilet.pl-oferta9349475.cfd
@@ -14871,12 +14879,15 @@
 0.0.0.0 *.allegro.pl-938842.cfd
 0.0.0.0 *.allegro.pl-ofereta788542455.cfd
 0.0.0.0 *.allegro.pl-oferta1427061.cfd
+0.0.0.0 *.allegro.pl-oferta214101512.sbs
 0.0.0.0 *.allegro.pl-oferta34682.pl
 0.0.0.0 *.allegro.pl-oferta5089971.com
 0.0.0.0 *.allegro.pl-oferta523921.cfd
 0.0.0.0 *.allegro.pl-oferta6326635.cfd
 0.0.0.0 *.allegro.pl-oferta78851522.cfd
 0.0.0.0 *.allegro.pl-oferta78851524.cfd
+0.0.0.0 *.allegro.pl-oferta87765782.cfd
+0.0.0.0 *.allegro.pl-oferta8785243242.cfd
 0.0.0.0 *.allegro.pl-oferta8875757325.cfd
 0.0.0.0 *.allegro.pl-oferta888755424.cfd
 0.0.0.0 *.allegro.pl-oferta9349475.cfd
@@ -14893,12 +14904,15 @@
 0.0.0.0 *.allegro168.com
 0.0.0.0 *.allegrolokainie.pl-ofereta788542455.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta1427061.cfd
+0.0.0.0 *.allegrolokainie.pl-oferta214101512.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta21410591.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta5089971.com
 0.0.0.0 *.allegrolokainie.pl-oferta523921.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta6326635.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta78851522.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta78851524.cfd
+0.0.0.0 *.allegrolokainie.pl-oferta87765782.cfd
+0.0.0.0 *.allegrolokainie.pl-oferta8785243242.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta9349475.cfd
 0.0.0.0 *.allegrolokainie.pl-ofertaid08426105382634.shop
@@ -14907,12 +14921,15 @@
 0.0.0.0 *.allegrolokalne.pl-ofereta788542455.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta-455681.icu
 0.0.0.0 *.allegrolokalne.pl-oferta1427061.cfd
+0.0.0.0 *.allegrolokalne.pl-oferta214101512.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta21410591.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta5089971.com
 0.0.0.0 *.allegrolokalne.pl-oferta523921.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta6326635.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta78851522.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta78851524.cfd
+0.0.0.0 *.allegrolokalne.pl-oferta87765782.cfd
+0.0.0.0 *.allegrolokalne.pl-oferta8785243242.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta9349475.cfd
 0.0.0.0 *.allegrolokalne.pl-ofertaid08426105382634.shop
@@ -15210,6 +15227,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta-id2387942371.top
 0.0.0.0 *.allegrolokalnie.pl-oferta1427061.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta151436884.icu
+0.0.0.0 *.allegrolokalnie.pl-oferta214101512.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta21410159.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta21410591.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta217934.shop
@@ -15232,6 +15250,8 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta78851524.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta846477597.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta8626219632.icu
+0.0.0.0 *.allegrolokalnie.pl-oferta87765782.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta8785243242.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta923042.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta9273.icu
@@ -56496,6 +56516,7 @@
 0.0.0.0 *.dms.fx678.com
 0.0.0.0 *.dms.xuexxing.com
 0.0.0.0 *.dmsik.com
+0.0.0.0 *.dmskmf.gratkinki.ru
 0.0.0.0 *.dmsktmld.com
 0.0.0.0 *.dmsllp.com
 0.0.0.0 *.dmsocialspy.com
@@ -124060,6 +124081,7 @@
 0.0.0.0 *.olx.pl-id926712.icu
 0.0.0.0 *.olx.pl-ofereta788542455.cfd
 0.0.0.0 *.olx.pl-oferta1427061.cfd
+0.0.0.0 *.olx.pl-oferta214101512.sbs
 0.0.0.0 *.olx.pl-oferta21410591.sbs
 0.0.0.0 *.olx.pl-oferta5089971.com
 0.0.0.0 *.olx.pl-oferta523921.cfd
@@ -124070,6 +124092,8 @@
 0.0.0.0 *.olx.pl-oferta78851522.cfd
 0.0.0.0 *.olx.pl-oferta78851524.cfd
 0.0.0.0 *.olx.pl-oferta8349.cfd
+0.0.0.0 *.olx.pl-oferta87765782.cfd
+0.0.0.0 *.olx.pl-oferta8785243242.cfd
 0.0.0.0 *.olx.pl-oferta8875757325.cfd
 0.0.0.0 *.olx.pl-oferta888755424.cfd
 0.0.0.0 *.olx.pl-oferta9349475.cfd
@@ -132299,6 +132323,7 @@
 0.0.0.0 *.pl-oferta-74654.top
 0.0.0.0 *.pl-oferta-753256.top
 0.0.0.0 *.pl-oferta-75635.rest
+0.0.0.0 *.pl-oferta-758861-prywatna.cfd
 0.0.0.0 *.pl-oferta-8303618.cfd
 0.0.0.0 *.pl-oferta-843259.top
 0.0.0.0 *.pl-oferta-850632.icu
@@ -132494,6 +132519,7 @@
 0.0.0.0 *.pl-oferta746598.com
 0.0.0.0 *.pl-oferta747184.cfd
 0.0.0.0 *.pl-oferta74817489.cfd
+0.0.0.0 *.pl-oferta74823.pl
 0.0.0.0 *.pl-oferta7500835.sbs
 0.0.0.0 *.pl-oferta751223.icu
 0.0.0.0 *.pl-oferta7521.icu
@@ -132554,6 +132580,7 @@
 0.0.0.0 *.pl-oferta8463294835.shop
 0.0.0.0 *.pl-oferta84635427654.com
 0.0.0.0 *.pl-oferta846792521892.shop
+0.0.0.0 *.pl-oferta847.pl
 0.0.0.0 *.pl-oferta8471840.cfd
 0.0.0.0 *.pl-oferta8472947.cfd
 0.0.0.0 *.pl-oferta84818492.cfd
@@ -145466,7 +145493,6 @@
 0.0.0.0 *.rejectionbennetsmoked.com
 0.0.0.0 *.rejfnvow.org
 0.0.0.0 *.rejgroups.com
-0.0.0.0 *.reji.smartpayoutsurveys.info
 0.0.0.0 *.rejohiy.pro
 0.0.0.0 *.rejoinedfondmurmur.com
 0.0.0.0 *.rejoinex.com
@@ -176354,6 +176380,7 @@
 0.0.0.0 *.tourindia.in
 0.0.0.0 *.touringfewsome.rest
 0.0.0.0 *.tourismes2.ddns.net
+0.0.0.0 *.tourismplacesinkerala.com
 0.0.0.0 *.touristbaconwrath.com
 0.0.0.0 *.touristfuel.com
 0.0.0.0 *.touristsinn.com
@@ -196118,6 +196145,7 @@
 0.0.0.0 *.xn--actualitzacidecorreuelectrnicdegencatweb-k3d1a.weebly.com
 0.0.0.0 *.xn--albilet-b9a.pl-ofereta788542455.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta1427061.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-oferta214101512.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta21410591.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta5089971.com
 0.0.0.0 *.xn--albilet-b9a.pl-oferta523921.cfd
@@ -196127,6 +196155,8 @@
 0.0.0.0 *.xn--albilet-b9a.pl-oferta7198639.top
 0.0.0.0 *.xn--albilet-b9a.pl-oferta78851522.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta78851524.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-oferta87765782.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-oferta8785243242.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta8875757325.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta888755424.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta9349475.cfd
