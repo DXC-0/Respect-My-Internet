@@ -14310,7 +14310,6 @@
 0.0.0.0 *.alebilet.pl-oferta214101512.sbs
 0.0.0.0 *.alebilet.pl-oferta21410159.sbs
 0.0.0.0 *.alebilet.pl-oferta21410591.sbs
-0.0.0.0 *.alebilet.pl-oferta34682.pl
 0.0.0.0 *.alebilet.pl-oferta425139854.sbs
 0.0.0.0 *.alebilet.pl-oferta4371.icu
 0.0.0.0 *.alebilet.pl-oferta5089971.com
@@ -14886,7 +14885,7 @@
 0.0.0.0 *.allegro.pl-oferta1427061.cfd
 0.0.0.0 *.allegro.pl-oferta214101512.sbs
 0.0.0.0 *.allegro.pl-oferta21410159.sbs
-0.0.0.0 *.allegro.pl-oferta34682.pl
+0.0.0.0 *.allegro.pl-oferta21410591.sbs
 0.0.0.0 *.allegro.pl-oferta5089971.com
 0.0.0.0 *.allegro.pl-oferta523921.cfd
 0.0.0.0 *.allegro.pl-oferta6326635.cfd
@@ -14920,6 +14919,7 @@
 0.0.0.0 *.allegrolokainie.pl-oferta78851524.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta87765782.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta8785243242.cfd
+0.0.0.0 *.allegrolokainie.pl-oferta8875757325.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta9349475.cfd
 0.0.0.0 *.allegrolokainie.pl-ofertaid08426105382634.shop
@@ -14938,6 +14938,7 @@
 0.0.0.0 *.allegrolokalne.pl-oferta78851524.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta87765782.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta8785243242.cfd
+0.0.0.0 *.allegrolokalne.pl-oferta8875757325.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta9349475.cfd
 0.0.0.0 *.allegrolokalne.pl-ofertaid08426105382634.shop
@@ -15240,7 +15241,6 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta21410591.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta217934.shop
 0.0.0.0 *.allegrolokalnie.pl-oferta2813593.sbs
-0.0.0.0 *.allegrolokalnie.pl-oferta34682.pl
 0.0.0.0 *.allegrolokalnie.pl-oferta396941.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta421305.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta425139854.sbs
@@ -15260,6 +15260,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta8626219632.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta87765782.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta8785243242.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta8875757325.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta888755424.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta923042.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta9273.icu
@@ -21732,6 +21733,7 @@
 0.0.0.0 *.astraflectchainai.net
 0.0.0.0 *.astraflectprofits.net
 0.0.0.0 *.astrafundex.com
+0.0.0.0 *.astragale.click
 0.0.0.0 *.astral.nicovideo.jp
 0.0.0.0 *.astralconnec.icu
 0.0.0.0 *.astralhustle.com
@@ -46190,7 +46192,6 @@
 0.0.0.0 *.cozy-escape.info
 0.0.0.0 *.cozy-offers.com
 0.0.0.0 *.cozybathrobes.com
-0.0.0.0 *.cozycarriers.com
 0.0.0.0 *.cozycurtainstyles.com
 0.0.0.0 *.cozydusk.com
 0.0.0.0 *.cozyheatbag.com
@@ -123035,6 +123036,7 @@
 0.0.0.0 *.oferta-532973.shop
 0.0.0.0 *.oferta-537373.shop
 0.0.0.0 *.oferta-5457810.shop
+0.0.0.0 *.oferta-5601914.sbs
 0.0.0.0 *.oferta-561042.shop
 0.0.0.0 *.oferta-5737739.shop
 0.0.0.0 *.oferta-5821085.cfd
@@ -132208,6 +132210,7 @@
 0.0.0.0 *.pl-kategoria487295174629.shop
 0.0.0.0 *.pl-kategoria627482671567158734.shop
 0.0.0.0 *.pl-kategoria71245689124561276.shop
+0.0.0.0 *.pl-kategoria7182476821456712587.shop
 0.0.0.0 *.pl-kategoria73079815274038174.shop
 0.0.0.0 *.pl-kategoria7384578196375.shop
 0.0.0.0 *.pl-kategoria73861859572685.shop
@@ -132343,6 +132346,7 @@
 0.0.0.0 *.pl-oferta-880660.pro
 0.0.0.0 *.pl-oferta-8853453.rest
 0.0.0.0 *.pl-oferta-9284589.rest
+0.0.0.0 *.pl-oferta-94636.top
 0.0.0.0 *.pl-oferta-979328.shop
 0.0.0.0 *.pl-oferta-98432.rest
 0.0.0.0 *.pl-oferta-9847331.shop
@@ -132420,6 +132424,7 @@
 0.0.0.0 *.pl-oferta3109197.shop
 0.0.0.0 *.pl-oferta3339534.shop
 0.0.0.0 *.pl-oferta3460677.shop
+0.0.0.0 *.pl-oferta34682.pl
 0.0.0.0 *.pl-oferta3477213.shop
 0.0.0.0 *.pl-oferta3489.icu
 0.0.0.0 *.pl-oferta3642127.shop
@@ -132543,6 +132548,7 @@
 0.0.0.0 *.pl-oferta7621284.cfd
 0.0.0.0 *.pl-oferta762741.cfd
 0.0.0.0 *.pl-oferta764893.com
+0.0.0.0 *.pl-oferta7653331.icu
 0.0.0.0 *.pl-oferta767491.cfd
 0.0.0.0 *.pl-oferta7747435.icu
 0.0.0.0 *.pl-oferta77743.pl
@@ -183924,6 +183930,7 @@
 0.0.0.0 *.uteeo5018.com
 0.0.0.0 *.utefjr.angell.vantagetennis.com
 0.0.0.0 *.utemncl.weebly.com
+0.0.0.0 *.utensilsandmore.store
 0.0.0.0 *.utenti.lycos.it
 0.0.0.0 *.uteromaniacal.makeup
 0.0.0.0 *.uterosigni.pro
