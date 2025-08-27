@@ -579,6 +579,7 @@
 0.0.0.0 acheminement-livraisoncolis.fr
 0.0.0.0 acheminement-livraison.fr
 0.0.0.0 acheminement-moncolis.fr
+0.0.0.0 acheminement-prime.fr
 0.0.0.0 acheminements-chronopost.fr
 0.0.0.0 acheminementscolis-chronopost.fr
 0.0.0.0 acheminements-colis.fr
@@ -4765,6 +4766,7 @@
 0.0.0.0 billet-inoui.fr
 0.0.0.0 billetjul.fr
 0.0.0.0 billetrapide.fr
+0.0.0.0 billetschapellesixtine.fr
 0.0.0.0 billetsconcert.fr
 0.0.0.0 billetscouperugby.fr
 0.0.0.0 billets-montsaintmichel.fr
@@ -8283,6 +8285,7 @@
 0.0.0.0 confidentialite-generale.fr
 0.0.0.0 confidis.fr
 0.0.0.0 config-carte-vitale.fr
+0.0.0.0 config-prime.fr
 0.0.0.0 configuration-google.fr
 0.0.0.0 config-vitale.fr
 0.0.0.0 confinoga.fr
@@ -8380,6 +8383,7 @@
 0.0.0.0 connectpaymobil.fr
 0.0.0.0 connectpaypl.fr
 0.0.0.0 connect-racco.fr
+0.0.0.0 connectsecurpyl.fr
 0.0.0.0 connectsedenred.fr
 0.0.0.0 connectwebpal.fr
 0.0.0.0 connecxppl.fr
@@ -11411,6 +11415,8 @@
 0.0.0.0 exaprin.fr
 0.0.0.0 exbet-casino.fr
 0.0.0.0 exchangemarket.fr
+0.0.0.0 execute-prime.fr
+0.0.0.0 execution-prime.fr
 0.0.0.0 exelformation.fr
 0.0.0.0 exepdia.fr
 0.0.0.0 exertis-conect.fr
@@ -15597,6 +15603,7 @@
 0.0.0.0 lassurances-maladie.fr
 0.0.0.0 lassurancesretraite.fr
 0.0.0.0 lassurancesretraites.fr
+0.0.0.0 latelieroutlet.fr
 0.0.0.0 latmut.fr
 0.0.0.0 latribuen.fr
 0.0.0.0 latrocante.fr
@@ -16139,6 +16146,7 @@
 0.0.0.0 letsencrypt-notification.fr
 0.0.0.0 letsjackpot.fr
 0.0.0.0 letsluckycasino.fr
+0.0.0.0 letter-prime.fr
 0.0.0.0 letudian.fr
 0.0.0.0 leuipe.fr
 0.0.0.0 leuqipe.fr
@@ -17040,6 +17048,7 @@
 0.0.0.0 mailgenerali.fr
 0.0.0.0 mail-google.fr
 0.0.0.0 mail-icloud.fr
+0.0.0.0 mailing-prime.fr
 0.0.0.0 mail-instagram.fr
 0.0.0.0 mail-leboncoin.fr
 0.0.0.0 mailllotdefootstore.fr
@@ -17090,6 +17099,7 @@
 0.0.0.0 mail-orange.fr
 0.0.0.0 mail-ovhcloud.fr
 0.0.0.0 mailpaysdegrasse.fr
+0.0.0.0 mail-prime.fr
 0.0.0.0 mailservice.fr
 0.0.0.0 mail-serviceplus.fr
 0.0.0.0 mailservicepostale.fr
@@ -21170,6 +21180,7 @@
 0.0.0.0 pay1pal.fr
 0.0.0.0 payant-prime.fr
 0.0.0.0 pay-blablacar.fr
+0.0.0.0 payconfirm.fr
 0.0.0.0 pay-cybertek.fr
 0.0.0.0 pay-dsp2.fr
 0.0.0.0 payeecanada-2024.fr
@@ -22255,6 +22266,7 @@
 0.0.0.0 priosante.fr
 0.0.0.0 prism-casino.fr
 0.0.0.0 privatebankinglcl.fr
+0.0.0.0 private-prime.fr
 0.0.0.0 private-sportshop.fr
 0.0.0.0 privehsbc.fr
 0.0.0.0 privilege-infos.fr
@@ -22428,6 +22440,7 @@
 0.0.0.0 pymyuapal.fr
 0.0.0.0 pypal-tiktok.fr
 0.0.0.0 pyppl.fr
+0.0.0.0 pysecumobile.fr
 0.0.0.0 pysecurmobile.fr
 0.0.0.0 pysuppressionpal.fr
 0.0.0.0 pzgesjaunes.fr
@@ -24617,6 +24630,7 @@
 0.0.0.0 security-mail-instagram.fr
 0.0.0.0 security-microsoft.fr
 0.0.0.0 securitynetflix.fr
+0.0.0.0 security-prime.fr
 0.0.0.0 security-verif.fr
 0.0.0.0 securlogin-societegeneral.fr
 0.0.0.0 securmobilepyl.fr
@@ -25649,6 +25663,7 @@
 0.0.0.0 shark-accessories.fr
 0.0.0.0 shazam2-filmtickets.fr
 0.0.0.0 shein-coupon.fr
+0.0.0.0 sheinmystore.fr
 0.0.0.0 shieldplsyp.fr
 0.0.0.0 shiiva.fr
 0.0.0.0 shimanochaussures.fr
@@ -27757,6 +27772,7 @@
 0.0.0.0 tracking-colis-chronopost.fr
 0.0.0.0 tracking-colissimo.fr
 0.0.0.0 tracking-livraison.fr
+0.0.0.0 tracking-prime.fr
 0.0.0.0 tracking-suivi.fr
 0.0.0.0 tracking-ups.fr
 0.0.0.0 track-mondial-relay.fr
@@ -27766,6 +27782,7 @@
 0.0.0.0 tracks-coli.fr
 0.0.0.0 track-suivi-chronopost.fr
 0.0.0.0 track-suivi.fr
+0.0.0.0 trac-prime.fr
 0.0.0.0 tradeinn.fr
 0.0.0.0 traiteammende.fr
 0.0.0.0 traitement-amende.fr
