@@ -544,7 +544,6 @@
 0.0.0.0 analytics.recastsoftware.com #First Party - Tracker
 0.0.0.0 analytics.regex101.com #First Party - Tracker
 0.0.0.0 analytics.renderbetter.net #First Party - Tracker
-0.0.0.0 analytics.rodpub.com #First Party - Tracker
 0.0.0.0 analytics.rover.io #First Party - Tracker
 0.0.0.0 analytics.samsungknox.com #Samsung - Tracker
 0.0.0.0 analytics.santander.co.uk #First Party - Tracker
@@ -13962,7 +13961,6 @@
 0.0.0.0 pushcrew.com #VWO Engage - Tracker
 0.0.0.0 pusherapp.com #Pusher - Advertising
 0.0.0.0 pushio.com #Oracle - Tracker
-0.0.0.0 pushlinck.com #Unknown - Advertising
 0.0.0.0 pushlog.wsoft.ru #First Party - Tracker
 0.0.0.0 pushmeup.art #RollerAds - Advertising
 0.0.0.0 pushnami.com #Pushnami - Advertising
