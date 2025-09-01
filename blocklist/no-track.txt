@@ -453,7 +453,6 @@
 0.0.0.0 analytics-tracker.thescore.com #First Party - Tracker
 0.0.0.0 analytics.163.com #First Party - Tracker
 0.0.0.0 analytics.300624.com #Wondershare - Tracker
-0.0.0.0 analytics.74.ru #First Party - Tracker
 0.0.0.0 analytics.adcanvas.com #First Party - Tracker
 0.0.0.0 analytics.algolia.com #First Party - Tracker
 0.0.0.0 analytics.apache.org #First Party - Tracker
@@ -656,7 +655,6 @@
 0.0.0.0 arcpublishing.com #Arcpublishing - Advertising
 0.0.0.0 arcspire.io #Arcspire - Tracker
 0.0.0.0 arity.com #Arity - Tracker
-0.0.0.0 arkfacialdaybreak.com #AdMeasures - Advertising
 0.0.0.0 artfut.com #Admitad - Tracker
 0.0.0.0 asacdn.com #Unknown - Advertising
 0.0.0.0 ase.clmbtech.com #Times Internet - Advertising
@@ -777,7 +775,6 @@
 0.0.0.0 bg4nxu2u5t.com #Unknown - Advertising
 0.0.0.0 bgelmedia.com #Unknown - Advertising
 0.0.0.0 bid.glass #Bid Glass - Advertising
-0.0.0.0 bid.wikihow.com #First Party - Advertising
 0.0.0.0 bidderstack.com #Unknown - Advertising
 0.0.0.0 bidence.net #Unknown - Advertising
 0.0.0.0 bidgear.com #BidGear - Tracker
