@@ -7740,6 +7740,7 @@
 0.0.0.0 *.accounts.switchers.world
 0.0.0.0 *.accounts.synchronizing.googlemail.www2.vectorstrategies.com
 0.0.0.0 *.accounts.ycskbf.icu
+0.0.0.0 *.accounts.zaasbl.icu
 0.0.0.0 *.accountscenterfb.com
 0.0.0.0 *.accountsdoor.com
 0.0.0.0 *.accountsettingcenterrr.weebly.com
@@ -15468,6 +15469,7 @@
 0.0.0.0 *.allegrolokalnie.pl-38362529427.icu
 0.0.0.0 *.allegrolokalnie.pl-38848.shop
 0.0.0.0 *.allegrolokalnie.pl-4014.shop
+0.0.0.0 *.allegrolokalnie.pl-427701.cfd
 0.0.0.0 *.allegrolokalnie.pl-459158124.cfd
 0.0.0.0 *.allegrolokalnie.pl-47871244.cfd
 0.0.0.0 *.allegrolokalnie.pl-4987.shop
@@ -15522,6 +15524,7 @@
 0.0.0.0 *.allegrolokalnie.pl-cnt8g2ny9353noycg35.icu
 0.0.0.0 *.allegrolokalnie.pl-ezakupy24h.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-123.icu
+0.0.0.0 *.allegrolokalnie.pl-firmowe-268.icu
 0.0.0.0 *.allegrolokalnie.pl-firmowe-278.icu
 0.0.0.0 *.allegrolokalnie.pl-firmowe-372.icu
 0.0.0.0 *.allegrolokalnie.pl-firmowe-374.icu
@@ -15592,6 +15595,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta781241.shop
 0.0.0.0 *.allegrolokalnie.pl-oferta78851522.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta78851524.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta819220.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta8297124.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta8368452691.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta846477597.cfd
@@ -22214,7 +22218,6 @@
 0.0.0.0 *.astope.xyz
 0.0.0.0 *.astorionix.com
 0.0.0.0 *.astoundweighadjoining.com
-0.0.0.0 *.astplay.click
 0.0.0.0 *.astra-marina.ru
 0.0.0.0 *.astra-tueren.de
 0.0.0.0 *.astra-tueren.eu
@@ -24527,6 +24530,7 @@
 0.0.0.0 *.axhoqjpimjfo.com
 0.0.0.0 *.axhqzjtpfwrfg.tech
 0.0.0.0 *.axiagroup.io
+0.0.0.0 *.axialgourd.online
 0.0.0.0 *.axiba66.com
 0.0.0.0 *.axieinfi-nity.github.io
 0.0.0.0 *.axieinfinty.github.io
@@ -29821,7 +29825,6 @@
 0.0.0.0 *.biggitylorry.top
 0.0.0.0 *.biggypondnew.weebly.com
 0.0.0.0 *.bigheartedunprofessionalcatherine.com
-0.0.0.0 *.bighearthomecareservices.com
 0.0.0.0 *.bighyena.pro
 0.0.0.0 *.bigiadifen.pro
 0.0.0.0 *.bigincomplete.com
@@ -37298,7 +37301,6 @@
 0.0.0.0 *.carlosfernandez401020.duckdns.org
 0.0.0.0 *.carlosheviariera.com
 0.0.0.0 *.carlosmendoza504070.duckdns.org
-0.0.0.0 *.carlosurrutia805020.duckdns.org
 0.0.0.0 *.carlosurrutia8050202.duckdns.org
 0.0.0.0 *.carlosvillalba9040.duckdns.org
 0.0.0.0 *.carlozigzag.com
@@ -41846,7 +41848,6 @@
 0.0.0.0 *.circlemill.com
 0.0.0.0 *.circlespan.com
 0.0.0.0 *.circlestellar.pro
-0.0.0.0 *.circlewarrior.lat
 0.0.0.0 *.circoaster.pro
 0.0.0.0 *.circocapno.pro
 0.0.0.0 *.circoclass.pro
@@ -50156,6 +50157,7 @@
 0.0.0.0 *.czxnozkdqlcrk.online
 0.0.0.0 *.czystypowiat.pl
 0.0.0.0 *.czyszczeniekrakow.pl
+0.0.0.0 *.czytajmy-razem.pl
 0.0.0.0 *.czytampol.pl
 0.0.0.0 *.czytelniczykreg.club
 0.0.0.0 *.czytooszustwo.pl
@@ -56807,7 +56809,6 @@
 0.0.0.0 *.disneyplus-support.fr
 0.0.0.0 *.disneyplus-tv.com
 0.0.0.0 *.disneyplus.3ds.de.com
-0.0.0.0 *.disneypluscenter.com
 0.0.0.0 *.disneypluspoland.com
 0.0.0.0 *.disneypluspomoc.help
 0.0.0.0 *.disneyplusprix.fr
@@ -71570,7 +71571,6 @@
 0.0.0.0 *.flow20.club
 0.0.0.0 *.flowbionic.com
 0.0.0.0 *.flowcodeapp.com
-0.0.0.0 *.flowcraft.live
 0.0.0.0 *.flowcv.me
 0.0.0.0 *.flowdapps.com
 0.0.0.0 *.flowdeskz.com
@@ -98651,6 +98651,7 @@
 0.0.0.0 *.kategorie-inne-942841.sbs
 0.0.0.0 *.kategorie-poleceane-313.shop
 0.0.0.0 *.kategorie-pozostale-457115732.sbs
+0.0.0.0 *.kategorie-pozostale-457215732.sbs
 0.0.0.0 *.kategorie-promowane-238491.sbs
 0.0.0.0 *.kategorie-promowane-30932.rest
 0.0.0.0 *.kategorie-promowane-332662.rest
@@ -100143,7 +100144,6 @@
 0.0.0.0 *.kloparist.shop
 0.0.0.0 *.kloparist.today
 0.0.0.0 *.kloparist.top
-0.0.0.0 *.kloparist.world
 0.0.0.0 *.kloparkon.bet
 0.0.0.0 *.kloparkon.today
 0.0.0.0 *.kloparkon.top
@@ -101027,6 +101027,7 @@
 0.0.0.0 *.kryptoav.com
 0.0.0.0 *.kryptonnutlet.shop
 0.0.0.0 *.kryptono.exchange
+0.0.0.0 *.kryptonpeach.fit
 0.0.0.0 *.kryptoportal.pl
 0.0.0.0 *.kryptorauspory.net
 0.0.0.0 *.kryptosinocasino.fr
@@ -105751,6 +105752,7 @@
 0.0.0.0 *.lnpost-ship.com
 0.0.0.0 *.lnpost.dijdofoie.com
 0.0.0.0 *.lnpost.expresnadajiodbierz.sbs
+0.0.0.0 *.lnpost.id92ldq999e321.cfd
 0.0.0.0 *.lnpost.id92ldq999e321.icu
 0.0.0.0 *.lnpost.listdopaczkina24h.cyou
 0.0.0.0 *.lnpost.nadajszybkopaczka.world
@@ -108250,6 +108252,7 @@
 0.0.0.0 *.lugiqyy.pro
 0.0.0.0 *.lugirsbhpifnl.store
 0.0.0.0 *.lugittolarch.com
+0.0.0.0 *.lugizay.com
 0.0.0.0 *.lugwzalsqvacb.one
 0.0.0.0 *.luhoacmokoah.net
 0.0.0.0 *.luhoysvkxsewc.xyz
@@ -126429,6 +126432,7 @@
 0.0.0.0 *.oferta-5133966.shop
 0.0.0.0 *.oferta-513921.shop
 0.0.0.0 *.oferta-5192399.shop
+0.0.0.0 *.oferta-5321616.shop
 0.0.0.0 *.oferta-532973.shop
 0.0.0.0 *.oferta-537373.shop
 0.0.0.0 *.oferta-5457810.shop
@@ -126888,6 +126892,7 @@
 0.0.0.0 *.ogloszenie-1454988.shop
 0.0.0.0 *.ogloszenie-2228789.shop
 0.0.0.0 *.ogloszenie-22g21fg32dggzznb46ryp1.org
+0.0.0.0 *.ogloszenie-22g22eg46fppmsty66qxy5.org
 0.0.0.0 *.ogloszenie-354793.shop
 0.0.0.0 *.ogloszenie-385202.shop
 0.0.0.0 *.ogloszenie-416533.shop
@@ -126924,6 +126929,7 @@
 0.0.0.0 *.ogloszenie-8711318.shop
 0.0.0.0 *.ogloszenie-871515.shop
 0.0.0.0 *.ogloszenie-8734892.shop
+0.0.0.0 *.ogloszenie-88g22eg46fppmsty66qxy5.org
 0.0.0.0 *.ogloszenie-9029975.shop
 0.0.0.0 *.ogloszenie-9070954.shop
 0.0.0.0 *.ogloszenie-9166648.shop
@@ -130464,6 +130470,7 @@
 0.0.0.0 *.overglad.com
 0.0.0.0 *.overgotsnecker.com
 0.0.0.0 *.overhalbia.pro
+0.0.0.0 *.overhassem.com
 0.0.0.0 *.overhiescudder.qpon
 0.0.0.0 *.overiclima.pro
 0.0.0.0 *.overiinsip.pro
@@ -136003,6 +136010,7 @@
 0.0.0.0 *.pl-ebilet.com
 0.0.0.0 *.pl-eplatnosc-24h.cfd
 0.0.0.0 *.pl-eplatnosci24-h.cfd
+0.0.0.0 *.pl-ezakupy-24.cfd
 0.0.0.0 *.pl-ezakupy24.shop
 0.0.0.0 *.pl-f3z91klv7qme2dtx68yru0.com
 0.0.0.0 *.pl-f4j28mzp93bho6lv70tyq5.com
@@ -136047,10 +136055,12 @@
 0.0.0.0 *.pl-kategoria1892317421278.shop
 0.0.0.0 *.pl-kategoria189723348925136.shop
 0.0.0.0 *.pl-kategoria19745284528164725.shop
+0.0.0.0 *.pl-kategoria4178412784126787294.shop
 0.0.0.0 *.pl-kategoria428712587129753429.shop
 0.0.0.0 *.pl-kategoria46813938062835724.shop
 0.0.0.0 *.pl-kategoria47612429586.shop
 0.0.0.0 *.pl-kategoria487295174629.shop
+0.0.0.0 *.pl-kategoria49825814786278673126.shop
 0.0.0.0 *.pl-kategoria627482671567158734.shop
 0.0.0.0 *.pl-kategoria71245689124561276.shop
 0.0.0.0 *.pl-kategoria7182476821456712587.shop
@@ -136070,6 +136080,8 @@
 0.0.0.0 *.pl-kategoria8192478124785763.shop
 0.0.0.0 *.pl-kategoria8265185725392.shop
 0.0.0.0 *.pl-kategoria84361726739.shop
+0.0.0.0 *.pl-kategoria845182749814269124782.shop
+0.0.0.0 *.pl-kategoria846124671472841267828.shop
 0.0.0.0 *.pl-kategoria846129856726748725.shop
 0.0.0.0 *.pl-kategoria8462918374716.shop
 0.0.0.0 *.pl-kategoria84926156837427.shop
@@ -136246,6 +136258,7 @@
 0.0.0.0 *.pl-oferta1172123.co.in
 0.0.0.0 *.pl-oferta122121.icu
 0.0.0.0 *.pl-oferta122321.icu
+0.0.0.0 *.pl-oferta122438.icu
 0.0.0.0 *.pl-oferta123529837.cfd
 0.0.0.0 *.pl-oferta1243317.shop
 0.0.0.0 *.pl-oferta125121.icu
@@ -136309,6 +136322,7 @@
 0.0.0.0 *.pl-oferta2341.shop
 0.0.0.0 *.pl-oferta2345052.sbs
 0.0.0.0 *.pl-oferta2346626.cfd
+0.0.0.0 *.pl-oferta23488.top
 0.0.0.0 *.pl-oferta2350427.cfd
 0.0.0.0 *.pl-oferta23579.shop
 0.0.0.0 *.pl-oferta2379113.shop
@@ -136320,8 +136334,10 @@
 0.0.0.0 *.pl-oferta2453498.shop
 0.0.0.0 *.pl-oferta2459024500830.sbs
 0.0.0.0 *.pl-oferta2460761.icu
+0.0.0.0 *.pl-oferta2467149.co.in
 0.0.0.0 *.pl-oferta2546631.shop
 0.0.0.0 *.pl-oferta2553508.sbs
+0.0.0.0 *.pl-oferta2562520.sbs
 0.0.0.0 *.pl-oferta2567807.icu
 0.0.0.0 *.pl-oferta2654432.shop
 0.0.0.0 *.pl-oferta2684585.cfd
@@ -136491,6 +136507,7 @@
 0.0.0.0 *.pl-oferta648278315.shop
 0.0.0.0 *.pl-oferta6484261.pl
 0.0.0.0 *.pl-oferta6486527.icu
+0.0.0.0 *.pl-oferta6524224.sbs
 0.0.0.0 *.pl-oferta6542763.sbs
 0.0.0.0 *.pl-oferta65483.rest
 0.0.0.0 *.pl-oferta6561209.icu
@@ -136573,6 +136590,7 @@
 0.0.0.0 *.pl-oferta7983724.shop
 0.0.0.0 *.pl-oferta8117565.shop
 0.0.0.0 *.pl-oferta8117995.shop
+0.0.0.0 *.pl-oferta8128561.icu
 0.0.0.0 *.pl-oferta8143749.icu
 0.0.0.0 *.pl-oferta8148665.icu
 0.0.0.0 *.pl-oferta8170857.shop
@@ -136674,6 +136692,7 @@
 0.0.0.0 *.pl-oferta8972956.icu
 0.0.0.0 *.pl-oferta89756.com
 0.0.0.0 *.pl-oferta90334.top
+0.0.0.0 *.pl-oferta903409.cfd
 0.0.0.0 *.pl-oferta9180819.cfd
 0.0.0.0 *.pl-oferta9182068.sbs
 0.0.0.0 *.pl-oferta91958636.icu
@@ -136700,6 +136719,7 @@
 0.0.0.0 *.pl-oferta9471994.cfd
 0.0.0.0 *.pl-oferta9474647.cfd
 0.0.0.0 *.pl-oferta94814.icu
+0.0.0.0 *.pl-oferta94815166.icu
 0.0.0.0 *.pl-oferta9495.icu
 0.0.0.0 *.pl-oferta9526.pl
 0.0.0.0 *.pl-oferta9528675.shop
@@ -136723,6 +136743,7 @@
 0.0.0.0 *.pl-oferta98438.icu
 0.0.0.0 *.pl-oferta9855712.icu
 0.0.0.0 *.pl-oferta98589984317.shop
+0.0.0.0 *.pl-oferta9912270.com
 0.0.0.0 *.pl-oferta99428720.icu
 0.0.0.0 *.pl-oferta995195430.sbs
 0.0.0.0 *.pl-oferta9954531.cfd
@@ -141263,6 +141284,7 @@
 0.0.0.0 *.promocjabutow.shop
 0.0.0.0 *.promocjaeuro.pl
 0.0.0.0 *.promocjagsm.pl
+0.0.0.0 *.promocje-okazje2281.sbs
 0.0.0.0 *.promocjemebli.shop
 0.0.0.0 *.promocliq.com
 0.0.0.0 *.promoclub.pl
@@ -157171,6 +157193,7 @@
 0.0.0.0 *.sbancscule.pro
 0.0.0.0 *.sbandsfran.pro
 0.0.0.0 *.sbarainfro.pro
+0.0.0.0 *.sbaraman.com
 0.0.0.0 *.sbarateath.pro
 0.0.0.0 *.sbarbreliq.pro
 0.0.0.0 *.sbarbsconf.pro
@@ -161079,7 +161102,6 @@
 0.0.0.0 *.setfreecxz.live
 0.0.0.0 *.setfupstore.icu
 0.0.0.0 *.setgmbh.net
-0.0.0.0 *.seth-and-friends.com
 0.0.0.0 *.seth-nick.duckdns.org
 0.0.0.0 *.setheo.com
 0.0.0.0 *.sether.ws
@@ -174062,7 +174084,6 @@
 0.0.0.0 *.surprovincia.webcindario.com
 0.0.0.0 *.surrealpakistan.com
 0.0.0.0 *.surrealvisions.live
-0.0.0.0 *.surrecabra.pro
 0.0.0.0 *.surresuppu.com
 0.0.0.0 *.surreytuningservices.com
 0.0.0.0 *.surroregar.pro
@@ -200538,7 +200559,6 @@
 0.0.0.0 *.wusameetings.tk
 0.0.0.0 *.wusogou.com
 0.0.0.0 *.wusyjaa.live
-0.0.0.0 *.wutaxio.com
 0.0.0.0 *.wutfykwgbuq.xyz
 0.0.0.0 *.wuthersoord.cyou
 0.0.0.0 *.wutojgcys.com
