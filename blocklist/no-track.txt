@@ -897,7 +897,6 @@
 0.0.0.0 case.clmbtech.com #Times Internet - Advertising
 0.0.0.0 catapultx.com #Qortex - Advertising
 0.0.0.0 cauly.co.kr #Cauly - Advertising
-0.0.0.0 causingguard.com #AdMeasures - Advertising
 0.0.0.0 cb-telemetry.academicmerit.com #First Party - Tracker
 0.0.0.0 cbdatatracker.com #Clickback - Tracker
 0.0.0.0 ccmp.eu #Experian - Advertising
@@ -1020,7 +1019,6 @@
 0.0.0.0 commandersact.com #Commanders Act - Advertising
 0.0.0.0 commonvivacious.com #AdMeasures - Advertising
 0.0.0.0 company-target.com #Demandbase - Tracker
-0.0.0.0 compresssavvydetected.com #AdMeasures - Advertising
 0.0.0.0 comscore.com #comScore - Tracker
 0.0.0.0 comscoreresearch.com #comScore - Tracker
 0.0.0.0 concertads-configs.vox-cdn.com #Vox - Advertising
@@ -1393,7 +1391,6 @@
 0.0.0.0 februaryinjectionproudly.com #AdMeasures - Advertising
 0.0.0.0 federatedml-pa.googleapis.com #Google - Tracker
 0.0.0.0 feedbackify.com #Feedbackify - Advertising
-0.0.0.0 feelsjet.com #AdMeasures - Advertising
 0.0.0.0 femetrics.grammarly.io #Grammarly - Tracker
 0.0.0.0 fidelity-media.com #Fidelity Media - Advertising
 0.0.0.0 fieldtest.cc #Horizon Next - Tracker
@@ -14166,7 +14163,6 @@
 0.0.0.0 securemetrics.apple.com #Adobe - Tracker
 0.0.0.0 securepaths.com #Forensiq - Tracker
 0.0.0.0 seedtag.com #Seedtag - Advertising
-0.0.0.0 seeyoufarm.com #Hits - Tracker
 0.0.0.0 segment.com #Segment - Tracker
 0.0.0.0 segment.io #Segment - Tracker
 0.0.0.0 sekindo.com #Sekindo - Advertising
