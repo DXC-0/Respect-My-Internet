@@ -4211,6 +4211,7 @@
 0.0.0.0 authsimpots.fr
 0.0.0.0 auth-societegenerale.fr
 0.0.0.0 auth-somfy.fr
+0.0.0.0 authsso-prime.fr
 0.0.0.0 auth-succes.fr
 0.0.0.0 auth-suivi-chronopost.fr
 0.0.0.0 auth-support-chronopost.fr
@@ -4903,6 +4904,7 @@
 0.0.0.0 birkenstoock.fr
 0.0.0.0 birken-tocks.fr
 0.0.0.0 birkishoes.fr
+0.0.0.0 birk-outlet.fr
 0.0.0.0 birkoutlet.fr
 0.0.0.0 birksandales.fr
 0.0.0.0 birk-store.fr
@@ -5456,6 +5458,7 @@
 0.0.0.0 burton-fr.fr
 0.0.0.0 burtonparis.fr
 0.0.0.0 business24.fr
+0.0.0.0 business-prime.fr
 0.0.0.0 businessverif.fr
 0.0.0.0 buterfly.fr
 0.0.0.0 butfootball.fr
@@ -5526,6 +5529,7 @@
 0.0.0.0 cadeaumycanal.fr
 0.0.0.0 cadeauxgroupes.fr
 0.0.0.0 cadeeauxfolies.fr
+0.0.0.0 cadenascertifypyl.fr
 0.0.0.0 cadoc.fr
 0.0.0.0 cadoola-casino.fr
 0.0.0.0 cadoolacasino.fr
@@ -11837,6 +11841,7 @@
 0.0.0.0 financement-antai.fr
 0.0.0.0 financement-creditmutuel.fr
 0.0.0.0 financement-infractions.fr
+0.0.0.0 finance-prime.fr
 0.0.0.0 financepublicgouvfr.fr
 0.0.0.0 finance-publique.fr
 0.0.0.0 finance-publique-secu.fr
@@ -16492,6 +16497,8 @@
 0.0.0.0 lisaa.fr
 0.0.0.0 lisl.fr
 0.0.0.0 listenonrepeat.fr
+0.0.0.0 listing-prime.fr
+0.0.0.0 list-prime.fr
 0.0.0.0 lite-prime.fr
 0.0.0.0 litige-colis.fr
 0.0.0.0 litigecontentieux.fr
@@ -20853,6 +20860,7 @@
 0.0.0.0 outlet-birkenstock.fr
 0.0.0.0 outlet-carart.fr
 0.0.0.0 outlet-carat.fr
+0.0.0.0 outletcarhart.fr
 0.0.0.0 outletcarhartt.fr
 0.0.0.0 outletdeals.fr
 0.0.0.0 outletenligne.fr
@@ -22577,6 +22585,7 @@
 0.0.0.0 printerest.fr
 0.0.0.0 priosante.fr
 0.0.0.0 prism-casino.fr
+0.0.0.0 privacy-prime.fr
 0.0.0.0 privatebankinglcl.fr
 0.0.0.0 private-prime.fr
 0.0.0.0 private-sportshop.fr
@@ -23456,6 +23465,7 @@
 0.0.0.0 remb-freebox.fr
 0.0.0.0 remb-imp-direct.fr
 0.0.0.0 rembourse-edf.fr
+0.0.0.0 remboursement737939.fr
 0.0.0.0 remboursement73893.fr
 0.0.0.0 remboursement749730.fr
 0.0.0.0 remboursement-ameli.fr
@@ -23514,6 +23524,7 @@
 0.0.0.0 rendstad.fr
 0.0.0.0 renedis.fr
 0.0.0.0 renevoullement-cartevitale.fr
+0.0.0.0 renewal-prime.fr
 0.0.0.0 renew-ameli.fr
 0.0.0.0 renew-critair.fr
 0.0.0.0 renew-netfiix.fr
@@ -24990,6 +25001,7 @@
 0.0.0.0 securitynetflix.fr
 0.0.0.0 security-prime.fr
 0.0.0.0 security-verif.fr
+0.0.0.0 securiytypls.fr
 0.0.0.0 securlogin-societegeneral.fr
 0.0.0.0 securmobilepyl.fr
 0.0.0.0 securnetfiix.fr
@@ -26830,8 +26842,10 @@
 0.0.0.0 ssl-leboncoin.fr
 0.0.0.0 ssl-login.fr
 0.0.0.0 sslsecure-identite-paypal.fr
+0.0.0.0 ssoauth-prime.fr
 0.0.0.0 s-societegenerale.fr
 0.0.0.0 ssocietegenerale.fr
+0.0.0.0 sso-prime.fr
 0.0.0.0 sso-universite-paris-saclay.fr
 0.0.0.0 staderennaistransfert.fr
 0.0.0.0 stainel.fr
@@ -27908,6 +27922,7 @@
 0.0.0.0 thejacquemus.fr
 0.0.0.0 thekooplesfr.fr
 0.0.0.0 thelem-assurences.fr
+0.0.0.0 thelifetimes-events.fr
 0.0.0.0 themoviedb.fr
 0.0.0.0 the-newbalance.fr
 0.0.0.0 thenewbalance.fr
@@ -27939,6 +27954,7 @@
 0.0.0.0 thesimsresource.fr
 0.0.0.0 the-store.fr
 0.0.0.0 thetorrentz.fr
+0.0.0.0 theweekndtickets.fr
 0.0.0.0 thfs.fr
 0.0.0.0 thinkshoesfrance.fr
 0.0.0.0 thomasmore.fr
@@ -28008,6 +28024,7 @@
 0.0.0.0 ticketsmaster-jul.fr
 0.0.0.0 ticketsmasters.fr
 0.0.0.0 ticketsmax.fr
+0.0.0.0 tickets-mayhem.fr
 0.0.0.0 ticketsport.fr
 0.0.0.0 ticketspot.fr
 0.0.0.0 ticketspy.fr
