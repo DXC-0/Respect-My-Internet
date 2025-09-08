@@ -14886,6 +14886,7 @@
 0.0.0.0 *.allegro.12092812.pl
 0.0.0.0 *.allegro.12789498.shop
 0.0.0.0 *.allegro.29102.shop
+0.0.0.0 *.allegro.51952182.pl
 0.0.0.0 *.allegro.8712y.rest
 0.0.0.0 *.allegro.890va91.shop
 0.0.0.0 *.allegro.914y.rest
@@ -15199,6 +15200,7 @@
 0.0.0.0 *.allegrolokalnie.pl-4081.cfd
 0.0.0.0 *.allegrolokalnie.pl-4195125185.icu
 0.0.0.0 *.allegrolokalnie.pl-4846354.icu
+0.0.0.0 *.allegrolokalnie.pl-49148124.icu
 0.0.0.0 *.allegrolokalnie.pl-4987.shop
 0.0.0.0 *.allegrolokalnie.pl-51079.cfd
 0.0.0.0 *.allegrolokalnie.pl-51295.cfd
@@ -15206,6 +15208,7 @@
 0.0.0.0 *.allegrolokalnie.pl-521784434.icu
 0.0.0.0 *.allegrolokalnie.pl-564534.shop
 0.0.0.0 *.allegrolokalnie.pl-56978f3748.shop
+0.0.0.0 *.allegrolokalnie.pl-58156192.icu
 0.0.0.0 *.allegrolokalnie.pl-590158125.icu
 0.0.0.0 *.allegrolokalnie.pl-6302.cfd
 0.0.0.0 *.allegrolokalnie.pl-6435523432.shop
@@ -15227,6 +15230,7 @@
 0.0.0.0 *.allegrolokalnie.pl-918607.cfd
 0.0.0.0 *.allegrolokalnie.pl-919482.cfd
 0.0.0.0 *.allegrolokalnie.pl-927482.cfd
+0.0.0.0 *.allegrolokalnie.pl-9275.cfd
 0.0.0.0 *.allegrolokalnie.pl-9372252946262.icu
 0.0.0.0 *.allegrolokalnie.pl-937352248.icu
 0.0.0.0 *.allegrolokalnie.pl-9471.cfd
@@ -28061,6 +28065,7 @@
 0.0.0.0 *.beneficiossantopia.net
 0.0.0.0 *.beneficiostradelux.net
 0.0.0.0 *.benefit-rejestracja.pl
+0.0.0.0 *.benefit.espaciodecor.site
 0.0.0.0 *.benefitanna.com
 0.0.0.0 *.benefits-bumper.gl.at.ply.gg
 0.0.0.0 *.benefits-convention.gl.at.ply.gg
@@ -36443,21 +36448,34 @@
 0.0.0.0 *.cardupmysleeve.com
 0.0.0.0 *.carduunexa.pro
 0.0.0.0 *.cardverify0006-booking.com
+0.0.0.0 *.cardverify0019-booking.com
 0.0.0.0 *.cardverify0032-booking.com
 0.0.0.0 *.cardverify0059-booking.com
 0.0.0.0 *.cardverify0071-booking.com
 0.0.0.0 *.cardverify0105-booking.com
 0.0.0.0 *.cardverify03110-booking.com
+0.0.0.0 *.cardverify03190-booking.com
 0.0.0.0 *.cardverify0337-booking.com
+0.0.0.0 *.cardverify03470-booking.com
+0.0.0.0 *.cardverify0467-booking.com
 0.0.0.0 *.cardverify0625-booking.com
+0.0.0.0 *.cardverify0631-booking.com
 0.0.0.0 *.cardverify0690-booking.com
 0.0.0.0 *.cardverify07971-booking.com
 0.0.0.0 *.cardverify0962-booking.com
+0.0.0.0 *.cardverify0993-booking.com
 0.0.0.0 *.cardverify1190-booking.com
 0.0.0.0 *.cardverify1362-booking.com
 0.0.0.0 *.cardverify3060-booking.com
+0.0.0.0 *.cardverify3699-booking.com
+0.0.0.0 *.cardverify6355-booking.com
+0.0.0.0 *.cardverify64120-booking.com
+0.0.0.0 *.cardverify9090-booking.com
+0.0.0.0 *.cardverify9360-booking.com
 0.0.0.0 *.cardverify9391-booking.com
 0.0.0.0 *.cardverify96790-booking.com
+0.0.0.0 *.cardverify9800-booking.com
+0.0.0.0 *.cardverify9930-booking.com
 0.0.0.0 *.cardxpress.co.ua
 0.0.0.0 *.cardzstorezone.com
 0.0.0.0 *.care-concentrations.gl.at.ply.gg
@@ -42733,6 +42751,7 @@
 0.0.0.0 *.cnetnews.112.2o7.net
 0.0.0.0 *.cnettech.112.2o7.net
 0.0.0.0 *.cnetzdnet.112.2o7.net
+0.0.0.0 *.cnfrm-booking.com
 0.0.0.0 *.cngcpy.com
 0.0.0.0 *.cngov-gov-xejpcmqhyb.cn-shanghai.fcapp.run
 0.0.0.0 *.cngov.oss-cn-shanghai.aliyuncs.com
@@ -43671,6 +43690,7 @@
 0.0.0.0 *.colorfulturaco.pro
 0.0.0.0 *.colorfulwonders.pro
 0.0.0.0 *.colorking.es
+0.0.0.0 *.colormasterspaintingoh.com
 0.0.0.0 *.colormotet.pro
 0.0.0.0 *.colornewsm.pro
 0.0.0.0 *.colorone.jp
@@ -47481,6 +47501,7 @@
 0.0.0.0 *.crispchill.pro
 0.0.0.0 *.crispcleanbodyrituals.com
 0.0.0.0 *.crispcraze.pro
+0.0.0.0 *.crispfactcheck.pro
 0.0.0.0 *.crisphaven.pro
 0.0.0.0 *.crispi-frances.fr
 0.0.0.0 *.crispin-offers.com
@@ -51729,6 +51750,7 @@
 0.0.0.0 *.davesbestdeals.com
 0.0.0.0 *.davescetlem.firebaseapp.com
 0.0.0.0 *.davescetlem.web.app
+0.0.0.0 *.davesgarage-hotrodshop.online
 0.0.0.0 *.davesmodelshop.com
 0.0.0.0 *.davewoks.duckdns.org
 0.0.0.0 *.davidbabcock.com
@@ -68176,6 +68198,7 @@
 0.0.0.0 *.fgoten-mole.web.app
 0.0.0.0 *.fgpejmtfpdtcs.com
 0.0.0.0 *.fgqyxgbqfxyot.website
+0.0.0.0 *.fgredo.pro
 0.0.0.0 *.fgrowe.japaremit.com
 0.0.0.0 *.fgs-100900.weeblysite.com
 0.0.0.0 *.fgshfe11.weebly.com
@@ -76584,6 +76607,7 @@
 0.0.0.0 *.globalinvestmentgooglewebdnsaddress.duckdns.org
 0.0.0.0 *.globalinwest.com
 0.0.0.0 *.globalismedia.com
+0.0.0.0 *.globalisvision92.biz
 0.0.0.0 *.globalkingtextile.com
 0.0.0.0 *.globalmail.dynuddns.net
 0.0.0.0 *.globalmigratedxb.com
@@ -80063,8 +80087,13 @@
 0.0.0.0 *.guestverify134541-booking.com
 0.0.0.0 *.guestverify2146-booking.com
 0.0.0.0 *.guestverify4235-booking.com
+0.0.0.0 *.guestverify43511-booking.com
+0.0.0.0 *.guestverify4531-booking.com
+0.0.0.0 *.guestverify46431-booking.com
 0.0.0.0 *.guestverify5116-booking.com
 0.0.0.0 *.guestverify5313-booking.com
+0.0.0.0 *.guestverify54611-booking.com
+0.0.0.0 *.guestverify56142-booking.com
 0.0.0.0 *.guestverify5641-booking.com
 0.0.0.0 *.guestverify78671-booking.com
 0.0.0.0 *.guestxtap.valleyitspecialist.com
@@ -86097,6 +86126,7 @@
 0.0.0.0 *.iam.datasavannah.com
 0.0.0.0 *.iamabundant.com
 0.0.0.0 *.iambitelem.pro
+0.0.0.0 *.iambookshop.com
 0.0.0.0 *.iamecowood.com
 0.0.0.0 *.iamhealthywealthynwise.com
 0.0.0.0 *.iamhollymatthews-resources.com
@@ -86890,6 +86920,7 @@
 0.0.0.0 *.ifm5.wecom.work
 0.0.0.0 *.ifmccdn.icu
 0.0.0.0 *.ifmxhabbjpjrm.website
+0.0.0.0 *.ifngihen.xyz
 0.0.0.0 *.ifollowyou-mail.de
 0.0.0.0 *.ifont.site
 0.0.0.0 *.ifood.monkey.exchange
@@ -97270,6 +97301,7 @@
 0.0.0.0 *.kfpnqug.cn
 0.0.0.0 *.kfpuxzmsanfbb.website
 0.0.0.0 *.kfpxthgobigqk.site
+0.0.0.0 *.kfruxinlike.pro
 0.0.0.0 *.kftgzmjqxjooc.store
 0.0.0.0 *.kfwolwopegike.love
 0.0.0.0 *.kfycmiu.icu
@@ -99204,6 +99236,7 @@
 0.0.0.0 *.kursyszkolenia.com
 0.0.0.0 *.kurvita.com
 0.0.0.0 *.kurwa.ddns.net
+0.0.0.0 *.kusemic.info
 0.0.0.0 *.kushagra.com.np
 0.0.0.0 *.kushikushi.us
 0.0.0.0 *.kushou.com
@@ -99367,6 +99400,7 @@
 0.0.0.0 *.kygunue.com
 0.0.0.0 *.kygwbcvevmaoz.store
 0.0.0.0 *.kyhaqoi.com
+0.0.0.0 *.kyigastop.icu
 0.0.0.0 *.kyimbra.weebly.com
 0.0.0.0 *.kyjej.run
 0.0.0.0 *.kyjlt.cn
@@ -108529,6 +108563,7 @@
 0.0.0.0 *.mangogo.jp
 0.0.0.0 *.mangogo.work
 0.0.0.0 *.mangorestaurant.com.np
+0.0.0.0 *.mangostore-eu.shop
 0.0.0.0 *.mangotreporting.com
 0.0.0.0 *.mangrao.club
 0.0.0.0 *.mangraox.my
@@ -111633,6 +111668,7 @@
 0.0.0.0 *.metalurgicamunhoz.com.br
 0.0.0.0 *.metalzebar.com
 0.0.0.0 *.metamak.io
+0.0.0.0 *.metamask-identity.com
 0.0.0.0 *.metamask-recoveryform.185-236-231-168.plesk.page
 0.0.0.0 *.metamask-resolve.firebaseapp.com
 0.0.0.0 *.metamask-simulator.tecshield.io
@@ -113995,6 +114031,7 @@
 0.0.0.0 *.modato.ru
 0.0.0.0 *.modawanilia.com
 0.0.0.0 *.modbarnhome.com
+0.0.0.0 *.modcatlove.com
 0.0.0.0 *.modculatan.com
 0.0.0.0 *.mode-civil.gl.at.ply.gg
 0.0.0.0 *.mode-design.net
@@ -117146,6 +117183,7 @@
 0.0.0.0 *.mysearchnow.com
 0.0.0.0 *.mysecureaccess.wpenginepowered.com
 0.0.0.0 *.mysecurelink-attmail.pory.app
+0.0.0.0 *.mysecureml.pro
 0.0.0.0 *.mysecurespace.wpenginepowered.com
 0.0.0.0 *.mysecurify.com
 0.0.0.0 *.mysecuritycenter.com
@@ -118915,6 +118953,7 @@
 0.0.0.0 *.netbuzz.digital
 0.0.0.0 *.netbuzzhub.com
 0.0.0.0 *.netbz.digital
+0.0.0.0 *.netchany.pro
 0.0.0.0 *.netcity1.net
 0.0.0.0 *.netclickstats.com
 0.0.0.0 *.netcoins---ca----auth.webflow.io
@@ -128388,6 +128427,7 @@
 0.0.0.0 *.pahtvs.tech
 0.0.0.0 *.pahtwt.tech
 0.0.0.0 *.pahtzh.tech
+0.0.0.0 *.pahwos.info
 0.0.0.0 *.pahzvkxwkxtzm.website
 0.0.0.0 *.pai-yun.com
 0.0.0.0 *.paibauwho.com
@@ -132960,6 +133000,7 @@
 0.0.0.0 *.pl-kategoria87104269832672821461.shop
 0.0.0.0 *.pl-kategoria8714298274619273274.shop
 0.0.0.0 *.pl-kategoria879123614712.shop
+0.0.0.0 *.pl-kategoria89426714926784928174.shop
 0.0.0.0 *.pl-kategoria912671627841167254.shop
 0.0.0.0 *.pl-kategoria93627015372.shop
 0.0.0.0 *.pl-kategoria942761904892836182984.shop
@@ -133216,6 +133257,7 @@
 0.0.0.0 *.pl-oferta5202863.shop
 0.0.0.0 *.pl-oferta5260043.shop
 0.0.0.0 *.pl-oferta5322803.shop
+0.0.0.0 *.pl-oferta53256.icu
 0.0.0.0 *.pl-oferta5371492.cfd
 0.0.0.0 *.pl-oferta5386660.cfd
 0.0.0.0 *.pl-oferta543296.cfd
@@ -133421,6 +133463,7 @@
 0.0.0.0 *.pl-oferta989736.cfd
 0.0.0.0 *.pl-oferta98974381.sbs
 0.0.0.0 *.pl-oferta9912270.com
+0.0.0.0 *.pl-oferta992821.icu
 0.0.0.0 *.pl-ofertax081247.shop
 0.0.0.0 *.pl-ofertta.shop
 0.0.0.0 *.pl-ofertx5326411.shop
@@ -133463,6 +133506,7 @@
 0.0.0.0 *.pl-ogloszenie-854374.top
 0.0.0.0 *.pl-ogloszenie-904890.top
 0.0.0.0 *.pl-ogloszenie-90569.top
+0.0.0.0 *.pl-ogloszenie-905924.rest
 0.0.0.0 *.pl-ogloszenie-930293404092.rest
 0.0.0.0 *.pl-ogloszenie-93443.shop
 0.0.0.0 *.pl-ogloszenie-954059692.top
@@ -134141,6 +134185,7 @@
 0.0.0.0 *.plorg.comprator.com
 0.0.0.0 *.plorlen.polandfakts.com
 0.0.0.0 *.plorvexmoon13.online
+0.0.0.0 *.plotiofx.site
 0.0.0.0 *.plotp.mazamob.space
 0.0.0.0 *.plotparent.com
 0.0.0.0 *.plotrabbit.com
@@ -134174,6 +134219,7 @@
 0.0.0.0 *.plporkterter.com
 0.0.0.0 *.plporktettersoft.com
 0.0.0.0 *.plprectterter.com
+0.0.0.0 *.plprzeglad.com
 0.0.0.0 *.plprzyszlosc.compassnc.com
 0.0.0.0 *.plqbxvnjxq92.com
 0.0.0.0 *.plrokfortebster.com
@@ -136361,6 +136407,7 @@
 0.0.0.0 *.prebid.org
 0.0.0.0 *.prebid.papyrus.global
 0.0.0.0 *.preblendix.com
+0.0.0.0 *.preblendora.com
 0.0.0.0 *.prebloomy.com
 0.0.0.0 *.preblsvecc.com
 0.0.0.0 *.prebwle.su
@@ -138477,6 +138524,7 @@
 0.0.0.0 *.prywatna15251.pl
 0.0.0.0 *.prywatna5125121.cyou
 0.0.0.0 *.prywatna51251252.pl
+0.0.0.0 *.prywatna5125644.pl
 0.0.0.0 *.przedupl.wixsite.com
 0.0.0.0 *.przejdzdalej.click
 0.0.0.0 *.przekaz.top
@@ -146690,6 +146738,7 @@
 0.0.0.0 *.remaking.info
 0.0.0.0 *.remakuy.com
 0.0.0.0 *.remaniegonif.help
+0.0.0.0 *.remano.xyz
 0.0.0.0 *.remarkable-book-450218.framer.app
 0.0.0.0 *.remarkablegriffin.pro
 0.0.0.0 *.remarkablekoel.pro
@@ -157763,6 +157812,7 @@
 0.0.0.0 *.sfumabaren.pro
 0.0.0.0 *.sfummcapti.pro
 0.0.0.0 *.sfummsonor.pro
+0.0.0.0 *.sfuocreali.pro
 0.0.0.0 *.sfux.com
 0.0.0.0 *.sfwwzmtlhrajx.website
 0.0.0.0 *.sfxdifdabwsux.site
@@ -166063,6 +166113,7 @@
 0.0.0.0 *.staroil.pl
 0.0.0.0 *.starolyf.top
 0.0.0.0 *.starphysical.com
+0.0.0.0 *.starpol.top
 0.0.0.0 *.starponakey.com
 0.0.0.0 *.starpopup.com
 0.0.0.0 *.starprofittideapp.com
@@ -173727,6 +173778,7 @@
 0.0.0.0 *.telegtem.ink
 0.0.0.0 *.telegthwzl.fit
 0.0.0.0 *.telegthwzl.ink
+0.0.0.0 *.telegtlbwh.shop
 0.0.0.0 *.telegtmfud.wiki
 0.0.0.0 *.telegtqew.ren
 0.0.0.0 *.telegtrqw.cab
@@ -174903,6 +174955,7 @@
 0.0.0.0 *.thalic-tide-turn.pro
 0.0.0.0 *.thalivance.net
 0.0.0.0 *.thalorivenstia.click
+0.0.0.0 *.thalumni.org
 0.0.0.0 *.thamesbargehire.com
 0.0.0.0 *.thampolsi.com
 0.0.0.0 *.thamtairgauwauk.net
@@ -184576,6 +184629,7 @@
 0.0.0.0 *.upadte-reviewer-online.live
 0.0.0.0 *.upaep-mx.weebly.com
 0.0.0.0 *.upalytics.com
+0.0.0.0 *.upaneyadomafrom.icu
 0.0.0.0 *.uparceuson.com
 0.0.0.0 *.uparioq.vercel.app
 0.0.0.0 *.upasak.com
@@ -187301,6 +187355,7 @@
 0.0.0.0 *.venerglime.pro
 0.0.0.0 *.venetianplasterscottsdale.com
 0.0.0.0 *.venetocgil.weebly.com
+0.0.0.0 *.venetplaty.pro
 0.0.0.0 *.veneziaasale.shop
 0.0.0.0 *.veneziafashion.shop
 0.0.0.0 *.veneziaisale.shop
@@ -187661,12 +187716,20 @@
 0.0.0.0 *.verify6132guest-booking.com
 0.0.0.0 *.verify77155-booking.com
 0.0.0.0 *.verifycaptcha.com
+0.0.0.0 *.verifycard1516-booking.com
+0.0.0.0 *.verifycard6412-booking.com
+0.0.0.0 *.verifycard6531-booking.com
+0.0.0.0 *.verifycard689681-booking.com
 0.0.0.0 *.verifycompte.fr
 0.0.0.0 *.verifyconnection.org
 0.0.0.0 *.verifydata-gt.hstn.me
 0.0.0.0 *.verifydevice-uk.firebaseapp.com
 0.0.0.0 *.verifydevice-uk.web.app
+0.0.0.0 *.verifyguest5645-booking.com
 0.0.0.0 *.verifyguest6212-booking.com
+0.0.0.0 *.verifyguest67911-booking.com
+0.0.0.0 *.verifyguest7578-booking.com
+0.0.0.0 *.verifyguest78755-booking.com
 0.0.0.0 *.verifylead.smelki.com
 0.0.0.0 *.verifylkr.com
 0.0.0.0 *.verifymyvisionsfedscuonlinelogonvfcumainphp.weebly.com
@@ -189377,6 +189440,7 @@
 0.0.0.0 *.vitrinasocial.com
 0.0.0.0 *.vitrine.lugarcerto.com.br
 0.0.0.0 *.vitrisamo.com
+0.0.0.0 *.vitrisoppr.com
 0.0.0.0 *.vitriunacc.pro
 0.0.0.0 *.vitsaukiwe.net
 0.0.0.0 *.vittipensi.pro
@@ -192998,6 +193062,7 @@
 0.0.0.0 *.wejhrtlhjkltvicuiuyd.b-cdn.net
 0.0.0.0 *.wejibk.com.cn
 0.0.0.0 *.wejsited.weebly.com
+0.0.0.0 *.weknowlimited.com
 0.0.0.0 *.wekosle.com
 0.0.0.0 *.wekreatedev.com
 0.0.0.0 *.wel-sicn-itpy.liveblog365.com
@@ -194132,6 +194197,7 @@
 0.0.0.0 *.wielkaniespodzianka.pl
 0.0.0.0 *.wielofunkcyjne-okulary-do-czytania-pl.com
 0.0.0.0 *.wienersghastly.life
+0.0.0.0 *.wiepie.com
 0.0.0.0 *.wiercommercialconstruction.myportfolio.com
 0.0.0.0 *.wiese-tradeix-ai.com
 0.0.0.0 *.wiesetradeixapp.com
@@ -200736,6 +200802,7 @@
 0.0.0.0 *.zabkaakasyno.play-store.one
 0.0.0.0 *.zabkakasyno.games-store.one
 0.0.0.0 *.zabkakasyno.store-apps.click
+0.0.0.0 *.zabkaplay.gogle-play.com
 0.0.0.0 *.zabko.vip-game-top.net
 0.0.0.0 *.zabo.0x504.com
 0.0.0.0 *.zabpgtjh.icu
@@ -201435,6 +201502,7 @@
 0.0.0.0 *.zephyrospro.info
 0.0.0.0 *.zephyrwink.pro
 0.0.0.0 *.zephyrzone.pro
+0.0.0.0 *.zepiri.xyz
 0.0.0.0 *.zeppelinradio.com
 0.0.0.0 *.zeppy.io
 0.0.0.0 *.zer0-l0ve.com
