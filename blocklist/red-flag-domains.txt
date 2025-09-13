@@ -2809,6 +2809,7 @@
 0.0.0.0 annulation-esim.fr
 0.0.0.0 annulation-e-sim-sfr.fr
 0.0.0.0 annulation-esim-sfr.fr
+0.0.0.0 annulation-fraude-sg.fr
 0.0.0.0 annulation-labanquepostale.fr
 0.0.0.0 annulation-lapostebanque.fr
 0.0.0.0 annulationlbp.fr
@@ -5345,6 +5346,7 @@
 0.0.0.0 bpce-securite.fr
 0.0.0.0 bpceservices-financiers.fr
 0.0.0.0 bp-connexion.fr
+0.0.0.0 bp-formulaire.fr
 0.0.0.0 bpiifrance.fr
 0.0.0.0 bplac.fr
 0.0.0.0 bpm-dggn.fr
@@ -5954,6 +5956,7 @@
 0.0.0.0 cartes-vitales-ameli.fr
 0.0.0.0 cartes-vitales.fr
 0.0.0.0 carte-tale-santefr.fr
+0.0.0.0 carte-tiers-payant.fr
 0.0.0.0 carte-totalenergies.fr
 0.0.0.0 cartev3-ameli.fr
 0.0.0.0 cartev3-renouvellement.fr
@@ -10711,6 +10714,7 @@
 0.0.0.0 e-leboncoin.fr
 0.0.0.0 elecdestock.fr
 0.0.0.0 eleclerc-achats.fr
+0.0.0.0 e-leclerc-carrieres.fr
 0.0.0.0 eleclerc-cookeo-rouge.fr
 0.0.0.0 eleclerc-corporate.fr
 0.0.0.0 eleclerc-espace-culturel.fr
@@ -12606,6 +12610,7 @@
 0.0.0.0 frumzicasino-fr.fr
 0.0.0.0 frumzicasinofr.fr
 0.0.0.0 frumzi-casinoo.fr
+0.0.0.0 frumzi-casinos.fr
 0.0.0.0 frumzicasinos.fr
 0.0.0.0 frumzis.fr
 0.0.0.0 fr-underarmour.fr
@@ -15494,6 +15499,7 @@
 0.0.0.0 kingschanceenligne.fr
 0.0.0.0 kingschance-online.fr
 0.0.0.0 kingsgamecasino.fr
+0.0.0.0 kingspincasino.fr
 0.0.0.0 kingtvpro.fr
 0.0.0.0 kinopoisk.re
 0.0.0.0 kipling-france.fr
@@ -16287,6 +16293,7 @@
 0.0.0.0 leggeroparis.fr
 0.0.0.0 legianocasino-enligne.fr
 0.0.0.0 legianocasinoenligne.fr
+0.0.0.0 legianocasinofrance.fr
 0.0.0.0 legiano-casino-fr.fr
 0.0.0.0 legiano-casinofr.fr
 0.0.0.0 legianocasino-fr.fr
@@ -18669,6 +18676,7 @@
 0.0.0.0 mondial-livraisons.fr
 0.0.0.0 mondiallrelais.fr
 0.0.0.0 mondial-moncolis.fr
+0.0.0.0 mondial-pointrelais.fr
 0.0.0.0 mondialrcolis.fr
 0.0.0.0 mondialrealy.fr
 0.0.0.0 mondial-reiay.fr
@@ -20319,6 +20327,7 @@
 0.0.0.0 nintedo.fr
 0.0.0.0 nisbet.fr
 0.0.0.0 nisshamedicaltechnologiessas.fr
+0.0.0.0 nitrowin.fr
 0.0.0.0 niv-prime.fr
 0.0.0.0 nkhuu.yt
 0.0.0.0 nkubg.yt
@@ -20353,6 +20362,12 @@
 0.0.0.0 noitaires.fr
 0.0.0.0 nokia.pm
 0.0.0.0 nom-domain.fr
+0.0.0.0 nominicasino777.fr
+0.0.0.0 nominicasinoapp.fr
+0.0.0.0 nominicasinobet.fr
+0.0.0.0 nominicasinologin.fr
+0.0.0.0 nominicasinopromocode.fr
+0.0.0.0 nomini-fr.fr
 0.0.0.0 nomredirectionff.fr
 0.0.0.0 nooredirectionf.fr
 0.0.0.0 nordaccount.fr
@@ -22422,6 +22437,12 @@
 0.0.0.0 pourvoiries.fr
 0.0.0.0 poussins-guinroxhe.fr
 0.0.0.0 pov-prime.fr
+0.0.0.0 powbetcasino777.fr
+0.0.0.0 powbetcasinoapp.fr
+0.0.0.0 powbetcasinobonus.fr
+0.0.0.0 powbetcasinocodepromo.fr
+0.0.0.0 powbetcasinologin.fr
+0.0.0.0 powbett.fr
 0.0.0.0 powermaxfrance.fr
 0.0.0.0 powerplaycasino.fr
 0.0.0.0 power-prime.fr
@@ -23308,6 +23329,7 @@
 0.0.0.0 redirect-transit.fr
 0.0.0.0 rediriger-prime.fr
 0.0.0.0 redistribution-chronopost.fr
+0.0.0.0 redkingscasino.fr
 0.0.0.0 redline-boutique.fr
 0.0.0.0 redrocks.fr
 0.0.0.0 reductions-impots.fr
@@ -23515,6 +23537,7 @@
 0.0.0.0 regularisation-souscriptions.fr
 0.0.0.0 regularisation-stationnement.fr
 0.0.0.0 regularisation-vignette.fr
+0.0.0.0 regulariseprime.fr
 0.0.0.0 regulariser-abonnement.fr
 0.0.0.0 regulariser-amende.fr
 0.0.0.0 regulariser-amendesgouv.fr
@@ -26246,6 +26269,11 @@
 0.0.0.0 shop-uggs.fr
 0.0.0.0 shoroom.fr
 0.0.0.0 shufflecasino1.fr
+0.0.0.0 shufflecasinoapp.fr
+0.0.0.0 shufflecasinobonus.fr
+0.0.0.0 shufflecasinocrypto.fr
+0.0.0.0 shufflecasinologin.fr
+0.0.0.0 shufflecasinopromocode.fr
 0.0.0.0 sibertek.fr
 0.0.0.0 sidepgouv.fr
 0.0.0.0 sidifrance.fr
@@ -26351,7 +26379,13 @@
 0.0.0.0 slotscity.fr
 0.0.0.0 slots-magic.fr
 0.0.0.0 slots-of-vegas.fr
+0.0.0.0 slotspalacecasino777.fr
+0.0.0.0 slotspalacecasinoapp.fr
 0.0.0.0 slots-palace-casino.fr
+0.0.0.0 slotspalacecasinologin.fr
+0.0.0.0 slotspalacecasinopromocode.fr
+0.0.0.0 slotspalacecasinopromotion.fr
+0.0.0.0 slotspalacee.fr
 0.0.0.0 slotspalace-online.fr
 0.0.0.0 slots-vilcasino.fr
 0.0.0.0 slotsvil-casino.fr
@@ -26953,6 +26987,7 @@
 0.0.0.0 spinsycasinoapp.fr
 0.0.0.0 spinsycasinobonus.fr
 0.0.0.0 spinsycasinoenligne.fr
+0.0.0.0 spinsycasinofrance.fr
 0.0.0.0 spinsycasino-fr.fr
 0.0.0.0 spinsycasinofr.fr
 0.0.0.0 spinsycasinologin.fr
