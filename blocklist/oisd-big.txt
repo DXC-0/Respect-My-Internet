@@ -14894,7 +14894,6 @@
 0.0.0.0 *.allegro.pl-9274898.cfd
 0.0.0.0 *.allegro.pl-928482.cfd
 0.0.0.0 *.allegro.pl-938842.cfd
-0.0.0.0 *.allegro.pl-kategorie947629031742.shop
 0.0.0.0 *.allegro.pl-ofereta788542455.cfd
 0.0.0.0 *.allegro.pl-oferta1427061.cfd
 0.0.0.0 *.allegro.pl-oferta5089971.com
@@ -15198,7 +15197,6 @@
 0.0.0.0 *.allegrolokalnie.pl-id-80834493.shop
 0.0.0.0 *.allegrolokalnie.pl-id-88834499993.shop
 0.0.0.0 *.allegrolokalnie.pl-kategorie-ogrod-oferty-id29838.sbs
-0.0.0.0 *.allegrolokalnie.pl-kategorie947629031742.shop
 0.0.0.0 *.allegrolokalnie.pl-ofereta788542455.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta-id2387942371.top
 0.0.0.0 *.allegrolokalnie.pl-oferta1427061.cfd
@@ -118762,6 +118760,7 @@
 0.0.0.0 *.nekenearsten.web.app
 0.0.0.0 *.nekpepvp.shop
 0.0.0.0 *.neks.eu
+0.0.0.0 *.nekyway.com
 0.0.0.0 *.neladyhe.com
 0.0.0.0 *.nelavortrader-96-max.com
 0.0.0.0 *.nelavortrader-96.com
@@ -124861,7 +124860,6 @@
 0.0.0.0 *.olx.pl-85235.icu
 0.0.0.0 *.olx.pl-aukcja7391.icu
 0.0.0.0 *.olx.pl-aukcja7429245.shop
-0.0.0.0 *.olx.pl-kategorie947629031742.shop
 0.0.0.0 *.olx.pl-ofereta788542455.cfd
 0.0.0.0 *.olx.pl-oferta1427061.cfd
 0.0.0.0 *.olx.pl-oferta5089971.com
@@ -133190,6 +133188,7 @@
 0.0.0.0 *.pl-kategorie92635281762514296.shop
 0.0.0.0 *.pl-kategorie9270864259468.shop
 0.0.0.0 *.pl-kategorie93844729653.com
+0.0.0.0 *.pl-kategorie947629031742.shop
 0.0.0.0 *.pl-kategorie981234364126714724.shop
 0.0.0.0 *.pl-kategorie981234899357.shop
 0.0.0.0 *.pl-kategorie98124641209467812876124.shop
@@ -133247,6 +133246,7 @@
 0.0.0.0 *.pl-oferta1905900.shop
 0.0.0.0 *.pl-oferta1947202.cyou
 0.0.0.0 *.pl-oferta1959060.shop
+0.0.0.0 *.pl-oferta2054485.sbs
 0.0.0.0 *.pl-oferta2111585.shop
 0.0.0.0 *.pl-oferta217934.shop
 0.0.0.0 *.pl-oferta2202506.sbs
@@ -133346,6 +133346,7 @@
 0.0.0.0 *.pl-oferta5401322.sbs
 0.0.0.0 *.pl-oferta543296.cfd
 0.0.0.0 *.pl-oferta543296.sbs
+0.0.0.0 *.pl-oferta54365.sbs
 0.0.0.0 *.pl-oferta5485497.com
 0.0.0.0 *.pl-oferta5490096.shop
 0.0.0.0 *.pl-oferta5495761.sbs
@@ -133589,6 +133590,8 @@
 0.0.0.0 *.pl-ogloszenie-02930493232.shop
 0.0.0.0 *.pl-ogloszenie-029340239.rest
 0.0.0.0 *.pl-ogloszenie-02940492.rest
+0.0.0.0 *.pl-ogloszenie-069740.top
+0.0.0.0 *.pl-ogloszenie-0698264.cfd
 0.0.0.0 *.pl-ogloszenie-096054.rest
 0.0.0.0 *.pl-ogloszenie-0965039.rest
 0.0.0.0 *.pl-ogloszenie-201029293.rest
@@ -133600,6 +133603,7 @@
 0.0.0.0 *.pl-ogloszenie-854374.top
 0.0.0.0 *.pl-ogloszenie-879202.rest
 0.0.0.0 *.pl-ogloszenie-902395.rest
+0.0.0.0 *.pl-ogloszenie-9039104.rest
 0.0.0.0 *.pl-ogloszenie-905924.rest
 0.0.0.0 *.pl-ogloszenie-920345.rest
 0.0.0.0 *.pl-ogloszenie-930293404092.rest
