@@ -404,6 +404,7 @@
 0.0.0.0 acces-caisse-epargne.fr
 0.0.0.0 accescanada.fr
 0.0.0.0 acces-comptes.fr
+0.0.0.0 accesconcert.fr
 0.0.0.0 acces-cr.fr
 0.0.0.0 accesdesign.fr
 0.0.0.0 acces-icf.fr
@@ -5545,6 +5546,7 @@
 0.0.0.0 ca-assistancedepartemental.fr
 0.0.0.0 ca-assistancesolution.fr
 0.0.0.0 ca-assistance-support-clients.fr
+0.0.0.0 ca-atlantiques-vendee.fr
 0.0.0.0 c-a-atlantique-vendee.fr
 0.0.0.0 caatlantiquevendee.fr
 0.0.0.0 ca-authentification.fr
@@ -5830,6 +5832,7 @@
 0.0.0.0 ca-print.fr
 0.0.0.0 ca-priorite.fr
 0.0.0.0 ca-pro-aquitaine.fr
+0.0.0.0 captainjack-casino.fr
 0.0.0.0 captain-slots.fr
 0.0.0.0 ca-pyrenees-gacsogne.fr
 0.0.0.0 car2play.fr
@@ -6168,8 +6171,10 @@
 0.0.0.0 casinobit.fr
 0.0.0.0 casinoblitzfrance.fr
 0.0.0.0 casinobonuszone.fr
+0.0.0.0 casino-captainjack.fr
 0.0.0.0 casino-casinoextra.fr
 0.0.0.0 casinocasoo.fr
+0.0.0.0 casinocazeus.fr
 0.0.0.0 casinoclassic1.fr
 0.0.0.0 casino-classic.fr
 0.0.0.0 casinoclic1.fr
@@ -6317,6 +6322,7 @@
 0.0.0.0 casinos-olympe.fr
 0.0.0.0 casino-spinanga.fr
 0.0.0.0 casino-spinmama.fr
+0.0.0.0 casinospinmillion.fr
 0.0.0.0 casino-spinsy.fr
 0.0.0.0 casinospinsy.fr
 0.0.0.0 casinos-spinanga.fr
@@ -6325,6 +6331,7 @@
 0.0.0.0 casinosspinmama.fr
 0.0.0.0 casinos-vegasplus.fr
 0.0.0.0 casinosvegasplus.fr
+0.0.0.0 casinotalismania.fr
 0.0.0.0 casino-tenbet.fr
 0.0.0.0 casinotogether-fr.fr
 0.0.0.0 casinotopliste.fr
@@ -6337,6 +6344,8 @@
 0.0.0.0 casino-vasy.fr
 0.0.0.0 casinovasy.fr
 0.0.0.0 casino-vave.fr
+0.0.0.0 casino-vave-online.fr
+0.0.0.0 casinovave-online.fr
 0.0.0.0 casino-vegashero.fr
 0.0.0.0 casino-vegasino.fr
 0.0.0.0 casinovegasino.fr
@@ -6428,7 +6437,12 @@
 0.0.0.0 cazeus-casino1.fr
 0.0.0.0 cazeuscasino.fr
 0.0.0.0 cazeuscasinofrance.fr
+0.0.0.0 cazeuscasino-fr.fr
+0.0.0.0 cazeuscasinofr.fr
+0.0.0.0 cazeuscasinos.fr
 0.0.0.0 cazeus-fr.fr
+0.0.0.0 cazeusscasino.fr
+0.0.0.0 cazeuss.fr
 0.0.0.0 cazimbo-casino.fr
 0.0.0.0 cazimbo.fr
 0.0.0.0 cbackmarket.fr
@@ -6701,6 +6715,7 @@
 0.0.0.0 cetelen.fr
 0.0.0.0 cetelzm.fr
 0.0.0.0 cetemem.fr
+0.0.0.0 cetifspaylappsp.fr
 0.0.0.0 cetlmainverifmj.fr
 0.0.0.0 cetrlem.fr
 0.0.0.0 cett.fr
@@ -6978,6 +6993,7 @@
 0.0.0.0 chienvoyageur.fr
 0.0.0.0 chinatravel.fr
 0.0.0.0 chjacquescoeur.fr
+0.0.0.0 ch-janze.fr
 0.0.0.0 ch-le-mans.fr
 0.0.0.0 ch-le-vnatier.fr
 0.0.0.0 ch-liborne.fr
@@ -8475,11 +8491,13 @@
 0.0.0.0 compte-verif.fr
 0.0.0.0 compteverif.fr
 0.0.0.0 compte-verification.fr
+0.0.0.0 compte-verification-prime.fr
 0.0.0.0 compte-vitale.fr
 0.0.0.0 comptevitale.fr
 0.0.0.0 comptevitale-renouv.fr
 0.0.0.0 comptevitale-secure.fr
 0.0.0.0 compt-leboncoin.fr
+0.0.0.0 comptoircolibri-shop.fr
 0.0.0.0 comte-nickel.fr
 0.0.0.0 concert2jul.fr
 0.0.0.0 concert-jul.fr
@@ -10408,6 +10426,7 @@
 0.0.0.0 drect-assurance.fr
 0.0.0.0 dreets-g0uv.fr
 0.0.0.0 dress-store.fr
+0.0.0.0 drieetsgouv.fr
 0.0.0.0 dripcasino1.fr
 0.0.0.0 drive2.re
 0.0.0.0 driveauchan.fr
@@ -11509,6 +11528,7 @@
 0.0.0.0 espace-support.fr
 0.0.0.0 espace-suspension.fr
 0.0.0.0 espace-telechargementdubordereau.fr
+0.0.0.0 espace-transcash.fr
 0.0.0.0 espace-ursaf.fr
 0.0.0.0 espace-verification.fr
 0.0.0.0 espaceverification.fr
@@ -12193,6 +12213,7 @@
 0.0.0.0 fortuneobqu.fr
 0.0.0.0 fortuneo-client.fr
 0.0.0.0 fortuneocomptecourant.fr
+0.0.0.0 fortuneoconformite.fr
 0.0.0.0 fortuneo-ecologie.fr
 0.0.0.0 fortuneo-espaceclient.fr
 0.0.0.0 fortuneofinance.fr
@@ -15549,13 +15570,17 @@
 0.0.0.0 kiftonmaillot.fr
 0.0.0.0 kikbox-particuliers.fr
 0.0.0.0 killstarfrance.fr
+0.0.0.0 kinbetcasino1.fr
 0.0.0.0 kinbetcasino777.fr
 0.0.0.0 kinbetcasinoapp.fr
 0.0.0.0 kinbetcasinobonus.fr
 0.0.0.0 kinbetcasinodeposit.fr
 0.0.0.0 kinbet-casino.fr
 0.0.0.0 kinbetcasino.fr
+0.0.0.0 kinbetcasino-fr.fr
+0.0.0.0 kinbetcasinofr.fr
 0.0.0.0 kinbetcasinologin.fr
+0.0.0.0 kinbetcasinos.fr
 0.0.0.0 kingbillycasino.fr
 0.0.0.0 kingbit-casino.fr
 0.0.0.0 kingbitcasino.fr
@@ -18833,6 +18858,7 @@
 0.0.0.0 mondialrelay-track.fr
 0.0.0.0 mondialrelay-tracking.fr
 0.0.0.0 mondialrelaytracking.fr
+0.0.0.0 mondial-relay-traitement.fr
 0.0.0.0 mondialrelay-transit.fr
 0.0.0.0 mondialrelayupdates.fr
 0.0.0.0 mondialr.fr
@@ -20477,6 +20503,7 @@
 0.0.0.0 no-reply-france-chrono-livraison.fr
 0.0.0.0 noreplyleboncoin.fr
 0.0.0.0 noreply-paypal.fr
+0.0.0.0 no-reply-prime.fr
 0.0.0.0 noreply-scolarite-ubm.fr
 0.0.0.0 normadistributionfrancesas.fr
 0.0.0.0 normandle-tourlsme.fr
@@ -20567,6 +20594,7 @@
 0.0.0.0 nourixofficiel.fr
 0.0.0.0 nourix-site-officiel.fr
 0.0.0.0 nouslib-connexion.fr
+0.0.0.0 nouveau-compte-prime.fr
 0.0.0.0 nouveau-prime.fr
 0.0.0.0 nouveau-service-bnpparibas.fr
 0.0.0.0 nouveautes-bnpparibas.fr
@@ -24131,6 +24159,7 @@
 0.0.0.0 repliqueskechers.fr
 0.0.0.0 repliquetrapstar.fr
 0.0.0.0 reply-colissimo.fr
+0.0.0.0 reply-prime.fr
 0.0.0.0 repondeursfr.fr
 0.0.0.0 reportersansfrontieres.fr
 0.0.0.0 reporterssansfrontieres.fr
@@ -24854,6 +24883,7 @@
 0.0.0.0 seclncxx.fr
 0.0.0.0 secnabor.fr
 0.0.0.0 seconnecterbanquepopulaire.fr
+0.0.0.0 se-connecter-prime.fr
 0.0.0.0 seconnecter-secure.fr
 0.0.0.0 seconnecter-sfr.fr
 0.0.0.0 seconnecte-sfr.fr
@@ -26503,10 +26533,13 @@
 0.0.0.0 slotspalacecasinopromotion.fr
 0.0.0.0 slotspalacee.fr
 0.0.0.0 slotspalace-online.fr
+0.0.0.0 slotsvilcasino1.fr
 0.0.0.0 slots-vilcasino.fr
 0.0.0.0 slotsvil-casino.fr
 0.0.0.0 slotsvilcasino.fr
+0.0.0.0 slotsvilcasino-fr.fr
 0.0.0.0 slotsvilcasinofr.fr
+0.0.0.0 slotsvilcasinos.fr
 0.0.0.0 slotsvil.fr
 0.0.0.0 slotsvils.fr
 0.0.0.0 slott-casino.fr
@@ -27082,6 +27115,7 @@
 0.0.0.0 spinmillioncasino1.fr
 0.0.0.0 spinmillion-casino.fr
 0.0.0.0 spinmillioncasino.fr
+0.0.0.0 spinmillioncasino-fr.fr
 0.0.0.0 spinmillioncasinofr.fr
 0.0.0.0 spinmillioncasinos.fr
 0.0.0.0 spinpanda-casino.fr
@@ -28095,6 +28129,9 @@
 0.0.0.0 tajikistan.wf
 0.0.0.0 takiifrancesas.fr
 0.0.0.0 talismania3.fr
+0.0.0.0 talismaniacasino1.fr
+0.0.0.0 talismaniacasino-fr.fr
+0.0.0.0 talismaniacasinofr.fr
 0.0.0.0 talismania-fr.fr
 0.0.0.0 tamarischaussures.fr
 0.0.0.0 tamarisfr.fr
@@ -29319,6 +29356,7 @@
 0.0.0.0 verification-compte-client.fr
 0.0.0.0 verification-compte.fr
 0.0.0.0 verificationcompte.fr
+0.0.0.0 verification-compte-prime.fr
 0.0.0.0 verification-connecte-fr.fr
 0.0.0.0 verificationcrediagricole.fr
 0.0.0.0 verification-critair.fr
@@ -30112,6 +30150,7 @@
 0.0.0.0 wildrobin-casino-fr.fr
 0.0.0.0 wildrobin-fr.fr
 0.0.0.0 wildsinocasino1.fr
+0.0.0.0 wildsino-casino.fr
 0.0.0.0 wild-sino.fr
 0.0.0.0 wild-sultan1.fr
 0.0.0.0 wild-sultan-fr.fr
@@ -30566,6 +30605,7 @@
 0.0.0.0 xn--assurance-sant-maladie-o8b.fr
 0.0.0.0 xn--assures-amli-keb.fr
 0.0.0.0 xn--assure-sant-renouvellement-en-ligne-ldd.fr
+0.0.0.0 xn--assure-scurit-renouvellement-en-ligne-ijdf.fr
 0.0.0.0 xn--assur-fsa.fr
 0.0.0.0 xn--assuro-fva.fr
 0.0.0.0 xn--assurs-ameli-feb.fr
