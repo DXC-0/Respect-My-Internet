@@ -862,7 +862,6 @@
 0.0.0.0 bugsnag.com #Bugsnag - Tracker
 0.0.0.0 bumlam.com #Unknown - Tracker
 0.0.0.0 bunintruder.com #AdMeasures - Advertising
-0.0.0.0 buoydeparturediscontent.com #AdMeasures - Advertising
 0.0.0.0 buysellads.com #BuySellAds - Advertising
 0.0.0.0 buysellads.net #BuySellAds - Advertising
 0.0.0.0 buysub.com #Unknown - Tracker
@@ -14600,9 +14599,7 @@
 0.0.0.0 smetrics.lanebryant.com #Adobe - Tracker
 0.0.0.0 smetrics.laredoute.fr #Adobe - Tracker
 0.0.0.0 smetrics.lasexta.com #Adobe - Tracker
-0.0.0.0 smetrics.latitudefinancial.co.nz #Adobe - Tracker
 0.0.0.0 smetrics.latitudefinancial.com #Adobe - Tracker
-0.0.0.0 smetrics.latitudefinancial.com.au #Adobe - Tracker
 0.0.0.0 smetrics.latrobe.edu.au #Adobe - Tracker
 0.0.0.0 smetrics.lcbo.com #Adobe - Tracker
 0.0.0.0 smetrics.legalandgeneral.com #Adobe - Tracker
