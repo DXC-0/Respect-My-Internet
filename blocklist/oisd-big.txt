@@ -9420,6 +9420,7 @@
 0.0.0.0 *.adeelacorporation.com
 0.0.0.0 *.adef-residences.fr
 0.0.0.0 *.adelanfinances.com
+0.0.0.0 *.adelbitrow.net
 0.0.0.0 *.adelement.com
 0.0.0.0 *.adelexx.org
 0.0.0.0 *.ademails.com
@@ -14550,6 +14551,7 @@
 0.0.0.0 *.algoai-app.com
 0.0.0.0 *.algoaiapp.com
 0.0.0.0 *.algoaiapp.net
+0.0.0.0 *.algoakproopt.net
 0.0.0.0 *.algoaloxifin.net
 0.0.0.0 *.algoblazeai.com
 0.0.0.0 *.algoblazeapp.com
@@ -15500,6 +15502,7 @@
 0.0.0.0 *.almashghal.com
 0.0.0.0 *.almawadatours.com
 0.0.0.0 *.almawred-edu.net
+0.0.0.0 *.almaxcapital.net
 0.0.0.0 *.almehluz.com
 0.0.0.0 *.almeidavictorino.com
 0.0.0.0 *.almeli.fr
@@ -15615,6 +15618,7 @@
 0.0.0.0 *.alphabetpro.net
 0.0.0.0 *.alphabird.com
 0.0.0.0 *.alphabotsapp.com
+0.0.0.0 *.alphacapitorax.net
 0.0.0.0 *.alphadesktop.com
 0.0.0.0 *.alphaelevatron.com
 0.0.0.0 *.alphainsurance.ae
@@ -15628,6 +15632,7 @@
 0.0.0.0 *.alpharionmatrix.com
 0.0.0.0 *.alphasite.indonet.co.id
 0.0.0.0 *.alphatradeai.net
+0.0.0.0 *.alphatrizeapp.com
 0.0.0.0 *.alphavelaxa.net
 0.0.0.0 *.alphawipe.com
 0.0.0.0 *.alphaxiom.com
@@ -15772,6 +15777,7 @@
 0.0.0.0 *.altruetech.com
 0.0.0.0 *.altruistic-departure.com
 0.0.0.0 *.altruisticemergency.com
+0.0.0.0 *.altruvelonixproapp.net
 0.0.0.0 *.altsforyou.org
 0.0.0.0 *.altuntuval.com
 0.0.0.0 *.altura.coffee
@@ -23923,6 +23929,8 @@
 0.0.0.0 *.axiosapiexample.com
 0.0.0.0 *.axiovexx.com
 0.0.0.0 *.axioworldwide.com
+0.0.0.0 *.axironaiapp.com
+0.0.0.0 *.axironbitapp.com
 0.0.0.0 *.axisbuild.com
 0.0.0.0 *.axisca.lk
 0.0.0.0 *.axiscx.com
@@ -29535,6 +29543,7 @@
 0.0.0.0 *.bisulmedia.pro
 0.0.0.0 *.biswanet.com
 0.0.0.0 *.bit-06-bumex.com
+0.0.0.0 *.bit-10-bumex.net
 0.0.0.0 *.bit-40-eprex.net
 0.0.0.0 *.bit-ad.com
 0.0.0.0 *.bit-aktob.com
@@ -29655,6 +29664,7 @@
 0.0.0.0 *.bitcoin1000lexipro.com
 0.0.0.0 *.bitcoin10lexipro.com
 0.0.0.0 *.bitcoin10lexipro.net
+0.0.0.0 *.bitcoin14xbumex.com
 0.0.0.0 *.bitcoin20diamox.com
 0.0.0.0 *.bitcoin360ai.com
 0.0.0.0 *.bitcoin360aielite.com
@@ -29938,6 +29948,7 @@
 0.0.0.0 *.bixbcoin.com
 0.0.0.0 *.bixinrighter.shop
 0.0.0.0 *.bixocpapp.com
+0.0.0.0 *.bixpulse-ai.net
 0.0.0.0 *.bixpulse72ai.com
 0.0.0.0 *.biyjqmadbjdyx.xyz
 0.0.0.0 *.biytmartlogine.webflow.io
@@ -32638,6 +32649,7 @@
 0.0.0.0 *.brightbadger.pro
 0.0.0.0 *.brightbarrel.biz
 0.0.0.0 *.brightbeluga.pro
+0.0.0.0 *.brightbend.xyz
 0.0.0.0 *.brightbloodhound.pro
 0.0.0.0 *.brightbrain.in
 0.0.0.0 *.brightbug.biz
@@ -33387,7 +33399,10 @@
 0.0.0.0 *.btc-11x-lexipro.com
 0.0.0.0 *.btc-11x-lexipro.net
 0.0.0.0 *.btc-650-arola.com
+0.0.0.0 *.btc-850-armani-nova.com
 0.0.0.0 *.btc-850-epeak.com
+0.0.0.0 *.btc-950-capital-armani.com
+0.0.0.0 *.btc-950-ezirt.com
 0.0.0.0 *.btc-bumex-6a.com
 0.0.0.0 *.btc-bumex.net
 0.0.0.0 *.btc-bumexapp.com
@@ -33414,6 +33429,7 @@
 0.0.0.0 *.btc6abumex.com
 0.0.0.0 *.btc70bumex.com
 0.0.0.0 *.btc71diamox.org
+0.0.0.0 *.btc730esanraxapp.com
 0.0.0.0 *.btc800avage.com
 0.0.0.0 *.btc80eprex.com
 0.0.0.0 *.btc818.com
@@ -33433,12 +33449,17 @@
 0.0.0.0 *.btcalrex66.net
 0.0.0.0 *.btcamix.com
 0.0.0.0 *.btcarl.onepage.me
+0.0.0.0 *.btcarmaninova.net
+0.0.0.0 *.btcarmaninova20.net
 0.0.0.0 *.btcarola20.com
 0.0.0.0 *.btcarola20.net
 0.0.0.0 *.btcavage.com
 0.0.0.0 *.btcavort.com
+0.0.0.0 *.btcaxort.net
 0.0.0.0 *.btcbumex-ai.com
 0.0.0.0 *.btcbumex9000.com
+0.0.0.0 *.btccapitalarmani.net
+0.0.0.0 *.btccapitalarmani20.net
 0.0.0.0 *.btcclicks.com
 0.0.0.0 *.btcdiamox71.org
 0.0.0.0 *.btcduke.com
@@ -33463,8 +33484,10 @@
 0.0.0.0 *.btceprex700.net
 0.0.0.0 *.btceprex900.com
 0.0.0.0 *.btceprexx3.com
+0.0.0.0 *.btcesanrax.net
 0.0.0.0 *.btcesanx.com
 0.0.0.0 *.btcesone.com
+0.0.0.0 *.btcezirt20.net
 0.0.0.0 *.btcflectorai.com
 0.0.0.0 *.btcflectorapp.com
 0.0.0.0 *.btcgeared.live
@@ -33496,6 +33519,7 @@
 0.0.0.0 *.btconnectupdateformplan01.surveysparrow.com
 0.0.0.0 *.btcpaying.com
 0.0.0.0 *.btcpool.io
+0.0.0.0 *.btcreunrex.com
 0.0.0.0 *.btcrevolution.cloud
 0.0.0.0 *.btcsprix20.com
 0.0.0.0 *.btctraderai.com
@@ -39575,6 +39599,7 @@
 0.0.0.0 *.chatgpt.re
 0.0.0.0 *.chatgpt.yt
 0.0.0.0 *.chatgptfrance.fr
+0.0.0.0 *.chatgpttrade.net
 0.0.0.0 *.chatguru.com
 0.0.0.0 *.chatj.goldenbirdcoin.com
 0.0.0.0 *.chatmusic.xyz
@@ -41302,6 +41327,7 @@
 0.0.0.0 *.clarozenvix.net
 0.0.0.0 *.clartebitrosa.com
 0.0.0.0 *.clartenexive.net
+0.0.0.0 *.clartenexiveapp.com
 0.0.0.0 *.claryon.info
 0.0.0.0 *.clasan.com
 0.0.0.0 *.claseco.com
@@ -47020,6 +47046,7 @@
 0.0.0.0 *.crepuauscu.pro
 0.0.0.0 *.crescentpath.pro
 0.0.0.0 *.crescentstocky.com
+0.0.0.0 *.cresco-fundexapp.com
 0.0.0.0 *.crescographcui.info
 0.0.0.0 *.crescoluce-app.com
 0.0.0.0 *.crescwold.world
@@ -47638,6 +47665,7 @@
 0.0.0.0 *.crystallum-ai.net
 0.0.0.0 *.crystallumai.net
 0.0.0.0 *.crystallumexalgo.com
+0.0.0.0 *.crystallumexalgoplatform.net
 0.0.0.0 *.crystallumlotemax.com
 0.0.0.0 *.crystalmoonwhirl.pro
 0.0.0.0 *.crystalpeak.fit
@@ -55182,6 +55210,7 @@
 0.0.0.0 *.diseasehydrid.click
 0.0.0.0 *.diseasyqaid.click
 0.0.0.0 *.disebdunci.pro
+0.0.0.0 *.disebinter.pro
 0.0.0.0 *.disebsubpr.pro
 0.0.0.0 *.disecappis.pro
 0.0.0.0 *.disecdissu.pro
@@ -57671,6 +57700,7 @@
 0.0.0.0 *.dravelyn.com
 0.0.0.0 *.dravenilomora.com
 0.0.0.0 *.dravexisprime84.net
+0.0.0.0 *.dravexplatformapp.com
 0.0.0.0 *.draw.treetrauma.com
 0.0.0.0 *.drawbackprotectivecut.com
 0.0.0.0 *.drawbcalen.pro
@@ -58624,6 +58654,7 @@
 0.0.0.0 *.duskesthostplug.duckdns.org
 0.0.0.0 *.duskfall.click
 0.0.0.0 *.duskharbor.online
+0.0.0.0 *.duskpath.com
 0.0.0.0 *.duskpeak.click
 0.0.0.0 *.duskrcrushed.shop
 0.0.0.0 *.duskspire-horizon.com
@@ -63869,7 +63900,9 @@
 0.0.0.0 *.ethereumcormax70.com
 0.0.0.0 *.ethereumcormax900xv9.com
 0.0.0.0 *.ethereumcormaxapp.com
+0.0.0.0 *.ethereumeprexpro.net
 0.0.0.0 *.ethereumeprexproai.com
+0.0.0.0 *.ethereumeprexprov3.com
 0.0.0.0 *.ethereuminfracon.com
 0.0.0.0 *.ethereumolux-5000.net
 0.0.0.0 *.ethereumolux-app.net
@@ -64790,6 +64823,7 @@
 0.0.0.0 *.exactaxanthyl.world
 0.0.0.0 *.exactgrid.lat
 0.0.0.0 *.exactmark.com
+0.0.0.0 *.exactotradelux.com
 0.0.0.0 *.exacttarget.api.mashery.com
 0.0.0.0 *.exad.smi2.ru
 0.0.0.0 *.exadone.com
@@ -66853,6 +66887,7 @@
 0.0.0.0 *.favise.com
 0.0.0.0 *.favismthrinax.cyou
 0.0.0.0 *.favlrudeno.pro
+0.0.0.0 *.favondex-appai.net
 0.0.0.0 *.favorable-english-666433.framer.app
 0.0.0.0 *.favorcitar.pro
 0.0.0.0 *.favoreducation.com
@@ -67641,6 +67676,7 @@
 0.0.0.0 *.festaupbin.pro
 0.0.0.0 *.festearche.pro
 0.0.0.0 *.festeinsol.pro
+0.0.0.0 *.fester-vumon-app.net
 0.0.0.0 *.festerbutor.hu
 0.0.0.0 *.festerweeshee.website
 0.0.0.0 *.festicket.fr
@@ -68819,6 +68855,7 @@
 0.0.0.0 *.finorixisflorentino.com
 0.0.0.0 *.finostorium.net
 0.0.0.0 *.finotechpro.com
+0.0.0.0 *.finovantrexapp.com
 0.0.0.0 *.finovetrax-app.com
 0.0.0.0 *.finovexis-pro-ai.com
 0.0.0.0 *.finovexispro-app.com
@@ -68849,10 +68886,13 @@
 0.0.0.0 *.finthorixapp.com
 0.0.0.0 *.fintorxapp.com
 0.0.0.0 *.fintoxoro.com
+0.0.0.0 *.fintrex-prime.net
 0.0.0.0 *.fintrexapex.com
 0.0.0.0 *.fintrexapex.net
 0.0.0.0 *.fintrexapex27ai.com
 0.0.0.0 *.fintrexnova19ai.com
+0.0.0.0 *.fintrexprime-29.net
+0.0.0.0 *.fintrexprime29ai.com
 0.0.0.0 *.fintrextrader62apex.com
 0.0.0.0 *.fintriapro.com
 0.0.0.0 *.fintriaproapp.com
@@ -72578,6 +72618,7 @@
 0.0.0.0 *.fundsolvaren.net
 0.0.0.0 *.fundsolvarenapp.com
 0.0.0.0 *.fundsolvarenapp.net
+0.0.0.0 *.fundspire.net
 0.0.0.0 *.fundsplusz.click
 0.0.0.0 *.fundsruffianfollows.com
 0.0.0.0 *.fundtraveller.com
@@ -75806,6 +75847,7 @@
 0.0.0.0 *.giurievisc.pro
 0.0.0.0 *.giustandic.pro
 0.0.0.0 *.giustinseg.pro
+0.0.0.0 *.giusto-tradecore.net
 0.0.0.0 *.giustoitradex-app.com
 0.0.0.0 *.giuuijhjhujhk.rf.gd
 0.0.0.0 *.givawknyjaexj.online
@@ -76080,6 +76122,7 @@
 0.0.0.0 *.glimmerpullope.com
 0.0.0.0 *.glimmersphere.pro
 0.0.0.0 *.glimmersunny.pro
+0.0.0.0 *.glimmertone.com
 0.0.0.0 *.glimmervortex.pro
 0.0.0.0 *.glimminggears.pro
 0.0.0.0 *.glimora.club
@@ -78923,6 +78966,7 @@
 0.0.0.0 *.grok3app.net
 0.0.0.0 *.grokai-app.com
 0.0.0.0 *.grokai-app.net
+0.0.0.0 *.grokaitrading.net
 0.0.0.0 *.groku.es
 0.0.0.0 *.groleegni.net
 0.0.0.0 *.grollmazda.pro
@@ -87700,6 +87744,8 @@
 0.0.0.0 *.immediateropi.com
 0.0.0.0 *.immediateropi20.com
 0.0.0.0 *.immediateropi60.net
+0.0.0.0 *.immediaterudo.com
+0.0.0.0 *.immediaterudo2u.net
 0.0.0.0 *.immediatesanorex17x.com
 0.0.0.0 *.immediatesanorex7000.com
 0.0.0.0 *.immediatesanorex80.net
@@ -87766,6 +87812,9 @@
 0.0.0.0 *.immediatevolarix64titan.com
 0.0.0.0 *.immediatevortexen.com
 0.0.0.0 *.immediatewolc.net
+0.0.0.0 *.immediateworspro.net
+0.0.0.0 *.immediateworspro20.net
+0.0.0.0 *.immediateworspro70.net
 0.0.0.0 *.immediatewortaxapp.net
 0.0.0.0 *.immediatewreg.com
 0.0.0.0 *.immediatewregd2.net
@@ -90585,6 +90634,7 @@
 0.0.0.0 *.intellinovex-app.com
 0.0.0.0 *.intellinovex-app.net
 0.0.0.0 *.intellinovex.net
+0.0.0.0 *.intellinuvax.net
 0.0.0.0 *.intelliomnismarkets.com
 0.0.0.0 *.intellipopup.com
 0.0.0.0 *.intellisprox.net
@@ -100830,6 +100880,7 @@
 0.0.0.0 *.lentrix-flow-app.net
 0.0.0.0 *.lentrixflow.net
 0.0.0.0 *.lentrixflowapp.com
+0.0.0.0 *.lentrixtrade.net
 0.0.0.0 *.lenyboy.com
 0.0.0.0 *.lenzmx.com
 0.0.0.0 *.lenzuliber.pro
@@ -101178,6 +101229,7 @@
 0.0.0.0 *.lexaustralisabogados.cl
 0.0.0.0 *.lexavextrader.net
 0.0.0.0 *.lexavextrader48peak.com
+0.0.0.0 *.lexavoramaxapp.net
 0.0.0.0 *.lexec.ru
 0.0.0.0 *.lexiasantal.click
 0.0.0.0 *.lexicdemod.pro
@@ -101185,9 +101237,11 @@
 0.0.0.0 *.lexicoggeegaw.website
 0.0.0.0 *.lexicscheg.pro
 0.0.0.0 *.lexieandmorgan.com
+0.0.0.0 *.lexikrosapp.com
 0.0.0.0 *.lexilonnoutique.com
 0.0.0.0 *.lexioreichapp.com
 0.0.0.0 *.lexip.4pcdn.de
+0.0.0.0 *.lexironplatformapp.com
 0.0.0.0 *.lexivorflex-app.com
 0.0.0.0 *.lexivorflex-app.net
 0.0.0.0 *.lexixxx.com
@@ -101819,6 +101873,7 @@
 0.0.0.0 *.limnobiumset.com
 0.0.0.0 *.limo-ride.com
 0.0.0.0 *.limobai.com
+0.0.0.0 *.limofamoproapp.com
 0.0.0.0 *.limolispoke.top
 0.0.0.0 *.limomyi.com
 0.0.0.0 *.limone.iltrovatore.it
@@ -103765,6 +103820,7 @@
 0.0.0.0 *.loggw.alipay.com
 0.0.0.0 *.loggw.alipay.com.cn
 0.0.0.0 *.logic9.casa
+0.0.0.0 *.logicadipexsys.net
 0.0.0.0 *.logicakproark.net
 0.0.0.0 *.logicalastrology.com
 0.0.0.0 *.logicalcomputer.xyz
@@ -105288,6 +105344,7 @@
 0.0.0.0 *.ludrimuteplus.web.app
 0.0.0.0 *.ludwigh.duckdns.org
 0.0.0.0 *.luechem.de
+0.0.0.0 *.lueurflowdex.com
 0.0.0.0 *.lufavevu.com
 0.0.0.0 *.lufberythala.qpon
 0.0.0.0 *.lufete-judixa.digital
@@ -118410,6 +118467,7 @@
 0.0.0.0 *.neuheitencenter.eu
 0.0.0.0 *.neumashop.cl
 0.0.0.0 *.neupane.com.np
+0.0.0.0 *.neura-ai-aussie.com
 0.0.0.0 *.neura-enhancer.pages.dev
 0.0.0.0 *.neura-estimator.pages.dev
 0.0.0.0 *.neura-link.net
@@ -123707,6 +123765,7 @@
 0.0.0.0 *.ole-emploi.fr
 0.0.0.0 *.olegus8.com
 0.0.0.0 *.oleinoutdone.help
+0.0.0.0 *.oleksmarket.com
 0.0.0.0 *.oleksy.net.pl
 0.0.0.0 *.olena-azarova.com
 0.0.0.0 *.olenyji.site
@@ -133030,6 +133089,7 @@
 0.0.0.0 *.plbomcerfort.com
 0.0.0.0 *.plbomfergoher.com
 0.0.0.0 *.plbonbergoher.com
+0.0.0.0 *.plbonvergjet.com
 0.0.0.0 *.plbook.top
 0.0.0.0 *.plcbvisa.com
 0.0.0.0 *.plcjoktorfodger.com
@@ -133246,6 +133306,7 @@
 0.0.0.0 *.pln.dolatin.com
 0.0.0.0 *.plnnewress.com
 0.0.0.0 *.plnobjert.com
+0.0.0.0 *.plnobverforjer.com
 0.0.0.0 *.plnoderforgerssec.com
 0.0.0.0 *.plnojhellerdot.com
 0.0.0.0 *.plnoknevderter.com
@@ -133486,6 +133547,7 @@
 0.0.0.0 *.plx.tik.porn
 0.0.0.0 *.plx.tukif.com
 0.0.0.0 *.plxnogjener.com
+0.0.0.0 *.plxnoxgeferr.com
 0.0.0.0 *.ply-cfbindiana.firebaseapp.com
 0.0.0.0 *.ply-cfbindiana.web.app
 0.0.0.0 *.plyerglebes.click
@@ -134064,6 +134126,7 @@
 0.0.0.0 *.policenationale.fr
 0.0.0.0 *.policenset.pro
 0.0.0.0 *.policeparis.fr
+0.0.0.0 *.policestory-movie.xyz
 0.0.0.0 *.polichnetlefxservore.test118940.test-account.com
 0.0.0.0 *.policies-brook.gl.at.ply.gg
 0.0.0.0 *.policies-fy.gl.at.ply.gg
@@ -136833,6 +136896,7 @@
 0.0.0.0 *.profittikivo.net
 0.0.0.0 *.profittiscia.net
 0.0.0.0 *.profitula.ru
+0.0.0.0 *.profitventure.icu
 0.0.0.0 *.profitwebshop.com
 0.0.0.0 *.profitwifisystem.net
 0.0.0.0 *.profitwizard.net
@@ -184163,6 +184227,7 @@
 0.0.0.0 *.uploadwire.com
 0.0.0.0 *.uplog.inews.qq.com
 0.0.0.0 *.uploomark.com
+0.0.0.0 *.uploomarky.com
 0.0.0.0 *.uploomer.com
 0.0.0.0 *.uplus.kr
 0.0.0.0 *.uplynix.vercel.app
@@ -186429,6 +186494,7 @@
 0.0.0.0 *.venture-zandoryx.net
 0.0.0.0 *.venturead.com
 0.0.0.0 *.venturecrestpro.com
+0.0.0.0 *.venturefund.icu
 0.0.0.0 *.venturego.club
 0.0.0.0 *.venturelicious.com
 0.0.0.0 *.venturemeets.com
