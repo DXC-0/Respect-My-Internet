@@ -15023,7 +15023,6 @@
 0.0.0.0 stats.newsweek.com #First Party - Tracker
 0.0.0.0 stats.nextcloud.com #First Party - Tracker
 0.0.0.0 stats.norton.com #First Party - Tracker
-0.0.0.0 stats.opkode.com #First Party - Tracker
 0.0.0.0 stats.paypal.com #PayPal - Tracker
 0.0.0.0 stats.pusher.com #Pusher - Tracker
 0.0.0.0 stats.rs-online.com #RS - Tracker
@@ -15139,7 +15138,6 @@
 0.0.0.0 ted.dailymail.co.uk #First Party - Tracker
 0.0.0.0 telecid.ru #Unknown - Advertising
 0.0.0.0 telematicsdirect.com #TelematicsDirect - Tracker
-0.0.0.0 telemetry-cii.api.playstation.com #Sony - Tracker
 0.0.0.0 telemetry-console.api.playstation.com #Sony - Tracker
 0.0.0.0 telemetry-in.battle.net #Blizzard - Tracker
 0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com #Mozilla - Tracker
@@ -15190,7 +15188,6 @@
 0.0.0.0 tinypass.com #Piano - Tracker
 0.0.0.0 tipsembankment.com #AdMeasures - Advertising
 0.0.0.0 tiqcdn.com #Unknown - Tracker
-0.0.0.0 tiqcloud.com #Tealium - Tracker
 0.0.0.0 tkqlhce.com #Unknown - Tracker
 0.0.0.0 tl.foxnews.com #First Party - Tracker
 0.0.0.0 tl813.com #Unknown - Tracker
