@@ -3,6 +3,7 @@
 0.0.0.0 *.0--foodwarez.da.ru
 0.0.0.0 *.0-02.net
 0.0.0.0 *.0.0.mastermaths.com.sg
+0.0.0.0 *.0.datadog.pool.ntp.org
 0.0.0.0 *.0.myikas.com
 0.0.0.0 *.0.nybk.ru
 0.0.0.0 *.0.www.cheetahhowevertowardsfrom.com
@@ -471,6 +472,7 @@
 0.0.0.0 *.1.bh5.com.cn
 0.0.0.0 *.1.bunkr-cache.se
 0.0.0.0 *.1.codesdq.com
+0.0.0.0 *.1.datadog.pool.ntp.org
 0.0.0.0 *.1.feihua.com
 0.0.0.0 *.1.feihua.net.cn
 0.0.0.0 *.1.glook.cn
@@ -1739,6 +1741,7 @@
 0.0.0.0 *.2.66ri.com
 0.0.0.0 *.2.arpun.com
 0.0.0.0 *.2.cmisd.org
+0.0.0.0 *.2.datadog.pool.ntp.org
 0.0.0.0 *.2.haoxue360.com
 0.0.0.0 *.2.kunb.ru
 0.0.0.0 *.2.livejasmin.com
@@ -2543,6 +2546,7 @@
 0.0.0.0 *.3.capitalists.foundation
 0.0.0.0 *.3.cjcp.cn
 0.0.0.0 *.3.coolerpillow.com
+0.0.0.0 *.3.datadog.pool.ntp.org
 0.0.0.0 *.3.red-80-32-119.staticip.rima-tde.net
 0.0.0.0 *.3.ssqzj.com
 0.0.0.0 *.3.tiqk.ru
@@ -14420,7 +14424,6 @@
 0.0.0.0 *.alebilet.pl-oferta746478.com
 0.0.0.0 *.alebilet.pl-oferta7491.cfd
 0.0.0.0 *.alebilet.pl-oferta768473.com
-0.0.0.0 *.alebilet.pl-oferta7690795.shop
 0.0.0.0 *.alebilet.pl-oferta78851522.cfd
 0.0.0.0 *.alebilet.pl-oferta78851524.cfd
 0.0.0.0 *.alebilet.pl-oferta8349.cfd
@@ -14956,7 +14959,6 @@
 0.0.0.0 *.allegro.pl-oferta517512212445.sbs
 0.0.0.0 *.allegro.pl-oferta523921.cfd
 0.0.0.0 *.allegro.pl-oferta6326635.cfd
-0.0.0.0 *.allegro.pl-oferta7690795.shop
 0.0.0.0 *.allegro.pl-oferta78851522.cfd
 0.0.0.0 *.allegro.pl-oferta78851524.cfd
 0.0.0.0 *.allegro.pl-oferta9349475.cfd
@@ -15045,6 +15047,7 @@
 0.0.0.0 *.allegrolokalnie.807202.shop
 0.0.0.0 *.allegrolokalnie.812y.rest
 0.0.0.0 *.allegrolokalnie.824092.shop
+0.0.0.0 *.allegrolokalnie.826809.shop
 0.0.0.0 *.allegrolokalnie.8293783.shop
 0.0.0.0 *.allegrolokalnie.8293785.shop
 0.0.0.0 *.allegrolokalnie.830380.shop
@@ -15154,6 +15157,7 @@
 0.0.0.0 *.allegrolokalnie.oferta34837351.sbs
 0.0.0.0 *.allegrolokalnie.oferta348373722.icu
 0.0.0.0 *.allegrolokalnie.oferta348373812.sbs
+0.0.0.0 *.allegrolokalnie.oferta34849.sbs
 0.0.0.0 *.allegrolokalnie.oferta78536732.com
 0.0.0.0 *.allegrolokalnie.oferta788758394.shop
 0.0.0.0 *.allegrolokalnie.oferta86268354.com
@@ -15229,6 +15233,7 @@
 0.0.0.0 *.allegrolokalnie.pl-2509225-personal.shop
 0.0.0.0 *.allegrolokalnie.pl-2791.cfd
 0.0.0.0 *.allegrolokalnie.pl-27925-personal.shop
+0.0.0.0 *.allegrolokalnie.pl-2809225-on.top
 0.0.0.0 *.allegrolokalnie.pl-31310.cfd
 0.0.0.0 *.allegrolokalnie.pl-3203441993-personal.shop
 0.0.0.0 *.allegrolokalnie.pl-37292.cfd
@@ -15291,6 +15296,7 @@
 0.0.0.0 *.allegrolokalnie.pl-firmowe-854.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-957.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-oferty-8817.icu
+0.0.0.0 *.allegrolokalnie.pl-i12881.icu
 0.0.0.0 *.allegrolokalnie.pl-id-80834493.shop
 0.0.0.0 *.allegrolokalnie.pl-id-88834499993.shop
 0.0.0.0 *.allegrolokalnie.pl-kategorie-narzedzia-349849230.sbs
@@ -15318,7 +15324,6 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta523921.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta59294317.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta6326635.cfd
-0.0.0.0 *.allegrolokalnie.pl-oferta7690795.shop
 0.0.0.0 *.allegrolokalnie.pl-oferta7785814.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta78851522.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta78851524.cfd
@@ -62244,6 +62249,7 @@
 0.0.0.0 *.elvernwood.digital
 0.0.0.0 *.elviramedicalsupplies.com
 0.0.0.0 *.elvora-warszawa.pl
+0.0.0.0 *.elvorith.wiki
 0.0.0.0 *.elvoro-calibrator.pages.dev
 0.0.0.0 *.elxejvtqlfqkh.com
 0.0.0.0 *.elxleben-an-der-gera.de
@@ -96953,6 +96959,7 @@
 0.0.0.0 *.jysk.chayehang.com
 0.0.0.0 *.jysk.discout-pl.shop
 0.0.0.0 *.jysk.euoutlook.com
+0.0.0.0 *.jysk.gzqzcy.com
 0.0.0.0 *.jysk.manorch.shop
 0.0.0.0 *.jysk.matsmart.shop
 0.0.0.0 *.jysk.mibaozhan.com
@@ -115826,6 +115833,7 @@
 0.0.0.0 *.monumentalquetzal.pro
 0.0.0.0 *.monumentsmaterialeasel.com
 0.0.0.0 *.monuniversauto.com
+0.0.0.0 *.monupub.com
 0.0.0.0 *.monuronxref.click
 0.0.0.0 *.monursaff.fr
 0.0.0.0 *.monxserver.com
@@ -117991,6 +117999,7 @@
 0.0.0.0 *.mylegrlivliggn.webflow.io
 0.0.0.0 *.mylentils.com
 0.0.0.0 *.mylftv.com
+0.0.0.0 *.mylidoa.com
 0.0.0.0 *.mylifeinsurancepro.com
 0.0.0.0 *.mylifetoperfection.blogspot.com
 0.0.0.0 *.mylike.co.uk
@@ -124736,6 +124745,7 @@
 0.0.0.0 *.oferta-3729453.shop
 0.0.0.0 *.oferta-3844993.shop
 0.0.0.0 *.oferta-4031837.shop
+0.0.0.0 *.oferta-4515505.sbs
 0.0.0.0 *.oferta-4613313.shop
 0.0.0.0 *.oferta-4941812.shop
 0.0.0.0 *.oferta-5133966.shop
@@ -125207,6 +125217,7 @@
 0.0.0.0 *.ogloszenie-33g22eg46fppmsty66qxy5.com
 0.0.0.0 *.ogloszenie-34f11eg46fppmsty66qxy5.org
 0.0.0.0 *.ogloszenie-385202.shop
+0.0.0.0 *.ogloszenie-3hf4eh33rtfpvz33wla2.org
 0.0.0.0 *.ogloszenie-3hf4eh44rtfpvz33wla2.icu
 0.0.0.0 *.ogloszenie-3hf4gh44rtfpvz33wla2.icu
 0.0.0.0 *.ogloszenie-416533.shop
@@ -134180,6 +134191,7 @@
 0.0.0.0 *.pl-katalog93284.cfd
 0.0.0.0 *.pl-kategoria-garaz-i-narzedzia-13.click
 0.0.0.0 *.pl-kategoria-inne231787346.rest
+0.0.0.0 *.pl-kategoria-inne4662.shop
 0.0.0.0 *.pl-kategoria-inne6584.shop
 0.0.0.0 *.pl-kategoria12746412648578712478.shop
 0.0.0.0 *.pl-kategoria1782387121287.shop
@@ -134444,6 +134456,7 @@
 0.0.0.0 *.pl-oferta3642127.shop
 0.0.0.0 *.pl-oferta3667159.world
 0.0.0.0 *.pl-oferta3712.shop
+0.0.0.0 *.pl-oferta38146.icu
 0.0.0.0 *.pl-oferta3863895.shop
 0.0.0.0 *.pl-oferta38712.icu
 0.0.0.0 *.pl-oferta3946163.shop
@@ -134523,6 +134536,7 @@
 0.0.0.0 *.pl-oferta6507398.icu
 0.0.0.0 *.pl-oferta6526084.shop
 0.0.0.0 *.pl-oferta655600067812-rtx-3080-ti.shop
+0.0.0.0 *.pl-oferta65824.cfd
 0.0.0.0 *.pl-oferta6599294.sbs
 0.0.0.0 *.pl-oferta6628457.sbs
 0.0.0.0 *.pl-oferta66622.icu
@@ -134571,6 +134585,7 @@
 0.0.0.0 *.pl-oferta75896921541.icu
 0.0.0.0 *.pl-oferta7589782521541.icu
 0.0.0.0 *.pl-oferta7613491.shop
+0.0.0.0 *.pl-oferta7690795.shop
 0.0.0.0 *.pl-oferta7710146.sbs
 0.0.0.0 *.pl-oferta772999111332147652719199272629190.icu
 0.0.0.0 *.pl-oferta77421.icu
@@ -134580,6 +134595,7 @@
 0.0.0.0 *.pl-oferta7818921.shop
 0.0.0.0 *.pl-oferta7842497.shop
 0.0.0.0 *.pl-oferta7843792837.com
+0.0.0.0 *.pl-oferta78643.rest
 0.0.0.0 *.pl-oferta7889549.sbs
 0.0.0.0 *.pl-oferta78934.rest
 0.0.0.0 *.pl-oferta789541.icu
@@ -134673,6 +134689,7 @@
 0.0.0.0 *.pl-oferta8737291.com
 0.0.0.0 *.pl-oferta8754303.icu
 0.0.0.0 *.pl-oferta8772211.icu
+0.0.0.0 *.pl-oferta8830991.icu
 0.0.0.0 *.pl-oferta883112.icu
 0.0.0.0 *.pl-oferta883741.icu
 0.0.0.0 *.pl-oferta884937.shop
@@ -153430,6 +153447,7 @@
 0.0.0.0 *.rv-syzfedv.rocks
 0.0.0.0 *.rv.h-73-n.ru
 0.0.0.0 *.rv400.com
+0.0.0.0 *.rv8swv.top
 0.0.0.0 *.rva.outbrain.com
 0.0.0.0 *.rvardsusyseinp.org
 0.0.0.0 *.rvbyuhf3reu209wdiujvdefddef.weebly.com
@@ -178249,6 +178267,7 @@
 0.0.0.0 *.theinfonetwork.com
 0.0.0.0 *.theinforelaytoday.com
 0.0.0.0 *.theinforeverse.com
+0.0.0.0 *.theinfosodyssey.com
 0.0.0.0 *.theinfospotlight.com
 0.0.0.0 *.theinfostreamnews.com
 0.0.0.0 *.theinfotopicsrelay.com
@@ -181684,6 +181703,7 @@
 0.0.0.0 *.track.youniversalmedia.com
 0.0.0.0 *.track.zappos.com
 0.0.0.0 *.track1.avplayer.com
+0.0.0.0 *.track1.casa
 0.0.0.0 *.track2.cliplister.com
 0.0.0.0 *.track2.cross-system.com
 0.0.0.0 *.track2.dulingo.com
@@ -191719,6 +191739,7 @@
 0.0.0.0 *.vigrxwebs.com
 0.0.0.0 *.vigsecol.com
 0.0.0.0 *.vihcajczu.com
+0.0.0.0 *.vihocui.com
 0.0.0.0 *.vihub.ru
 0.0.0.0 *.vihue.com
 0.0.0.0 *.vii-vii-vii.com
@@ -191924,7 +191945,6 @@
 0.0.0.0 *.vinted.pl-4788312424.cfd
 0.0.0.0 *.vinted.pl-kategorie7418247472749827.sbs
 0.0.0.0 *.vinted.pl-oferta517512212445.sbs
-0.0.0.0 *.vinted.pl-oferta7690795.shop
 0.0.0.0 *.vinted.provide288.shop
 0.0.0.0 *.vinted.q70pqt.digital
 0.0.0.0 *.vinted.r6zyei.pro
