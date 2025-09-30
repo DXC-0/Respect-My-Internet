@@ -14441,7 +14441,6 @@
 0.0.0.0 *.alebilet.pl-961521.shop
 0.0.0.0 *.alebilet.pl-kategorie7418247472749827.sbs
 0.0.0.0 *.alebilet.pl-ofereta788542455.cfd
-0.0.0.0 *.alebilet.pl-oferta-2302349.icu
 0.0.0.0 *.alebilet.pl-oferta1427061.cfd
 0.0.0.0 *.alebilet.pl-oferta16943.pl
 0.0.0.0 *.alebilet.pl-oferta1973461.cfd
@@ -14983,7 +14982,6 @@
 0.0.0.0 *.allegro.pl-938842.cfd
 0.0.0.0 *.allegro.pl-kategorie7418247472749827.sbs
 0.0.0.0 *.allegro.pl-ofereta788542455.cfd
-0.0.0.0 *.allegro.pl-oferta-2302349.icu
 0.0.0.0 *.allegro.pl-oferta1427061.cfd
 0.0.0.0 *.allegro.pl-oferta5089971.com
 0.0.0.0 *.allegro.pl-oferta517512212445.sbs
@@ -15247,6 +15245,7 @@
 0.0.0.0 *.allegrolokalnie.pi-kategorie-ogrodowe-58201.top
 0.0.0.0 *.allegrolokalnie.pi-kategorie-ogrodowe-75345.rest
 0.0.0.0 *.allegrolokalnie.pi-kategorie-ogrodowe-strona-93.rest
+0.0.0.0 *.allegrolokalnie.pl-002349834oferta.icu
 0.0.0.0 *.allegrolokalnie.pl-00374przedmiot.icu
 0.0.0.0 *.allegrolokalnie.pl-01935.sbs
 0.0.0.0 *.allegrolokalnie.pl-019707.cfd
@@ -15309,6 +15308,7 @@
 0.0.0.0 *.allegrolokalnie.pl-81312.cfd
 0.0.0.0 *.allegrolokalnie.pl-826251.sbs
 0.0.0.0 *.allegrolokalnie.pl-8329.cfd
+0.0.0.0 *.allegrolokalnie.pl-83622.sbs
 0.0.0.0 *.allegrolokalnie.pl-837484.cfd
 0.0.0.0 *.allegrolokalnie.pl-83949.cfd
 0.0.0.0 *.allegrolokalnie.pl-851512.sbs
@@ -15356,7 +15356,6 @@
 0.0.0.0 *.allegrolokalnie.pl-najwieksze-okazje-548202.sbs
 0.0.0.0 *.allegrolokalnie.pl-ofereta788542455.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta-22019820.cfd
-0.0.0.0 *.allegrolokalnie.pl-oferta-2302349.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta-id2387942371.top
 0.0.0.0 *.allegrolokalnie.pl-oferta1292486.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta1427061.cfd
@@ -18000,6 +17999,7 @@
 0.0.0.0 *.angeliaet.info
 0.0.0.0 *.angeliccrocodile.pro
 0.0.0.0 *.angelicdodo.pro
+0.0.0.0 *.angelicintel.com
 0.0.0.0 *.angelicjellyfish.pro
 0.0.0.0 *.angelicmandrill.pro
 0.0.0.0 *.angelicmayfly.pro
@@ -76925,6 +76925,7 @@
 0.0.0.0 *.giampaolidolciaria.cfd
 0.0.0.0 *.gianfranco.great-site.net
 0.0.0.0 *.giangholuankiem.com
+0.0.0.0 *.giant-swing.surge.sh
 0.0.0.0 *.giantaffiliates.com
 0.0.0.0 *.gianteagle.122.2o7.net
 0.0.0.0 *.gianthypes.com
@@ -98067,6 +98068,7 @@
 0.0.0.0 *.kategorie-promowane-id95430.shop
 0.0.0.0 *.kategorie4818927397897046.shop
 0.0.0.0 *.kategorie741258787125.sbs
+0.0.0.0 *.kategorie7419247459156252.shop
 0.0.0.0 *.kategorie749125612487.sbs
 0.0.0.0 *.kategorie785176259106245.shop
 0.0.0.0 *.kategorie851257712848592.sbs
@@ -126438,7 +126440,6 @@
 0.0.0.0 *.olx.pl-aukcja7429245.shop
 0.0.0.0 *.olx.pl-kategorie7418247472749827.sbs
 0.0.0.0 *.olx.pl-ofereta788542455.cfd
-0.0.0.0 *.olx.pl-oferta-2302349.icu
 0.0.0.0 *.olx.pl-oferta1427061.cfd
 0.0.0.0 *.olx.pl-oferta5089971.com
 0.0.0.0 *.olx.pl-oferta517512212445.sbs
@@ -134809,6 +134810,7 @@
 0.0.0.0 *.pl-doswaw.shop
 0.0.0.0 *.pl-ebilet.com
 0.0.0.0 *.pl-ebilets.com
+0.0.0.0 *.pl-eplatnosc-24h.shop
 0.0.0.0 *.pl-ezakupy-24-h.shop
 0.0.0.0 *.pl-ezakupy24.shop
 0.0.0.0 *.pl-f3z91klv7qme2dtx68yru0.com
@@ -135019,7 +135021,9 @@
 0.0.0.0 *.pl-oferta-04632.live
 0.0.0.0 *.pl-oferta-2137651551-macbook-pro-2022-m2-89-kondycji.shop
 0.0.0.0 *.pl-oferta-2137651551-macbook-pro-2022.sbs
+0.0.0.0 *.pl-oferta-2302349.icu
 0.0.0.0 *.pl-oferta-53243.rest
+0.0.0.0 *.pl-oferta-54303764.cfd
 0.0.0.0 *.pl-oferta-6093320.icu
 0.0.0.0 *.pl-oferta-64623.shop
 0.0.0.0 *.pl-oferta-66053.shop
@@ -135060,6 +135064,7 @@
 0.0.0.0 *.pl-oferta197001.icu
 0.0.0.0 *.pl-oferta1979449.pl
 0.0.0.0 *.pl-oferta2045894.icu
+0.0.0.0 *.pl-oferta21532.rest
 0.0.0.0 *.pl-oferta217934.shop
 0.0.0.0 *.pl-oferta2209449.sbs
 0.0.0.0 *.pl-oferta2222211.icu
@@ -135373,6 +135378,7 @@
 0.0.0.0 *.pl-oferta922411.icu
 0.0.0.0 *.pl-oferta923172.icu
 0.0.0.0 *.pl-oferta923256.icu
+0.0.0.0 *.pl-oferta923451.icu
 0.0.0.0 *.pl-oferta924872.icu
 0.0.0.0 *.pl-oferta92704801.top
 0.0.0.0 *.pl-oferta928172.icu
@@ -135837,6 +135843,7 @@
 0.0.0.0 *.plavertonos.top
 0.0.0.0 *.plavins.com
 0.0.0.0 *.plavix.shengen.ru
+0.0.0.0 *.play-authrealm.web.app
 0.0.0.0 *.play-casino.com.ua
 0.0.0.0 *.play-lg.com
 0.0.0.0 *.play-lust.com
@@ -137050,6 +137057,7 @@
 0.0.0.0 *.polemaccre.pro
 0.0.0.0 *.polemeploi.fr
 0.0.0.0 *.polenboeller-deutschland.com
+0.0.0.0 *.polend-dancer.life
 0.0.0.0 *.polene-paris-outlet.fr
 0.0.0.0 *.polene-paris-store.fr
 0.0.0.0 *.polene-paris.fr
@@ -153866,6 +153874,7 @@
 0.0.0.0 *.rubbery-way.com
 0.0.0.0 *.rubberypassenger.com
 0.0.0.0 *.rubbishcount.com
+0.0.0.0 *.rubbyonnews.pro
 0.0.0.0 *.rubdorinca.pro
 0.0.0.0 *.rubensfleur.cfd
 0.0.0.0 *.rubestdealfinder.com
@@ -176613,6 +176622,7 @@
 0.0.0.0 *.teiebgwlry.blue
 0.0.0.0 *.teiebgwlry.club
 0.0.0.0 *.teiebgwlry.fit
+0.0.0.0 *.teiebgwlry.top
 0.0.0.0 *.teiebgwlry.wiki
 0.0.0.0 *.teiebgwlry.work
 0.0.0.0 *.teiebmtapw.ink
@@ -177456,6 +177466,7 @@
 0.0.0.0 *.telegdbrv.ink
 0.0.0.0 *.telegdfhyt.ink
 0.0.0.0 *.telegdfhyt.work
+0.0.0.0 *.telegdpfkp.asia
 0.0.0.0 *.telegdpfkp.bond
 0.0.0.0 *.telegdriye.ink
 0.0.0.0 *.telegdriye.shop
@@ -177474,9 +177485,12 @@
 0.0.0.0 *.teleggfvr.ink
 0.0.0.0 *.teleggirev.fit
 0.0.0.0 *.teleggtrf.fan
+0.0.0.0 *.teleghdplg.asia
+0.0.0.0 *.teleghdplg.cloud
 0.0.0.0 *.teleghfbjn.cloud
 0.0.0.0 *.teleghfbjn.fit
 0.0.0.0 *.teleghwynn.wiki
+0.0.0.0 *.teleghwynn.xin
 0.0.0.0 *.telegilcbw.shop
 0.0.0.0 *.telegiljm.fan
 0.0.0.0 *.telegiljm.red
@@ -177494,6 +177508,7 @@
 0.0.0.0 *.telegiyut.ren
 0.0.0.0 *.telegjfswa.click
 0.0.0.0 *.telegjilm.shop
+0.0.0.0 *.telegjiqds.black
 0.0.0.0 *.telegjknut.social
 0.0.0.0 *.telegjknut.wiki
 0.0.0.0 *.telegjphhk.work
@@ -177538,6 +177553,7 @@
 0.0.0.0 *.telegmra.ink
 0.0.0.0 *.telegmykoe.click
 0.0.0.0 *.telegmykoe.social
+0.0.0.0 *.telegnapqt.art
 0.0.0.0 *.telegnfyca.club
 0.0.0.0 *.telegnjejj.wiki
 0.0.0.0 *.telegnonep.pro
@@ -177566,6 +177582,7 @@
 0.0.0.0 *.telegoryod.asia
 0.0.0.0 *.telegoryod.black
 0.0.0.0 *.telegoryod.click
+0.0.0.0 *.telegoryod.red
 0.0.0.0 *.telegosarj.fit
 0.0.0.0 *.telegosarj.work
 0.0.0.0 *.telegouit.fan
@@ -177580,11 +177597,13 @@
 0.0.0.0 *.telegpdmeh.click
 0.0.0.0 *.telegpdmeh.wiki
 0.0.0.0 *.telegpdmeh.work
+0.0.0.0 *.telegpioqi.black
 0.0.0.0 *.telegpioqi.cyou
 0.0.0.0 *.telegpirs.fan
 0.0.0.0 *.telegpkrcj.club
 0.0.0.0 *.telegpmiu.red
 0.0.0.0 *.telegpmo.fit
+0.0.0.0 *.telegpryfo.asia
 0.0.0.0 *.telegpryfo.pink
 0.0.0.0 *.telegpryfo.wiki
 0.0.0.0 *.telegpsawq.shop
@@ -177675,6 +177694,7 @@
 0.0.0.0 *.telegrtam.ltd
 0.0.0.0 *.telegsahia.fit
 0.0.0.0 *.telegsahia.wiki
+0.0.0.0 *.telegsbqqy.cloud
 0.0.0.0 *.telegsbqqy.wiki
 0.0.0.0 *.telegshvpx.club
 0.0.0.0 *.telegshvpx.fit
@@ -177708,6 +177728,7 @@
 0.0.0.0 *.teleguhyze.fit
 0.0.0.0 *.teleguhyze.shop
 0.0.0.0 *.telegukcsr.fit
+0.0.0.0 *.telegukiyo.red
 0.0.0.0 *.teleguosf.wiki
 0.0.0.0 *.teleguowup.black
 0.0.0.0 *.teleguowup.cyou
@@ -177736,6 +177757,7 @@
 0.0.0.0 *.telegwypris.red
 0.0.0.0 *.telegxeien.black
 0.0.0.0 *.telegxeien.blue
+0.0.0.0 *.telegxeien.click
 0.0.0.0 *.telegxlqpt.wiki
 0.0.0.0 *.telegxnhwr.wiki
 0.0.0.0 *.telegxqjpn.club
@@ -177743,6 +177765,7 @@
 0.0.0.0 *.telegxsjxs.fan
 0.0.0.0 *.telegxsjxs.red
 0.0.0.0 *.telegxtqna.green
+0.0.0.0 *.telegxuelr.club
 0.0.0.0 *.telegxuelr.love
 0.0.0.0 *.telegxwsj.green
 0.0.0.0 *.telegxwtmv.club
@@ -177764,6 +177787,7 @@
 0.0.0.0 *.telegzzvjq.fit
 0.0.0.0 *.telehblazw.fit
 0.0.0.0 *.telehblwaz.fit
+0.0.0.0 *.telehhgran.cc
 0.0.0.0 *.telehsdfyo.xin
 0.0.0.0 *.telehtzawb.click
 0.0.0.0 *.telehxbqfn.click
@@ -181233,6 +181257,7 @@
 0.0.0.0 *.tokumeichat135.net
 0.0.0.0 *.tokumeichatmail.net
 0.0.0.0 *.tokyo-africanlit.com
+0.0.0.0 *.tokyo-fooddays.online
 0.0.0.0 *.tokyo-get-business.jp
 0.0.0.0 *.tokyo.ddns.net
 0.0.0.0 *.tokyo.yt
@@ -193004,7 +193029,6 @@
 0.0.0.0 *.vinted.online239491.com
 0.0.0.0 *.vinted.pl-4788312424.cfd
 0.0.0.0 *.vinted.pl-kategorie7418247472749827.sbs
-0.0.0.0 *.vinted.pl-oferta-2302349.icu
 0.0.0.0 *.vinted.pl-oferta517512212445.sbs
 0.0.0.0 *.vinted.provide288.shop
 0.0.0.0 *.vinted.q70pqt.digital
@@ -193520,6 +193544,7 @@
 0.0.0.0 *.vitawelleo.com
 0.0.0.0 *.vitejte.square.site
 0.0.0.0 *.vitha.csheaven.com
+0.0.0.0 *.vitiacomme.pw
 0.0.0.0 *.viticulture.rest
 0.0.0.0 *.vitimismoclar.com.de
 0.0.0.0 *.vitipappal.pro
@@ -196262,6 +196287,7 @@
 0.0.0.0 *.web.tegrcao.top
 0.0.0.0 *.web.tegrcbt.top
 0.0.0.0 *.web.tegrcyp.top
+0.0.0.0 *.web.tegrhlx.top
 0.0.0.0 *.web.tegrhsw.top
 0.0.0.0 *.web.tegrica.top
 0.0.0.0 *.web.tegrilz.top
@@ -196271,6 +196297,7 @@
 0.0.0.0 *.web.tegrrbj.top
 0.0.0.0 *.web.tegrtvz.top
 0.0.0.0 *.web.tegrvij.top
+0.0.0.0 *.web.tegrvnn.top
 0.0.0.0 *.web.teiegnam.com
 0.0.0.0 *.web.teiegrnmcv.com
 0.0.0.0 *.web.teiegrnmgm.com
@@ -196279,6 +196306,7 @@
 0.0.0.0 *.web.teiogrem.com
 0.0.0.0 *.web.telagrarn-a.com
 0.0.0.0 *.web.telchat.cc
+0.0.0.0 *.web.telchatx.cc
 0.0.0.0 *.web.telchatx.top
 0.0.0.0 *.web.telegramapp.club
 0.0.0.0 *.web.telegramk.club
@@ -196294,7 +196322,10 @@
 0.0.0.0 *.web.telguide.cc
 0.0.0.0 *.web.telmatch.cc
 0.0.0.0 *.web.telnetix.cc
+0.0.0.0 *.web.telnetix.top
+0.0.0.0 *.web.telnetix.vip
 0.0.0.0 *.web.telnetx.icu
+0.0.0.0 *.web.telpoint.top
 0.0.0.0 *.web.tg.cf.sustc.icu
 0.0.0.0 *.web.tginfo.info
 0.0.0.0 *.web.tgwebgo.shop
