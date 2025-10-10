@@ -3299,6 +3299,7 @@
 0.0.0.0 applezone.fr
 0.0.0.0 applicationdusinagetechnique.fr
 0.0.0.0 application-g7.fr
+0.0.0.0 application-prime.fr
 0.0.0.0 applications-dgfip-finances-gouw.fr
 0.0.0.0 appli-sg.fr
 0.0.0.0 applle.fr
@@ -3603,6 +3604,7 @@
 0.0.0.0 assistance-orange.fr
 0.0.0.0 assistance-paypal.fr
 0.0.0.0 assistancepaypal.fr
+0.0.0.0 assistance-prime.fr
 0.0.0.0 assistance-renouvellement.fr
 0.0.0.0 assistances-abonnements.fr
 0.0.0.0 assistancesamazon.fr
@@ -4349,6 +4351,7 @@
 0.0.0.0 avendreoualouer.fr
 0.0.0.0 avendresalouer.fr
 0.0.0.0 avertissement-ameli.fr
+0.0.0.0 avertissement-prime.fr
 0.0.0.0 avgny.yt
 0.0.0.0 aviaparisoutlet.fr
 0.0.0.0 aviation-civile-qouv.fr
@@ -4806,12 +4809,14 @@
 0.0.0.0 betify-casino-bonus-france.fr
 0.0.0.0 betify-casino-bonus-fr.fr
 0.0.0.0 betify-casino-club-france.fr
+0.0.0.0 betify-casino-club-fr.fr
 0.0.0.0 betifycasinoenligne.fr
 0.0.0.0 betify-casino-france.fr
 0.0.0.0 betifycasinofrance.fr
 0.0.0.0 betify-casino-fr.fr
 0.0.0.0 betifycasino-fr.fr
 0.0.0.0 betifycasinofr.fr
+0.0.0.0 betify-casino-games-france.fr
 0.0.0.0 betify-casino-games-fr.fr
 0.0.0.0 betify-casino-live-france.fr
 0.0.0.0 betify-casino-live-fr.fr
@@ -4819,14 +4824,18 @@
 0.0.0.0 betify-casino-online-france.fr
 0.0.0.0 betify-casino-online-fr.fr
 0.0.0.0 betify-casino-play-france.fr
+0.0.0.0 betify-casino-play-fr.fr
+0.0.0.0 betify-casino-poker-france.fr
 0.0.0.0 betify-casino-poker-fr.fr
 0.0.0.0 betify-casino-pro-fr.fr
 0.0.0.0 betifycasinos.fr
+0.0.0.0 betify-casino-slots-france.fr
 0.0.0.0 betify-casino-slots-fr.fr
 0.0.0.0 betify-casino-sport-france.fr
 0.0.0.0 betify-casino-sport-fr.fr
 0.0.0.0 betify-casino-vip-france.fr
 0.0.0.0 betify-casino-vip-fr.fr
+0.0.0.0 betify-casino-win-france.fr
 0.0.0.0 betify-casino-win-fr.fr
 0.0.0.0 betify-france.fr
 0.0.0.0 betifyfr.fr
@@ -11374,6 +11383,7 @@
 0.0.0.0 espaceclientparti.fr
 0.0.0.0 espaceclientpopulaire.fr
 0.0.0.0 espace-client-postale-assurances.fr
+0.0.0.0 espaceclient-prime.fr
 0.0.0.0 espace-client.re
 0.0.0.0 espace-clients-ameli.fr
 0.0.0.0 espaceclients-ameli.fr
@@ -11850,6 +11860,7 @@
 0.0.0.0 exclusivecasinobonus.fr
 0.0.0.0 exclusivecasinodeposit777.fr
 0.0.0.0 exclusivecasinologin.fr
+0.0.0.0 exclusive-prime.fr
 0.0.0.0 execute-prime.fr
 0.0.0.0 execution-prime.fr
 0.0.0.0 exelformation.fr
@@ -13258,10 +13269,15 @@
 0.0.0.0 goldenpanda-app.fr
 0.0.0.0 goldenpanda-bonus.fr
 0.0.0.0 goldenpandacasino1.fr
+0.0.0.0 goldenpandacasinoapp777.fr
+0.0.0.0 goldenpandacasinobonus.fr
+0.0.0.0 goldenpandacasinodeposit.fr
 0.0.0.0 goldenpanda-casino.fr
 0.0.0.0 goldenpandacasino-fr.fr
 0.0.0.0 goldenpandacasinofr.fr
+0.0.0.0 goldenpandacasinologin365.fr
 0.0.0.0 goldenpandacasinoo.fr
+0.0.0.0 goldenpandacasinopromocode.fr
 0.0.0.0 golden-panda-casinos.fr
 0.0.0.0 goldenpanda-casinos.fr
 0.0.0.0 golden-panda-login.fr
@@ -17625,6 +17641,7 @@
 0.0.0.0 ma-cledigitale-bnpparibas.fr
 0.0.0.0 macolischronopost.fr
 0.0.0.0 macommande-leboncoin.fr
+0.0.0.0 ma-commande-prime.fr
 0.0.0.0 ma-commande-suivi.fr
 0.0.0.0 ma-commande-ups.fr
 0.0.0.0 macommandeups.fr
@@ -17652,6 +17669,7 @@
 0.0.0.0 ma-demande-cartevitale.fr
 0.0.0.0 mademande-edf.fr
 0.0.0.0 mademandeenligne.fr
+0.0.0.0 ma-demande-prime.fr
 0.0.0.0 ma-demande-renouvellement-assure.fr
 0.0.0.0 ma-demande-renouvellement-enligne.fr
 0.0.0.0 madnixcasino7.fr
@@ -18055,6 +18073,7 @@
 0.0.0.0 masecuvitale.fr
 0.0.0.0 maseratifrance.fr
 0.0.0.0 ma-souscription-en-linge.fr
+0.0.0.0 ma-souscription-prime.fr
 0.0.0.0 massimodutti-france.fr
 0.0.0.0 massimoduttifrance.fr
 0.0.0.0 massimoduttiparis.fr
@@ -18754,6 +18773,7 @@
 0.0.0.0 monabonnement-netflix.fr
 0.0.0.0 mon-abonnement-netlfix.fr
 0.0.0.0 mon-abonnement-paiement.fr
+0.0.0.0 mon-abonnement-prime.fr
 0.0.0.0 mon-abonnement-renouvellement.fr
 0.0.0.0 monabonnement-sfr.fr
 0.0.0.0 monabonnement-support.fr
@@ -18772,6 +18792,7 @@
 0.0.0.0 mon-actualisation-espace-enligne.fr
 0.0.0.0 mon-actualisation.fr
 0.0.0.0 mon-actualisation-sante-en-ligne.fr
+0.0.0.0 mon-adhesion-prime.fr
 0.0.0.0 mon-amelie.fr
 0.0.0.0 mon-ameli.fr
 0.0.0.0 monameli.fr
@@ -19441,6 +19462,7 @@
 0.0.0.0 monnetfiix.fr
 0.0.0.0 mon-netflix.fr
 0.0.0.0 monnotaires.fr
+0.0.0.0 mon-offre-prime.fr
 0.0.0.0 monopflix.fr
 0.0.0.0 monopoly-casino.fr
 0.0.0.0 monopolylivecasino.fr
@@ -21098,6 +21120,10 @@
 0.0.0.0 oldhavanacasino.fr
 0.0.0.0 oldnavyfrance.fr
 0.0.0.0 ole-emploi.fr
+0.0.0.0 olimpecasino777.fr
+0.0.0.0 olimpecasinoapp.fr
+0.0.0.0 olimpecasinoavis.fr
+0.0.0.0 olimpecasinobonus.fr
 0.0.0.0 olivercabellparis.fr
 0.0.0.0 olivercabellsneakers.fr
 0.0.0.0 olivercabellstore.fr
@@ -21218,6 +21244,7 @@
 0.0.0.0 oppo-sgsecure.fr
 0.0.0.0 opposition-cartes.fr
 0.0.0.0 opposition-cb.fr
+0.0.0.0 opposition-ccp.fr
 0.0.0.0 opposition-cm-cic.fr
 0.0.0.0 opposition-dossier.fr
 0.0.0.0 opposition-enligne.fr
@@ -21828,6 +21855,7 @@
 0.0.0.0 parrainageprime.fr
 0.0.0.0 parrain-boursobank.fr
 0.0.0.0 par-sg-connect.fr
+0.0.0.0 partage-prime.fr
 0.0.0.0 partculiers-sg.fr
 0.0.0.0 part-debloc-clientele.fr
 0.0.0.0 partenaire-apple.fr
@@ -23516,6 +23544,7 @@
 0.0.0.0 ralphlaurenfr.fr
 0.0.0.0 ralphlaurenfrsolde.fr
 0.0.0.0 ralphlaurenfrsoldes.fr
+0.0.0.0 ralphlauren-outlet.fr
 0.0.0.0 ralphlaurenoutlet.fr
 0.0.0.0 ralphlaurenoutletfrance.fr
 0.0.0.0 ralphlauren-paris.fr
@@ -24567,6 +24596,7 @@
 0.0.0.0 resiliationprime.fr
 0.0.0.0 resiliations-prime.fr
 0.0.0.0 reskins.fr
+0.0.0.0 resolution-prime.fr
 0.0.0.0 ressourceshumaines-lidl.fr
 0.0.0.0 restercouvert-ameli.fr
 0.0.0.0 restreindre-netflix.fr
@@ -28003,6 +28033,7 @@
 0.0.0.0 suivimondialrelay.fr
 0.0.0.0 suivi-mrelay.fr
 0.0.0.0 suivi-mydhl.fr
+0.0.0.0 suivi-offre-prime.fr
 0.0.0.0 suivi-parcel.fr
 0.0.0.0 suiviparticulier-chronopost.fr
 0.0.0.0 suivi-particulier-express.fr
@@ -29336,10 +29367,14 @@
 0.0.0.0 uniqlo-paris.fr
 0.0.0.0 uniqloparis.fr
 0.0.0.0 uniqlosfrance.fr
+0.0.0.0 uniquecasinoapp.fr
+0.0.0.0 uniquecasinoavis.fr
+0.0.0.0 uniquecasinobonus.fr
 0.0.0.0 uniquecasino-france.fr
 0.0.0.0 uniquecasinofrance.fr
 0.0.0.0 unique-casinofr.fr
 0.0.0.0 uniquecasinofr.fr
+0.0.0.0 uniquecasinologin.fr
 0.0.0.0 uniquecasinoo1.fr
 0.0.0.0 uniquecasinos1.fr
 0.0.0.0 uniqulo.fr
@@ -29506,6 +29541,7 @@
 0.0.0.0 update-login.fr
 0.0.0.0 update-netflix.fr
 0.0.0.0 update-ntfl.fr
+0.0.0.0 update-prime.fr
 0.0.0.0 updateservicereactif.fr
 0.0.0.0 upgradeshop.fr
 0.0.0.0 u-picardle.fr
@@ -29701,11 +29737,16 @@
 0.0.0.0 vegasherojeu.fr
 0.0.0.0 vegasino2.fr
 0.0.0.0 vegasino-app.fr
+0.0.0.0 vegasinoapp.fr
+0.0.0.0 vegasino-bonus.fr
 0.0.0.0 vegasinocasino-fr.fr
 0.0.0.0 vegasinocasinofr.fr
 0.0.0.0 vegasinocasinoo.fr
 0.0.0.0 vegasinoenligne.fr
 0.0.0.0 vegasino-login.fr
+0.0.0.0 vegasinologin.fr
+0.0.0.0 vegasino-online.fr
+0.0.0.0 vegasinoonline.fr
 0.0.0.0 vegasnow.fr
 0.0.0.0 vegaspluscasino-fr.fr
 0.0.0.0 vegaspluscasinofr.fr
@@ -30966,8 +31007,13 @@
 0.0.0.0 wznadoo.fr
 0.0.0.0 x1casino1.fr
 0.0.0.0 x5pme-societegenerale.fr
+0.0.0.0 x7-app.fr
+0.0.0.0 x7-bonus.fr
 0.0.0.0 x7-casinofr.fr
 0.0.0.0 x7casinofr.fr
+0.0.0.0 x7casinoonline.fr
+0.0.0.0 x7-login.fr
+0.0.0.0 x7-online.fr
 0.0.0.0 xac-versailles.fr
 0.0.0.0 xanadoo.fr
 0.0.0.0 xerofrance.fr
