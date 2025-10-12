@@ -4128,6 +4128,7 @@
 0.0.0.0 auth-compte-netflix.fr
 0.0.0.0 authcompte-netflix.fr
 0.0.0.0 authconfig.fr
+0.0.0.0 auth-connexion-prime.fr
 0.0.0.0 auth-device.fr
 0.0.0.0 auth-dhand.fr
 0.0.0.0 auth-disney.fr
@@ -4186,6 +4187,7 @@
 0.0.0.0 authentifier-cartevitale.fr
 0.0.0.0 authentifier-code.fr
 0.0.0.0 authentifiereats.fr
+0.0.0.0 authentifier-prime.fr
 0.0.0.0 authentif-mon-compte.fr
 0.0.0.0 authentifpal.fr
 0.0.0.0 authentifpay.fr
@@ -4922,6 +4924,7 @@
 0.0.0.0 bicodepot.fr
 0.0.0.0 bidefender.fr
 0.0.0.0 bienvenue-prime.fr
+0.0.0.0 bienvenue-sur-prime.fr
 0.0.0.0 big-clash-casino.fr
 0.0.0.0 bigdollarcasino.fr
 0.0.0.0 biggame.fr
@@ -8733,6 +8736,7 @@
 0.0.0.0 connectelbccompte.fr
 0.0.0.0 connectelbc.fr
 0.0.0.0 connecte-mes-comptes.fr
+0.0.0.0 connecter-prime.fr
 0.0.0.0 connecte-safe.fr
 0.0.0.0 connect-espace.fr
 0.0.0.0 connectfraudn.fr
@@ -10021,6 +10025,7 @@
 0.0.0.0 destockoutlet.fr
 0.0.0.0 destockphone.fr
 0.0.0.0 destockx.fr
+0.0.0.0 dest-prime.fr
 0.0.0.0 detail-contravention.fr
 0.0.0.0 detail-laposte.fr
 0.0.0.0 detail-prime.fr
@@ -11041,6 +11046,7 @@
 0.0.0.0 encours-prime.fr
 0.0.0.0 endered.fr
 0.0.0.0 endicia.fr
+0.0.0.0 end-prime.fr
 0.0.0.0 endurance-info.fr
 0.0.0.0 eneddis.fr
 0.0.0.0 enedid.fr
@@ -14109,6 +14115,7 @@
 0.0.0.0 hollistersoldes.fr
 0.0.0.0 homail640.fr
 0.0.0.0 homaire.fr
+0.0.0.0 homepage-prime.fr
 0.0.0.0 homesalon.fr
 0.0.0.0 hometogos.fr
 0.0.0.0 hommetendance.fr
@@ -19448,6 +19455,7 @@
 0.0.0.0 mon-espace-suivi-vitale.fr
 0.0.0.0 monespaces-vitale.fr
 0.0.0.0 mon-espace-ursaf.fr
+0.0.0.0 monespaceverif.fr
 0.0.0.0 mon-espace-vitale.fr
 0.0.0.0 monespace-vitale.fr
 0.0.0.0 monespacevitale.fr
@@ -19687,6 +19695,7 @@
 0.0.0.0 mon-support-sav.fr
 0.0.0.0 mon-tabac.fr
 0.0.0.0 montadebois.fr
+0.0.0.0 montant-prime.fr
 0.0.0.0 montauban1-cybertek.fr
 0.0.0.0 montauban-cybertek.fr
 0.0.0.0 montaubancybertek.fr
@@ -22322,6 +22331,7 @@
 0.0.0.0 permisdeconduire2024.fr
 0.0.0.0 permisdeconduire-ants.fr
 0.0.0.0 permisdeconduireantsgouv.fr
+0.0.0.0 permisdeconduire-g0uv.fr
 0.0.0.0 permisdeconduires.fr
 0.0.0.0 permisdeconduirexpress.fr
 0.0.0.0 permisfrance.fr
@@ -22812,6 +22822,7 @@
 0.0.0.0 porneub.fr
 0.0.0.0 pornhb.fr
 0.0.0.0 pornhubfr.fr
+0.0.0.0 pornhub.pm
 0.0.0.0 pornhub.re
 0.0.0.0 pornhubs.fr
 0.0.0.0 pornhub.tf
@@ -22896,6 +22907,7 @@
 0.0.0.0 portail-patient-ameli.fr
 0.0.0.0 portail-paypal.fr
 0.0.0.0 portailpompiersparis.fr
+0.0.0.0 portail-prime.fr
 0.0.0.0 portail-public-de-facturation.fr
 0.0.0.0 portailpublicdefacturation.fr
 0.0.0.0 portailpublicfacturation.fr
@@ -23299,6 +23311,7 @@
 0.0.0.0 productivity-prime.fr
 0.0.0.0 product-prime.fr
 0.0.0.0 products-prime.fr
+0.0.0.0 produits-prime.fr
 0.0.0.0 profacture.fr
 0.0.0.0 profesionels-sg.fr
 0.0.0.0 profesionnel-edf.fr
@@ -25317,6 +25330,7 @@
 0.0.0.0 seafollyparis.fr
 0.0.0.0 sea-m0.re
 0.0.0.0 sea-moo.re
+0.0.0.0 search-prime.fr
 0.0.0.0 sebagofr.fr
 0.0.0.0 sebar13send.fr
 0.0.0.0 sebar14send.fr
@@ -27726,6 +27740,7 @@
 0.0.0.0 starflix-streaming.fr
 0.0.0.0 star-iptv.fr
 0.0.0.0 starlink-france.fr
+0.0.0.0 starmaillot.fr
 0.0.0.0 start-prime.fr
 0.0.0.0 start-primevideo.fr
 0.0.0.0 start-primevid.fr
@@ -29336,6 +29351,7 @@
 0.0.0.0 uggs-store.fr
 0.0.0.0 ugg-stock.fr
 0.0.0.0 uggstore.fr
+0.0.0.0 ugg-storeoutlet.fr
 0.0.0.0 uggstyle.fr
 0.0.0.0 uggunivers.fr
 0.0.0.0 ugstore.fr
@@ -30209,6 +30225,9 @@
 0.0.0.0 visio-nte.fr
 0.0.0.0 visiorando.fr
 0.0.0.0 visitaprint.fr
+0.0.0.0 visit-connexion-prime.fr
+0.0.0.0 visit-info-prime.fr
+0.0.0.0 visit-prime.fr
 0.0.0.0 vistaprinte.fr
 0.0.0.0 visualsonics.fr
 0.0.0.0 vitabeastfrance.fr
