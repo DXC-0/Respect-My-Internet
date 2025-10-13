@@ -1143,6 +1143,7 @@
 0.0.0.0 aide-orange.fr
 0.0.0.0 aide-pac-national.fr
 0.0.0.0 aide-paiement.fr
+0.0.0.0 aidepapiers.fr 
 0.0.0.0 aidepaypal.fr
 0.0.0.0 aide-prime.fr
 0.0.0.0 aider-caf.fr
@@ -2841,6 +2842,7 @@
 0.0.0.0 annulation-banquepopulaire.fr
 0.0.0.0 annulationca.fr
 0.0.0.0 annulationcbcarte-societegenerale.fr
+0.0.0.0 annulation-ccp.fr 
 0.0.0.0 annulation-commandes.fr
 0.0.0.0 annulation-creditmutuel.fr
 0.0.0.0 annulation-credmutuel.fr
@@ -5409,6 +5411,7 @@
 0.0.0.0 bouygues-aide.fr
 0.0.0.0 bouygues-assist.fr
 0.0.0.0 bouygues-assist-info.fr
+0.0.0.0 bouyguesbatimentidf.fr
 0.0.0.0 bouygues-batiment-il-de-france.fr
 0.0.0.0 bouygues-boxpro.fr
 0.0.0.0 bouygues-compte-a-jour.fr
@@ -10607,6 +10610,7 @@
 0.0.0.0 drmartensfrancefr.fr
 0.0.0.0 drmartensfrancestore.fr
 0.0.0.0 drmartenshomme.fr
+0.0.0.0 drmartens-outlet.fr
 0.0.0.0 drmartenspairs.fr
 0.0.0.0 drmartensparis.fr
 0.0.0.0 drmartenss.fr
@@ -11039,10 +11043,12 @@
 0.0.0.0 en58ba-societegenerale.fr
 0.0.0.0 enable2fagoogle.fr
 0.0.0.0 enalytics.fr
+0.0.0.0 en-attente-prime.fr
 0.0.0.0 enattente-prime.fr
 0.0.0.0 enbay.fr
 0.0.0.0 encaissement-cb-particulier.fr
 0.0.0.0 encaisserpaylib.fr
+0.0.0.0 en-cours-prime.fr
 0.0.0.0 encours-prime.fr
 0.0.0.0 endered.fr
 0.0.0.0 endicia.fr
@@ -11114,6 +11120,8 @@
 0.0.0.0 entuduc.fr
 0.0.0.0 ent-univ-tln-s2t.fr
 0.0.0.0 enuf.fr
+0.0.0.0 en-verification-prime.fr
+0.0.0.0 en-verif-prime.fr
 0.0.0.0 envoi-ameli.fr
 0.0.0.0 envoi-chronopost.fr
 0.0.0.0 envoicolissimo.fr
@@ -18017,6 +18025,8 @@
 0.0.0.0 manoloblahnikparis.fr
 0.0.0.0 manoman.fr
 0.0.0.0 manopowe.fr
+0.0.0.0 ma-notification-prime.fr
+0.0.0.0 ma-notif-prime.fr
 0.0.0.0 ma-nouvelle-cartevitale.fr
 0.0.0.0 manouvelle-cartevitale.fr
 0.0.0.0 manouvellecartevitale.fr
@@ -19964,6 +19974,7 @@
 0.0.0.0 mypayment2024-revenue.fr
 0.0.0.0 mypaysafecard.fr
 0.0.0.0 mypcs-reclamation.fr
+0.0.0.0 my-play-prime.fr
 0.0.0.0 mypoele.fr
 0.0.0.0 mypornvideos.fr
 0.0.0.0 my-prime.fr
@@ -21204,6 +21215,7 @@
 0.0.0.0 onepager.fr
 0.0.0.0 onepiecefr.fr
 0.0.0.0 onepiecenetflix.fr
+0.0.0.0 one-play-prime.fr
 0.0.0.0 oner-activefrance.fr
 0.0.0.0 oneractive-france.fr
 0.0.0.0 onforama.fr
@@ -22612,6 +22624,7 @@
 0.0.0.0 playmobill.fr
 0.0.0.0 playmojo.fr
 0.0.0.0 playojocasino.fr
+0.0.0.0 play-one-prime.fr
 0.0.0.0 playpal.fr
 0.0.0.0 play-prime.fr
 0.0.0.0 playregalcasino1.fr
@@ -26342,6 +26355,7 @@
 0.0.0.0 servicereglementamende.fr
 0.0.0.0 service-regularisation.fr
 0.0.0.0 service-regulation.fr
+0.0.0.0 servicerelaycolis.fr
 0.0.0.0 service-relivraison-chronopost.fr
 0.0.0.0 service-relivraison.fr
 0.0.0.0 service-remboursement-edf.fr
