@@ -931,6 +931,7 @@
 0.0.0.0 ccacc69a0d7467ebaac293677146be75.safeframe.googlesyndication.com
 0.0.0.0 cdff40dad0a98d6b641bfca1a05423a8.safeframe.googlesyndication.com
 0.0.0.0 chat.google.com
+0.0.0.0 chronicle.security
 0.0.0.0 chrome.google.com
 0.0.0.0 chromecastexperiments.com
 0.0.0.0 chromeenterprise.google
@@ -1519,6 +1520,7 @@
 0.0.0.0 nexus.google.com
 0.0.0.0 nol.google.com
 0.0.0.0 notebook.google.com
+0.0.0.0 notebooklm.google.com
 0.0.0.0 ns-cloud-a1.googledomains.com
 0.0.0.0 ns-cloud-a2.googledomains.com
 0.0.0.0 ns-cloud-a3.googledomains.com
@@ -4518,6 +4520,7 @@
 0.0.0.0 urchin.com
 0.0.0.0 urkkqhhehq.com
 0.0.0.0 us-central1-events-d07ac.cloudfunctions.net
+0.0.0.0 us-central1-ipgeolocation-414906.cloudfunctions.net
 0.0.0.0 userresearch.google.com
 0.0.0.0 usgov.google.com
 0.0.0.0 uv9l56g4e9.com
