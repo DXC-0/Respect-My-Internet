@@ -11233,6 +11233,7 @@
 0.0.0.0 esim-support-sfr.fr
 0.0.0.0 esmoutonsenrages.fr
 0.0.0.0 e-societegenerale.fr
+0.0.0.0 e-sodimodis.fr
 0.0.0.0 esonne.fr
 0.0.0.0 espac-ameli.fr
 0.0.0.0 espaceabonclient.fr
@@ -27210,6 +27211,7 @@
 0.0.0.0 sncf-cnnect.fr
 0.0.0.0 sncf-comect.fr
 0.0.0.0 sncfcompta.fr
+0.0.0.0 sncf-connect-billet-train.fr
 0.0.0.0 sncf-connects.fr
 0.0.0.0 sncf-disconnect.fr
 0.0.0.0 sncf-france.fr
@@ -27438,6 +27440,7 @@
 0.0.0.0 sodibrag.fr
 0.0.0.0 sodif-france.fr
 0.0.0.0 sodigema-eleclerc.fr
+0.0.0.0 sodigravelle-distribution.fr
 0.0.0.0 sodimodisfrance.fr
 0.0.0.0 sodimodis-hyper.fr
 0.0.0.0 sodimodis-hypermarche.fr
@@ -29429,6 +29432,7 @@
 0.0.0.0 uni-bordeaux.fr
 0.0.0.0 uni-bpclermont.fr
 0.0.0.0 uni-brest.fr
+0.0.0.0 uni-caen.fr
 0.0.0.0 uni-catholille.fr
 0.0.0.0 uni-cote-dazur.fr
 0.0.0.0 uni-evry.fr
