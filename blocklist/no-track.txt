@@ -10,7 +10,6 @@
 0.0.0.0 1ts19.top #TrafficShop - Advertising
 0.0.0.0 2020mustang.com #Unknown - Advertising
 0.0.0.0 2022welcome.com #Unknown - Advertising
-0.0.0.0 206ads.com #Unknown - Advertising
 0.0.0.0 207.net #Adobe - Tracker
 0.0.0.0 247-inc.com #[24]7 - Tracker
 0.0.0.0 247-inc.net #[24]7 - Tracker
@@ -57,7 +56,7 @@
 0.0.0.0 aatkit.com #AddApptr - Advertising
 0.0.0.0 aax-us-iad.amazon.com #Amazon - Advertising
 0.0.0.0 aaxads.com #Acceptable Ads - Tracker
-0.0.0.0 ab1n.net #Unknown - Advertising
+0.0.0.0 ab1n.net #First Party - Advertising
 0.0.0.0 abmr.net #Unknown - Advertising
 0.0.0.0 abtasty.com #AB Tasty - Tracker
 0.0.0.0 abtest.mistat.xiaomi.com #Xiaomi - Tracker
@@ -66,7 +65,6 @@
 0.0.0.0 academyblocked.com #AdMeasures - Advertising
 0.0.0.0 accountantpacketassail.com #AdMeasures - Advertising
 0.0.0.0 accscdn.m.taobao.com #Taobao - Advertising
-0.0.0.0 accuracyswede.com #AdMeasures - Advertising
 0.0.0.0 acexedge.com #WhiteOps - Advertising
 0.0.0.0 achievablecpmrevenue.com #AdMeasures - Advertising
 0.0.0.0 acquaintedpostman.com #AdMeasures - Advertising
@@ -80,7 +78,6 @@
 0.0.0.0 ad-optima.com #Unknown - Advertising
 0.0.0.0 ad-plus.com.tr #AdPlus - Advertising
 0.0.0.0 ad-score.com #Adscore - Advertising
-0.0.0.0 ad-serverparc.nl #Unknown - Advertising
 0.0.0.0 ad-stir.com #Ad Stir - Advertising
 0.0.0.0 ad.10010.com #Unknown - Advertising
 0.0.0.0 ad.12dt.com #First Party - Advertising
@@ -117,7 +114,6 @@
 0.0.0.0 adap.tv #AOL - Advertising
 0.0.0.0 adashx.m.taobao.com #Taobao - Tracker
 0.0.0.0 adashx4ae.ut.taobao.com #Taobao - Advertising
-0.0.0.0 adbetnetwork.com #adbetnetwork - Advertising
 0.0.0.0 adblade.com #Adblade - Advertising
 0.0.0.0 adbrix.io #Adbrix - Advertising
 0.0.0.0 adbrn.com #Adbrain - Advertising
@@ -442,8 +438,6 @@
 0.0.0.0 analitycs.net #Unknown - Tracker
 0.0.0.0 analysis.polarisoffice.com #First Party - Tracker
 0.0.0.0 analytic.rollout.io #First Party - Tracker
-0.0.0.0 analyticlister.com #Unknown - Tracker
-0.0.0.0 analytics-api.dvdfab.cn #First Party - Tracker
 0.0.0.0 analytics-api.samsunghealthcn.com #Samsung - Tracker
 0.0.0.0 analytics-egain.com #eGain - Tracker
 0.0.0.0 analytics-helper.com #Sirdata - Tracker
@@ -502,12 +496,10 @@
 0.0.0.0 analytics.krisp.ai #First Party - Tracker
 0.0.0.0 analytics.languagetoolplus.com #First Party - Tracker
 0.0.0.0 analytics.linkre.direct #Unknown - Tracker
-0.0.0.0 analytics.linuxbabe.com #First Party - Tracker
 0.0.0.0 analytics.livestream.com #Vimeo - Tracker
 0.0.0.0 analytics.lucid.app #First Party - Tracker
 0.0.0.0 analytics.map.qq.com #First Party - Tracker
 0.0.0.0 analytics.mercadolibre.cl #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.co.cr #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadolibre.com #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadolibre.com.ar #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadolibre.com.co #MercadoLibre - Tracker
@@ -578,7 +570,6 @@
 0.0.0.0 analyticspixel.microsoft.com #Microsoft - Tracker
 0.0.0.0 analyticssystems.net #Unknown - Tracker
 0.0.0.0 analyticsweb.net #Unknown - Tracker
-0.0.0.0 anatomyabdicatenettle.com #AdMeasures - Advertising
 0.0.0.0 and.co.uk #Associated Northcliffe Digital - Advertising
 0.0.0.0 andmlb.kshwtj.com #Unknown - Advertising
 0.0.0.0 android-stat.acestream.net #First Party - Tracker
@@ -798,7 +789,6 @@
 0.0.0.0 blismedia.com #Blis - Tracker
 0.0.0.0 blockadsnot.com #Block Ads Not - Advertising
 0.0.0.0 blogherads.com #BlogHerAds - Advertising
-0.0.0.0 blubberspoiled.com #AdMeasures - Advertising
 0.0.0.0 bluebillywig.com #Blue Billywig - Advertising
 0.0.0.0 bluecava.com #BlueCava - Tracker
 0.0.0.0 blueconic.com #BlueConic - Tracker
@@ -821,7 +811,6 @@
 0.0.0.0 bounceexchange.com #BounceX - Advertising
 0.0.0.0 bpu.samsungelectronics.com #Samsung - Tracker
 0.0.0.0 branch.io #Branch - Tracker
-0.0.0.0 branch.wallet.bitcoin.com #Branch CNAME - Tracker
 0.0.0.0 brand-display.com #Knorex XPO - Tracker
 0.0.0.0 brandadsstatic.vivo.com.cn #Vivo - Tracker
 0.0.0.0 brandcrumb.com #Brandcrumb - Tracker
@@ -876,7 +865,6 @@
 0.0.0.0 c.riskified.com #Riskified - Tracker
 0.0.0.0 c3tag.com #Unknown - Advertising
 0.0.0.0 cachegorilla.com #cachegorilla - Advertising
-0.0.0.0 cadreon.com #IPG Mediabrands - Advertising
 0.0.0.0 callrail.com #CallRail - Advertising
 0.0.0.0 calltracks.com #Calltracks - Tracker
 0.0.0.0 calltrk.com #Calltrack - Tracker
@@ -943,7 +931,6 @@
 0.0.0.0 clearbitjs.com #Clearbit - Tracker
 0.0.0.0 clearbitscripts.com #Unknown - Advertising
 0.0.0.0 clearcode.cc #AdTech - Advertising
-0.0.0.0 clemencyexceptionpolar.com #AdMeasures - Advertising
 0.0.0.0 clenchedyouthmatching.com #Unknown - Advertising
 0.0.0.0 clevernt.com #HSTPNetwork - Advertising
 0.0.0.0 cleverpush.com #CleverPush - Advertising
@@ -1078,7 +1065,6 @@
 0.0.0.0 crashdump.spotify.com #Spotify - Tracker
 0.0.0.0 crashlytics.com #Crashlytics - Tracker
 0.0.0.0 crashlyticsreports-pa.googleapis.com #Firebase - Tracker
-0.0.0.0 crawledgoblet.com #AdMeasures - Advertising
 0.0.0.0 crazyegg.com #Crazy Egg - Tracker
 0.0.0.0 crealytics.com #Crealytics - Tracker
 0.0.0.0 createsend.com #Campaign Monitor Pty - Tracker
@@ -1525,6 +1511,7 @@
 0.0.0.0 grapeshot.co.uk #Oracle - Advertising
 0.0.0.0 graph.accountkit.com #Facebook - Tracker
 0.0.0.0 gravity.com #Gravity - Tracker
+0.0.0.0 greedygame.com #Unknown - Advertising
 0.0.0.0 greengrowth.space #Unknown Chinese - Tracker
 0.0.0.0 greystripe.com #Conversant - Advertising
 0.0.0.0 gridmidia.com #Gridmidia - Tracker
@@ -1649,6 +1636,7 @@
 0.0.0.0 improvedigital.com #360 Polaris - Advertising
 0.0.0.0 improvely.com #Improvely - Tracker
 0.0.0.0 improving.duckduckgo.com #DuckDuckGo - Tracker
+0.0.0.0 imptracking.com #Unknown - Tracker
 0.0.0.0 imrworldwide.com #Nielsen - Advertising
 0.0.0.0 in-adreq.vivoglobal.com #Vivo - Tracker
 0.0.0.0 in-adsjssdk.vivoglobal.com #Vivo - Advertising
@@ -1689,6 +1677,7 @@
 0.0.0.0 inspectlet.com #Inspectlet - Tracker
 0.0.0.0 inspector-collector.m.naver.com #First Party - Tracker
 0.0.0.0 inspectorstrongerpill.com #AdMeasures - Advertising
+0.0.0.0 inspi-dsp.com #First Party - Advertising
 0.0.0.0 instabug.com #Instabug - Tracker
 0.0.0.0 installationmidterm.com #AdMeasures - Advertising
 0.0.0.0 instana.io #Instana - Tracker
@@ -13801,6 +13790,7 @@
 0.0.0.0 piwik.com-online.com #PIWIK - Tracker
 0.0.0.0 piwik.pro #Piwik PRO - Tracker
 0.0.0.0 piwikpro.com #Piwik PRO - Tracker
+0.0.0.0 pixad.com.tr #Pixad - Advertising
 0.0.0.0 pixanalytics.pixnet.net #First Party - Tracker
 0.0.0.0 pixel-static.spotify.com #Spotify - Tracker
 0.0.0.0 pixel.ad #Rubicon - Tracker
