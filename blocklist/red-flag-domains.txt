@@ -1143,7 +1143,7 @@
 0.0.0.0 aide-orange.fr
 0.0.0.0 aide-pac-national.fr
 0.0.0.0 aide-paiement.fr
-0.0.0.0 aidepapiers.fr 
+0.0.0.0 aidepapiers.fr
 0.0.0.0 aidepaypal.fr
 0.0.0.0 aide-prime.fr
 0.0.0.0 aider-caf.fr
@@ -2843,7 +2843,7 @@
 0.0.0.0 annulation-banquepopulaire.fr
 0.0.0.0 annulationca.fr
 0.0.0.0 annulationcbcarte-societegenerale.fr
-0.0.0.0 annulation-ccp.fr 
+0.0.0.0 annulation-ccp.fr
 0.0.0.0 annulation-commandes.fr
 0.0.0.0 annulation-creditmutuel.fr
 0.0.0.0 annulation-credmutuel.fr
@@ -3396,6 +3396,7 @@
 0.0.0.0 arenacasinos.fr
 0.0.0.0 arenafra.fr
 0.0.0.0 arenanatationfrance.fr
+0.0.0.0 are-prime.fr
 0.0.0.0 aresweb.fr
 0.0.0.0 argence-navigo.fr
 0.0.0.0 argenta.fr
@@ -4842,6 +4843,7 @@
 0.0.0.0 betify-casino-slots-fr.fr
 0.0.0.0 betify-casino-sport-france.fr
 0.0.0.0 betify-casino-sport-fr.fr
+0.0.0.0 betify-casino-sportif.fr
 0.0.0.0 betify-casino-vip-france.fr
 0.0.0.0 betify-casino-vip-fr.fr
 0.0.0.0 betify-casino-win-france.fr
@@ -10028,6 +10030,7 @@
 0.0.0.0 desigualparis.fr
 0.0.0.0 desiguals.fr
 0.0.0.0 desir-cam.fr
+0.0.0.0 desktop-prime.fr
 0.0.0.0 desneakers.fr
 0.0.0.0 destinature.fr
 0.0.0.0 destockagechaussure.fr
@@ -10761,6 +10764,7 @@
 0.0.0.0 eccochaussures.fr
 0.0.0.0 eccofrance-fr.fr
 0.0.0.0 eccoshoesshop.fr
+0.0.0.0 echange-prime.fr
 0.0.0.0 echeance-amende.fr
 0.0.0.0 echeancegouv.fr
 0.0.0.0 echeclivraison-chronopost.fr
@@ -12885,6 +12889,7 @@
 0.0.0.0 fr-towercast.fr
 0.0.0.0 fr-troteclaserfrancesas.fr
 0.0.0.0 fr-ugg.fr
+0.0.0.0 fr-ulys.fr
 0.0.0.0 fr-ulysinformations.fr
 0.0.0.0 fr-umanis.fr
 0.0.0.0 frumzibet.fr
@@ -13796,6 +13801,7 @@
 0.0.0.0 groupom.fr
 0.0.0.0 groupon-reservation.fr
 0.0.0.0 grouppama.fr
+0.0.0.0 group-prime.fr
 0.0.0.0 groupqma.fr
 0.0.0.0 grouprandstad.fr
 0.0.0.0 group-safran.fr
@@ -15770,6 +15776,7 @@
 0.0.0.0 kabookk.fr
 0.0.0.0 kacontrevoie.fr
 0.0.0.0 kadet.pm
+0.0.0.0 kafeo.fr
 0.0.0.0 kahoott.fr
 0.0.0.0 kahunacasino.fr
 0.0.0.0 kairosfrance.fr
@@ -20913,6 +20920,7 @@
 0.0.0.0 notaiiires.fr
 0.0.0.0 notaiire.fr
 0.0.0.0 notairee.fr
+0.0.0.0 notairees.fr
 0.0.0.0 notairegouv.fr
 0.0.0.0 notaires-f.fr
 0.0.0.0 notaires-fr.fr
@@ -21329,6 +21337,7 @@
 0.0.0.0 opposition-fraude.fr
 0.0.0.0 opposition-operation.fr
 0.0.0.0 oppositionoperation.fr
+0.0.0.0 opposition-postale.fr
 0.0.0.0 opposition-service.fr
 0.0.0.0 oppositionservice.fr
 0.0.0.0 opposition-sg.fr
@@ -23093,6 +23102,7 @@
 0.0.0.0 premelfortuneo.fr
 0.0.0.0 premiatafrance.fr
 0.0.0.0 premierbettanzania.fr
+0.0.0.0 premiere-prime.fr
 0.0.0.0 premium-france.fr
 0.0.0.0 premium-prime.fr
 0.0.0.0 premiumtvservice.fr
@@ -23359,6 +23369,7 @@
 0.0.0.0 professionnel-particulier-societegenerale.fr
 0.0.0.0 professionnels-particuliers-societegenerale.fr
 0.0.0.0 profile-bnpparibas.fr
+0.0.0.0 profile-prime.fr
 0.0.0.0 profil-nflx.fr
 0.0.0.0 profil-prime.fr
 0.0.0.0 profils-prime.fr
@@ -23566,6 +23577,7 @@
 0.0.0.0 quiksilver-france.fr
 0.0.0.0 quillbot.re
 0.0.0.0 quirinale.fr
+0.0.0.0 quit-prime.fr
 0.0.0.0 quiz-lapostemobile.fr
 0.0.0.0 quizphotocnil.fr
 0.0.0.0 quona.yt
@@ -27457,6 +27469,7 @@
 0.0.0.0 sodisretz.fr
 0.0.0.0 sodistres-e-leclerc.fr
 0.0.0.0 sofastream.fr
+0.0.0.0 sofico-credits.fr
 0.0.0.0 sofinco-caconsumerfinance.fr
 0.0.0.0 sofinco-financement.fr
 0.0.0.0 sofinco-france.fr
