@@ -1124,7 +1124,6 @@
 0.0.0.0 datatracking.ru #Advertise.ru - Tracker
 0.0.0.0 datatracking.zeddit.com #First Party - Tracker
 0.0.0.0 datawrapper.de #Datawrapper - Tracker
-0.0.0.0 dazeads1.online #Unknown - Advertising
 0.0.0.0 dazedengage.com #AdMeasures - Advertising
 0.0.0.0 dc-storm.com #Rakuten - Advertising
 0.0.0.0 dc.services.visualstudio.com #Microsoft - Tracker
@@ -1175,7 +1174,6 @@
 0.0.0.0 dislanelibrar.top #Unknown - Advertising
 0.0.0.0 dismantlepenantiterrorist.com #AdMeasures - Advertising
 0.0.0.0 display.io #DisplayIO - Advertising
-0.0.0.0 displaycontentnetwork.com #AdMeasures - Advertising
 0.0.0.0 displaycontentprofit.com #AdMeasures - Advertising
 0.0.0.0 displayvertising.com #Unknown - Advertising
 0.0.0.0 disqusads.com #Disqus - Tracker
@@ -1185,7 +1183,6 @@
 0.0.0.0 dmgmediaprivacy.co.uk #DMG - Advertising
 0.0.0.0 dmpprof.com #PushProfit - Advertising
 0.0.0.0 dmtracker.com #Unknown - Tracker
-0.0.0.0 dmtrk.net #Unknown - Tracker
 0.0.0.0 dmtry.com #Unknown - Tracker
 0.0.0.0 dmvbdfblevxvx.com #Unknown - Tracker
 0.0.0.0 dmxleo.com #DailyMotion - Advertising
@@ -1257,14 +1254,7 @@
 0.0.0.0 ekomi.com #eKomi - Tracker
 0.0.0.0 ekomi.de #eKomi - Tracker
 0.0.0.0 ekomi.fr #eKomi - Tracker
-0.0.0.0 elabs10.com #Aurea - Advertising
-0.0.0.0 elabs11.com #Aurea - Advertising
-0.0.0.0 elabs12.com #Aurea - Advertising
 0.0.0.0 elabs13.com #Aurea - Advertising
-0.0.0.0 elabs3.com #Aurea - Advertising
-0.0.0.0 elabs5.com #Aurea - Advertising
-0.0.0.0 elabs6.com #Aurea - Advertising
-0.0.0.0 elabs7.com #Aurea - Advertising
 0.0.0.0 elasticad.net #Smartkeeter - Tracker
 0.0.0.0 elitechnology.com #Enne Solutions - Tracker
 0.0.0.0 elitrack.com #Eli Track - Tracker
@@ -1370,7 +1360,6 @@
 0.0.0.0 fbcdn2.com #Unknown - Advertising
 0.0.0.0 fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com #Unknown - Advertising
 0.0.0.0 fbot.me #Friendbuy - Tracker
-0.0.0.0 februarybogus.com #AdMeasures - Advertising
 0.0.0.0 februaryinjectionproudly.com #AdMeasures - Advertising
 0.0.0.0 federatedml-pa.googleapis.com #Google - Tracker
 0.0.0.0 feedbackify.com #Feedbackify - Advertising
@@ -1390,7 +1379,6 @@
 0.0.0.0 flashtalking.com #Flashtalking - Advertising
 0.0.0.0 flat-ads.com #Flat Ads - Advertising
 0.0.0.0 flexlinks.com #Unknown - Advertising
-0.0.0.0 flickerbridge.com #AdMeasures - Advertising
 0.0.0.0 flix360.com #Flix 360 - Advertising
 0.0.0.0 flix360.io #Flixmedia - Tracker
 0.0.0.0 flixfacts.com #Flixmedia - Tracker
@@ -1422,7 +1410,6 @@
 0.0.0.0 freespee.com #Freespee - Tracker
 0.0.0.0 freestar.io #Freestar - Advertising
 0.0.0.0 freewheel.tv #FreeWheel - Advertising
-0.0.0.0 freshpops.net #RollerAds - Advertising
 0.0.0.0 friendbuy.com #Friendbuy - Tracker
 0.0.0.0 friendshipmale.com #AdMeasures - Advertising
 0.0.0.0 frosmo.com #Frosmo - Tracker
@@ -1475,7 +1462,6 @@
 0.0.0.0 getsocial.io #GetSocial - Tracker
 0.0.0.0 giftedhazelsecond.com #AdMeasures - Advertising
 0.0.0.0 gigaonclick.com #Unknown - Advertising
-0.0.0.0 ginchoirblessed.com #AdMeasures - Advertising
 0.0.0.0 giosg.com #Giosg - Tracker
 0.0.0.0 glancecdn.net #Glance Networks - Tracker
 0.0.0.0 glassboxdigital.io #Glassbox Digital - Tracker
@@ -1504,7 +1490,6 @@
 0.0.0.0 goto.target.com #First Party - Tracker
 0.0.0.0 gotraffic.net #Unknown - Tracker
 0.0.0.0 govmetric.com #GovMetric - Tracker
-0.0.0.0 gracelessbrief.com #AdMeasures - Advertising
 0.0.0.0 grafana.org #Grafana - Tracker
 0.0.0.0 granify.com #Granify - Advertising
 0.0.0.0 grantedpigsunborn.com #AdMeasures - Advertising
