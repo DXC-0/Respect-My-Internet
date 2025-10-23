@@ -2863,6 +2863,7 @@
 0.0.0.0 annulationlbp.fr
 0.0.0.0 annulationpaiement.fr
 0.0.0.0 annulationpaiement-sg.fr
+0.0.0.0 annulation-postale.fr
 0.0.0.0 annulation-prime.fr
 0.0.0.0 annulationprime.fr
 0.0.0.0 annulation-primevideo.fr
@@ -9490,6 +9491,7 @@
 0.0.0.0 cresuscasino366.fr
 0.0.0.0 cresus-casino-france.fr
 0.0.0.0 cresuscasinofrance.fr
+0.0.0.0 cresus-casino-fr.fr
 0.0.0.0 cresuscasino-fr.fr
 0.0.0.0 cresuscasinofr.fr
 0.0.0.0 cresuscasinogame.fr
@@ -28996,6 +28998,7 @@
 0.0.0.0 ticketmaster-fr.fr
 0.0.0.0 ticketmastermarketplace.fr
 0.0.0.0 ticketmaster.re
+0.0.0.0 ticketmaster-revente.fr
 0.0.0.0 ticketmastet.fr
 0.0.0.0 ticketmast.fr
 0.0.0.0 ticketmastter.fr
