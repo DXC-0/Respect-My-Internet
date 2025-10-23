@@ -205616,7 +205616,6 @@
 0.0.0.0 *.zoom-appointment.myftp.org
 0.0.0.0 *.zoom-emergency.myftp.org
 0.0.0.0 *.zoom.zshu.net
-0.0.0.0 *.zoomagaz.online
 0.0.0.0 *.zoombrain.vercel.app
 0.0.0.0 *.zoomcomoexperto.com
 0.0.0.0 *.zoomdocmentdownloader.com
