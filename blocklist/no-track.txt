@@ -1052,7 +1052,6 @@
 0.0.0.0 counter.theconversation.com #First Party - Tracker
 0.0.0.0 countess.twitch.tv #Twitch - Tracker
 0.0.0.0 countly.turktelekom.com.tr #First Party - Tracker
-0.0.0.0 couplestupidity.com #AdMeasures - Advertising
 0.0.0.0 coveritlive.com #CoveritLive - Tracker
 0.0.0.0 cpex.cz #Czech Publisher Exchange - Advertising
 0.0.0.0 cpmprofitablecontent.com #AdMeasures - Advertising
@@ -1171,7 +1170,6 @@
 0.0.0.0 directrev.com #Unknown - Tracker
 0.0.0.0 directservices.it #Unknown - Tracker
 0.0.0.0 discovery.rudo.video #First Party - Tracker
-0.0.0.0 dislanelibrar.top #Unknown - Advertising
 0.0.0.0 dismantlepenantiterrorist.com #AdMeasures - Advertising
 0.0.0.0 display.io #DisplayIO - Advertising
 0.0.0.0 displaycontentprofit.com #AdMeasures - Advertising
@@ -14134,7 +14132,6 @@
 0.0.0.0 sensors.larkplayerapp.com #First Party - Tracker
 0.0.0.0 sensors.yodo1api.com #First Party - Tracker
 0.0.0.0 sentifi.com #Unknown - Tracker
-0.0.0.0 sentkey.com #New Relic - Tracker
 0.0.0.0 sentry-api.sberdevices.ru #Sentry - Tracker
 0.0.0.0 sentry-do.x5.ru #Sentry - Tracker
 0.0.0.0 sentry-dsn-customers.megamarket.tech #Sentry - Tracker
@@ -14180,9 +14177,7 @@
 0.0.0.0 sidekickopen69.com #Hubspot - Tracker
 0.0.0.0 sidekickopen70.com #Hubspot - Tracker
 0.0.0.0 sidekickopen72.com #Hubspot - Tracker
-0.0.0.0 sidekickopen77.com #Hubspot - Tracker
 0.0.0.0 sidekickopen78.com #Hubspot - Tracker
-0.0.0.0 sidekickopen79.com #Hubspot - Tracker
 0.0.0.0 sidekickopen80.com #Hubspot - Tracker
 0.0.0.0 sidekickopen81.com #Hubspot - Tracker
 0.0.0.0 sidekickopen84.com #Hubspot - Tracker
