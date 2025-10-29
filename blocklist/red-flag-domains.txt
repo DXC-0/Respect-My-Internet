@@ -4443,6 +4443,7 @@
 0.0.0.0 axxabanque.fr
 0.0.0.0 ayahoo.fr
 0.0.0.0 ayanakamura-stadefrance.fr
+0.0.0.0 ayanakamura-ticket.fr
 0.0.0.0 aymastore.fr
 0.0.0.0 azgf.fr
 0.0.0.0 azsneakers.fr
@@ -5256,6 +5257,7 @@
 0.0.0.0 bnpsecure.fr
 0.0.0.0 bnp-secure-sms.fr
 0.0.0.0 bnp-securite.fr
+0.0.0.0 bnp-security.fr
 0.0.0.0 bnp-service-client.fr
 0.0.0.0 bnps-sequestres.fr
 0.0.0.0 bnp-support.fr
@@ -5852,6 +5854,7 @@
 0.0.0.0 caisse-epargne-securisation.fr
 0.0.0.0 caisse-epargne-securiser.fr
 0.0.0.0 caisse-epargne-securite.fr
+0.0.0.0 caisse-epargne-security.fr
 0.0.0.0 caisse-epargnesecurpass.fr
 0.0.0.0 caisse-epargnes.fr
 0.0.0.0 caisseepargnes.fr
@@ -6018,6 +6021,7 @@
 0.0.0.0 carhartoutletfrance.fr
 0.0.0.0 carhartt-france.fr
 0.0.0.0 carharttfrance.fr
+0.0.0.0 carhartt-fr.fr
 0.0.0.0 carharttoutletfrance.fr
 0.0.0.0 carharttoutletsfrance.fr
 0.0.0.0 carhartt-paris.fr
@@ -9414,6 +9418,7 @@
 0.0.0.0 credit-agricole-sa-france.fr
 0.0.0.0 credit-agricole-secure.fr
 0.0.0.0 credit-agricole-securipass.fr
+0.0.0.0 credit-agricole-security.fr
 0.0.0.0 creditagricole-securpass.fr
 0.0.0.0 creditagricole-service.fr
 0.0.0.0 credit-agricoles.fr
@@ -9472,6 +9477,7 @@
 0.0.0.0 creditmutuel-opposition.fr
 0.0.0.0 credit-mutuelparis.fr
 0.0.0.0 creditmutuel-rhonealpes.fr
+0.0.0.0 creditmutuelsecurity.fr
 0.0.0.0 credit-mutuel-service.fr
 0.0.0.0 creditmutuel-s.fr
 0.0.0.0 creditmutuels.fr
@@ -10144,6 +10150,7 @@
 0.0.0.0 dgfip-financesgouv.fr
 0.0.0.0 dgfipfinancesgouv.fr
 0.0.0.0 dgfip-finances-gov.fr
+0.0.0.0 dgfip-france.fr
 0.0.0.0 dgfipfrance.fr
 0.0.0.0 dgfip-impot.fr
 0.0.0.0 dgfipimpot.fr
@@ -10495,6 +10502,7 @@
 0.0.0.0 doctolib-espace.fr
 0.0.0.0 doctolib-info.fr
 0.0.0.0 doctolib-infos.fr
+0.0.0.0 doctolib-payemnt.fr
 0.0.0.0 doctolib-rdv.fr
 0.0.0.0 doctolib-remboursement.fr
 0.0.0.0 doctolib-rembousement.fr
@@ -16519,6 +16527,7 @@
 0.0.0.0 lcloud-support.fr
 0.0.0.0 lclpro.fr
 0.0.0.0 lcl.re
+0.0.0.0 lclsecurityfr.fr
 0.0.0.0 lcl-transactions.fr
 0.0.0.0 lcolissimo.fr
 0.0.0.0 lcpr.fr
@@ -22482,6 +22491,7 @@
 0.0.0.0 peugeot-service.fr
 0.0.0.0 peugoet.fr
 0.0.0.0 peypal.fr
+0.0.0.0 pfizerpharma.fr
 0.0.0.0 ph01amazo.fr
 0.0.0.0 ph02amazo.fr
 0.0.0.0 pha1mazo.fr
@@ -22496,6 +22506,7 @@
 0.0.0.0 pharmacieboieldieu.fr
 0.0.0.0 pharmaciebremond-manosque.fr
 0.0.0.0 pharmaciebressane.fr
+0.0.0.0 pharmacie-bruyeres-sur-oise.fr
 0.0.0.0 pharmaciecaline-dieppe.fr
 0.0.0.0 pharmacie-carte-sante.fr
 0.0.0.0 pharmaciecasalonga-75018.fr
@@ -22913,9 +22924,11 @@
 0.0.0.0 policedrancy.fr
 0.0.0.0 policedu16e.fr
 0.0.0.0 police-europol.fr
+0.0.0.0 police-internet.fr
 0.0.0.0 police-interpol.fr
 0.0.0.0 police-judiciaire.fr
 0.0.0.0 police-judiciare-gendarmerie.fr
+0.0.0.0 policelocaleorleans.fr
 0.0.0.0 policenationale-colmar.fr
 0.0.0.0 policenationale.fr
 0.0.0.0 policenationalefrance.fr
@@ -25001,6 +25014,7 @@
 0.0.0.0 romancasinos.fr
 0.0.0.0 romanscasino.fr
 0.0.0.0 roneassur.fr
+0.0.0.0 roobet1.fr
 0.0.0.0 roobetcasinoapp.fr
 0.0.0.0 roobetcasinobet.fr
 0.0.0.0 roobetcasinobonus.fr
@@ -25018,9 +25032,11 @@
 0.0.0.0 roobetcasinopromo.fr
 0.0.0.0 roobet-casinos.fr
 0.0.0.0 roobetcasinosfr.fr
+0.0.0.0 roobete.fr
 0.0.0.0 roo-bet.fr
 0.0.0.0 roobet-fr.fr
 0.0.0.0 roobetfr.fr
+0.0.0.0 roobets.fr
 0.0.0.0 rooelec.fr
 0.0.0.0 roogle.fr
 0.0.0.0 r-orange.fr
@@ -25892,6 +25908,7 @@
 0.0.0.0 securite-lbcpaie-abaqueplast.fr
 0.0.0.0 securite-leboncoinpaiement.fr
 0.0.0.0 securite-mabanque-bnpparibas.fr
+0.0.0.0 securite-nationale.fr
 0.0.0.0 securite-netfiix-verification-compte.fr
 0.0.0.0 securitenetflix.fr
 0.0.0.0 securitepaiementleboncoin.fr
@@ -27134,6 +27151,7 @@
 0.0.0.0 skechersfr.fr
 0.0.0.0 skechersoutletfrance.fr
 0.0.0.0 sketchers.fr
+0.0.0.0 skims-france.fr
 0.0.0.0 skimsfrance.fr
 0.0.0.0 skimsfrancefr.fr
 0.0.0.0 skimsfr.fr
@@ -29956,12 +29974,14 @@
 0.0.0.0 vdyl.yt
 0.0.0.0 vdyn.yt
 0.0.0.0 vdyr.yt
+0.0.0.0 vedettesdesparis.fr
 0.0.0.0 ved-prime.fr
 0.0.0.0 vegadream-casino.fr
 0.0.0.0 vegascrest-casino.fr
 0.0.0.0 vegas-days-casino.fr
 0.0.0.0 vegasherobonus.fr
 0.0.0.0 vegas-herocasino.fr
+0.0.0.0 vegashero-fr.fr
 0.0.0.0 vegasherojeu.fr
 0.0.0.0 vegasino2.fr
 0.0.0.0 vegasino-app.fr
@@ -30331,6 +30351,7 @@
 0.0.0.0 vincecamutofrance.fr
 0.0.0.0 vinceoutlet.fr
 0.0.0.0 vinci-airports-sas.fr
+0.0.0.0 vinci-auto.fr
 0.0.0.0 vinci-autoroutefrance.fr
 0.0.0.0 vinciconstructionfr-achats.fr
 0.0.0.0 vinci-constructon.fr
@@ -30392,6 +30413,7 @@
 0.0.0.0 virements-credit-mutuel.fr
 0.0.0.0 virements-creditmutuel.fr
 0.0.0.0 virements-sepa.fr
+0.0.0.0 virementssepa.fr
 0.0.0.0 virements-sg.fr
 0.0.0.0 viriginradio.fr
 0.0.0.0 vir-payl-instant.fr
@@ -30998,6 +31020,7 @@
 0.0.0.0 woiy.yt
 0.0.0.0 wojan.yt
 0.0.0.0 wolf-bet.fr
+0.0.0.0 wolfordfrance.fr
 0.0.0.0 wolkyshoesparis.fr
 0.0.0.0 wolverineworldwide.fr
 0.0.0.0 wolwagen.fr
