@@ -14324,6 +14324,7 @@
 0.0.0.0 *.akademiabambino.pl
 0.0.0.0 *.akademiagoogleads.com
 0.0.0.0 *.akademialiderow.click
+0.0.0.0 *.akademikhukuk.net
 0.0.0.0 *.akademipsgfr.firebaseapp.com
 0.0.0.0 *.akadzon.com
 0.0.0.0 *.akaflieg-sb.de
@@ -14741,6 +14742,7 @@
 0.0.0.0 *.alebilet.pl-oferta85210.icu
 0.0.0.0 *.alebilet.pl-oferta9349475.cfd
 0.0.0.0 *.alebilet.pl-ofertaid08426105382634.shop
+0.0.0.0 *.alebilet.pl-ogloszenie-230495.rest
 0.0.0.0 *.alebilet.pl-prywatne-363.icu
 0.0.0.0 *.alebilet.pl-redirect-app-13563.cfd
 0.0.0.0 *.alebilet.pl-ver2196-id70456-cfi849u-cid71062.shop
@@ -15309,6 +15311,7 @@
 0.0.0.0 *.allegro.pl-oferta9349475.cfd
 0.0.0.0 *.allegro.pl-ofertaid08426105382634.shop
 0.0.0.0 *.allegro.pl-offr.shop
+0.0.0.0 *.allegro.pl-ogloszenie-230495.rest
 0.0.0.0 *.allegro.pl-prywatne-363.icu
 0.0.0.0 *.allegro.pl-ver2196-id70456-cfi849u-cid71062.shop
 0.0.0.0 *.allegro.pl.showitems.it
@@ -15480,7 +15483,6 @@
 0.0.0.0 *.allegrolokalnie.pl-1263489.icu
 0.0.0.0 *.allegrolokalnie.pl-1782.shop
 0.0.0.0 *.allegrolokalnie.pl-196891.icu
-0.0.0.0 *.allegrolokalnie.pl-198862.icu
 0.0.0.0 *.allegrolokalnie.pl-19996.cfd
 0.0.0.0 *.allegrolokalnie.pl-2142114.shop
 0.0.0.0 *.allegrolokalnie.pl-2342355523.shop
@@ -15488,6 +15490,7 @@
 0.0.0.0 *.allegrolokalnie.pl-23432534.shop
 0.0.0.0 *.allegrolokalnie.pl-23480012.icu
 0.0.0.0 *.allegrolokalnie.pl-24191.cfd
+0.0.0.0 *.allegrolokalnie.pl-2835947.cfd
 0.0.0.0 *.allegrolokalnie.pl-283745.cfd
 0.0.0.0 *.allegrolokalnie.pl-31310.cfd
 0.0.0.0 *.allegrolokalnie.pl-343775.icu
@@ -15513,7 +15516,9 @@
 0.0.0.0 *.allegrolokalnie.pl-7318148.cfd
 0.0.0.0 *.allegrolokalnie.pl-73645362.shop
 0.0.0.0 *.allegrolokalnie.pl-738291.icu
+0.0.0.0 *.allegrolokalnie.pl-773792.icu
 0.0.0.0 *.allegrolokalnie.pl-776458.icu
+0.0.0.0 *.allegrolokalnie.pl-783751.icu
 0.0.0.0 *.allegrolokalnie.pl-788930.icu
 0.0.0.0 *.allegrolokalnie.pl-798678658.shop
 0.0.0.0 *.allegrolokalnie.pl-810027.icu
@@ -15527,16 +15532,16 @@
 0.0.0.0 *.allegrolokalnie.pl-887652.icu
 0.0.0.0 *.allegrolokalnie.pl-88834493.shop
 0.0.0.0 *.allegrolokalnie.pl-8883449993.shop
+0.0.0.0 *.allegrolokalnie.pl-892934.icu
 0.0.0.0 *.allegrolokalnie.pl-892940.icu
 0.0.0.0 *.allegrolokalnie.pl-899354.icu
+0.0.0.0 *.allegrolokalnie.pl-9018690.icu
 0.0.0.0 *.allegrolokalnie.pl-9030981.cfd
 0.0.0.0 *.allegrolokalnie.pl-912082.shop
 0.0.0.0 *.allegrolokalnie.pl-917679.icu
 0.0.0.0 *.allegrolokalnie.pl-918678.icu
-0.0.0.0 *.allegrolokalnie.pl-918681.icu
 0.0.0.0 *.allegrolokalnie.pl-92001628oferta.icu
 0.0.0.0 *.allegrolokalnie.pl-981741.cfd
-0.0.0.0 *.allegrolokalnie.pl-989340.icu
 0.0.0.0 *.allegrolokalnie.pl-99017.cfd
 0.0.0.0 *.allegrolokalnie.pl-993024.icu
 0.0.0.0 *.allegrolokalnie.pl-aukcja47729.com
@@ -15576,6 +15581,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta97438501.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta981862.icu
 0.0.0.0 *.allegrolokalnie.pl-ofertaid08426105382634.shop
+0.0.0.0 *.allegrolokalnie.pl-ogloszenie-230495.rest
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-firmowe-8127.shop
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-firmowe-8576.shop
 0.0.0.0 *.allegrolokalnie.pl-ogloszenie-firmowe-88839993.shop
@@ -17904,6 +17910,7 @@
 0.0.0.0 *.anatheorisi.firebaseapp.com
 0.0.0.0 *.anatheorisi.web.app
 0.0.0.0 *.anatol.com
+0.0.0.0 *.anatoliansidemarathon.net
 0.0.0.0 *.anatoliatree.com
 0.0.0.0 *.anatomyassault.com
 0.0.0.0 *.anatomytrains.co.uk
@@ -18078,6 +18085,7 @@
 0.0.0.0 *.andydill.com
 0.0.0.0 *.andylavender.com
 0.0.0.0 *.andyneroner.zapto.org
+0.0.0.0 *.andzela.eeva-cz.sbs
 0.0.0.0 *.ane.digital
 0.0.0.0 *.anecter-10d4e.web.app
 0.0.0.0 *.aneddrifru.pro
@@ -20356,6 +20364,7 @@
 0.0.0.0 *.apt-outcome.com
 0.0.0.0 *.aptainfo.com
 0.0.0.0 *.aptcigarette.pro
+0.0.0.0 *.aptechusa.com
 0.0.0.0 *.apteka-antykoncepcja.pl
 0.0.0.0 *.apteka-money.ru
 0.0.0.0 *.apteka-sadivnyka.ua
@@ -73573,6 +73582,7 @@
 0.0.0.0 *.frameinomax-nx.com
 0.0.0.0 *.frameinomaxnx.net
 0.0.0.0 *.framesoflondon.com
+0.0.0.0 *.framespring.site
 0.0.0.0 *.framessemicolonought.com
 0.0.0.0 *.frametrasp.com
 0.0.0.0 *.frameworkcomai.com
@@ -89336,6 +89346,7 @@
 0.0.0.0 *.ikeafrance.fr
 0.0.0.0 *.ikechukwu.duckdns.org
 0.0.0.0 *.ikechukwugrace.duckdns.org
+0.0.0.0 *.ikegetvltyjc.icu
 0.0.0.0 *.ikenpoli.4lima.de
 0.0.0.0 *.ikfekxi.com
 0.0.0.0 *.ikhzxwy.in
@@ -96699,6 +96710,7 @@
 0.0.0.0 *.j33.fr
 0.0.0.0 *.j348.citizensvoice.com
 0.0.0.0 *.j34duklow92k3.life
+0.0.0.0 *.j3fj9cpldw.cfd
 0.0.0.0 *.j3ru5al3m.duckdns.org
 0.0.0.0 *.j3tx9j.nt.nativetrees.co.uk
 0.0.0.0 *.j41.9dd.mytemp.website
@@ -99615,6 +99627,7 @@
 0.0.0.0 *.k4.y3-68c.ru
 0.0.0.0 *.k4dabm.jik.thetreecentre.com
 0.0.0.0 *.k4sm.9h-5y.ru
+0.0.0.0 *.k4t8ln.sbs
 0.0.0.0 *.k4w3.uht-3-o.ru
 0.0.0.0 *.k5.8ss4e.ru
 0.0.0.0 *.k547.com
@@ -114032,6 +114045,7 @@
 0.0.0.0 *.medicig.com
 0.0.0.0 *.medicijnen-kopen.com
 0.0.0.0 *.medicinaesteticaorlandini.it
+0.0.0.0 *.medicinefashions.shop
 0.0.0.0 *.medicinemannerruthless.com
 0.0.0.0 *.medicinemasters.org
 0.0.0.0 *.medicineonline24review.ru
@@ -128071,6 +128085,7 @@
 0.0.0.0 *.olx-pl.conformation38.shop
 0.0.0.0 *.olx-pl.conformation39.shop
 0.0.0.0 *.olx-pl.conformation41.shop
+0.0.0.0 *.olx-pl.demevol.ink
 0.0.0.0 *.olx-pl.kduw612vx1.pl
 0.0.0.0 *.olx-pl.oylgoir12346.xyz
 0.0.0.0 *.olx-pl.poustelo.cfd
@@ -128091,6 +128106,7 @@
 0.0.0.0 *.olx.hit.gemius.pl
 0.0.0.0 *.olx.infocyfrowatransakcja24wygodnaplataonlinecloud.icu
 0.0.0.0 *.olx.infoszybkaplata24onlinebezproblemowprzelewycloud.cfd
+0.0.0.0 *.olx.jedazoskl.xyz
 0.0.0.0 *.olx.markede-de4.com
 0.0.0.0 *.olx.nowoczesnaplatforma24efektywnyprzelew.icu
 0.0.0.0 *.olx.oferta-981247.icu
@@ -136560,6 +136576,7 @@
 0.0.0.0 *.pl-oferta321391293921.shop
 0.0.0.0 *.pl-oferta3353835.shop
 0.0.0.0 *.pl-oferta3353849.shop
+0.0.0.0 *.pl-oferta33711838-samsung-galaxy-tab.cfd
 0.0.0.0 *.pl-oferta3446564.shop
 0.0.0.0 *.pl-oferta3460677.shop
 0.0.0.0 *.pl-oferta34751924.shop
@@ -136832,6 +136849,7 @@
 0.0.0.0 *.pl-ogloszenie-3204904.sbs
 0.0.0.0 *.pl-ogloszenie-32053.sbs
 0.0.0.0 *.pl-ogloszenie-320940.rest
+0.0.0.0 *.pl-ogloszenie-320953.sbs
 0.0.0.0 *.pl-ogloszenie-47124.rest
 0.0.0.0 *.pl-ogloszenie-59332.rest
 0.0.0.0 *.pl-ogloszenie-66f43fg32dggzznb46ryp1.org
@@ -153836,6 +153854,7 @@
 0.0.0.0 *.rounddescribe.com
 0.0.0.0 *.roundedu.shop
 0.0.0.0 *.rounderica.help
+0.0.0.0 *.roundkubecpsess.com
 0.0.0.0 *.roundlistener.com
 0.0.0.0 *.roundmailpl.weebly.com
 0.0.0.0 *.roundone.mv
@@ -163105,6 +163124,7 @@
 0.0.0.0 *.silverlinktrading.com
 0.0.0.0 *.silvermanadvisorygroup.com
 0.0.0.0 *.silvermap.pro
+0.0.0.0 *.silvermaplle.site
 0.0.0.0 *.silvermob.com
 0.0.0.0 *.silvermodak.com
 0.0.0.0 *.silvermountholidays.com
@@ -183372,6 +183392,7 @@
 0.0.0.0 *.topnewsinhour.com
 0.0.0.0 *.topnewsource.com
 0.0.0.0 *.topnotchglass.org
+0.0.0.0 *.topnotchmodelz.cfd
 0.0.0.0 *.topodat.info
 0.0.0.0 *.topoffers365.com
 0.0.0.0 *.topofferss4you.com
@@ -195052,6 +195073,7 @@
 0.0.0.0 *.vinted.offer34.com
 0.0.0.0 *.vinted.online239491.com
 0.0.0.0 *.vinted.pl-92001628oferta.icu
+0.0.0.0 *.vinted.pl-ogloszenie-230495.rest
 0.0.0.0 *.vinted.purchases034.com
 0.0.0.0 *.vinted.q70pqt.digital
 0.0.0.0 *.vinted.r6zyei.pro
@@ -199118,6 +199140,7 @@
 0.0.0.0 *.wehub.top
 0.0.0.0 *.wehunie.digital
 0.0.0.0 *.wehuro.kicksurveypay.com
+0.0.0.0 *.wehymoe7.com
 0.0.0.0 *.wei-xiong.com
 0.0.0.0 *.weibomaster.com
 0.0.0.0 *.weichdsfiass201209xklsnxnso.duckdns.org
@@ -200948,6 +200971,7 @@
 0.0.0.0 *.wittchen-suitcases.shop
 0.0.0.0 *.wittchen-walizki.shop
 0.0.0.0 *.wittchencollection.shop
+0.0.0.0 *.wittchenfashion.shop
 0.0.0.0 *.wittchenmalls-pl.shop
 0.0.0.0 *.wittchenmalls.shop
 0.0.0.0 *.wittchenmarket.shop
