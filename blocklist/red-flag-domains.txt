@@ -64,6 +64,7 @@
 0.0.0.0 1nstagram.fr
 0.0.0.0 1particuliers-cic.fr
 0.0.0.0 1password2.fr
+0.0.0.0 1password.fr
 0.0.0.0 1percent.fr
 0.0.0.0 1redbetcasino.fr
 0.0.0.0 1sale.fr
@@ -1057,6 +1058,7 @@
 0.0.0.0 agent-dgsi.fr
 0.0.0.0 agents-co.fr
 0.0.0.0 agentspincasino.fr
+0.0.0.0 agent-support.fr
 0.0.0.0 agephip.fr
 0.0.0.0 aginvestwine.fr
 0.0.0.0 agira-assurance.fr
@@ -6621,6 +6623,7 @@
 0.0.0.0 caterpillarpacher.fr
 0.0.0.0 caterpillarparis.fr
 0.0.0.0 caterpillars.fr
+0.0.0.0 caterpillarshop.fr
 0.0.0.0 catherinecreationcouture.fr
 0.0.0.0 ca-touloue31.fr
 0.0.0.0 ca-touraienpoitou.fr
@@ -10093,6 +10096,7 @@
 0.0.0.0 destockage-ps5.fr
 0.0.0.0 destock-apple.fr
 0.0.0.0 destockchaussures.fr
+0.0.0.0 destockmarque.fr
 0.0.0.0 destockoutlet.fr
 0.0.0.0 destockphone.fr
 0.0.0.0 destockx.fr
@@ -15191,6 +15195,7 @@
 0.0.0.0 info-service-chronopost.fr
 0.0.0.0 info-service-client.fr
 0.0.0.0 info-service.fr
+0.0.0.0 infoservicefranceinfo.fr
 0.0.0.0 infoservice-mondialrelay.fr
 0.0.0.0 infoservicepaypal.fr
 0.0.0.0 info-service-renouvellement.fr
@@ -17304,6 +17309,7 @@
 0.0.0.0 locasuns.fr
 0.0.0.0 locilservyply.fr
 0.0.0.0 locker-coli.fr
+0.0.0.0 locker-redirect.fr
 0.0.0.0 locowin7.fr
 0.0.0.0 locowincasinoapp.fr
 0.0.0.0 locowincasinobonus.fr
@@ -17622,6 +17628,7 @@
 0.0.0.0 lv-outlet.fr
 0.0.0.0 lvoutlet.fr
 0.0.0.0 lvpascher.fr
+0.0.0.0 lvsoldes.fr
 0.0.0.0 lwex.fr
 0.0.0.0 lwhmz.yt
 0.0.0.0 lwssupport.fr
@@ -20035,6 +20042,7 @@
 0.0.0.0 mycartevital.fr
 0.0.0.0 mycaudalie.fr
 0.0.0.0 mycheap-netflix.fr
+0.0.0.0 my-checkout-prime.fr
 0.0.0.0 my-chronopost.fr
 0.0.0.0 mychronopost.fr
 0.0.0.0 mychuga.fr
@@ -20042,6 +20050,7 @@
 0.0.0.0 mycinecheque.fr
 0.0.0.0 mycitibank.fr
 0.0.0.0 myciticredit.fr
+0.0.0.0 my-cloud-prime.fr
 0.0.0.0 mycnal.fr
 0.0.0.0 my-colis.fr
 0.0.0.0 mycolissimo.fr
@@ -20056,6 +20065,7 @@
 0.0.0.0 mydreamday.fr
 0.0.0.0 myedebred.fr
 0.0.0.0 myedf.fr
+0.0.0.0 my-email-prime.fr
 0.0.0.0 my-empire1.fr
 0.0.0.0 myempirescasino.fr
 0.0.0.0 myemrys.fr
@@ -20104,11 +20114,14 @@
 0.0.0.0 my-nickel-eu.fr
 0.0.0.0 my-nickel.fr
 0.0.0.0 mynikevisit.fr
+0.0.0.0 my-notification-prime.fr
 0.0.0.0 mynumber-orange.fr
 0.0.0.0 myorangeclient.fr
 0.0.0.0 myorangemail.fr
+0.0.0.0 my-package-prime.fr
 0.0.0.0 mypacket-chrono.fr
 0.0.0.0 mypacketdhl.fr
+0.0.0.0 my-pack-prime.fr
 0.0.0.0 mypayee-online-refund.fr
 0.0.0.0 mypayment2024-revenue.fr
 0.0.0.0 mypaysafecard.fr
@@ -20116,6 +20129,7 @@
 0.0.0.0 my-play-prime.fr
 0.0.0.0 mypoele.fr
 0.0.0.0 mypornvideos.fr
+0.0.0.0 my-premium-prime.fr
 0.0.0.0 my-prime.fr
 0.0.0.0 my-profile-prime.fr
 0.0.0.0 myquiz.fr
@@ -20150,6 +20164,7 @@
 0.0.0.0 mystake-jouer.fr
 0.0.0.0 mystake-online-fr.fr
 0.0.0.0 mysterycasino.fr
+0.0.0.0 my-storage-prime.fr
 0.0.0.0 myswiss.fr
 0.0.0.0 mytee.fr
 0.0.0.0 mytf1max-renouvellement.fr
@@ -23373,6 +23388,7 @@
 0.0.0.0 prime-payments.fr
 0.0.0.0 prime-plus.fr
 0.0.0.0 prime-premium.fr
+0.0.0.0 prime-prime.fr
 0.0.0.0 prime-primevideo.fr
 0.0.0.0 prime-privacy.fr
 0.0.0.0 prime-privilege.fr
