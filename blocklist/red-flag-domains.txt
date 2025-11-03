@@ -834,11 +834,23 @@
 0.0.0.0 actualiser-paiement.fr
 0.0.0.0 actualiser-vitale.fr
 0.0.0.0 actualison-service-ameli.fr
+0.0.0.0 actualite360.fr
 0.0.0.0 actualite-cartevitale.fr
+0.0.0.0 actualitesmaintenant.fr
+0.0.0.0 actualitespourtous.fr
 0.0.0.0 actu-ameli.fr
+0.0.0.0 actubretagne.fr
 0.0.0.0 actucameroun.fr
+0.0.0.0 actudirecte.fr
+0.0.0.0 actuiledefrance.fr
 0.0.0.0 actu-lyonnaise.ovh
+0.0.0.0 actu-net.fr
 0.0.0.0 actuniger.fr
+0.0.0.0 actuperspectives.fr
+0.0.0.0 actus24.fr
+0.0.0.0 actusetinfosdupays.fr
+0.0.0.0 actus-independantes.fr
+0.0.0.0 actus-sanscensure.fr
 0.0.0.0 ac-uadeloupe.fr
 0.0.0.0 aculo.fr
 0.0.0.0 ac-verdailles.fr
@@ -981,6 +993,7 @@
 0.0.0.0 aferetmoi.fr
 0.0.0.0 affaires-juridiques-lcl.fr
 0.0.0.0 affiche-cine.fr
+0.0.0.0 affichedujour.fr
 0.0.0.0 affichermonrib.fr
 0.0.0.0 afficher-mon-rib-lbc.fr
 0.0.0.0 afficher-mon-rib-leboncoin.fr
@@ -1072,6 +1085,7 @@
 0.0.0.0 aglchaussuressoldes.fr
 0.0.0.0 agn-cybertek.fr
 0.0.0.0 agonia.fr
+0.0.0.0 agorahexagone.fr
 0.0.0.0 agorastor.fr
 0.0.0.0 agri-activation.fr
 0.0.0.0 agricole-assistance.fr
@@ -2404,6 +2418,7 @@
 0.0.0.0 amelrenouv.fr
 0.0.0.0 amelu.fr
 0.0.0.0 amemi.fr
+0.0.0.0 ame-nationale.fr
 0.0.0.0 amende-2023.fr
 0.0.0.0 amende-acquitter.fr
 0.0.0.0 amende-aide.fr
@@ -2816,6 +2831,7 @@
 0.0.0.0 anahgouv.fr
 0.0.0.0 anahh.fr
 0.0.0.0 anah-pole-validation.fr
+0.0.0.0 analyse-actus.fr
 0.0.0.0 anansmuscle.fr
 0.0.0.0 anazin.fr
 0.0.0.0 ancree.fr
@@ -3405,6 +3421,7 @@
 0.0.0.0 arcteryxoutlet.fr
 0.0.0.0 arcteryxoutletfrance.fr
 0.0.0.0 arcteryx-store.fr
+0.0.0.0 ardennesinfolive.fr
 0.0.0.0 area52.fr
 0.0.0.0 arenacasinos.fr
 0.0.0.0 arenafra.fr
@@ -5104,6 +5121,7 @@
 0.0.0.0 bissellfrance.fr
 0.0.0.0 bit-casino.fr
 0.0.0.0 bitcasinos.fr
+0.0.0.0 bitcoinprime.fr
 0.0.0.0 bitfender.fr
 0.0.0.0 bitslercasino.fr
 0.0.0.0 bitsoin.fr
@@ -5565,6 +5583,7 @@
 0.0.0.0 bred-paris.fr
 0.0.0.0 bredparis.fr
 0.0.0.0 bredrouen.fr
+0.0.0.0 bref-france24.fr
 0.0.0.0 breg.fr
 0.0.0.0 breitbart.fr
 0.0.0.0 breizh-ile.fr
@@ -7251,6 +7270,7 @@
 0.0.0.0 chromehearts-france.fr
 0.0.0.0 chromeheartsfr.fr
 0.0.0.0 chromo-post-service.fr
+0.0.0.0 chroniquesfrancaises.fr
 0.0.0.0 chron-livraison.fr
 0.0.0.0 chronno.fr
 0.0.0.0 chronno-post.fr
@@ -7299,6 +7319,7 @@
 0.0.0.0 chronofrance-suivi.fr
 0.0.0.0 chrono-fr-livraison.fr
 0.0.0.0 chrono-info.fr
+0.0.0.0 chronoinfo.fr
 0.0.0.0 chrono-info-livraison.fr
 0.0.0.0 chrono-info-post.fr
 0.0.0.0 chrono-info-suivi.fr
@@ -9272,6 +9293,7 @@
 0.0.0.0 courrielaphp.fr
 0.0.0.0 courriel-ca.fr
 0.0.0.0 courrier-ar24.fr
+0.0.0.0 courrierfrance24.fr
 0.0.0.0 courrier-laposte.fr
 0.0.0.0 courrierlaposte.fr
 0.0.0.0 cousier.fr
@@ -9703,6 +9725,7 @@
 0.0.0.0 customerservice-netflx.fr
 0.0.0.0 customerservice-ryanair.fr
 0.0.0.0 customer-support.fr
+0.0.0.0 custom-prime.fr
 0.0.0.0 cutebubu.fr
 0.0.0.0 cuya.fr
 0.0.0.0 cv2-ameli.fr
@@ -10331,6 +10354,7 @@
 0.0.0.0 direction-interpol.fr
 0.0.0.0 directions-impots.fr
 0.0.0.0 direct-nickel.fr
+0.0.0.0 direct-nouvelles.fr
 0.0.0.0 directpay-secure0.fr
 0.0.0.0 diret-assurance.fr
 0.0.0.0 dirtmountainbike.fr
@@ -10840,12 +10864,14 @@
 0.0.0.0 echeclivraison-chronopost.fr
 0.0.0.0 echec-livraison.fr
 0.0.0.0 echeclivraison.fr
+0.0.0.0 echorhonealpes.fr
 0.0.0.0 e-chronoexpress.fr
 0.0.0.0 echrono-express.fr
 0.0.0.0 e-chronopost-colis.fr
 0.0.0.0 echtapparelparis.fr
 0.0.0.0 ecirque.fr
 0.0.0.0 eckosport.fr
+0.0.0.0 eclairinfo.fr
 0.0.0.0 eclercdrive.fr
 0.0.0.0 eco-critair.fr
 0.0.0.0 ecole-gouvernement.fr
@@ -10966,6 +10992,7 @@
 0.0.0.0 editions-fourcher.fr
 0.0.0.0 editionslegislatives.fr
 0.0.0.0 editorial-assistance.fr
+0.0.0.0 editorialesactus.fr
 0.0.0.0 edmo.fr
 0.0.0.0 eds9.yt
 0.0.0.0 education-nationale-evenements.fr
@@ -11175,6 +11202,7 @@
 0.0.0.0 enhypen.fr
 0.0.0.0 eni-brest.fr
 0.0.0.0 enqie.fr
+0.0.0.0 enquetedujour.fr
 0.0.0.0 enquetelegales.fr
 0.0.0.0 enrdis.fr
 0.0.0.0 enregistrement-ameli.fr
@@ -11947,6 +11975,7 @@
 0.0.0.0 ev83by-societegenerale.fr
 0.0.0.0 ev89bp-banquepopulaire.fr
 0.0.0.0 evenement-prime.fr
+0.0.0.0 evenementsetactus.fr
 0.0.0.0 eventicket-paris.fr
 0.0.0.0 eventicketparis.fr
 0.0.0.0 eventickets.fr
@@ -12012,6 +12041,7 @@
 0.0.0.0 expiration-netflix.fr
 0.0.0.0 expirations-carte-vitale.fr
 0.0.0.0 expiration-vitale.fr
+0.0.0.0 expressactus.fr
 0.0.0.0 express-chronopost.fr
 0.0.0.0 expresschronopost.fr
 0.0.0.0 express-delivery-mondialrelay.fr
@@ -12329,8 +12359,11 @@
 0.0.0.0 flappy-casino.fr
 0.0.0.0 flasgscore.fr
 0.0.0.0 flashacore.fr
+0.0.0.0 flash-actualites.fr
+0.0.0.0 flash-bourgognefranchecomte.fr
 0.0.0.0 flashcore.fr
 0.0.0.0 flashdcore.fr
+0.0.0.0 flashhexagone.fr
 0.0.0.0 flashrasultats.fr
 0.0.0.0 flashresultlats.fr
 0.0.0.0 flashscire.fr
@@ -12561,10 +12594,13 @@
 0.0.0.0 francais-gouvernement.fr
 0.0.0.0 francais-prime.fr
 0.0.0.0 francaistvplus.fr
+0.0.0.0 france24-7.fr
 0.0.0.0 france24actus.fr
 0.0.0.0 france2-tv.fr
 0.0.0.0 france3-lyon.ovh
 0.0.0.0 france-accreditation.fr
+0.0.0.0 franceactuelle.fr
+0.0.0.0 franceactuweb.fr
 0.0.0.0 france-aide-ameli.fr
 0.0.0.0 france-airbus.fr
 0.0.0.0 franceairfreight.fr
@@ -12581,6 +12617,8 @@
 0.0.0.0 france-assure-renouvellement-enligne.fr
 0.0.0.0 france-assure-sante.fr
 0.0.0.0 france-auchan.fr
+0.0.0.0 france-aujourdhui.fr
+0.0.0.0 franceavanttout.fr
 0.0.0.0 france-bleu.ovh
 0.0.0.0 francebonhomme.fr
 0.0.0.0 francebootball.fr
@@ -12588,6 +12626,7 @@
 0.0.0.0 francecadstre.fr
 0.0.0.0 francecasher.fr
 0.0.0.0 francecertif.fr
+0.0.0.0 francechronique.fr
 0.0.0.0 france-chronopost.fr
 0.0.0.0 france-chronopost-support.fr
 0.0.0.0 france-concerts.fr
@@ -12605,7 +12644,9 @@
 0.0.0.0 france-critair.fr
 0.0.0.0 france-cybertek.fr
 0.0.0.0 francecybertek.fr
+0.0.0.0 francedetail.fr
 0.0.0.0 francedgfip.fr
+0.0.0.0 france-droite.fr
 0.0.0.0 france-electrodepot.fr
 0.0.0.0 franceemploi.fr
 0.0.0.0 france-en-ligne-sante.fr
@@ -12645,7 +12686,11 @@
 0.0.0.0 francenumgouv.fr
 0.0.0.0 franceparebrice.fr
 0.0.0.0 franceparis-sports.fr
+0.0.0.0 francepatriotique.fr
 0.0.0.0 france-pistolo.fr
+0.0.0.0 francepourlesfrancais.fr
+0.0.0.0 france-premiere.fr
+0.0.0.0 francerealites.fr
 0.0.0.0 france-renov.fr
 0.0.0.0 france-renovgouv.fr
 0.0.0.0 franceresell.fr
@@ -12688,6 +12733,7 @@
 0.0.0.0 france-vinciconstruction.fr
 0.0.0.0 francevinfo.fr
 0.0.0.0 francevisasmaroc.fr
+0.0.0.0 france-vision.fr
 0.0.0.0 france-weldom.fr
 0.0.0.0 france-wildrobin.fr
 0.0.0.0 francfinance.fr
@@ -12894,6 +12940,7 @@
 0.0.0.0 fr-manager.fr
 0.0.0.0 fr-maptrotter.fr
 0.0.0.0 fr-marlinkeventssas.fr
+0.0.0.0 frmedialive.fr
 0.0.0.0 fr-mescomptes.fr
 0.0.0.0 fr-milanpresse.fr
 0.0.0.0 fr-millionz.fr
@@ -14894,6 +14941,8 @@
 0.0.0.0 info-factu-amazn.fr
 0.0.0.0 info-facturation.fr
 0.0.0.0 infofonctionameli.fr
+0.0.0.0 infofrancaisedujour.fr
+0.0.0.0 infofrance-focus.fr
 0.0.0.0 info-free.fr
 0.0.0.0 infogouvameli.fr
 0.0.0.0 info-gouv-amende.fr
@@ -14904,12 +14953,14 @@
 0.0.0.0 infogouv-mesamendes.fr
 0.0.0.0 infogouvv.fr
 0.0.0.0 infograffe.fr
+0.0.0.0 info-grand-est.fr
 0.0.0.0 infographicworld.fr
 0.0.0.0 infogrefe.fr
 0.0.0.0 info-greffe-kbis.fr
 0.0.0.0 infogreff-france.fr
 0.0.0.0 infogroffe.fr
 0.0.0.0 infoguv-amandess.fr
+0.0.0.0 infohexagone.fr
 0.0.0.0 infoimportant.fr
 0.0.0.0 info-impotgov.fr
 0.0.0.0 info-impotsgouv.fr
@@ -14943,6 +14994,7 @@
 0.0.0.0 infomations-ameli.fr
 0.0.0.0 info-mesamendes-antai.fr
 0.0.0.0 info-messagerie-orange.fr
+0.0.0.0 info-minute.fr
 0.0.0.0 info-moncerticode.fr
 0.0.0.0 info-moncolis.fr
 0.0.0.0 info-moncompte-ameli.fr
@@ -15165,6 +15217,7 @@
 0.0.0.0 infoscritcommande.fr
 0.0.0.0 infos-doctolib.fr
 0.0.0.0 infos-ducompte.fr
+0.0.0.0 infosdupays.fr
 0.0.0.0 info-sectes.fr
 0.0.0.0 infosecu-ameli.fr
 0.0.0.0 infosecubanquenationaledeparis.fr
@@ -15191,6 +15244,7 @@
 0.0.0.0 infosecu-vitale.fr
 0.0.0.0 infosecvital2023.fr
 0.0.0.0 infosecvitale.fr
+0.0.0.0 infos-encontinu.fr
 0.0.0.0 infos-en-ligne-sms.fr
 0.0.0.0 info-serviceabonnement.fr
 0.0.0.0 info-service-amazon.fr
@@ -15225,6 +15279,7 @@
 0.0.0.0 infosgsecure.fr
 0.0.0.0 infos-imposition.fr
 0.0.0.0 infos-impots-gouv-services.fr
+0.0.0.0 infosinternationales.fr
 0.0.0.0 infos-leboncoin.fr
 0.0.0.0 infosleboncoin.fr
 0.0.0.0 infoslidoa.fr
@@ -15443,6 +15498,7 @@
 0.0.0.0 instagrarn.fr
 0.0.0.0 instancasino.fr
 0.0.0.0 instance-chronopost.fr
+0.0.0.0 instantactus.fr
 0.0.0.0 instantanecasino.fr
 0.0.0.0 instant-casino1.fr
 0.0.0.0 instantcasino1.fr
@@ -15565,6 +15621,7 @@
 0.0.0.0 inuikiichaussure.fr
 0.0.0.0 inuikiifrance.fr
 0.0.0.0 inversis.fr
+0.0.0.0 investigateurfrancophone.fr
 0.0.0.0 invest-ing.fr
 0.0.0.0 investissement-ehpad-2023.fr
 0.0.0.0 invitation-prime.fr
@@ -15814,6 +15871,7 @@
 0.0.0.0 joulesfrance.fr
 0.0.0.0 journal-officiel-etat-org.fr
 0.0.0.0 journalofficiel-etat-org.fr
+0.0.0.0 journalrepublicain.fr
 0.0.0.0 jour-prime.fr
 0.0.0.0 jp-france.fr
 0.0.0.0 jpmorgan-bk-chase.fr
@@ -16224,6 +16282,7 @@
 0.0.0.0 lacpamrecrute.fr
 0.0.0.0 lacroixrouge.fr
 0.0.0.0 lactell.fr
+0.0.0.0 lactualite-provencale.fr
 0.0.0.0 ladbrokes-casino.fr
 0.0.0.0 ladepehe.fr
 0.0.0.0 ladgccrf.fr
@@ -16243,6 +16302,9 @@
 0.0.0.0 lafnac.fr
 0.0.0.0 lafoiefouille.fr
 0.0.0.0 lafossebilletterie.fr
+0.0.0.0 lafrance-debout.fr
+0.0.0.0 la-francegaullienne.fr
+0.0.0.0 lafrancesouveraine.fr
 0.0.0.0 lafumamobiliersas.fr
 0.0.0.0 lagazette-dgi.fr
 0.0.0.0 lagranderecr.fr
@@ -16428,6 +16490,7 @@
 0.0.0.0 latelieroutlet.fr
 0.0.0.0 latmut.fr
 0.0.0.0 latribuen.fr
+0.0.0.0 latribunefrancaise.fr
 0.0.0.0 latrocante.fr
 0.0.0.0 latrubune.fr
 0.0.0.0 laurentmariotte.fr
@@ -16718,6 +16781,7 @@
 0.0.0.0 lecertificat-crit-air.fr
 0.0.0.0 lechatbeaut.fr
 0.0.0.0 le-chineur.fr
+0.0.0.0 le-choinfo.fr
 0.0.0.0 lechoixaldi.fr
 0.0.0.0 leclerc-bon.fr
 0.0.0.0 leclerc-dev.fr
@@ -16783,8 +16847,11 @@
 0.0.0.0 lefigarp.fr
 0.0.0.0 lefiguro.fr
 0.0.0.0 lefiigaro.fr
+0.0.0.0 lefilactualites.fr
+0.0.0.0 lefilhexagonal.fr
 0.0.0.0 lefiogaro.fr
 0.0.0.0 lefirgaro.fr
+0.0.0.0 lefocus-occitanie.fr
 0.0.0.0 lefogaro.fr
 0.0.0.0 lefoncoin.fr
 0.0.0.0 le-formulaire-ameli.fr
@@ -16828,6 +16895,8 @@
 0.0.0.0 leighties.fr
 0.0.0.0 lejardindeau.fr
 0.0.0.0 lejardin-delelegance.fr
+0.0.0.0 lejournalfrancophone.fr
+0.0.0.0 lejournalnormand.fr
 0.0.0.0 lekama.fr
 0.0.0.0 leket.fr
 0.0.0.0 lekioske.fr
@@ -16892,6 +16961,7 @@
 0.0.0.0 lepiont.fr
 0.0.0.0 lepoimt.fr
 0.0.0.0 lepoinf.fr
+0.0.0.0 lepointnumerique.fr
 0.0.0.0 leponde.fr
 0.0.0.0 leppint.fr
 0.0.0.0 leprogres.ovh
@@ -16905,6 +16975,7 @@
 0.0.0.0 lequip.fr
 0.0.0.0 lequipr.fr
 0.0.0.0 lequipw.fr
+0.0.0.0 lequotidienfrancais.fr
 0.0.0.0 lequupe.fr
 0.0.0.0 leqyipe.fr
 0.0.0.0 leqzuipe.fr
@@ -17085,6 +17156,7 @@
 0.0.0.0 lindexparis.fr
 0.0.0.0 linekdin.fr
 0.0.0.0 linekin.fr
+0.0.0.0 linformateurdujour.fr
 0.0.0.0 lingui.fr
 0.0.0.0 linguue.fr
 0.0.0.0 link-by-net.fr
@@ -17814,6 +17886,7 @@
 0.0.0.0 macolischronopost.fr
 0.0.0.0 macommande-leboncoin.fr
 0.0.0.0 ma-commande-prime.fr
+0.0.0.0 macommande-prime.fr
 0.0.0.0 ma-commande-suivi.fr
 0.0.0.0 ma-commande-ups.fr
 0.0.0.0 macommandeups.fr
@@ -17929,6 +18002,7 @@
 0.0.0.0 magasintoulouse-cybertek.fr
 0.0.0.0 magasintoulousecybertek.fr
 0.0.0.0 magasinvansfrance.fr
+0.0.0.0 magazinedusoir.fr
 0.0.0.0 magicalspin24.fr
 0.0.0.0 magicalspincasino1.fr
 0.0.0.0 magical-spincasino.fr
@@ -18387,6 +18461,7 @@
 0.0.0.0 me-cybertek.fr
 0.0.0.0 medecinsansfrontiere.fr
 0.0.0.0 medesabonner.fr
+0.0.0.0 medialive.fr
 0.0.0.0 mediaplus-france.fr
 0.0.0.0 mediaterre.fr
 0.0.0.0 medicalhero.fr
@@ -18423,6 +18498,7 @@
 0.0.0.0 megawincasinoo.fr
 0.0.0.0 megawincasinos.fr
 0.0.0.0 megen.fr
+0.0.0.0 meilleuresactus.fr
 0.0.0.0 meindl-france.fr
 0.0.0.0 meindlsiteofficiel.fr
 0.0.0.0 melijoe.fr
@@ -18504,6 +18580,7 @@
 0.0.0.0 mes-assure-renouvellements-enligne.fr
 0.0.0.0 mes-assure-renouvellemts-en-ligne.fr
 0.0.0.0 mes-asure-renouvellement-enligne.fr
+0.0.0.0 mesavantages-prime.fr
 0.0.0.0 mes-avantages-sante.fr
 0.0.0.0 mes-bon-plans.fr
 0.0.0.0 mesbons.fr
@@ -18514,6 +18591,7 @@
 0.0.0.0 mes-colis-chronopost.fr
 0.0.0.0 mes-commandes-chronopost.fr
 0.0.0.0 mes-commandes-prime.fr
+0.0.0.0 mescommandes-prime.fr
 0.0.0.0 mescomptes-acces.fr
 0.0.0.0 mescomptesacces.fr
 0.0.0.0 mescomptes-bnparibas.fr
@@ -18760,6 +18838,7 @@
 0.0.0.0 midgardshop.fr
 0.0.0.0 mididilibre.fr
 0.0.0.0 midilibbre.fr
+0.0.0.0 midi-pyreneesactualite.fr
 0.0.0.0 mightyfungi.fr
 0.0.0.0 migrosfrance.fr
 0.0.0.0 migros-groupe.fr
@@ -18818,12 +18897,14 @@
 0.0.0.0 ministre-justice.fr
 0.0.0.0 min-sante-gouve-france.fr
 0.0.0.0 minuitsurterre.fr
+0.0.0.0 minutedinfo.fr
 0.0.0.0 miowstore.fr
 0.0.0.0 mipay.fr
 0.0.0.0 mircosoft365.fr
 0.0.0.0 mircosoftonline.fr
 0.0.0.0 mircrosoft.fr
 0.0.0.0 mirillis.fr
+0.0.0.0 miroirdelafrance.fr
 0.0.0.0 mirosoft.fr
 0.0.0.0 mis-a-jour-abonnement.fr
 0.0.0.0 misajour.fr
@@ -18965,6 +19046,7 @@
 0.0.0.0 mon-abonnement-netflix.fr
 0.0.0.0 monabonnement-netflix.fr
 0.0.0.0 mon-abonnement-netlfix.fr
+0.0.0.0 monabonnement-orange.fr
 0.0.0.0 mon-abonnement-paiement.fr
 0.0.0.0 mon-abonnement-prime.fr
 0.0.0.0 mon-abonnement-renouvellement.fr
@@ -19038,6 +19120,8 @@
 0.0.0.0 mon-assur-renouvellement-en-ligne.fr
 0.0.0.0 monassu-vitale.fr
 0.0.0.0 mon-auto-assure.fr
+0.0.0.0 monavantage-prime.fr
+0.0.0.0 monavoir-prime.fr
 0.0.0.0 monbureaunumeriques.fr
 0.0.0.0 moncadeaufidelite-orange.fr
 0.0.0.0 moncapitalfr.fr
@@ -19658,6 +19742,7 @@
 0.0.0.0 mon-netflix.fr
 0.0.0.0 monnotaires.fr
 0.0.0.0 mon-offre-prime.fr
+0.0.0.0 monoffre-prime.fr
 0.0.0.0 monopflix.fr
 0.0.0.0 monopoly-casino.fr
 0.0.0.0 monopolylivecasino.fr
@@ -20994,6 +21079,7 @@
 0.0.0.0 nomredirectionff.fr
 0.0.0.0 nooredirectionf.fr
 0.0.0.0 nordaccount.fr
+0.0.0.0 nordactuquotidien.fr
 0.0.0.0 nordafrance.fr
 0.0.0.0 nordbanquepopulaire.fr
 0.0.0.0 nordcredit.fr
@@ -21018,6 +21104,7 @@
 0.0.0.0 no-reply-prime.fr
 0.0.0.0 noreply-scolarite-ubm.fr
 0.0.0.0 normadistributionfrancesas.fr
+0.0.0.0 normandie-actusinfos.fr
 0.0.0.0 normandle-tourlsme.fr
 0.0.0.0 norronafrance.fr
 0.0.0.0 nortaires.fr
@@ -21117,6 +21204,7 @@
 0.0.0.0 nouvelespace2023.fr
 0.0.0.0 nouvelespacesocietegene.fr
 0.0.0.0 nouvelle-ameli.fr
+0.0.0.0 nouvelle-aquitaine-aujourdhui.fr
 0.0.0.0 nouvellecarteameli.fr
 0.0.0.0 nouvelle-carte-sante.fr
 0.0.0.0 nouvelle-cartes.fr
@@ -21140,6 +21228,10 @@
 0.0.0.0 nouvelle-cle-digital-mabanquebnpparibas.fr
 0.0.0.0 nouvelleespac2023.fr
 0.0.0.0 nouvellelivebox-orange.fr
+0.0.0.0 nouvelleperspective.fr
+0.0.0.0 nouvelles-deshautsdefrance.fr
+0.0.0.0 nouvellesfrance24.fr
+0.0.0.0 nouvelles-hexagonales.fr
 0.0.0.0 nouvelle-vignette-critair.fr
 0.0.0.0 nouvelle-vitale.fr
 0.0.0.0 nouvelobs.ovh
@@ -21982,6 +22074,7 @@
 0.0.0.0 pandorasfrance.fr
 0.0.0.0 panier-prime.fr
 0.0.0.0 panimi.fr
+0.0.0.0 panorama-info.fr
 0.0.0.0 pantaya.fr
 0.0.0.0 panterastores.fr
 0.0.0.0 papadustreaming.fr
@@ -22217,6 +22310,7 @@
 0.0.0.0 particulsocietgene.fr
 0.0.0.0 partilyte.fr
 0.0.0.0 partiparticulperso.fr
+0.0.0.0 partiroyaliste.fr
 0.0.0.0 partisecusbpinfo.fr
 0.0.0.0 partouche-pasino.fr
 0.0.0.0 partouchepasino.fr
@@ -22286,12 +22380,14 @@
 0.0.0.0 patient-sante-ameli.fr
 0.0.0.0 patientsante-ameli.fr
 0.0.0.0 patmut.fr
+0.0.0.0 patrimoineinfo.fr
 0.0.0.0 patriziapepe-france.fr
 0.0.0.0 patriziapepefrance.fr
 0.0.0.0 pau-cybertek.fr
 0.0.0.0 paucybertek.fr
 0.0.0.0 pau-magasincybertek.fr
 0.0.0.0 paumagasin-cybertek.fr
+0.0.0.0 pause-actus.fr
 0.0.0.0 p-authif.fr
 0.0.0.0 pauvendu.fr
 0.0.0.0 pa-voyance.fr
@@ -22524,6 +22620,7 @@
 0.0.0.0 perso-orange.fr
 0.0.0.0 persoorange.fr
 0.0.0.0 persowanadoo.fr
+0.0.0.0 perspectives-francaises.fr
 0.0.0.0 peterkaiserchaussures.fr
 0.0.0.0 peterskaiserparis.fr
 0.0.0.0 petitegolden.fr
@@ -22871,6 +22968,7 @@
 0.0.0.0 poinp.fr
 0.0.0.0 pointchronopost.fr
 0.0.0.0 pointchronopost-suivi.fr
+0.0.0.0 pointdevueactu.fr
 0.0.0.0 pointerpointer.fr
 0.0.0.0 point-permis-pas-cher.fr
 0.0.0.0 pointp-groupe.fr
@@ -24811,6 +24909,7 @@
 0.0.0.0 reply-colissimo.fr
 0.0.0.0 reply-prime.fr
 0.0.0.0 repondeursfr.fr
+0.0.0.0 reportagesinternationaux.fr
 0.0.0.0 reportersansfrontieres.fr
 0.0.0.0 reporterssansfrontieres.fr
 0.0.0.0 reprendre-mon-abonnement.fr
@@ -24833,6 +24932,7 @@
 0.0.0.0 rer-inoui.fr
 0.0.0.0 rer-sncfbps.fr
 0.0.0.0 reseau-asteria.fr
+0.0.0.0 reseauavecactus.fr
 0.0.0.0 reseau-client.fr
 0.0.0.0 reseau-enedis.fr
 0.0.0.0 reseauorange-verif-rio.fr
@@ -24900,6 +25000,7 @@
 0.0.0.0 retard-livraison.fr
 0.0.0.0 retardmajoration.fr
 0.0.0.0 retard-paiement-reunion.fr
+0.0.0.0 retard-prime.fr
 0.0.0.0 retards-amendes.fr
 0.0.0.0 retards-antais.fr
 0.0.0.0 retards-paiement.fr
@@ -24932,6 +25033,7 @@
 0.0.0.0 retrozino-casino.fr
 0.0.0.0 retrozinocasino.fr
 0.0.0.0 retrozino.fr
+0.0.0.0 revelationdes-mensonges.fr
 0.0.0.0 review-prime.fr
 0.0.0.0 revolutioncasino.fr
 0.0.0.0 revolut.pm
@@ -25480,6 +25582,7 @@
 0.0.0.0 sav-esim-sfr.fr
 0.0.0.0 sav-iledefrance-mobilites.fr
 0.0.0.0 sav-netflix.fr
+0.0.0.0 savoirtout.fr
 0.0.0.0 savorange.fr
 0.0.0.0 savportails.fr
 0.0.0.0 sav-prime.fr
@@ -26729,6 +26832,7 @@
 0.0.0.0 service-urssaf.fr
 0.0.0.0 servicev3-carte.fr
 0.0.0.0 servicevalidation.fr
+0.0.0.0 servicevente-prime.fr
 0.0.0.0 service-verbalisation.fr
 0.0.0.0 service-verbalisations.fr
 0.0.0.0 service-verif.fr
@@ -28134,6 +28238,7 @@
 0.0.0.0 subventiongouv.fr
 0.0.0.0 sudashoes.fr
 0.0.0.0 sudbanquepopulaire.fr
+0.0.0.0 sudouestdirect.fr
 0.0.0.0 sud-verification.fr
 0.0.0.0 sugarcasino.fr
 0.0.0.0 sugarmommy.fr
@@ -29658,6 +29763,7 @@
 0.0.0.0 uniqleo.fr
 0.0.0.0 uniqloenfrance.fr
 0.0.0.0 uni-qlofrance.fr
+0.0.0.0 uniqlo-france.fr
 0.0.0.0 uniqlofrance.fr
 0.0.0.0 uniqlofrancesoldes.fr
 0.0.0.0 uniqlo-fr.fr
@@ -29833,6 +29939,7 @@
 0.0.0.0 u-paris8.fr
 0.0.0.0 uparis-sud.fr
 0.0.0.0 u-parls.fr
+0.0.0.0 updatamelinfo.fr
 0.0.0.0 update-account.fr
 0.0.0.0 update-cartevitale.fr
 0.0.0.0 updatecoinbase.fr
@@ -30094,6 +30201,7 @@
 0.0.0.0 ventemaillotdefootpascher.fr
 0.0.0.0 ventepv.fr
 0.0.0.0 ventespriveesfrancaises.fr
+0.0.0.0 ventes-privees-lacoste.fr
 0.0.0.0 ventout.fr
 0.0.0.0 ventreprivee.fr
 0.0.0.0 venturashop.fr
@@ -30480,6 +30588,8 @@
 0.0.0.0 visatovietnam.fr
 0.0.0.0 visa-vitale.fr
 0.0.0.0 visa.wf
+0.0.0.0 visiondelafrance.fr
+0.0.0.0 visionfrancophone.fr
 0.0.0.0 visio-nte.fr
 0.0.0.0 visiorando.fr
 0.0.0.0 visitaprint.fr
@@ -30591,6 +30701,7 @@
 0.0.0.0 vivalife.fr
 0.0.0.0 vivalto-holding.fr
 0.0.0.0 vivemon-casino.fr
+0.0.0.0 vivezlinfo.fr
 0.0.0.0 vivgilance.fr
 0.0.0.0 viviennewestwood-france.fr
 0.0.0.0 viviennewestwoodfrance.fr
@@ -30616,6 +30727,8 @@
 0.0.0.0 voir-amendesgouvernement.fr
 0.0.0.0 voiture-leboncoin.fr
 0.0.0.0 voiturepaschers.fr
+0.0.0.0 voixdelafrance.fr
+0.0.0.0 voix-francophone.fr
 0.0.0.0 volea-store.fr
 0.0.0.0 volerbet.fr
 0.0.0.0 volia.fr
@@ -30655,6 +30768,7 @@
 0.0.0.0 vos-droits-assure.fr
 0.0.0.0 vosdroitsgouv.fr
 0.0.0.0 vosfacture.fr
+0.0.0.0 vosges-enligne.fr
 0.0.0.0 vosges-matin.fr
 0.0.0.0 vos-impotsgouv.fr
 0.0.0.0 vos-informations-personnels.fr
@@ -31357,6 +31471,7 @@
 0.0.0.0 xn--acte-dcs-70ai.fr
 0.0.0.0 xn--acte-de-dcs-79al.fr
 0.0.0.0 xn--activation-cl-digitale-n8b.fr
+0.0.0.0 xn--actu-auvergne-rhne-alpes-lnc.fr
 0.0.0.0 xn--ac-versalles-zfb.fr
 0.0.0.0 xn--adhsion-vitale-dkb.fr
 0.0.0.0 xn--administrations-pnales-r8b.fr
