@@ -1340,11 +1340,13 @@
 0.0.0.0 alerte-colis.fr
 0.0.0.0 alerte-mise-a-jour-labanquepostale.fr
 0.0.0.0 alerte-paypal.fr
+0.0.0.0 alerte-prime.fr
 0.0.0.0 alerte-regularisation.fr
 0.0.0.0 alertes-amendes.fr
 0.0.0.0 alertes-contraventions.fr
 0.0.0.0 alerteseisme.fr
 0.0.0.0 alertes-infos.fr
+0.0.0.0 alertes-prime.fr
 0.0.0.0 alertes-securite.fr
 0.0.0.0 alexandar-casino.fr
 0.0.0.0 alexandarcasino.fr
@@ -3399,6 +3401,7 @@
 0.0.0.0 aquitte-netiflix.fr
 0.0.0.0 ar24courrier.fr
 0.0.0.0 ar24-docaposte.fr
+0.0.0.0 ar24recommande.fr
 0.0.0.0 ar24-suivi.fr
 0.0.0.0 ara-chaussures.fr
 0.0.0.0 aramis-auto.fr
@@ -6326,6 +6329,7 @@
 0.0.0.0 caservice.fr
 0.0.0.0 cas-etu-bordeaux.fr
 0.0.0.0 cashback-labanquepostale.fr
+0.0.0.0 cashback-prime.fr
 0.0.0.0 cash-casino.fr
 0.0.0.0 cash-converters.fr
 0.0.0.0 cashed0.fr
@@ -7199,6 +7203,7 @@
 0.0.0.0 chemisepolo.fr
 0.0.0.0 cheque-credit-mutuel.fr
 0.0.0.0 chequeenergie2024.fr
+0.0.0.0 cheques-energiques.fr
 0.0.0.0 chequiersnordpasdecalais.fr
 0.0.0.0 chericasinofrance.fr
 0.0.0.0 chericasinofr.fr
@@ -8705,6 +8710,7 @@
 0.0.0.0 comptes-fr.fr
 0.0.0.0 comptesg-securepass.fr
 0.0.0.0 comptes-id.fr
+0.0.0.0 comptes-medecin.fr
 0.0.0.0 compte-snapchat.fr
 0.0.0.0 compte-snap.fr
 0.0.0.0 comptesnetflix.fr
@@ -11828,6 +11834,7 @@
 0.0.0.0 espaces-personnels.fr
 0.0.0.0 espaces-remboursement.fr
 0.0.0.0 espaces-renouvellement.fr
+0.0.0.0 espaces-santes.fr
 0.0.0.0 espaces-societegenerale.fr
 0.0.0.0 espace-suivi-colissimo.fr
 0.0.0.0 espace-support-assistance.fr
@@ -12607,6 +12614,7 @@
 0.0.0.0 franceactuelle.fr
 0.0.0.0 franceactuweb.fr
 0.0.0.0 france-aide-ameli.fr
+0.0.0.0 france-aides.fr
 0.0.0.0 france-airbus.fr
 0.0.0.0 franceairfreight.fr
 0.0.0.0 franceairtransport.fr
@@ -15871,6 +15879,7 @@
 0.0.0.0 josefseibelsoldes.fr
 0.0.0.0 jott-officiel.fr
 0.0.0.0 jouerclub.fr
+0.0.0.0 jouermafiacasino.fr
 0.0.0.0 jouetdisney.fr
 0.0.0.0 jouetsclub.fr
 0.0.0.0 jouetspatpatrouille.fr
@@ -15886,6 +15895,7 @@
 0.0.0.0 juegosdechicas.fr
 0.0.0.0 jul-billeterie.fr
 0.0.0.0 julbillet.fr
+0.0.0.0 julconcerts.fr
 0.0.0.0 julien-outlet.fr
 0.0.0.0 juliettehasagun.fr
 0.0.0.0 juliuscasin.fr
@@ -21874,6 +21884,7 @@
 0.0.0.0 pageajaunes.fr
 0.0.0.0 pageblanchesfrance.fr
 0.0.0.0 pageperson-orange.fr
+0.0.0.0 page-prime.fr
 0.0.0.0 pages-annuaire.fr
 0.0.0.0 pagesjaines.fr
 0.0.0.0 pagesjauenes.fr
@@ -26228,6 +26239,7 @@
 0.0.0.0 selectedparis.fr
 0.0.0.0 selection-compte.fr
 0.0.0.0 selection-prime.fr
+0.0.0.0 select-prime.fr
 0.0.0.0 selectrnic.fr
 0.0.0.0 selfhtml.fr
 0.0.0.0 selftissu.fr
@@ -29813,6 +29825,7 @@
 0.0.0.0 univ-aix-provence.fr
 0.0.0.0 univ-amiens.fr
 0.0.0.0 univamiens.fr
+0.0.0.0 univ-anu.fr
 0.0.0.0 univartois.fr
 0.0.0.0 univbordeaux.fr
 0.0.0.0 univ-bp.fr
@@ -32091,6 +32104,7 @@
 0.0.0.0 xn--uniscit-hya.fr
 0.0.0.0 xn--universit-bordeaux-jwb.fr
 0.0.0.0 xn--universitlyon1-jkb.fr
+0.0.0.0 xn--universit-nantes-jqb.fr
 0.0.0.0 xn--universit-rennes1-jtb.fr
 0.0.0.0 xn--universit-vry-paris-saclay-jlcb.fr
 0.0.0.0 xn--u-pariscit-k7a.fr
