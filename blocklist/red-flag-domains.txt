@@ -938,6 +938,7 @@
 0.0.0.0 adldas-campus.fr
 0.0.0.0 admin-engie.fr
 0.0.0.0 administation-fiscale.fr
+0.0.0.0 administration-dgccrf.fr
 0.0.0.0 administration-gendarmerie-idf.fr
 0.0.0.0 administration-impotgouv.fr
 0.0.0.0 administration-pncee.fr
@@ -2759,6 +2760,7 @@
 0.0.0.0 amerli.fr
 0.0.0.0 ameservicevital.fr
 0.0.0.0 amffrance.fr
+0.0.0.0 amf-impots.fr
 0.0.0.0 amf-secure.fr
 0.0.0.0 amf-service-client.fr
 0.0.0.0 amiblufrancesas.fr
@@ -2788,9 +2790,12 @@
 0.0.0.0 amonbet.fr
 0.0.0.0 amonbetonline.fr
 0.0.0.0 amonbets.fr
+0.0.0.0 amoncasina.fr
 0.0.0.0 amoncasinoapp.fr
 0.0.0.0 amoncasinobonus777.fr
 0.0.0.0 amoncasinobonus.fr
+0.0.0.0 amoncasinoconexion.fr
+0.0.0.0 amoncasinoconnexion.fr
 0.0.0.0 amoncasinodeposit.fr
 0.0.0.0 amoncasinoenligne.fr
 0.0.0.0 amoncasino-france.fr
@@ -2799,6 +2804,7 @@
 0.0.0.0 amoncasinologin.fr
 0.0.0.0 amoncasinoo1.fr
 0.0.0.0 amoncasinoo.fr
+0.0.0.0 amoncasinoonline.fr
 0.0.0.0 amoncasinopromo.fr
 0.0.0.0 amoncasinos1.fr
 0.0.0.0 amon-casinos.fr
@@ -4515,6 +4521,7 @@
 0.0.0.0 baalenciaga.fr
 0.0.0.0 babaa.fr
 0.0.0.0 babolatfrance.fr
+0.0.0.0 babolatfr.fr
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 babyboofashionfrance.fr
 0.0.0.0 babylissfrance.fr
@@ -5080,6 +5087,7 @@
 0.0.0.0 billetwebs.fr
 0.0.0.0 billionairepascher.fr
 0.0.0.0 billionairespincasino.fr
+0.0.0.0 billionairespin-france.fr
 0.0.0.0 billionairetissu.fr
 0.0.0.0 billybet.fr
 0.0.0.0 billybets1.fr
@@ -6628,6 +6636,7 @@
 0.0.0.0 casino-wildrobin-fr.fr
 0.0.0.0 casinowild-sultan.fr
 0.0.0.0 casinowildsultan.fr
+0.0.0.0 casinowinmachance.fr
 0.0.0.0 casino-wonaco.fr
 0.0.0.0 casinowonaco.fr
 0.0.0.0 casino-x7.fr
@@ -8848,6 +8857,7 @@
 0.0.0.0 confirmation-inc-paypal.fr
 0.0.0.0 confirmation-information.fr
 0.0.0.0 confirmation-informations.fr
+0.0.0.0 confirmationlebonrdv-aymane.fr
 0.0.0.0 confirmationlebonrdv-jean-michel.fr
 0.0.0.0 confirmationlebonrdv-latour.fr
 0.0.0.0 confirmation-mobile-credmutuel-assurances.fr
@@ -10431,6 +10441,7 @@
 0.0.0.0 directeursocgen.fr
 0.0.0.0 directferry.fr
 0.0.0.0 direct-fournisseurs-france.fr
+0.0.0.0 directionaeth.fr
 0.0.0.0 direction-aphp.fr
 0.0.0.0 direction-brieredistributionleclerc.fr
 0.0.0.0 directioncentralfinancepubliquegouvfr.fr
@@ -12000,6 +12011,7 @@
 0.0.0.0 etu-lille2.fr
 0.0.0.0 etu-nantes.fr
 0.0.0.0 etu-parisdescartes.fr
+0.0.0.0 etu-paris.fr
 0.0.0.0 etu-pec.fr
 0.0.0.0 etu-unicaen.fr
 0.0.0.0 etu-unistra.fr
@@ -12221,6 +12233,7 @@
 0.0.0.0 facturation-vitaie.fr
 0.0.0.0 facture-abonement.fr
 0.0.0.0 facture-aide.fr
+0.0.0.0 factureavastprimeline.fr
 0.0.0.0 facture-chronopost.fr
 0.0.0.0 facture-compte.fr
 0.0.0.0 facture-contrat-edf.fr
@@ -13524,6 +13537,7 @@
 0.0.0.0 golden-bet-casino.fr
 0.0.0.0 goldenbet-casino.fr
 0.0.0.0 goldenbetcasinos.fr
+0.0.0.0 goldenbet-fr.fr
 0.0.0.0 goldenbetfr.fr
 0.0.0.0 goldenbetscasino.fr
 0.0.0.0 golden-bets.fr
@@ -14111,6 +14125,7 @@
 0.0.0.0 guessoutletparis.fr
 0.0.0.0 guess-paris.fr
 0.0.0.0 guestconnexion.fr
+0.0.0.0 guichet-ants.fr
 0.0.0.0 guidedesmetier.fr
 0.0.0.0 guidelon.fr
 0.0.0.0 guides-vitale.fr
@@ -15626,8 +15641,10 @@
 0.0.0.0 instance-chronopost.fr
 0.0.0.0 instantactus.fr
 0.0.0.0 instantanecasino.fr
+0.0.0.0 instantcasina.fr
 0.0.0.0 instant-casino1.fr
 0.0.0.0 instantcasino1.fr
+0.0.0.0 instantcasinoconexion.fr
 0.0.0.0 instantcasinoconnexion.fr
 0.0.0.0 instantcasinofrance.fr
 0.0.0.0 instant-casino-fr.fr
@@ -15635,10 +15652,12 @@
 0.0.0.0 instantcasino-fr.fr
 0.0.0.0 instantcasinofr.fr
 0.0.0.0 instantcasinologin.fr
+0.0.0.0 instantcasinomoncompte.fr
 0.0.0.0 instantcasinoo1.fr
 0.0.0.0 instant-casinoo.fr
 0.0.0.0 instantcasinoo.fr
 0.0.0.0 instantcasino-online.fr
+0.0.0.0 instantcasinoonline.fr
 0.0.0.0 instantcasinos1.fr
 0.0.0.0 instant-casinos.fr
 0.0.0.0 instante-casino.fr
@@ -15914,6 +15933,7 @@
 0.0.0.0 jellycatfranceshop.fr
 0.0.0.0 jellycatfr.fr
 0.0.0.0 jellycats-france.fr
+0.0.0.0 jellycatsfr.fr
 0.0.0.0 jellycatsoldes.fr
 0.0.0.0 jemlitcasino.fr
 0.0.0.0 jemlit.fr
@@ -17740,6 +17760,7 @@
 0.0.0.0 lucky31casinofrance.fr
 0.0.0.0 lucky31casino-fr.fr
 0.0.0.0 lucky31casinofr.fr
+0.0.0.0 lucky-31casinos.fr
 0.0.0.0 lucky31-casinos.fr
 0.0.0.0 lucky31.fr
 0.0.0.0 lucky31-france.fr
@@ -18160,6 +18181,7 @@
 0.0.0.0 magicalspin-online.fr
 0.0.0.0 magic-flight.fr
 0.0.0.0 magicwincasino.fr
+0.0.0.0 magiuscasino1.fr
 0.0.0.0 magiuscasinoapp.fr
 0.0.0.0 magiuscasinoavis.fr
 0.0.0.0 magius-casino.fr
@@ -18656,11 +18678,14 @@
 0.0.0.0 megadicecasino.fr
 0.0.0.0 megawincasina.fr
 0.0.0.0 megawincasino1.fr
+0.0.0.0 megawincasinoconexion.fr
+0.0.0.0 megawincasinoconnexion.fr
 0.0.0.0 megawin-casino-france.fr
 0.0.0.0 megawincasinofrance.fr
 0.0.0.0 megawincasino-fr.fr
 0.0.0.0 megawincasinofr.fr
 0.0.0.0 megawincasinoo.fr
+0.0.0.0 megawincasinoonline.fr
 0.0.0.0 megawincasinos.fr
 0.0.0.0 megen.fr
 0.0.0.0 meilleuresactus.fr
@@ -24069,6 +24094,7 @@
 0.0.0.0 rabonacasinobonus.fr
 0.0.0.0 rabonacasinologin.fr
 0.0.0.0 rabonacasinopromocode.fr
+0.0.0.0 rabona-fr.fr
 0.0.0.0 rabona-online.fr
 0.0.0.0 rabparis.fr
 0.0.0.0 racasino3.fr
@@ -25306,6 +25332,7 @@
 0.0.0.0 riobet.fr
 0.0.0.0 rip-curl.fr
 0.0.0.0 ripcurlfrance.fr
+0.0.0.0 ripcurls.fr
 0.0.0.0 rippercasino.fr
 0.0.0.0 ritaespacechaussures.fr
 0.0.0.0 riveparis-banquepopulaire.fr
@@ -27106,6 +27133,7 @@
 0.0.0.0 sessiondata-economiegouv.fr
 0.0.0.0 session-nickel.fr
 0.0.0.0 sessunfr.fr
+0.0.0.0 seven-casinos.fr
 0.0.0.0 sevice-mabanque-bnp-paribas.fr
 0.0.0.0 sevice-mabanque-bnpparibas.fr
 0.0.0.0 sev-prime.fr
@@ -27504,6 +27532,7 @@
 0.0.0.0 singaporeairlines.fr
 0.0.0.0 sinochem.fr
 0.0.0.0 sipath.fr
+0.0.0.0 sip-regulation-france.fr
 0.0.0.0 sirpa-terre-image.fr
 0.0.0.0 sirven-antai.fr
 0.0.0.0 sirwincasinoapp.fr
@@ -30010,6 +30039,7 @@
 0.0.0.0 uni-lille.fr
 0.0.0.0 uni-littoral.fr
 0.0.0.0 unillians.fr
+0.0.0.0 unilqofrance.fr
 0.0.0.0 uni-lyon1.fr
 0.0.0.0 u-nimes.fr
 0.0.0.0 uniondespompier13.fr
@@ -32356,6 +32386,7 @@
 0.0.0.0 xn--universit-nantes-jqb.fr
 0.0.0.0 xn--universit-rennes1-jtb.fr
 0.0.0.0 xn--universit-vry-paris-saclay-jlcb.fr
+0.0.0.0 xn--univ-roun-73a.fr
 0.0.0.0 xn--u-pariscit-k7a.fr
 0.0.0.0 xn--validation-scurit-mtbf.fr
 0.0.0.0 xn--vendezvotrevhicule-mwb.fr
