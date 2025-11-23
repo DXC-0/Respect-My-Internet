@@ -18782,6 +18782,8 @@
 0.0.0.0 *.alebilet.pl-66167.cfd
 0.0.0.0 *.alebilet.pl-7954488.sbs
 0.0.0.0 *.alebilet.pl-92001628oferta.icu
+0.0.0.0 *.alebilet.pl-narzedzia-237238.icu
+0.0.0.0 *.alebilet.pl-narzedzia-293287.icu
 0.0.0.0 *.alebilet.pl-oferta-01923-id-przedmiot.cfd
 0.0.0.0 *.alebilet.pl-oferta-21010-dyson-v15-detect-absolute.cfd
 0.0.0.0 *.alebilet.pl-oferta-21310-id.cfd
@@ -18795,8 +18797,10 @@
 0.0.0.0 *.alebilet.pl-oferta1839907.cfd
 0.0.0.0 *.alebilet.pl-oferta1893310.icu
 0.0.0.0 *.alebilet.pl-oferta2401287.cfd
+0.0.0.0 *.alebilet.pl-oferta2533.cfd
 0.0.0.0 *.alebilet.pl-oferta3289900.cfd
 0.0.0.0 *.alebilet.pl-oferta3315966.sbs
+0.0.0.0 *.alebilet.pl-oferta453457.rest
 0.0.0.0 *.alebilet.pl-oferta458972.cfd
 0.0.0.0 *.alebilet.pl-oferta47862.cfd
 0.0.0.0 *.alebilet.pl-oferta48943.cfd
@@ -19394,6 +19398,8 @@
 0.0.0.0 *.allegro.pl-7954488.sbs
 0.0.0.0 *.allegro.pl-92001628oferta.icu
 0.0.0.0 *.allegro.pl-kategoria-inne-91758.top
+0.0.0.0 *.allegro.pl-narzedzia-237238.icu
+0.0.0.0 *.allegro.pl-narzedzia-293287.icu
 0.0.0.0 *.allegro.pl-ofert21415.shop
 0.0.0.0 *.allegro.pl-oferta-01923-id-przedmiot.cfd
 0.0.0.0 *.allegro.pl-oferta-21010-dyson-v15-detect-absolute.cfd
@@ -19408,9 +19414,11 @@
 0.0.0.0 *.allegro.pl-oferta1839907.cfd
 0.0.0.0 *.allegro.pl-oferta1893310.icu
 0.0.0.0 *.allegro.pl-oferta2401287.cfd
+0.0.0.0 *.allegro.pl-oferta2533.cfd
 0.0.0.0 *.allegro.pl-oferta3289900.cfd
 0.0.0.0 *.allegro.pl-oferta3315966.sbs
 0.0.0.0 *.allegro.pl-oferta45334.com
+0.0.0.0 *.allegro.pl-oferta453457.rest
 0.0.0.0 *.allegro.pl-oferta458972.cfd
 0.0.0.0 *.allegro.pl-oferta47862.cfd
 0.0.0.0 *.allegro.pl-oferta48943.cfd
@@ -19586,6 +19594,8 @@
 0.0.0.0 *.allegrolokalnie.pl-aukcja7429245.shop
 0.0.0.0 *.allegrolokalnie.pl-firmowe-32182.sbs
 0.0.0.0 *.allegrolokalnie.pl-kategoria-inne-91758.top
+0.0.0.0 *.allegrolokalnie.pl-narzedzia-237238.icu
+0.0.0.0 *.allegrolokalnie.pl-narzedzia-293287.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta-01923-id-przedmiot.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta-21010-dyson-v15-detect-absolute.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta-21310-id.cfd
@@ -19598,9 +19608,11 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta1839907.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta1893310.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta2401287.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta2533.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta3104822.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta3289900.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta3315966.sbs
+0.0.0.0 *.allegrolokalnie.pl-oferta453457.rest
 0.0.0.0 *.allegrolokalnie.pl-oferta458972.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta47862.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta48943.cfd
@@ -30791,7 +30803,6 @@
 0.0.0.0 *.ayicikmarketi.net
 0.0.0.0 *.ayifacihozsy.com
 0.0.0.0 *.ayjvwlrbjamyv.top
-0.0.0.0 *.ayjvwlrbjaybm.top
 0.0.0.0 *.ayjvwlrymoalr.top
 0.0.0.0 *.ayjvwlrymorrb.top
 0.0.0.0 *.aykqyjzbkkkra.top
@@ -76041,7 +76052,6 @@
 0.0.0.0 *.eldjawal2.ddns.net
 0.0.0.0 *.eldodesign.com
 0.0.0.0 *.eldoradomalaga.com
-0.0.0.0 *.eldridgestreet.org
 0.0.0.0 *.eldros-lutharis-app.com
 0.0.0.0 *.eldroslutharis.net
 0.0.0.0 *.eleaiok.in
@@ -142974,7 +142984,6 @@
 0.0.0.0 *.moos.cairnsteg.ru
 0.0.0.0 *.moos.capi1aryhold.ru
 0.0.0.0 *.moos.chankexpe1.ru
-0.0.0.0 *.moos.flintquelle.ru
 0.0.0.0 *.moos.ivyvale.ru
 0.0.0.0 *.moos.l1ghtseed.ru
 0.0.0.0 *.moos.prismgrau.ru
@@ -154092,6 +154101,8 @@
 0.0.0.0 *.olx.pl-92001628oferta.icu
 0.0.0.0 *.olx.pl-aukcja7391.icu
 0.0.0.0 *.olx.pl-aukcja7429245.shop
+0.0.0.0 *.olx.pl-narzedzia-237238.icu
+0.0.0.0 *.olx.pl-narzedzia-293287.icu
 0.0.0.0 *.olx.pl-oferta-01923-id-przedmiot.cfd
 0.0.0.0 *.olx.pl-oferta-21010-dyson-v15-detect-absolute.cfd
 0.0.0.0 *.olx.pl-oferta-21310-id.cfd
@@ -154105,8 +154116,10 @@
 0.0.0.0 *.olx.pl-oferta1839907.cfd
 0.0.0.0 *.olx.pl-oferta1893310.icu
 0.0.0.0 *.olx.pl-oferta2401287.cfd
+0.0.0.0 *.olx.pl-oferta2533.cfd
 0.0.0.0 *.olx.pl-oferta3289900.cfd
 0.0.0.0 *.olx.pl-oferta3315966.sbs
+0.0.0.0 *.olx.pl-oferta453457.rest
 0.0.0.0 *.olx.pl-oferta458972.cfd
 0.0.0.0 *.olx.pl-oferta47862.cfd
 0.0.0.0 *.olx.pl-oferta48943.cfd
@@ -182337,7 +182350,6 @@
 0.0.0.0 *.root-security-yah00-domain5854335.ronandownes.net
 0.0.0.0 *.root.jessami.co.uk
 0.0.0.0 *.root.qw.su
-0.0.0.0 *.root123454321-24953.portmap.host
 0.0.0.0 *.root9b.actonservice.com
 0.0.0.0 *.rootalliance.com
 0.0.0.0 *.rootboundmarketing.com
@@ -221515,7 +221527,6 @@
 0.0.0.0 *.thornhill-fundex-soft.com
 0.0.0.0 *.thornhill-fundex.net
 0.0.0.0 *.thornleygroup.com
-0.0.0.0 *.thornspire.design
 0.0.0.0 *.thornvale.ink
 0.0.0.0 *.thorny-structure.pro
 0.0.0.0 *.thorny-youth.pro
@@ -224259,7 +224270,6 @@
 0.0.0.0 *.tossday.buzz
 0.0.0.0 *.tossdayz.xyz
 0.0.0.0 *.tossfitz.buzz
-0.0.0.0 *.tosshub.top
 0.0.0.0 *.tosshubz.xyz
 0.0.0.0 *.tossilyddi.pro
 0.0.0.0 *.tossjoyx.xyz
@@ -225042,7 +225052,6 @@
 0.0.0.0 *.tr.info.aliae.com
 0.0.0.0 *.tr.info.aprr.fr
 0.0.0.0 *.tr.info.arialcnp.fr
-0.0.0.0 *.tr.info.astermod.net
 0.0.0.0 *.tr.info.aussois.com
 0.0.0.0 *.tr.info.bessans.com
 0.0.0.0 *.tr.info.bonneval-sur-arc.com
@@ -231863,7 +231872,6 @@
 0.0.0.0 *.uac.mk.co.kr
 0.0.0.0 *.uacugnyezgqvp.site
 0.0.0.0 *.uadecedumx22.weebly.com
-0.0.0.0 *.uadkzomxuimbxogrgdet.space
 0.0.0.0 *.uadmi.shop
 0.0.0.0 *.uadp.weebly.com
 0.0.0.0 *.uadrc.com
@@ -232528,7 +232536,6 @@
 0.0.0.0 *.uiqoqdlewwvggs.com
 0.0.0.0 *.uiqouw.icu
 0.0.0.0 *.uirbd.com
-0.0.0.0 *.uirs.br1arwild.ru
 0.0.0.0 *.uirusu.jp
 0.0.0.0 *.uishi.com
 0.0.0.0 *.uisrrspyanjup.store
@@ -239212,6 +239219,8 @@
 0.0.0.0 *.vinted.paymentsuccessfully01184.icu
 0.0.0.0 *.vinted.pl-7954488.sbs
 0.0.0.0 *.vinted.pl-92001628oferta.icu
+0.0.0.0 *.vinted.pl-narzedzia-237238.icu
+0.0.0.0 *.vinted.pl-narzedzia-293287.icu
 0.0.0.0 *.vinted.pl-oferta-01923-id-przedmiot.cfd
 0.0.0.0 *.vinted.pl-oferta-21010-dyson-v15-detect-absolute.cfd
 0.0.0.0 *.vinted.pl-oferta-21310-id.cfd
@@ -239225,8 +239234,10 @@
 0.0.0.0 *.vinted.pl-oferta1839907.cfd
 0.0.0.0 *.vinted.pl-oferta1893310.icu
 0.0.0.0 *.vinted.pl-oferta2401287.cfd
+0.0.0.0 *.vinted.pl-oferta2533.cfd
 0.0.0.0 *.vinted.pl-oferta3289900.cfd
 0.0.0.0 *.vinted.pl-oferta3315966.sbs
+0.0.0.0 *.vinted.pl-oferta453457.rest
 0.0.0.0 *.vinted.pl-oferta458972.cfd
 0.0.0.0 *.vinted.pl-oferta47862.cfd
 0.0.0.0 *.vinted.pl-oferta48943.cfd
