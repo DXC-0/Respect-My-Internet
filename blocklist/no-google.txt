@@ -6466,7 +6466,6 @@
 0.0.0.0 android-cdn-softclient.fitbit.com
 0.0.0.0 android-client.fitbit.com
 0.0.0.0 android-softclient.fitbit.com
-0.0.0.0 api-lb.fitbit.com
 0.0.0.0 api-pro.fitbit.com
 0.0.0.0 api.fitbit.com
 0.0.0.0 app.plus.fitbit.com
