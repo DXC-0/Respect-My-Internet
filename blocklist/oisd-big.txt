@@ -10993,7 +10993,6 @@
 0.0.0.0 *.account-access-review.web.app
 0.0.0.0 *.account-access-view.firebaseapp.com
 0.0.0.0 *.account-access-view.web.app
-0.0.0.0 *.account-amex.mannafound.com
 0.0.0.0 *.account-app1elocked.zapto.org
 0.0.0.0 *.account-appleid-com-n2qd8tjl.15q8.com
 0.0.0.0 *.account-bookcaptcha.com
