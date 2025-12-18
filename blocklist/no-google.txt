@@ -868,6 +868,7 @@
 0.0.0.0 analytics.firebaseapp.com
 0.0.0.0 analytics.google.com
 0.0.0.0 answer.google.com
+0.0.0.0 antigravity.google
 0.0.0.0 answers.google.com
 0.0.0.0 ap.google.com
 0.0.0.0 api.google.com
@@ -1038,6 +1039,7 @@
 0.0.0.0 google.ac
 0.0.0.0 google.ad
 0.0.0.0 google.ae
+0.0.0.0 google.ai
 0.0.0.0 google.al
 0.0.0.0 google.am
 0.0.0.0 google.as
@@ -1677,6 +1679,7 @@
 0.0.0.0 www.google.ac
 0.0.0.0 www.google.ad
 0.0.0.0 www.google.ae
+0.0.0.0 www.google.ai
 0.0.0.0 www.google.al
 0.0.0.0 www.google.am
 0.0.0.0 www.google.as
