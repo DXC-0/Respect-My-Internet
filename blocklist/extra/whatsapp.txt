@@ -1,3 +1,4 @@
+
 0.0.0.0 account.whatsapp.com
 0.0.0.0 alpha.whatsapp.com
 0.0.0.0 api.whatsapp.com
@@ -104,6 +105,7 @@
 0.0.0.0 media.fmnl10-1.fna.whatsapp.net
 0.0.0.0 media.fplu6-1.fna.whatsapp.net
 0.0.0.0 media.fprg2-1.fna.whatsapp.net
+0.0.0.0 media.fqls2-1.fna.whatsapp.net
 0.0.0.0 media.frec2-1.fna.whatsapp.net
 0.0.0.0 media.frix1-1.fna.whatsapp.net
 0.0.0.0 media.frix4-1.fna.whatsapp.net
@@ -131,8 +133,10 @@
 0.0.0.0 mms.whatsapp.net
 0.0.0.0 payments-localisation.whatsapp.com
 0.0.0.0 pps.whatsapp.net
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 ratings.whatsapp.com
 0.0.0.0 sjc.whatsapp.com
+0.0.0.0 static.whatsapp.net
 0.0.0.0 support.whatsapp.com
 0.0.0.0 test-web.whatsapp.com
 0.0.0.0 translate-dev.whatsapp.com
@@ -221,6 +225,3 @@
 0.0.0.0 www.whatsapp.com
 0.0.0.0 www.xl.whatsapp.com
 0.0.0.0 wwwl.whatsapp.com
-0.0.0.0 static.whatsapp.net
-0.0.0.0 privatestats.whatsapp.net
-0.0.0.0 media.fqls2-1.fna.whatsapp.net
