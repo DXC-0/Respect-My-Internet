@@ -189841,7 +189841,6 @@
 0.0.0.0 *.sc.dssh.shop
 0.0.0.0 *.sc.frauddefensecorp.com
 0.0.0.0 *.sc.link
-0.0.0.0 *.sc.liveme.com
 0.0.0.0 *.sc.livetvcdn.net
 0.0.0.0 *.sc.locator-rbs.co.uk
 0.0.0.0 *.sc.metrics-shell.com
