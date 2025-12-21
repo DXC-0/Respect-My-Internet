@@ -709,6 +709,8 @@
 0.0.0.0 action-requise.fr
 0.0.0.0 actionsdgfipgouv.fr
 0.0.0.0 action-securi-client.fr
+0.0.0.0 actionsolde.fr
+0.0.0.0 actionsoldes.fr
 0.0.0.0 activate-cvitale.fr
 0.0.0.0 activate-prime.fr
 0.0.0.0 activation-abonnement.fr
@@ -837,6 +839,7 @@
 0.0.0.0 actualisation-sante-france.fr
 0.0.0.0 actualisation-service-assure-enligne.fr
 0.0.0.0 actualisation-service.fr
+0.0.0.0 actualisation-service-orange.fr
 0.0.0.0 actualisation-service-public-ameli.fr
 0.0.0.0 actualisation-service-public.fr
 0.0.0.0 actualisation-vitale.fr
@@ -2909,6 +2912,7 @@
 0.0.0.0 annonces-offre-lbc-25480256.fr
 0.0.0.0 annonces-offres-lbc8798789678267298.fr
 0.0.0.0 annonces-offres-leboncoin.fr
+0.0.0.0 annulation-agricole.fr
 0.0.0.0 annulation-banquepop.fr
 0.0.0.0 annulation-banquepopulaire.fr
 0.0.0.0 annulation-banquepostale.fr
@@ -15874,6 +15878,7 @@
 0.0.0.0 inoui-ouigo-sncf.fr
 0.0.0.0 inovieo.fr
 0.0.0.0 inpee.fr
+0.0.0.0 inpi-contact.fr
 0.0.0.0 inpot-semestre.fr
 0.0.0.0 inpotsgouv.fr
 0.0.0.0 inriaples.fr
@@ -16091,6 +16096,7 @@
 0.0.0.0 irishluckcasinocode.fr
 0.0.0.0 irishluckcasinologin.fr
 0.0.0.0 irmo.fr
+0.0.0.0 irobotfrance.fr
 0.0.0.0 ironpro-officiel.fr
 0.0.0.0 ironstore.fr
 0.0.0.0 iropascher.fr
@@ -26245,6 +26251,7 @@
 0.0.0.0 sas-transports-barcos.fr
 0.0.0.0 sasu-bric.fr
 0.0.0.0 sasu-gtmbatimnt.fr
+0.0.0.0 satisfaction-maaf.fr
 0.0.0.0 satorisanfrance.fr
 0.0.0.0 sauconychaussurefrance.fr
 0.0.0.0 saucony-france.fr
@@ -30155,6 +30162,7 @@
 0.0.0.0 tn-outlet.fr
 0.0.0.0 tnoutlet.fr
 0.0.0.0 tn-outlet-online.fr
+0.0.0.0 tnsneaker.fr
 0.0.0.0 tn-storeoutlet.fr
 0.0.0.0 tnstore-outlet.fr
 0.0.0.0 tntexpressfrance.fr
@@ -30643,6 +30651,7 @@
 0.0.0.0 universalmusiclabel.fr
 0.0.0.0 universal-music-store.fr
 0.0.0.0 universalstudioshollywood.fr
+0.0.0.0 universdumaillot.fr
 0.0.0.0 universfoot.fr
 0.0.0.0 universita-corsica.fr
 0.0.0.0 universite-aix-marseille.fr
@@ -31981,6 +31990,7 @@
 0.0.0.0 winbeatz.fr
 0.0.0.0 winbet-casino.fr
 0.0.0.0 winbet-fr.fr
+0.0.0.0 winbet.pm
 0.0.0.0 wincitycasino.fr
 0.0.0.0 windevv.fr
 0.0.0.0 win-disney-transfer.fr
