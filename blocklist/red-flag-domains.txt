@@ -2925,6 +2925,7 @@
 0.0.0.0 annulation-darty.fr
 0.0.0.0 annulationdepaiement.fr
 0.0.0.0 annulationdepaiement-societegenerale.fr
+0.0.0.0 annulation-dgccrf.fr
 0.0.0.0 annulation-esim.fr
 0.0.0.0 annulation-e-sim-sfr.fr
 0.0.0.0 annulation-esim-sfr.fr
@@ -4769,6 +4770,7 @@
 0.0.0.0 barefootfrance.fr
 0.0.0.0 barelchaussures.fr
 0.0.0.0 bar-prime.fr
+0.0.0.0 barreaudelyon.fr
 0.0.0.0 ba-shfrance.fr
 0.0.0.0 basicfitaccount.fr
 0.0.0.0 basketautryfrance.fr
@@ -5096,6 +5098,7 @@
 0.0.0.0 bigclash1.fr
 0.0.0.0 big-clash-casino.fr
 0.0.0.0 bigclashcasinos.fr
+0.0.0.0 bigclashconnexion.fr
 0.0.0.0 bigclashfrance.fr
 0.0.0.0 big-clash-fr.fr
 0.0.0.0 bigclash-online.fr
@@ -9120,6 +9123,7 @@
 0.0.0.0 connectpaypl.fr
 0.0.0.0 connect-prime.fr
 0.0.0.0 connect-racco.fr
+0.0.0.0 connect-reglement.fr
 0.0.0.0 connectsecurpyl.fr
 0.0.0.0 connectsedenred.fr
 0.0.0.0 connectwebpal.fr
@@ -9694,6 +9698,7 @@
 0.0.0.0 credit-a-err.fr
 0.0.0.0 creditagdepotplainte.fr
 0.0.0.0 credit-agreicole.fr
+0.0.0.0 credit-agri-ca.fr
 0.0.0.0 credit-agricole-acces-compte.fr
 0.0.0.0 credit-agricole-acces.fr
 0.0.0.0 creditagricole-activation.fr
@@ -17591,6 +17596,7 @@
 0.0.0.0 lidl-logistic.fr
 0.0.0.0 lidl-marketplace.fr
 0.0.0.0 lidl-me.fr
+0.0.0.0 lidls-store.fr
 0.0.0.0 lieberation.fr
 0.0.0.0 liefigaro.fr
 0.0.0.0 liemonde.fr
@@ -18600,6 +18606,7 @@
 0.0.0.0 maillotside.fr
 0.0.0.0 maillotslbenfica.fr
 0.0.0.0 maillotsnba.fr
+0.0.0.0 maillotspack.fr
 0.0.0.0 maillotsparissaintgermain.fr
 0.0.0.0 maillotspro.fr
 0.0.0.0 maillotspsg.fr
@@ -22153,6 +22160,7 @@
 0.0.0.0 oppo-labanquepostale.fr
 0.0.0.0 oppo.re
 0.0.0.0 oppo-sgsecure.fr
+0.0.0.0 opposition-banquepostale.fr
 0.0.0.0 opposition-cartes.fr
 0.0.0.0 opposition-cb.fr
 0.0.0.0 opposition-ccp.fr
@@ -26523,6 +26531,7 @@
 0.0.0.0 securecareactivation.fr
 0.0.0.0 secure-carte.fr
 0.0.0.0 secure-carte-vitale.fr
+0.0.0.0 secure-ccf.fr
 0.0.0.0 secureccount.fr
 0.0.0.0 secure-certicode.fr
 0.0.0.0 securecerticode.fr
@@ -28648,6 +28657,7 @@
 0.0.0.0 spinbara777.fr
 0.0.0.0 spin-bara-casino.fr
 0.0.0.0 spinbara-fr.fr
+0.0.0.0 spinbarafr.fr
 0.0.0.0 spinbara-online.fr
 0.0.0.0 spin-cash-win.fr
 0.0.0.0 spin-casino.fr
@@ -30024,6 +30034,7 @@
 0.0.0.0 ticketlegende.fr
 0.0.0.0 ticketlegend.fr
 0.0.0.0 ticketmadter.fr
+0.0.0.0 ticketmall.fr
 0.0.0.0 ticket-mania.fr
 0.0.0.0 ticketmania.fr
 0.0.0.0 ticketmastee.fr
