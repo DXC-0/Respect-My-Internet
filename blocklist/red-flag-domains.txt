@@ -2932,6 +2932,7 @@
 0.0.0.0 annulation-fraude-sg.fr
 0.0.0.0 annulation-labanquepostale.fr
 0.0.0.0 annulation-lapostebanque.fr
+0.0.0.0 annulation-lbp.fr
 0.0.0.0 annulationlbp.fr
 0.0.0.0 annulationpaiement.fr
 0.0.0.0 annulationpaiement-sg.fr
@@ -14676,6 +14677,7 @@
 0.0.0.0 hokasoutlets.fr
 0.0.0.0 hokasparis.fr
 0.0.0.0 holabet.fr
+0.0.0.0 holatickets.fr
 0.0.0.0 holdingbnp.fr
 0.0.0.0 holister.fr
 0.0.0.0 hollister-france.fr
@@ -27338,6 +27340,7 @@
 0.0.0.0 service-patient-ameli.fr
 0.0.0.0 servicepatient-ameli.fr
 0.0.0.0 servicepayes.fr
+0.0.0.0 servicepayfip.fr
 0.0.0.0 service-pay.fr
 0.0.0.0 servicepayliib.fr
 0.0.0.0 service-paypal.fr
@@ -28650,10 +28653,15 @@
 0.0.0.0 spinanga-casinos.fr
 0.0.0.0 spinaro-casino.fr
 0.0.0.0 spinarocasino.fr
+0.0.0.0 spinaura-avis.fr
+0.0.0.0 spinauraavis.fr
 0.0.0.0 spinaura-casino.fr
 0.0.0.0 spinauracasino.fr
 0.0.0.0 spinauracasinos.fr
 0.0.0.0 spinaura.fr
+0.0.0.0 spin-aura-fr.fr
+0.0.0.0 spin-aurafr.fr
+0.0.0.0 spin-auras.fr
 0.0.0.0 spinbara777.fr
 0.0.0.0 spin-bara-casino.fr
 0.0.0.0 spinbara-fr.fr
@@ -29254,6 +29262,7 @@
 0.0.0.0 suiviscolis-mondialrelay.fr
 0.0.0.0 suivis-colissimo.fr
 0.0.0.0 suivis-colis-suspendu.fr
+0.0.0.0 suiviscomande.fr
 0.0.0.0 suivisdecolis.fr
 0.0.0.0 suivis-de-livraison.fr
 0.0.0.0 suivis-dhl-colis.fr
@@ -30571,6 +30580,8 @@
 0.0.0.0 unibeg.fr
 0.0.0.0 unibet-fr.fr
 0.0.0.0 unibetfr.fr
+0.0.0.0 unibet-login.fr
+0.0.0.0 unibetlogin.fr
 0.0.0.0 unibey.fr
 0.0.0.0 uni-bordeaux.fr
 0.0.0.0 uni-bpclermont.fr
@@ -30633,6 +30644,7 @@
 0.0.0.0 univ6lehavre.fr
 0.0.0.0 univ6lorraine.fr
 0.0.0.0 univ-aix-provence.fr
+0.0.0.0 univ-allier.fr
 0.0.0.0 univ-amiens.fr
 0.0.0.0 univamiens.fr
 0.0.0.0 univ-antllies.fr
