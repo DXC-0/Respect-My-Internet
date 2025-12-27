@@ -53,6 +53,7 @@
 0.0.0.0 *.00404850.xyz
 0.0.0.0 *.00427011ae.com
 0.0.0.0 *.005.0x1f4b0.com
+0.0.0.0 *.005382.vu
 0.0.0.0 *.006.0x1f4b0.com
 0.0.0.0 *.006.free-counter.co.uk
 0.0.0.0 *.006.free-counters.co.uk
@@ -12523,6 +12524,7 @@
 0.0.0.0 *.adsmediabox.com
 0.0.0.0 *.adsmedicalbilling.com
 0.0.0.0 *.adsmetadata.mobileadexchange.net
+0.0.0.0 *.adsmetricx.icu
 0.0.0.0 *.adsmg.fanfox.net
 0.0.0.0 *.adsmind.apdcdn.tc.qq.com
 0.0.0.0 *.adsmind.gdtimg.com.svideolego-dk.sched.dcloudstc.com
@@ -13591,6 +13593,7 @@
 0.0.0.0 *.affablelabel.com
 0.0.0.0 *.affablesnail.pro
 0.0.0.0 *.affaccianel.com
+0.0.0.0 *.affacclli.homes
 0.0.0.0 *.affacorporate.com.br
 0.0.0.0 *.affacscosc.pro
 0.0.0.0 *.affactor-f4180.firebaseapp.com
@@ -15481,11 +15484,13 @@
 0.0.0.0 *.alebilet.0-230-23.rest
 0.0.0.0 *.alebilet.001472.click
 0.0.0.0 *.alebilet.002841.click
+0.0.0.0 *.alebilet.009918.click
 0.0.0.0 *.alebilet.012843.click
 0.0.0.0 *.alebilet.017389.click
 0.0.0.0 *.alebilet.018274.click
 0.0.0.0 *.alebilet.027141.click
 0.0.0.0 *.alebilet.073250.click
+0.0.0.0 *.alebilet.073912.click
 0.0.0.0 *.alebilet.08527.click
 0.0.0.0 *.alebilet.1322.click
 0.0.0.0 *.alebilet.1521.click
@@ -15508,6 +15513,7 @@
 0.0.0.0 *.alebilet.6362001.click
 0.0.0.0 *.alebilet.6363941103.click
 0.0.0.0 *.alebilet.63667193.click
+0.0.0.0 *.alebilet.63738.vu
 0.0.0.0 *.alebilet.637890.click
 0.0.0.0 *.alebilet.638361.click
 0.0.0.0 *.alebilet.64738.me
@@ -16168,6 +16174,7 @@
 0.0.0.0 *.allegro-lokalnie.zam-295442.it.com
 0.0.0.0 *.allegro-lokalnie.zam-295443.it.com
 0.0.0.0 *.allegro-lokalnie.zam-295648.it.com
+0.0.0.0 *.allegro-lokalnie.zam-295748.it.com
 0.0.0.0 *.allegro-nova.com
 0.0.0.0 *.allegro-oferta8236123534.icu
 0.0.0.0 *.allegro-pl-login.comxa.com
@@ -16181,6 +16188,7 @@
 0.0.0.0 *.allegro.002841.click
 0.0.0.0 *.allegro.009918.click
 0.0.0.0 *.allegro.012843.click
+0.0.0.0 *.allegro.01648.click
 0.0.0.0 *.allegro.017389.click
 0.0.0.0 *.allegro.018274.click
 0.0.0.0 *.allegro.027141.click
@@ -16188,6 +16196,7 @@
 0.0.0.0 *.allegro.0392-3949praynie.sbs
 0.0.0.0 *.allegro.053993papzjk.sbs
 0.0.0.0 *.allegro.073250.click
+0.0.0.0 *.allegro.073912.click
 0.0.0.0 *.allegro.08527.click
 0.0.0.0 *.allegro.09proywanit-53017.cyou
 0.0.0.0 *.allegro.1521.click
@@ -16215,6 +16224,7 @@
 0.0.0.0 *.allegro.6362001.click
 0.0.0.0 *.allegro.6363941103.click
 0.0.0.0 *.allegro.63667193.click
+0.0.0.0 *.allegro.63738.vu
 0.0.0.0 *.allegro.637822.click
 0.0.0.0 *.allegro.637890.click
 0.0.0.0 *.allegro.638361.click
@@ -16244,6 +16254,7 @@
 0.0.0.0 *.allegro.oferta-82615561.click
 0.0.0.0 *.allegro.oferta-981247.icu
 0.0.0.0 *.allegro.oferta.asia
+0.0.0.0 *.allegro.off-eu.cyou
 0.0.0.0 *.allegro.pi4101410.rest
 0.0.0.0 *.allegro.pisiyachiy.shop
 0.0.0.0 *.allegro.pl-12879.shop
@@ -16415,6 +16426,7 @@
 0.0.0.0 *.allegrolokalnie.027141.click
 0.0.0.0 *.allegrolokalnie.073250.click
 0.0.0.0 *.allegrolokalnie.073523.vu
+0.0.0.0 *.allegrolokalnie.073912.click
 0.0.0.0 *.allegrolokalnie.08527.click
 0.0.0.0 *.allegrolokalnie.09848.sbs
 0.0.0.0 *.allegrolokalnie.1322.click
@@ -16709,7 +16721,6 @@
 0.0.0.0 *.allegrolokalnie.pl-elektronika8432.cfd
 0.0.0.0 *.allegrolokalnie.pl-elektronika87345.cfd
 0.0.0.0 *.allegrolokalnie.pl-firmowe-112241.sbs
-0.0.0.0 *.allegrolokalnie.pl-firmowe-27339.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-27463.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-28121.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-481414.icu
@@ -17508,6 +17519,7 @@
 0.0.0.0 *.altrix-quantum.com
 0.0.0.0 *.altrix-spot.com
 0.0.0.0 *.altrix-spotpro-app.com
+0.0.0.0 *.altrix-spotpro.com
 0.0.0.0 *.altrix-sync-app.com
 0.0.0.0 *.altrix-sync.io
 0.0.0.0 *.altrixconnect.app
@@ -49034,7 +49046,6 @@
 0.0.0.0 *.connectmetodapps.firebaseapp.com
 0.0.0.0 *.connectmetodapps.web.app
 0.0.0.0 *.connectoritineraryswimming.com
-0.0.0.0 *.connectpanelgen.store
 0.0.0.0 *.connectpsychics.com
 0.0.0.0 *.connectreadoasis.com
 0.0.0.0 *.connecttelephonique.firebaseapp.com
@@ -63130,6 +63141,7 @@
 0.0.0.0 *.drogerie-sale.shop
 0.0.0.0 *.drogerienatura-pl.shop
 0.0.0.0 *.drogerienatura.obroty.shop
+0.0.0.0 *.drogerienaturashop.sbs
 0.0.0.0 *.drogue-info-service.fr
 0.0.0.0 *.drohnesalub.pro
 0.0.0.0 *.drohobycz-boryslaw.org
@@ -67172,6 +67184,7 @@
 0.0.0.0 *.emailupgradeadmin.godaddysites.com
 0.0.0.0 *.emailverification.co.za
 0.0.0.0 *.emailverification.fr
+0.0.0.0 *.emailwiizard.icu
 0.0.0.0 *.emailwizard.icu
 0.0.0.0 *.emaily3lm84n.firebaseapp.com
 0.0.0.0 *.emaily3lm84n.web.app
@@ -68971,6 +68984,7 @@
 0.0.0.0 *.esat.com.tr
 0.0.0.0 *.esaurungua.pro
 0.0.0.0 *.esautcolew.pro
+0.0.0.0 *.esautmalca.world
 0.0.0.0 *.esavefile.com
 0.0.0.0 *.esbordisag.pro
 0.0.0.0 *.esc-offers.com
@@ -83090,6 +83104,7 @@
 0.0.0.0 *.gimmerseaboot.cyou
 0.0.0.0 *.gimnasiaer.com
 0.0.0.0 *.gimnasiofitness.co
+0.0.0.0 *.gimnast.fun
 0.0.0.0 *.gimnazjumlyski.pl
 0.0.0.0 *.gimnazjumniedrzwica.pl
 0.0.0.0 *.gimnsr.com
@@ -84918,6 +84933,7 @@
 0.0.0.0 *.gomeselltw.com
 0.0.0.0 *.gomeshopec.com
 0.0.0.0 *.gomeshoptw.com
+0.0.0.0 *.gomezclaire.shop
 0.0.0.0 *.gomezgomez.duckdns.org
 0.0.0.0 *.gomezmontero.eu
 0.0.0.0 *.gomezmunisanisidro.weebly.com
@@ -102097,7 +102113,6 @@
 0.0.0.0 *.iugvoo.icu
 0.0.0.0 *.iuh234.medianewsonline.com
 0.0.0.0 *.iuiqes04.com
-0.0.0.0 *.iujmtfksuiui.com
 0.0.0.0 *.iujtns.com
 0.0.0.0 *.iukgfdhj.pages.dev
 0.0.0.0 *.iukmxnwetreadioplio.weebly.com
@@ -105357,6 +105372,7 @@
 0.0.0.0 *.jyqekzzlmymab.top
 0.0.0.0 *.jyrynya.com
 0.0.0.0 *.jyryrii8.com
+0.0.0.0 *.jysk-pl.sbs
 0.0.0.0 *.jysk.mibaozhan.com
 0.0.0.0 *.jyskeuronline.com
 0.0.0.0 *.jysksale.xyz
@@ -105656,6 +105672,7 @@
 0.0.0.0 *.kalio.info
 0.0.0.0 *.kalipanthu.com
 0.0.0.0 *.kaliuniv.com
+0.0.0.0 *.kalkulator.szabo-balazs.hu
 0.0.0.0 *.kallichox22.duckdns.org
 0.0.0.0 *.kalm-fundrelix.net
 0.0.0.0 *.kalm3m.emberklamm.ru
@@ -111934,6 +111951,7 @@
 0.0.0.0 *.lg0lh2qfj4.com
 0.0.0.0 *.lg5n0e.l-0-ngpo-1-e.ru
 0.0.0.0 *.lgahmmjhrmpvv.online
+0.0.0.0 *.lgaiarcus.world
 0.0.0.0 *.lgbtqwebdesign.com
 0.0.0.0 *.lgcay.com
 0.0.0.0 *.lgcne.com
@@ -135934,6 +135952,7 @@
 0.0.0.0 *.olx.027141.click
 0.0.0.0 *.olx.0392-3949praynie.sbs
 0.0.0.0 *.olx.073250.click
+0.0.0.0 *.olx.073912.click
 0.0.0.0 *.olx.08527.click
 0.0.0.0 *.olx.09proywanit-53017.cyou
 0.0.0.0 *.olx.0pro-r0938.icu
@@ -135961,6 +135980,7 @@
 0.0.0.0 *.olx.629361.click
 0.0.0.0 *.olx.6363941103.click
 0.0.0.0 *.olx.63667193.click
+0.0.0.0 *.olx.63738.vu
 0.0.0.0 *.olx.637890.click
 0.0.0.0 *.olx.638361.click
 0.0.0.0 *.olx.64738.me
@@ -137784,6 +137804,7 @@
 0.0.0.0 *.orbitklaustein.pro
 0.0.0.0 *.orbitnetwork.net
 0.0.0.0 *.orbitnotify.com
+0.0.0.0 *.orbitriemp.homes
 0.0.0.0 *.orbitshift09chronowave.sbs
 0.0.0.0 *.orbitshift361fluxunity.sbs
 0.0.0.0 *.orbitshift68novaengine.sbs
@@ -145762,6 +145783,7 @@
 0.0.0.0 *.pl-oferta9598623.icu
 0.0.0.0 *.pl-oferta9610579.shop
 0.0.0.0 *.pl-oferta962033-google-pixel-10-pro-xl.sbs
+0.0.0.0 *.pl-oferta962033-playstation-5-fat.sbs
 0.0.0.0 *.pl-oferta9634777.icu
 0.0.0.0 *.pl-oferta96687589756.sbs
 0.0.0.0 *.pl-oferta9678481.cfd
@@ -146041,6 +146063,7 @@
 0.0.0.0 *.pl4fulbunny.com
 0.0.0.0 *.pl548151275oferta.icu
 0.0.0.0 *.pl636373773oferta.cfd
+0.0.0.0 *.pl6748934.cfd
 0.0.0.0 *.pl8363539przedmiot.icu
 0.0.0.0 *.pl83688507przedmiot.icu
 0.0.0.0 *.pl8543912523ogloszenie.icu
@@ -156414,6 +156437,7 @@
 0.0.0.0 *.qubiquantmind.com
 0.0.0.0 *.qubiquantneo.com
 0.0.0.0 *.qubiquantnode-tech.com
+0.0.0.0 *.qubiquantnode.com
 0.0.0.0 *.qubiquantnodetech.com
 0.0.0.0 *.qubiquantorigin.com
 0.0.0.0 *.qubiquantorigin.net
@@ -162223,6 +162247,7 @@
 0.0.0.0 *.rissesco.com
 0.0.0.0 *.ristacogno.pro
 0.0.0.0 *.ristarecla.pro
+0.0.0.0 *.ristatrucc.world
 0.0.0.0 *.risteunsub.pro
 0.0.0.0 *.ristiseism.com
 0.0.0.0 *.ristodiamo.com
@@ -168163,6 +168188,7 @@
 0.0.0.0 *.searchanonymous.net
 0.0.0.0 *.searchapp.space
 0.0.0.0 *.searchbee.net
+0.0.0.0 *.searchbrain.digital
 0.0.0.0 *.searchbutler.com
 0.0.0.0 *.searchby.net
 0.0.0.0 *.searchcentrix.com
@@ -170782,6 +170808,7 @@
 0.0.0.0 *.sfigure.com
 0.0.0.0 *.sfigurefra.pro
 0.0.0.0 *.sfinancierfortuneo.fr
+0.0.0.0 *.sfinevinol.homes
 0.0.0.0 *.sfingoppia.pro
 0.0.0.0 *.sfinney-totelcsi.formaloo.co
 0.0.0.0 *.sfiushidhseiugiusehx.biz
@@ -204030,6 +204057,7 @@
 0.0.0.0 *.valtrixsystems.com
 0.0.0.0 *.valtronixfinapp.com
 0.0.0.0 *.valtronixfinapp.net
+0.0.0.0 *.valturoxtrade.net
 0.0.0.0 *.valuable-distance.com
 0.0.0.0 *.valuablelayoutgodless.com
 0.0.0.0 *.valuablemarch.com
@@ -206780,10 +206808,12 @@
 0.0.0.0 *.vinted.002841.click
 0.0.0.0 *.vinted.009918.click
 0.0.0.0 *.vinted.012843.click
+0.0.0.0 *.vinted.01648.click
 0.0.0.0 *.vinted.017389.click
 0.0.0.0 *.vinted.018274.click
 0.0.0.0 *.vinted.027141.click
 0.0.0.0 *.vinted.073250.click
+0.0.0.0 *.vinted.073912.click
 0.0.0.0 *.vinted.08527.click
 0.0.0.0 *.vinted.1322.click
 0.0.0.0 *.vinted.1521.click
@@ -206800,6 +206830,7 @@
 0.0.0.0 *.vinted.527841.click
 0.0.0.0 *.vinted.5383118.click
 0.0.0.0 *.vinted.538391.click
+0.0.0.0 *.vinted.60837.click
 0.0.0.0 *.vinted.612941.click
 0.0.0.0 *.vinted.627491.click
 0.0.0.0 *.vinted.629361.click
@@ -211693,6 +211724,7 @@
 0.0.0.0 *.wertoniax-platform.com
 0.0.0.0 *.wertoniax.net
 0.0.0.0 *.wertoniox-app.com
+0.0.0.0 *.wertoniox.net
 0.0.0.0 *.wertonioxengine.com
 0.0.0.0 *.wertrionx-engine.com
 0.0.0.0 *.werttriebai-app.com
@@ -215898,6 +215930,7 @@
 0.0.0.0 *.xeib.cc
 0.0.0.0 *.xeibs.cc
 0.0.0.0 *.xeitnipcoefge.store
+0.0.0.0 *.xekboyujuynotawo.cloud
 0.0.0.0 *.xekrbwex7d.com
 0.0.0.0 *.xel-xel-fie.com
 0.0.0.0 *.xelaouad.ddns.net
