@@ -14651,6 +14651,7 @@
 0.0.0.0 *.aiebilet.pl-smart0588341.cfd
 0.0.0.0 *.aiebilet.pl-smart0588342.cfd
 0.0.0.0 *.aiebilet.pl-smart0592424.cfd
+0.0.0.0 *.aiebilet.pl-smart1859242.cfd
 0.0.0.0 *.aiebilet.pl-smart1895724.cfd
 0.0.0.0 *.aiebilet.pl-smart329845.cfd
 0.0.0.0 *.aiebilet.pl-smart4871487.cfd
@@ -14659,7 +14660,10 @@
 0.0.0.0 *.aiebilet.pl-smart6790134.cfd
 0.0.0.0 *.aiebilet.pl-smart6801652.cfd
 0.0.0.0 *.aiebilet.pl-smart7588222.cfd
+0.0.0.0 *.aiebilet.pl-smart7681241.cfd
 0.0.0.0 *.aiebilet.pl-smart7858823.cfd
+0.0.0.0 *.aiebilet.pl-smart81247124.cfd
+0.0.0.0 *.aiebilet.pl-smart8571242.cfd
 0.0.0.0 *.aiebilet.pl-smart8781242.cfd
 0.0.0.0 *.aieov.com
 0.0.0.0 *.aif.yadro.ru
@@ -15583,6 +15587,7 @@
 0.0.0.0 *.alebilet.8877342.click
 0.0.0.0 *.alebilet.89437.me
 0.0.0.0 *.alebilet.937016.click
+0.0.0.0 *.alebilet.95482.vu
 0.0.0.0 *.alebilet.973627.click
 0.0.0.0 *.alebilet.98364.me
 0.0.0.0 *.alebilet.c65dcebaa974723b557d01175c316.sbs
@@ -15643,6 +15648,7 @@
 0.0.0.0 *.alebilet.pl-smart0588341.cfd
 0.0.0.0 *.alebilet.pl-smart0588342.cfd
 0.0.0.0 *.alebilet.pl-smart0592424.cfd
+0.0.0.0 *.alebilet.pl-smart1859242.cfd
 0.0.0.0 *.alebilet.pl-smart1895724.cfd
 0.0.0.0 *.alebilet.pl-smart329845.cfd
 0.0.0.0 *.alebilet.pl-smart4871487.cfd
@@ -15653,6 +15659,8 @@
 0.0.0.0 *.alebilet.pl-smart7588222.cfd
 0.0.0.0 *.alebilet.pl-smart7681241.cfd
 0.0.0.0 *.alebilet.pl-smart7858823.cfd
+0.0.0.0 *.alebilet.pl-smart81247124.cfd
+0.0.0.0 *.alebilet.pl-smart8571242.cfd
 0.0.0.0 *.alebilet.pl-smart8781242.cfd
 0.0.0.0 *.alebilet.pl-ver2196-id70456-cfi849u-cid71062.shop
 0.0.0.0 *.alebilet.pl-zamowienie84237.sbs
@@ -16178,6 +16186,7 @@
 0.0.0.0 *.allebilet.pl-smart0588342.cfd
 0.0.0.0 *.allebilet.pl-smart0592424.cfd
 0.0.0.0 *.allebilet.pl-smart159814.cfd
+0.0.0.0 *.allebilet.pl-smart1859242.cfd
 0.0.0.0 *.allebilet.pl-smart1895724.cfd
 0.0.0.0 *.allebilet.pl-smart324562.cfd
 0.0.0.0 *.allebilet.pl-smart4871487.cfd
@@ -16188,8 +16197,11 @@
 0.0.0.0 *.allebilet.pl-smart7588222.cfd
 0.0.0.0 *.allebilet.pl-smart7681241.cfd
 0.0.0.0 *.allebilet.pl-smart7858823.cfd
+0.0.0.0 *.allebilet.pl-smart81247124.cfd
+0.0.0.0 *.allebilet.pl-smart8571242.cfd
 0.0.0.0 *.allebilet.pl-smart85781245.cfd
 0.0.0.0 *.allebilet.pl-smart8781242.cfd
+0.0.0.0 *.allebilet.pl-smart8912784.cfd
 0.0.0.0 *.allebilet.pl-smart954812.cfd
 0.0.0.0 *.allegationbody.com
 0.0.0.0 *.allegationobtain.com
@@ -16364,8 +16376,12 @@
 0.0.0.0 *.allegro.pl-smart6790134.cfd
 0.0.0.0 *.allegro.pl-smart6801652.cfd
 0.0.0.0 *.allegro.pl-smart7588222.cfd
+0.0.0.0 *.allegro.pl-smart7681241.cfd
 0.0.0.0 *.allegro.pl-smart7858823.cfd
+0.0.0.0 *.allegro.pl-smart81247124.cfd
+0.0.0.0 *.allegro.pl-smart8571242.cfd
 0.0.0.0 *.allegro.pl-smart8781242.cfd
+0.0.0.0 *.allegro.pl-smart8912784.cfd
 0.0.0.0 *.allegro.pl-ver2196-id70456-cfi849u-cid71062.shop
 0.0.0.0 *.allegro.pl.showitems.it
 0.0.0.0 *.allegro.pl54562.cfd
@@ -16406,6 +16422,7 @@
 0.0.0.0 *.allegrolokainie.pl-smart0588342.cfd
 0.0.0.0 *.allegrolokainie.pl-smart0592424.cfd
 0.0.0.0 *.allegrolokainie.pl-smart159814.cfd
+0.0.0.0 *.allegrolokainie.pl-smart1859242.cfd
 0.0.0.0 *.allegrolokainie.pl-smart1895724.cfd
 0.0.0.0 *.allegrolokainie.pl-smart28538283.cfd
 0.0.0.0 *.allegrolokainie.pl-smart329845.cfd
@@ -16417,7 +16434,9 @@
 0.0.0.0 *.allegrolokainie.pl-smart7588222.cfd
 0.0.0.0 *.allegrolokainie.pl-smart7681241.cfd
 0.0.0.0 *.allegrolokainie.pl-smart7858823.cfd
+0.0.0.0 *.allegrolokainie.pl-smart81247124.cfd
 0.0.0.0 *.allegrolokainie.pl-smart8781242.cfd
+0.0.0.0 *.allegrolokainie.pl-smart8912784.cfd
 0.0.0.0 *.allegrolokalne.oferta.asia
 0.0.0.0 *.allegrolokalne.pl-4784124.cfd
 0.0.0.0 *.allegrolokalne.pl-748131342.cfd
@@ -16455,7 +16474,11 @@
 0.0.0.0 *.allegrolokalne.pl-smart7588222.cfd
 0.0.0.0 *.allegrolokalne.pl-smart7681241.cfd
 0.0.0.0 *.allegrolokalne.pl-smart7858823.cfd
+0.0.0.0 *.allegrolokalne.pl-smart81247124.cfd
+0.0.0.0 *.allegrolokalne.pl-smart8571242.cfd
+0.0.0.0 *.allegrolokalne.pl-smart8781242.cfd
 0.0.0.0 *.allegrolokalne.pl-smart891247.cfd
+0.0.0.0 *.allegrolokalne.pl-smart8912784.cfd
 0.0.0.0 *.allegrolokalne.pl73467064173.cfd
 0.0.0.0 *.allegrolokalne.pl73467064279.cfd
 0.0.0.0 *.allegrolokalne.pl73467064320.cfd
@@ -16902,8 +16925,10 @@
 0.0.0.0 *.allegrolokalnie.pl-smart7681241.cfd
 0.0.0.0 *.allegrolokalnie.pl-smart7858823.cfd
 0.0.0.0 *.allegrolokalnie.pl-smart81247124.cfd
+0.0.0.0 *.allegrolokalnie.pl-smart8571242.cfd
 0.0.0.0 *.allegrolokalnie.pl-smart8781242.cfd
 0.0.0.0 *.allegrolokalnie.pl-smart8781924.cfd
+0.0.0.0 *.allegrolokalnie.pl-smart8912784.cfd
 0.0.0.0 *.allegrolokalnie.pl-smartzakupy5372.shop
 0.0.0.0 *.allegrolokalnie.pl-ver2196-id70456-cfi849u-cid71062.shop
 0.0.0.0 *.allegrolokalnie.pl-wszystkie-2328492482.cfd
@@ -39413,7 +39438,6 @@
 0.0.0.0 *.caadocus.xyz
 0.0.0.0 *.caahwq.com
 0.0.0.0 *.caalw.numina.cfd
-0.0.0.0 *.caalw.skyboltzone.cfd
 0.0.0.0 *.caaqot.com
 0.0.0.0 *.caay-butik.pl
 0.0.0.0 *.cab.ibex-limited.com
@@ -64236,6 +64260,7 @@
 0.0.0.0 *.dzhjmp.com
 0.0.0.0 *.dzhzp0zlnyoe8.cloudfront.net
 0.0.0.0 *.dzieciecyrajvip.shop
+0.0.0.0 *.dziecko-informacje-wiadomosci.com
 0.0.0.0 *.dziennik-info.x9.eu
 0.0.0.0 *.dziennik-polski.x9.eu
 0.0.0.0 *.dziennik-wroclawinfo24.com
@@ -65616,7 +65641,6 @@
 0.0.0.0 *.edh-diagnostic.fr
 0.0.0.0 *.edhmnn.com
 0.0.0.0 *.edhuaudhuedugufk.ws
-0.0.0.0 *.edhzwdjmhaatv.online
 0.0.0.0 *.ediatesuperviso.com
 0.0.0.0 *.ediati.com
 0.0.0.0 *.edibileupcard.click
@@ -66957,7 +66981,6 @@
 0.0.0.0 *.elpcenterservicelink.weebly.com
 0.0.0.0 *.elperro.elvoryx.digital
 0.0.0.0 *.elpex.site
-0.0.0.0 *.elpfulinotahere.com
 0.0.0.0 *.elpo11o.com
 0.0.0.0 *.elpushnot.com
 0.0.0.0 *.elqfsq.icu
@@ -94470,6 +94493,7 @@
 0.0.0.0 *.id.n1ghtcore.ru
 0.0.0.0 *.id.rootvk.messager.my
 0.0.0.0 *.id10096285154118510511.firebaseapp.com
+0.0.0.0 *.id223.pl
 0.0.0.0 *.id337ca09a4de.myhome-ismycastle.de
 0.0.0.0 *.id3basketball.com
 0.0.0.0 *.id4392101-6922.weebly.com
@@ -101619,7 +101643,6 @@
 0.0.0.0 *.isobar.cfd
 0.0.0.0 *.isobare.cfd
 0.0.0.0 *.isobaresoffit.com
-0.0.0.0 *.isochcasco.world
 0.0.0.0 *.isoconsultant.org
 0.0.0.0 *.isodeftubulus.shop
 0.0.0.0 *.isofoseveralyearsf.com
@@ -121746,6 +121769,7 @@
 0.0.0.0 *.mes-infos-prime.fr
 0.0.0.0 *.mes-renouvellement-enligne-assure.fr
 0.0.0.0 *.mes-services-prime.fr
+0.0.0.0 *.mesagadol.world
 0.0.0.0 *.mesages.researches.digital
 0.0.0.0 *.mesalloc.fr
 0.0.0.0 *.mesanalises.fr
@@ -132065,6 +132089,7 @@
 0.0.0.0 *.noeldansleparc.com
 0.0.0.0 *.noeli-design.de
 0.0.0.0 *.noethwestelofficialwebsitemanagementss.weebly.com
+0.0.0.0 *.noeyurew.weebly.com
 0.0.0.0 *.nofake.pk
 0.0.0.0 *.nofakenewsno.top
 0.0.0.0 *.nofancyads.de
@@ -136149,6 +136174,7 @@
 0.0.0.0 *.olx.pl-smart0588341.cfd
 0.0.0.0 *.olx.pl-smart0588342.cfd
 0.0.0.0 *.olx.pl-smart0592424.cfd
+0.0.0.0 *.olx.pl-smart1859242.cfd
 0.0.0.0 *.olx.pl-smart1895724.cfd
 0.0.0.0 *.olx.pl-smart20589.sbs
 0.0.0.0 *.olx.pl-smart2347693.cfd
@@ -136163,8 +136189,11 @@
 0.0.0.0 *.olx.pl-smart7588222.cfd
 0.0.0.0 *.olx.pl-smart7681241.cfd
 0.0.0.0 *.olx.pl-smart7858823.cfd
+0.0.0.0 *.olx.pl-smart81247124.cfd
+0.0.0.0 *.olx.pl-smart8571242.cfd
 0.0.0.0 *.olx.pl-smart8781242.cfd
 0.0.0.0 *.olx.pl-smart891247.cfd
+0.0.0.0 *.olx.pl-smart8912784.cfd
 0.0.0.0 *.olx.pl-smart9578712.cfd
 0.0.0.0 *.olx.pl-smartzakupy5372.shop
 0.0.0.0 *.olx.pl-ver2196-id70456-cfi849u-cid71062.shop
@@ -144057,6 +144086,7 @@
 0.0.0.0 *.piostatgastderd1970.blogspot.be
 0.0.0.0 *.piostatgastderd1970.blogspot.com
 0.0.0.0 *.piotadigoz.pro
+0.0.0.0 *.piovastifl.pro
 0.0.0.0 *.piovecosmetics.com
 0.0.0.0 *.pip-pip-pop.com
 0.0.0.0 *.pip.draftsnip.ru
@@ -145607,7 +145637,6 @@
 0.0.0.0 *.pl-oferta75214678006262781.cfd
 0.0.0.0 *.pl-oferta75237.cfd
 0.0.0.0 *.pl-oferta75237.sbs
-0.0.0.0 *.pl-oferta7524259.sbs
 0.0.0.0 *.pl-oferta753244387.icu
 0.0.0.0 *.pl-oferta753453.icu
 0.0.0.0 *.pl-oferta753553.icu
@@ -151778,7 +151807,6 @@
 0.0.0.0 *.ptmbqrzsbevkh.store
 0.0.0.0 *.ptmi.gitv.pandora.xiaomi.com
 0.0.0.0 *.ptmnd.com
-0.0.0.0 *.ptmndpbkrbyuoom.com
 0.0.0.0 *.ptmontessori.com
 0.0.0.0 *.ptn.dermals.org
 0.0.0.0 *.ptnjphvurekdw.space
@@ -207070,6 +207098,7 @@
 0.0.0.0 *.vinted.pl-smart0588342.cfd
 0.0.0.0 *.vinted.pl-smart0592424.cfd
 0.0.0.0 *.vinted.pl-smart159814.cfd
+0.0.0.0 *.vinted.pl-smart1859242.cfd
 0.0.0.0 *.vinted.pl-smart1895724.cfd
 0.0.0.0 *.vinted.pl-smart275384.cfd
 0.0.0.0 *.vinted.pl-smart4871487.cfd
@@ -207079,6 +207108,9 @@
 0.0.0.0 *.vinted.pl-smart6801652.cfd
 0.0.0.0 *.vinted.pl-smart7588222.cfd
 0.0.0.0 *.vinted.pl-smart7858823.cfd
+0.0.0.0 *.vinted.pl-smart81247124.cfd
+0.0.0.0 *.vinted.pl-smart8571242.cfd
+0.0.0.0 *.vinted.pl-smart8912784.cfd
 0.0.0.0 *.vinted.pl-zamowienie84237.sbs
 0.0.0.0 *.vinted.plsd2bgflstasj73hgk.icu
 0.0.0.0 *.vinted.plsd9klfbaudwsxd01xk.icu
@@ -216380,7 +216412,6 @@
 0.0.0.0 *.xgclb.indig5pir1t.ru
 0.0.0.0 *.xgdata.xoyo.games
 0.0.0.0 *.xgen.bot
-0.0.0.0 *.xgfhvfvdwg.com
 0.0.0.0 *.xggsdx.weebly.com
 0.0.0.0 *.xghdgf.firebaseapp.com
 0.0.0.0 *.xghdgf.web.app
@@ -217493,6 +217524,10 @@
 0.0.0.0 *.xn--albilet-b9a.pl-smart7588222.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-smart7681241.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-smart7858823.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-smart81247124.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-smart8571242.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-smart8781242.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-smart8912784.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-smart9578712.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-smart97856712.cfd
 0.0.0.0 *.xn--allyspin-casin-job.fr
@@ -219588,7 +219623,6 @@
 0.0.0.0 *.ykkhihg.cn
 0.0.0.0 *.ykleidzsileck.today
 0.0.0.0 *.ykm.de
-0.0.0.0 *.yknhf.numina.cfd
 0.0.0.0 *.yknhf.skyboltzone.cfd
 0.0.0.0 *.yknhf.troniva.cfd
 0.0.0.0 *.ykpb.cherl1ber7y.ru
