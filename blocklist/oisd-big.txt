@@ -9552,6 +9552,7 @@
 0.0.0.0 *.ad.adver.com.tw
 0.0.0.0 *.ad.adverteerdirect.nl
 0.0.0.0 *.ad.advst.cp33.ott.cibntv.net
+0.0.0.0 *.ad.adwiser.kr
 0.0.0.0 *.ad.adxcore.com
 0.0.0.0 *.ad.ae.doubleclick.net
 0.0.0.0 *.ad.agava.tbn.ru
@@ -14842,8 +14843,13 @@
 0.0.0.0 *.aidtaiorkad.xyz
 0.0.0.0 *.aidworkad.xyz
 0.0.0.0 *.aiebilet.oferta.asia
+0.0.0.0 *.aiebilet.pl-0302492430.sbs
+0.0.0.0 *.aiebilet.pl-03493249390034.sbs
+0.0.0.0 *.aiebilet.pl-03982493293976446.sbs
+0.0.0.0 *.aiebilet.pl-3049599357.sbs
 0.0.0.0 *.aiebilet.pl-488442.cfd
 0.0.0.0 *.aiebilet.pl-oferta-kategorie-polecane0293924.sbs
+0.0.0.0 *.aiebilet.pl-oferta-kategorie-polecane293324285.sbs
 0.0.0.0 *.aiebilet.pl-oferta-kategorie-polecane2944040.sbs
 0.0.0.0 *.aiebilet.pl-oferta02392392.sbs
 0.0.0.0 *.aiebilet.pl-oferta030423949.sbs
@@ -14854,9 +14860,11 @@
 0.0.0.0 *.aiebilet.pl-oferta341511.icu
 0.0.0.0 *.aiebilet.pl-oferta394320020.sbs
 0.0.0.0 *.aiebilet.pl-oferta394328323.sbs
+0.0.0.0 *.aiebilet.pl-oferta3949234200.sbs
 0.0.0.0 *.aiebilet.pl-oferta5089971.com
 0.0.0.0 *.aiebilet.pl-oferta6326635.cfd
 0.0.0.0 *.aiebilet.pl-oferta8867425.cfd
+0.0.0.0 *.aiebilet.pl-oferta939420003.sbs
 0.0.0.0 *.aiebilet.pl-ofertaid08426105382634.shop
 0.0.0.0 *.aiebilet.pl-smart0159802.cfd
 0.0.0.0 *.aiebilet.pl-smart0175832.cfd
@@ -15845,9 +15853,12 @@
 0.0.0.0 *.alebilet.ofertx-2145236.shop
 0.0.0.0 *.alebilet.pi-ofera2342662.cfd
 0.0.0.0 *.alebilet.pl-0302492430.sbs
+0.0.0.0 *.alebilet.pl-03493249390034.sbs
+0.0.0.0 *.alebilet.pl-03982493293976446.sbs
 0.0.0.0 *.alebilet.pl-10829.icu
 0.0.0.0 *.alebilet.pl-24399107192.icu
 0.0.0.0 *.alebilet.pl-28159.icu
+0.0.0.0 *.alebilet.pl-3049599357.sbs
 0.0.0.0 *.alebilet.pl-5156hjehsy44loeahg81wytaffab69a.cfd
 0.0.0.0 *.alebilet.pl-661628.cfd
 0.0.0.0 *.alebilet.pl-736491oferta.icu
@@ -15872,6 +15883,7 @@
 0.0.0.0 *.alebilet.pl-oferta3705365-google-pixel-10-nowy.sbs
 0.0.0.0 *.alebilet.pl-oferta394320020.sbs
 0.0.0.0 *.alebilet.pl-oferta394328323.sbs
+0.0.0.0 *.alebilet.pl-oferta3949234200.sbs
 0.0.0.0 *.alebilet.pl-oferta4127995932911.sbs
 0.0.0.0 *.alebilet.pl-oferta48943.cfd
 0.0.0.0 *.alebilet.pl-oferta5089971.com
@@ -15881,6 +15893,7 @@
 0.0.0.0 *.alebilet.pl-oferta823419.cfd
 0.0.0.0 *.alebilet.pl-oferta849762.sbs
 0.0.0.0 *.alebilet.pl-oferta864936.com
+0.0.0.0 *.alebilet.pl-oferta939420003.sbs
 0.0.0.0 *.alebilet.pl-ofertaid08426105382634.shop
 0.0.0.0 *.alebilet.pl-rezerwacja631720.cfd
 0.0.0.0 *.alebilet.pl-smart0159802.cfd
@@ -15907,6 +15920,7 @@
 0.0.0.0 *.alebilet.pl-smart6801652.cfd
 0.0.0.0 *.alebilet.pl-smart7588222.cfd
 0.0.0.0 *.alebilet.pl-smart7681241.cfd
+0.0.0.0 *.alebilet.pl-smart7812412.cfd
 0.0.0.0 *.alebilet.pl-smart781249812.cfd
 0.0.0.0 *.alebilet.pl-smart7858823.cfd
 0.0.0.0 *.alebilet.pl-smart8124122.cfd
@@ -16420,19 +16434,26 @@
 0.0.0.0 *.alleasvign.pro
 0.0.0.0 *.allebilet.oferta.asia
 0.0.0.0 *.allebilet.pl-0302492430.sbs
+0.0.0.0 *.allebilet.pl-03493249390034.sbs
+0.0.0.0 *.allebilet.pl-03982493293976446.sbs
+0.0.0.0 *.allebilet.pl-3049599357.sbs
 0.0.0.0 *.allebilet.pl-48911242.cfd
 0.0.0.0 *.allebilet.pl-oferta-kategorie-polecane0293924.sbs
 0.0.0.0 *.allebilet.pl-oferta-kategorie-polecane29099.sbs
 0.0.0.0 *.allebilet.pl-oferta-kategorie-polecane293324285.sbs
 0.0.0.0 *.allebilet.pl-oferta-kategorie-polecane2944040.sbs
+0.0.0.0 *.allebilet.pl-oferta02392392.sbs
 0.0.0.0 *.allebilet.pl-oferta030423949.sbs
 0.0.0.0 *.allebilet.pl-oferta0304932342934.rest
 0.0.0.0 *.allebilet.pl-oferta034392492313.sbs
 0.0.0.0 *.allebilet.pl-oferta03439249253.sbs
+0.0.0.0 *.allebilet.pl-oferta034932234.sbs
 0.0.0.0 *.allebilet.pl-oferta394320020.sbs
 0.0.0.0 *.allebilet.pl-oferta394328323.sbs
+0.0.0.0 *.allebilet.pl-oferta3949234200.sbs
 0.0.0.0 *.allebilet.pl-oferta5089971.com
 0.0.0.0 *.allebilet.pl-oferta6326635.cfd
+0.0.0.0 *.allebilet.pl-oferta939420003.sbs
 0.0.0.0 *.allebilet.pl-ofertaid08426105382634.shop
 0.0.0.0 *.allebilet.pl-smart0159802.cfd
 0.0.0.0 *.allebilet.pl-smart0175832.cfd
@@ -16490,7 +16511,6 @@
 0.0.0.0 *.allegro-lokalnie.pl-24312.icu
 0.0.0.0 *.allegro-lokalnie.pl-4369.icu
 0.0.0.0 *.allegro-lokalnie.pl-452387.icu
-0.0.0.0 *.allegro-lokalnie.pl-49231.cfd
 0.0.0.0 *.allegro-lokalnie.pl-81792.cfd
 0.0.0.0 *.allegro-lokalnie.pl-932954.icu
 0.0.0.0 *.allegro-lokalnie.pl-95451.sbs
@@ -16588,10 +16608,13 @@
 0.0.0.0 *.allegro.pi4101410.rest
 0.0.0.0 *.allegro.pisiyachiy.shop
 0.0.0.0 *.allegro.pl-0302492430.sbs
+0.0.0.0 *.allegro.pl-03493249390034.sbs
+0.0.0.0 *.allegro.pl-03982493293976446.sbs
 0.0.0.0 *.allegro.pl-12879.shop
 0.0.0.0 *.allegro.pl-12897.shop
 0.0.0.0 *.allegro.pl-208934oferta.sbs
 0.0.0.0 *.allegro.pl-21589.icu
+0.0.0.0 *.allegro.pl-3049599357.sbs
 0.0.0.0 *.allegro.pl-4784124.cfd
 0.0.0.0 *.allegro.pl-51298.icu
 0.0.0.0 *.allegro.pl-58139.icu
@@ -16618,6 +16641,7 @@
 0.0.0.0 *.allegro.pl-oferta3705365-google-pixel-10-nowy.sbs
 0.0.0.0 *.allegro.pl-oferta394320020.sbs
 0.0.0.0 *.allegro.pl-oferta394328323.sbs
+0.0.0.0 *.allegro.pl-oferta3949234200.sbs
 0.0.0.0 *.allegro.pl-oferta5089971.com
 0.0.0.0 *.allegro.pl-oferta5989423.icu
 0.0.0.0 *.allegro.pl-oferta6326635.cfd
@@ -16630,6 +16654,7 @@
 0.0.0.0 *.allegro.pl-oferta864936.com
 0.0.0.0 *.allegro.pl-oferta9034302-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 *.allegro.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs
+0.0.0.0 *.allegro.pl-oferta939420003.sbs
 0.0.0.0 *.allegro.pl-ofertaid08426105382634.shop
 0.0.0.0 *.allegro.pl-offr.shop
 0.0.0.0 *.allegro.pl-ogloszenie-029486921.icu
@@ -16659,6 +16684,7 @@
 0.0.0.0 *.allegro.pl-smart6790134.cfd
 0.0.0.0 *.allegro.pl-smart6801652.cfd
 0.0.0.0 *.allegro.pl-smart7681241.cfd
+0.0.0.0 *.allegro.pl-smart7812412.cfd
 0.0.0.0 *.allegro.pl-smart781249812.cfd
 0.0.0.0 *.allegro.pl-smart7858823.cfd
 0.0.0.0 *.allegro.pl-smart8124122.cfd
@@ -16684,6 +16710,9 @@
 0.0.0.0 *.allegrogroup.co.uk
 0.0.0.0 *.allegrolokainie.oferta.asia
 0.0.0.0 *.allegrolokainie.pl-0302492430.sbs
+0.0.0.0 *.allegrolokainie.pl-03493249390034.sbs
+0.0.0.0 *.allegrolokainie.pl-03982493293976446.sbs
+0.0.0.0 *.allegrolokainie.pl-3049599357.sbs
 0.0.0.0 *.allegrolokainie.pl-82941492157.cfd
 0.0.0.0 *.allegrolokainie.pl-84192401452.icu
 0.0.0.0 *.allegrolokainie.pl-oferta-kategorie-polecane0293924.sbs
@@ -16694,13 +16723,16 @@
 0.0.0.0 *.allegrolokainie.pl-oferta030423949.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta0304932342934.rest
 0.0.0.0 *.allegrolokainie.pl-oferta034392492313.sbs
+0.0.0.0 *.allegrolokainie.pl-oferta03439249253.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta034932234.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta214101512.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta394320020.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta394328323.sbs
+0.0.0.0 *.allegrolokainie.pl-oferta3949234200.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta5089971.com
 0.0.0.0 *.allegrolokainie.pl-oferta6326635.cfd
 0.0.0.0 *.allegrolokainie.pl-oferta802553276992.cfd
+0.0.0.0 *.allegrolokainie.pl-oferta939420003.sbs
 0.0.0.0 *.allegrolokainie.pl-ofertaid08426105382634.shop
 0.0.0.0 *.allegrolokainie.pl-smart0159802.cfd
 0.0.0.0 *.allegrolokainie.pl-smart0175832.cfd
@@ -16743,6 +16775,9 @@
 0.0.0.0 *.allegrolokainie.plad2gskajs11xk.icu
 0.0.0.0 *.allegrolokalne.oferta.asia
 0.0.0.0 *.allegrolokalne.pl-0302492430.sbs
+0.0.0.0 *.allegrolokalne.pl-03493249390034.sbs
+0.0.0.0 *.allegrolokalne.pl-03982493293976446.sbs
+0.0.0.0 *.allegrolokalne.pl-3049599357.sbs
 0.0.0.0 *.allegrolokalne.pl-4784124.cfd
 0.0.0.0 *.allegrolokalne.pl-748131342.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta-kategorie-polecane0293924.sbs
@@ -16752,12 +16787,16 @@
 0.0.0.0 *.allegrolokalne.pl-oferta02392392.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta030423949.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta0304932342934.rest
+0.0.0.0 *.allegrolokalne.pl-oferta034392492313.sbs
+0.0.0.0 *.allegrolokalne.pl-oferta03439249253.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta034932234.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta2030342932.cfd
 0.0.0.0 *.allegrolokalne.pl-oferta394320020.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta394328323.sbs
+0.0.0.0 *.allegrolokalne.pl-oferta3949234200.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta5089971.com
 0.0.0.0 *.allegrolokalne.pl-oferta6326635.cfd
+0.0.0.0 *.allegrolokalne.pl-oferta939420003.sbs
 0.0.0.0 *.allegrolokalne.pl-ofertaid08426105382634.shop
 0.0.0.0 *.allegrolokalne.pl-smart0159802.cfd
 0.0.0.0 *.allegrolokalne.pl-smart0175832.cfd
@@ -16786,12 +16825,14 @@
 0.0.0.0 *.allegrolokalne.pl-smart7588222.cfd
 0.0.0.0 *.allegrolokalne.pl-smart7681241.cfd
 0.0.0.0 *.allegrolokalne.pl-smart7812412.cfd
+0.0.0.0 *.allegrolokalne.pl-smart781249812.cfd
 0.0.0.0 *.allegrolokalne.pl-smart7858823.cfd
 0.0.0.0 *.allegrolokalne.pl-smart8124122.cfd
 0.0.0.0 *.allegrolokalne.pl-smart81247124.cfd
 0.0.0.0 *.allegrolokalne.pl-smart8571242.cfd
 0.0.0.0 *.allegrolokalne.pl-smart8712412.cfd
 0.0.0.0 *.allegrolokalne.pl-smart8781242.cfd
+0.0.0.0 *.allegrolokalne.pl-smart8912344.cfd
 0.0.0.0 *.allegrolokalne.pl-smart891247.cfd
 0.0.0.0 *.allegrolokalne.pl-smart8912784.cfd
 0.0.0.0 *.allegrolokalne.pl73467064173.cfd
@@ -17073,6 +17114,8 @@
 0.0.0.0 *.allegrolokalnie.pl-0293402.sbs
 0.0.0.0 *.allegrolokalnie.pl-0302492430.sbs
 0.0.0.0 *.allegrolokalnie.pl-03293882.sbs
+0.0.0.0 *.allegrolokalnie.pl-03493249390034.sbs
+0.0.0.0 *.allegrolokalnie.pl-03982493293976446.sbs
 0.0.0.0 *.allegrolokalnie.pl-043509.sbs
 0.0.0.0 *.allegrolokalnie.pl-0495692.shop
 0.0.0.0 *.allegrolokalnie.pl-08432-oferta.shop
@@ -17096,6 +17139,7 @@
 0.0.0.0 *.allegrolokalnie.pl-2830204049.sbs
 0.0.0.0 *.allegrolokalnie.pl-299456.cfd
 0.0.0.0 *.allegrolokalnie.pl-30045623.icu
+0.0.0.0 *.allegrolokalnie.pl-3049599357.sbs
 0.0.0.0 *.allegrolokalnie.pl-3126784.pro
 0.0.0.0 *.allegrolokalnie.pl-3165256.pro
 0.0.0.0 *.allegrolokalnie.pl-343775.icu
@@ -17202,6 +17246,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta383625255339.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta394320020.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta394328323.sbs
+0.0.0.0 *.allegrolokalnie.pl-oferta3949234200.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta421305.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta423142.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta423413.sbs
@@ -17232,6 +17277,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta916982.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta920405120.shop
 0.0.0.0 *.allegrolokalnie.pl-oferta932417.com
+0.0.0.0 *.allegrolokalnie.pl-oferta939420003.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta968170.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta9932647.sbs
 0.0.0.0 *.allegrolokalnie.pl-ofertaid08426105382634.shop
@@ -21188,6 +21234,7 @@
 0.0.0.0 *.api3.branch.io
 0.0.0.0 *.api3.samsungcareers.work
 0.0.0.0 *.api5-normal-quic-lf.ixigua.com
+0.0.0.0 *.api5000crm.click
 0.0.0.0 *.api9.net
 0.0.0.0 *.apia.headlines.pw
 0.0.0.0 *.apiads.gg.pl
@@ -29396,6 +29443,7 @@
 0.0.0.0 *.basilisk.laosima.com
 0.0.0.0 *.basilisknews.com
 0.0.0.0 *.basilmaniere.shop
+0.0.0.0 *.basilmokiti.world
 0.0.0.0 *.basin.amberflint.ru
 0.0.0.0 *.basin2.rockfieid.ru
 0.0.0.0 *.basinenvironmental-services.myportfolio.com
@@ -39435,7 +39483,6 @@
 0.0.0.0 *.bzsd83.com
 0.0.0.0 *.bzvyw.kinete.cfd
 0.0.0.0 *.bzvyw.numina.cfd
-0.0.0.0 *.bzvyw.skyboltzone.cfd
 0.0.0.0 *.bzxc.xyz
 0.0.0.0 *.bzyfzusiqohk.com
 0.0.0.0 *.bzygipvpab.com
@@ -42143,7 +42190,6 @@
 0.0.0.0 *.caymaninv.net
 0.0.0.0 *.caymaninv.org
 0.0.0.0 *.cayot.ir
-0.0.0.0 *.caytao.store
 0.0.0.0 *.cayyon.com
 0.0.0.0 *.cazacas.com
 0.0.0.0 *.cazasdifunabu.world
@@ -76938,6 +76984,7 @@
 0.0.0.0 *.flowpath.life
 0.0.0.0 *.flowpols.com
 0.0.0.0 *.flowpulse.live
+0.0.0.0 *.flowrise.buzz
 0.0.0.0 *.flowrise.live
 0.0.0.0 *.flowsearch.info
 0.0.0.0 *.flowseptictanks.com
@@ -83668,6 +83715,7 @@
 0.0.0.0 *.gilmoregirlspodcast.com
 0.0.0.0 *.gilsoundworks.com
 0.0.0.0 *.gilvoram8teno.biz
+0.0.0.0 *.gilvx2wpfi3rfn3oqprakenhz40ttvwz.lambda-url.eu-west-3.on.aws
 0.0.0.0 *.gimail.cz
 0.0.0.0 *.gimea.site
 0.0.0.0 *.gimenixlogn.gitbook.io
@@ -96223,6 +96271,7 @@
 0.0.0.0 *.imbudlogic.com
 0.0.0.0 *.imbueprescriptionhumiliation.com
 0.0.0.0 *.imburassod.pro
+0.0.0.0 *.imbustessa.world
 0.0.0.0 *.imbutepierces.qpon
 0.0.0.0 *.imbutostreetfood.com
 0.0.0.0 *.imc.l.qq.com
@@ -126537,7 +126586,6 @@
 0.0.0.0 *.mothershelpers.net
 0.0.0.0 *.mothpdecif.pro
 0.0.0.0 *.motido.pl
-0.0.0.0 *.motifcdn.doubleclick.net
 0.0.0.0 *.motificfungate.cyou
 0.0.0.0 *.motifiles.com
 0.0.0.0 *.motino.fr
@@ -131287,6 +131335,7 @@
 0.0.0.0 *.newtry.app
 0.0.0.0 *.newu.site
 0.0.0.0 *.newupdateoffice.weebly.com
+0.0.0.0 *.newupdateshits.com
 0.0.0.0 *.newupdatesnow.com
 0.0.0.0 *.newuyuy2012.osa.pl
 0.0.0.0 *.newvefierdairmilescanda.weebly.com
@@ -136975,6 +137024,9 @@
 0.0.0.0 *.olx.phoenixel.click
 0.0.0.0 *.olx.pi-ofera2342662.cfd
 0.0.0.0 *.olx.pl-0302492430.sbs
+0.0.0.0 *.olx.pl-03493249390034.sbs
+0.0.0.0 *.olx.pl-03982493293976446.sbs
+0.0.0.0 *.olx.pl-3049599357.sbs
 0.0.0.0 *.olx.pl-328793204.sbs
 0.0.0.0 *.olx.pl-5156hjehsy44loeahg81wytaffab69a.cfd
 0.0.0.0 *.olx.pl-5975742.cfd
@@ -137001,6 +137053,7 @@
 0.0.0.0 *.olx.pl-oferta2845263.cfd
 0.0.0.0 *.olx.pl-oferta394320020.sbs
 0.0.0.0 *.olx.pl-oferta394328323.sbs
+0.0.0.0 *.olx.pl-oferta3949234200.sbs
 0.0.0.0 *.olx.pl-oferta5089971.com
 0.0.0.0 *.olx.pl-oferta6326635.cfd
 0.0.0.0 *.olx.pl-oferta632731.cfd
@@ -137016,6 +137069,7 @@
 0.0.0.0 *.olx.pl-oferta864936.com
 0.0.0.0 *.olx.pl-oferta9034301-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 *.olx.pl-oferta920405120.shop
+0.0.0.0 *.olx.pl-oferta939420003.sbs
 0.0.0.0 *.olx.pl-ofertaid08426105382634.shop
 0.0.0.0 *.olx.pl-platnosci47289.icu
 0.0.0.0 *.olx.pl-polecane-ogloszenia33.icu
@@ -141487,6 +141541,7 @@
 0.0.0.0 *.paperboat-graphics.com
 0.0.0.0 *.papercitysavings.firebaseapp.com
 0.0.0.0 *.papercitysavings.web.app
+0.0.0.0 *.paperlanterns.biz
 0.0.0.0 *.papernotes.eu
 0.0.0.0 *.paphzz.icu
 0.0.0.0 *.papi.look.360.cn
@@ -145619,6 +145674,7 @@
 0.0.0.0 *.pl-4839408234.cfd
 0.0.0.0 *.pl-486762o.shop
 0.0.0.0 *.pl-487042940256.cfd
+0.0.0.0 *.pl-49231.cfd
 0.0.0.0 *.pl-49972.icu
 0.0.0.0 *.pl-49991412.icu
 0.0.0.0 *.pl-512892.cfd
@@ -155185,6 +155241,7 @@
 0.0.0.0 *.pureinwox.com
 0.0.0.0 *.pureinwox.net
 0.0.0.0 *.purelinemark.com
+0.0.0.0 *.pureluck.click
 0.0.0.0 *.purelyadult.online
 0.0.0.0 *.puremotifservicefr.firebaseapp.com
 0.0.0.0 *.purenut.shop
@@ -155555,6 +155612,7 @@
 0.0.0.0 *.pwn9v.chenmujiang.com.cn
 0.0.0.0 *.pwnpyz.com
 0.0.0.0 *.pwnyvbfsuetef.site
+0.0.0.0 *.pwo1926-g9g2.cyou
 0.0.0.0 *.pwr-ads.com
 0.0.0.0 *.pwresetcisco.com
 0.0.0.0 *.pwrgrowthapi.com
@@ -157336,6 +157394,7 @@
 0.0.0.0 *.quantumgforce.app
 0.0.0.0 *.quantumgraal73.com
 0.0.0.0 *.quantumhancock.org
+0.0.0.0 *.quantumharbor.biz
 0.0.0.0 *.quantumhelios.com
 0.0.0.0 *.quantumi800bumex.com
 0.0.0.0 *.quantumincome-pro.net
@@ -168036,6 +168095,7 @@
 0.0.0.0 *.saturnmineral.com
 0.0.0.0 *.saturno.com.de
 0.0.0.0 *.satursed.com
+0.0.0.0 *.saturyyst.info
 0.0.0.0 *.satvamattress.com
 0.0.0.0 *.satwikskincare.com
 0.0.0.0 *.satyamwave.com
@@ -168473,6 +168533,7 @@
 0.0.0.0 *.scarcestream.com
 0.0.0.0 *.scarcestructure.com
 0.0.0.0 *.scarcesurprise.com
+0.0.0.0 *.scarcomozi.world
 0.0.0.0 *.scared-piece.pro
 0.0.0.0 *.scaredcomfort.com
 0.0.0.0 *.scaredsidewalk.com
@@ -168496,6 +168557,7 @@
 0.0.0.0 *.scarpcicer.world
 0.0.0.0 *.scarpelouboutinonline.net
 0.0.0.0 *.scarpfrutt.pro
+0.0.0.0 *.scarpgrove.world
 0.0.0.0 *.scarpieraelbotinero.com.ar
 0.0.0.0 *.scarpimbar.pro
 0.0.0.0 *.scarrcapan.cyou
@@ -194435,6 +194497,7 @@
 0.0.0.0 *.tlkhivxrvlrcb.store
 0.0.0.0 *.tlklwtqqewceq.world
 0.0.0.0 *.tlllccmkxwcze.website
+0.0.0.0 *.tlmtnj.opportunityapp.org
 0.0.0.0 *.tlmtr.org
 0.0.0.0 *.tlmybj.cn
 0.0.0.0 *.tlobs.com
@@ -198294,6 +198357,7 @@
 0.0.0.0 *.trapstarspoland.com
 0.0.0.0 *.trarealezh.shop
 0.0.0.0 *.traritrinc.pro
+0.0.0.0 *.traruovers.world
 0.0.0.0 *.tras.org
 0.0.0.0 *.trasdnovem.pro
 0.0.0.0 *.trasecollo.pro
@@ -199596,7 +199660,6 @@
 0.0.0.0 *.trusting-offer.com
 0.0.0.0 *.trusting-produce.com
 0.0.0.0 *.trustinghurt.pro
-0.0.0.0 *.trustingself.com
 0.0.0.0 *.trustiqo.digital
 0.0.0.0 *.trustiseverything.de
 0.0.0.0 *.trustivo.digital
@@ -201850,6 +201913,7 @@
 0.0.0.0 *.uidevhub.top
 0.0.0.0 *.uidevzz.buzz
 0.0.0.0 *.uidevzz.click
+0.0.0.0 *.uidevzz.xyz
 0.0.0.0 *.uidhealth.com
 0.0.0.0 *.uidhhiduhkier.space
 0.0.0.0 *.uidjyda.com
@@ -208235,6 +208299,9 @@
 0.0.0.0 *.vinted.offer34.com
 0.0.0.0 *.vinted.online239491.com
 0.0.0.0 *.vinted.pl-0302492430.sbs
+0.0.0.0 *.vinted.pl-03493249390034.sbs
+0.0.0.0 *.vinted.pl-03982493293976446.sbs
+0.0.0.0 *.vinted.pl-3049599357.sbs
 0.0.0.0 *.vinted.pl-749154.icu
 0.0.0.0 *.vinted.pl-82941492157.cfd
 0.0.0.0 *.vinted.pl-92001628oferta.icu
@@ -208252,11 +208319,13 @@
 0.0.0.0 *.vinted.pl-oferta3292729.icu
 0.0.0.0 *.vinted.pl-oferta394320020.sbs
 0.0.0.0 *.vinted.pl-oferta394328323.sbs
+0.0.0.0 *.vinted.pl-oferta3949234200.sbs
 0.0.0.0 *.vinted.pl-oferta5051284-geeforce-rtx-4070-super-12.sbs
 0.0.0.0 *.vinted.pl-oferta674286.sbs
 0.0.0.0 *.vinted.pl-oferta759383.cfd
 0.0.0.0 *.vinted.pl-oferta864936.com
 0.0.0.0 *.vinted.pl-oferta898731.sbs
+0.0.0.0 *.vinted.pl-oferta939420003.sbs
 0.0.0.0 *.vinted.pl-smart0159802.cfd
 0.0.0.0 *.vinted.pl-smart0175832.cfd
 0.0.0.0 *.vinted.pl-smart01857242.cfd
@@ -208289,6 +208358,7 @@
 0.0.0.0 *.vinted.pl-smart81247124.cfd
 0.0.0.0 *.vinted.pl-smart8571242.cfd
 0.0.0.0 *.vinted.pl-smart8712412.cfd
+0.0.0.0 *.vinted.pl-smart8912344.cfd
 0.0.0.0 *.vinted.pl-smart8912784.cfd
 0.0.0.0 *.vinted.pl-zamowienie84237.sbs
 0.0.0.0 *.vinted.plad2gsgaas17xk.icu
@@ -218736,6 +218806,10 @@
 0.0.0.0 *.xn--adminuytkownika-nkd.weebly.com
 0.0.0.0 *.xn--aktualizujte-svj-et-h9b31bw5e.weebly.com
 0.0.0.0 *.xn--albilet-b9a.oferta.asia
+0.0.0.0 *.xn--albilet-b9a.pl-0302492430.sbs
+0.0.0.0 *.xn--albilet-b9a.pl-03493249390034.sbs
+0.0.0.0 *.xn--albilet-b9a.pl-03982493293976446.sbs
+0.0.0.0 *.xn--albilet-b9a.pl-3049599357.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-488442.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-firmowe-oferta-karta-graficzna-geforce-rtx.icu
 0.0.0.0 *.xn--albilet-b9a.pl-oferta-kategorie-polecane0293924.sbs
@@ -218746,14 +218820,17 @@
 0.0.0.0 *.xn--albilet-b9a.pl-oferta030423949.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta0304932342934.rest
 0.0.0.0 *.xn--albilet-b9a.pl-oferta034392492313.sbs
+0.0.0.0 *.xn--albilet-b9a.pl-oferta03439249253.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta034932234.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta2030342932.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta394320020.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta394328323.sbs
+0.0.0.0 *.xn--albilet-b9a.pl-oferta3949234200.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta5089971.com
 0.0.0.0 *.xn--albilet-b9a.pl-oferta6326635.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta7855245433.cfd
 0.0.0.0 *.xn--albilet-b9a.pl-oferta8785243242.cfd
+0.0.0.0 *.xn--albilet-b9a.pl-oferta939420003.sbs
 0.0.0.0 *.xn--albilet-b9a.pl-oferta957932.icu
 0.0.0.0 *.xn--albilet-b9a.pl-ofertaid08426105382634.shop
 0.0.0.0 *.xn--albilet-b9a.pl-smart014394.cfd
