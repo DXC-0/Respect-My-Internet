@@ -3248,6 +3248,7 @@
 0.0.0.0 antsinfo-clients.fr
 0.0.0.0 ants-infraction.fr
 0.0.0.0 antsinfraction-traitement.fr
+0.0.0.0 ants-online.fr
 0.0.0.0 ants-paiement-antai.fr
 0.0.0.0 ants-paiement-enligne.fr
 0.0.0.0 ants-pc-usagerinterieurgouvfr.fr
@@ -4771,6 +4772,7 @@
 0.0.0.0 baredfootwearparis.fr
 0.0.0.0 barefootfrance.fr
 0.0.0.0 barelchaussures.fr
+0.0.0.0 barenbrugfrance.fr
 0.0.0.0 bar-prime.fr
 0.0.0.0 barreaudelyon.fr
 0.0.0.0 ba-shfrance.fr
@@ -6774,6 +6776,7 @@
 0.0.0.0 casinotogether-fr.fr
 0.0.0.0 casinotopliste.fr
 0.0.0.0 casinotortugafr.fr
+0.0.0.0 casinotropeziapalace.fr
 0.0.0.0 casinotrouville.fr
 0.0.0.0 casino-unique1.fr
 0.0.0.0 casinounique1.fr
@@ -9081,6 +9084,7 @@
 0.0.0.0 conforamaa.fr
 0.0.0.0 conforama-co.fr
 0.0.0.0 conforama-paris.fr
+0.0.0.0 conformite-boursorama.fr
 0.0.0.0 conformite-lbp.fr
 0.0.0.0 confortefvie.fr
 0.0.0.0 confortoutlet.fr
@@ -14353,6 +14357,7 @@
 0.0.0.0 group-lidl.fr
 0.0.0.0 groupmaa.fr
 0.0.0.0 group-manutan.fr
+0.0.0.0 group-mousquetaires.fr
 0.0.0.0 group-nestle-waters.fr
 0.0.0.0 groupom.fr
 0.0.0.0 groupon-reservation.fr
@@ -15026,6 +15031,7 @@
 0.0.0.0 idsupportassistance.fr
 0.0.0.0 id-univ-amu.fr
 0.0.0.0 idverde-sas.fr
+0.0.0.0 id-verifier.fr
 0.0.0.0 ieboncoin.fr
 0.0.0.0 iedalo.fr
 0.0.0.0 ieurope1.fr
@@ -30943,6 +30949,7 @@
 0.0.0.0 ursasf.fr
 0.0.0.0 urssaaf.fr
 0.0.0.0 urssaf-aquitaine.fr
+0.0.0.0 urssafaquitaine.fr
 0.0.0.0 urssafautoentrepreneur.fr
 0.0.0.0 urssafcergy.fr
 0.0.0.0 urssaf-cesu.fr
@@ -32263,6 +32270,8 @@
 0.0.0.0 wwwassuranceretraite.fr
 0.0.0.0 wwwauchan.fr
 0.0.0.0 wwwautoscout24.fr
+0.0.0.0 www-avia-masters.fr
+0.0.0.0 www-aviamasters.fr
 0.0.0.0 wwwavis.fr
 0.0.0.0 wwwbalmain.fr
 0.0.0.0 www-banquepopulairee.fr
