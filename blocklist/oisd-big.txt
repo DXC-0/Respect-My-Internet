@@ -145445,7 +145445,6 @@
 0.0.0.0 *.protected-api.branch.io
 0.0.0.0 *.protected-by.clarium.io
 0.0.0.0 *.protected-redirect.click
-0.0.0.0 *.protected.net
 0.0.0.0 *.protecteur6.ddns.net
 0.0.0.0 *.protectflow.life
 0.0.0.0 *.protection-edge.vercel.app
