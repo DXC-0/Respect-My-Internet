@@ -4934,6 +4934,8 @@
 0.0.0.0 bet365-ru.fr
 0.0.0.0 bet9ja.re
 0.0.0.0 bet-alright.fr
+0.0.0.0 betano-fra.fr
+0.0.0.0 betano-online.fr
 0.0.0.0 betblast-casino.fr
 0.0.0.0 betblastcasino.fr
 0.0.0.0 betblastcasinos.fr
@@ -4969,6 +4971,12 @@
 0.0.0.0 bethalls.fr
 0.0.0.0 betibet.fr
 0.0.0.0 betify-app.fr
+0.0.0.0 betify-applicationbonus.fr
+0.0.0.0 betifyapplication-bonus.fr
+0.0.0.0 betify-applicationconnexion.fr
+0.0.0.0 betifyapplication-connexion.fr
+0.0.0.0 betifyapplication.fr
+0.0.0.0 betify-bonusconnexion.fr
 0.0.0.0 betify-bonus.fr
 0.0.0.0 betifybonus.fr
 0.0.0.0 betifycasina.fr
@@ -5015,6 +5023,8 @@
 0.0.0.0 betify-casino-win-fr.fr
 0.0.0.0 betify-france.fr
 0.0.0.0 betifyfr.fr
+0.0.0.0 betify-jeu.fr
+0.0.0.0 betifyjeu.fr
 0.0.0.0 betify-login.fr
 0.0.0.0 betifylogin.fr
 0.0.0.0 betify-officiel1.fr
@@ -10953,6 +10963,7 @@
 0.0.0.0 doctolbi.fr
 0.0.0.0 doctolib-espace.fr
 0.0.0.0 doctolib-france.fr
+0.0.0.0 doctolib-help.fr
 0.0.0.0 doctolib-info.fr
 0.0.0.0 doctolib-infos.fr
 0.0.0.0 doctolib-payemnt.fr
@@ -13688,6 +13699,7 @@
 0.0.0.0 gendarmerie-nationale-inter.fr
 0.0.0.0 gendarmerie-qouv.fr
 0.0.0.0 gendarmerierennes.fr
+0.0.0.0 gendarmerie-requisition.fr
 0.0.0.0 gendarmerierpc.fr
 0.0.0.0 gendarmeri.fr
 0.0.0.0 gend-interieur.fr
@@ -16690,6 +16702,7 @@
 0.0.0.0 kplpascher.fr
 0.0.0.0 kpmg-confidentiel.fr
 0.0.0.0 kpmg-paris.fr
+0.0.0.0 krupsfrance.fr
 0.0.0.0 kryptosino-casino.fr
 0.0.0.0 kryptosinocasino.fr
 0.0.0.0 kswissparis.fr
@@ -23467,6 +23480,7 @@
 0.0.0.0 pha2mazo.fr
 0.0.0.0 pharma-bonneville-bray-dunes.fr
 0.0.0.0 pharmacie2000-caen.fr
+0.0.0.0 pharmacieacacias-hyeres.fr
 0.0.0.0 pharmacie-aignan.fr
 0.0.0.0 pharmaciealesia-jeanmoulin.fr
 0.0.0.0 pharmacie-alisier-80470.fr
@@ -23474,6 +23488,8 @@
 0.0.0.0 pharmacieandrein.fr
 0.0.0.0 pharmacieaurelien-saintraphael.fr
 0.0.0.0 pharmaciebastide-servian.fr
+0.0.0.0 pharmaciebeauvillainlegrand.fr
+0.0.0.0 pharmaciebenoit-roche.fr
 0.0.0.0 pharmacieboieldieu.fr
 0.0.0.0 pharmaciebourretmessana.fr
 0.0.0.0 pharmaciebremond-manosque.fr
@@ -23486,6 +23502,7 @@
 0.0.0.0 pharmaciecentrale29.fr
 0.0.0.0 pharmacie-centrale-annecy.fr
 0.0.0.0 pharmaciecentraleduparc.fr
+0.0.0.0 pharmaciecentrale-flers.fr
 0.0.0.0 pharmaciecentrale-vannes.fr
 0.0.0.0 pharmaciecentrepompidou.fr
 0.0.0.0 pharmaciechaborel.fr
@@ -23505,6 +23522,7 @@
 0.0.0.0 pharmaciedeferrieres.fr
 0.0.0.0 pharmaciedefleac.fr
 0.0.0.0 pharmacie-de-guyenne.fr
+0.0.0.0 pharmaciedehuttenheim.fr
 0.0.0.0 pharmaciedelabaiedesomme.fr
 0.0.0.0 pharmaciedelabbaye-creteil.fr
 0.0.0.0 pharmaciedelagare-epinay-villetaneuse.fr
@@ -23519,6 +23537,7 @@
 0.0.0.0 pharmaciedelaplace-les-andelys.fr
 0.0.0.0 pharmaciedelaplage-cavalaire.fr
 0.0.0.0 pharmaciedelaposte-belfort.fr
+0.0.0.0 pharmaciedelaposte-lafarlede.fr
 0.0.0.0 pharmaciedelaprefecture-rouen.fr
 0.0.0.0 pharmaciedelautanlafayette.fr
 0.0.0.0 pharmaciedelepine.fr
@@ -23529,6 +23548,7 @@
 0.0.0.0 pharmaciedemedis.fr
 0.0.0.0 pharmaciedemillery.fr
 0.0.0.0 pharmaciedemilly.fr
+0.0.0.0 pharmaciedemirman.fr
 0.0.0.0 pharmaciedemouleydier.fr
 0.0.0.0 pharmaciedeperignat.fr
 0.0.0.0 pharmaciedepersjussy.fr
@@ -23571,10 +23591,13 @@
 0.0.0.0 pharmacieducentre-latremblade.fr
 0.0.0.0 pharmacieducentre-montval-sur-loir.fr
 0.0.0.0 pharmacieducentre-puget-sur-argens.fr
+0.0.0.0 pharmacieducentre-sauze.fr
 0.0.0.0 pharmacieducolombier.fr
 0.0.0.0 pharmacieducolombier-planguenoual.fr
 0.0.0.0 pharmacieducomtal.fr
 0.0.0.0 pharmacieducygne.fr
+0.0.0.0 pharmaciedufaubourg-arras.fr
+0.0.0.0 pharmaciedufoursereni.fr
 0.0.0.0 pharmaciedugolf-agde.fr
 0.0.0.0 pharmacieduguil.fr
 0.0.0.0 pharmacieduhavre.fr
@@ -23590,9 +23613,11 @@
 0.0.0.0 pharmacieduprogres-stetienne.fr
 0.0.0.0 pharmaciedurocher-mornas.fr
 0.0.0.0 pharmaciedurupione.fr
+0.0.0.0 pharmaciedusacrecoeur-bordeaux.fr
 0.0.0.0 pharmaciedusud-chirongui.fr
 0.0.0.0 pharmaciedutriolet-montpellier.fr
 0.0.0.0 pharmacie-ecquevilly.fr
+0.0.0.0 pharmacieelbaz.fr
 0.0.0.0 pharmacie-elliant.fr
 0.0.0.0 pharmacie-espacesaintquentin.fr
 0.0.0.0 pharmacieferriere-artiguelouve.fr
@@ -23641,7 +23666,9 @@
 0.0.0.0 pharmacieplemer.fr
 0.0.0.0 pharmaciepoirotte.fr
 0.0.0.0 pharmacie-pontailler.fr
+0.0.0.0 pharmacieportebrancion.fr
 0.0.0.0 pharmacieportedelachapelle.fr
+0.0.0.0 pharmacieportroyal.fr
 0.0.0.0 pharmaciepourtous.fr
 0.0.0.0 pharmacieprincipale-gardanne.fr
 0.0.0.0 pharmacie-reydy.fr
@@ -23650,6 +23677,7 @@
 0.0.0.0 pharmacieroux-avignon.fr
 0.0.0.0 pharmaciesainteanne-la-motte-servolex.fr
 0.0.0.0 pharmaciesaintferreol.fr
+0.0.0.0 pharmacie-saintferreol-lorgues.fr
 0.0.0.0 pharmaciesaintgenes.fr
 0.0.0.0 pharmaciesaintjean-ajaccio.fr
 0.0.0.0 pharmaciesaintmichel-strasbourg.fr
@@ -23666,6 +23694,7 @@
 0.0.0.0 pharmacie-vanhille.fr
 0.0.0.0 pharmacievarachaud.fr
 0.0.0.0 pharmacievariot.fr
+0.0.0.0 pharmacieviti.fr
 0.0.0.0 pharmacievittouris.fr
 0.0.0.0 pharmaciewallet.fr
 0.0.0.0 pharmadelafontaine-sermaize.fr
@@ -24383,6 +24412,7 @@
 0.0.0.0 primeluxe.fr
 0.0.0.0 prime-manage.fr
 0.0.0.0 prime-management.fr
+0.0.0.0 prime-menu.fr
 0.0.0.0 primeminister.fr
 0.0.0.0 prime-modif.fr
 0.0.0.0 prime-modification.fr
@@ -24438,6 +24468,8 @@
 0.0.0.0 prime-service.fr
 0.0.0.0 primeservice.fr
 0.0.0.0 prime-services.fr
+0.0.0.0 prime-setting.fr
+0.0.0.0 prime-settings.fr
 0.0.0.0 prime-sev.fr
 0.0.0.0 prime-show.fr
 0.0.0.0 primeslotscasino365.fr
@@ -28980,6 +29012,8 @@
 0.0.0.0 spinmamacasino.fr
 0.0.0.0 spinmama-casinos.fr
 0.0.0.0 spinmamacasinos.fr
+0.0.0.0 spinmama-connexion.fr
+0.0.0.0 spinmamaconnexion.fr
 0.0.0.0 spinmama-france.fr
 0.0.0.0 spinmamafrance.fr
 0.0.0.0 spinmamafr.fr
@@ -28999,10 +29033,13 @@
 0.0.0.0 spinmillioncasino-fr.fr
 0.0.0.0 spinmillioncasinofr.fr
 0.0.0.0 spinmillioncasinos.fr
+0.0.0.0 spino-gambino-application.fr
 0.0.0.0 spino-gambinoavis.fr
 0.0.0.0 spino-gambinobet.fr
 0.0.0.0 spinogambino-bet.fr
+0.0.0.0 spino-gambino-bonus.fr
 0.0.0.0 spino-gambinocasino.fr
+0.0.0.0 spino-gambino-connexion.fr
 0.0.0.0 spino-gambinojeux.fr
 0.0.0.0 spinogambino-jeux.fr
 0.0.0.0 spinogambino-test.fr
@@ -31310,12 +31347,19 @@
 0.0.0.0 vegadream-casino.fr
 0.0.0.0 vegascrest-casino.fr
 0.0.0.0 vegas-days-casino.fr
+0.0.0.0 vegas-hero-appconnexion.fr
+0.0.0.0 vegas-hero-applogin.fr
 0.0.0.0 vegasherobonus.fr
+0.0.0.0 vegas-hero-bonuslogin.fr
 0.0.0.0 vegas-herocasino.fr
 0.0.0.0 vegasherocasinoo.fr
+0.0.0.0 vegas-hero-connexion-app.fr
+0.0.0.0 vegas-heroconnexion-app.fr
 0.0.0.0 vegas-hero-fr.fr
 0.0.0.0 vegashero-fr.fr
 0.0.0.0 vegasherojeu.fr
+0.0.0.0 vegas-heroreview-applogin.fr
+0.0.0.0 vegas-heroreview-login.fr
 0.0.0.0 vegasino2.fr
 0.0.0.0 vegasino3.fr
 0.0.0.0 vegasino7.fr
