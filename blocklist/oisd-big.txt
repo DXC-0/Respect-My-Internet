@@ -20721,6 +20721,7 @@
 0.0.0.0 *.app.pudret.com
 0.0.0.0 *.app.pulsmedia.is
 0.0.0.0 *.app.qpointsurvey.com
+0.0.0.0 *.app.quietnetpro.com
 0.0.0.0 *.app.redretarget.com
 0.0.0.0 *.app.renovacaoresgate.digital
 0.0.0.0 *.app.renovacaoresgate.info
@@ -24413,6 +24414,7 @@
 0.0.0.0 *.author-adoption.gl.at.ply.gg
 0.0.0.0 *.author-dis.gl.at.ply.gg
 0.0.0.0 *.author-pine.gl.at.ply.gg
+0.0.0.0 *.author-ride-detected-wholesale.trycloudflare.com
 0.0.0.0 *.authorise-apple.web.app
 0.0.0.0 *.authorise-login-bl0ckchain.firebaseapp.com
 0.0.0.0 *.authorise-login-bl0ckchain.web.app
@@ -79483,6 +79485,7 @@
 0.0.0.0 *.go-onlinebnparibas.com
 0.0.0.0 *.go-propreview.top
 0.0.0.0 *.go-rank.de
+0.0.0.0 *.go-sale.online
 0.0.0.0 *.go-static.info
 0.0.0.0 *.go-taichung.com
 0.0.0.0 *.go-to-links.firebaseapp.com
@@ -113606,6 +113609,7 @@
 0.0.0.0 *.medkounarda.firebaseapp.com
 0.0.0.0 *.medkounarda.web.app
 0.0.0.0 *.medlabgov.com
+0.0.0.0 *.medlamarkt.pl
 0.0.0.0 *.medleyads.com
 0.0.0.0 *.medlikeamate.org
 0.0.0.0 *.medlineactimend.com
