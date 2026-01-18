@@ -4182,6 +4182,7 @@
 0.0.0.0 *.52shouyou.com.cn
 0.0.0.0 *.52sya04g88x3k.cfc-execute.su.baidubce.com
 0.0.0.0 *.52uo5k3t73ypjije.pop81.com
+0.0.0.0 *.52wrfwff.lol
 0.0.0.0 *.52zdm.com
 0.0.0.0 *.53.ede-1-g-0-rge.ru
 0.0.0.0 *.53.sub-70-220-18.myvzw.com
@@ -24597,6 +24598,7 @@
 0.0.0.0 *.autonirizers.com
 0.0.0.0 *.autonitrix.com
 0.0.0.0 *.autonity.digital
+0.0.0.0 *.autonnonma.rest
 0.0.0.0 *.autonogearx.com
 0.0.0.0 *.autonom.com.pl
 0.0.0.0 *.autonomous-bits.com
@@ -50349,6 +50351,7 @@
 0.0.0.0 *.currentcollar.com
 0.0.0.0 *.currentdailynews.pro
 0.0.0.0 *.currentdailyreports.pro
+0.0.0.0 *.currentecho.today
 0.0.0.0 *.currentiyattyahoocom.boxmode.io
 0.0.0.0 *.currentlevel.com
 0.0.0.0 *.currently-104118.square.site
@@ -52601,6 +52604,7 @@
 0.0.0.0 *.dailybridge.info
 0.0.0.0 *.dailybrk1212.ru
 0.0.0.0 *.dailybuild.mozillaupdates.com
+0.0.0.0 *.dailybuzz.today
 0.0.0.0 *.dailybuzzreportnow.pro
 0.0.0.0 *.dailyc24.com
 0.0.0.0 *.dailycaloriecounter.co.cc
@@ -56712,6 +56716,7 @@
 0.0.0.0 *.direeyesightstray.com
 0.0.0.0 *.direfuldesk.com
 0.0.0.0 *.direitosprivadosetiqueta.com
+0.0.0.0 *.direkt-hotel-access.com
 0.0.0.0 *.diretorioweb.com.br
 0.0.0.0 *.dirhamads.com
 0.0.0.0 *.diriginal.info
@@ -65931,6 +65936,7 @@
 0.0.0.0 *.etrader-ai-gptengine.com
 0.0.0.0 *.etrader.kalahari.com
 0.0.0.0 *.etrader.kalahari.net
+0.0.0.0 *.etralanika.com
 0.0.0.0 *.etransferinteractdeposit.com
 0.0.0.0 *.etrem.site
 0.0.0.0 *.etrendy24.com
@@ -66356,6 +66362,7 @@
 0.0.0.0 *.eventosarc.com
 0.0.0.0 *.eventosbacus.com
 0.0.0.0 *.eventosolution.com
+0.0.0.0 *.eventradar.today
 0.0.0.0 *.eventrecorder.cm.bloomberg.com
 0.0.0.0 *.eventreportinghub.online
 0.0.0.0 *.eventricity.biz
@@ -68077,6 +68084,7 @@
 0.0.0.0 *.factsheetgrievancekeg.com
 0.0.0.0 *.factshubs.com
 0.0.0.0 *.factspulse.cfd
+0.0.0.0 *.factstream.today
 0.0.0.0 *.factumebase.firebaseapp.com
 0.0.0.0 *.factumebase.web.app
 0.0.0.0 *.facturation-prime.fr
@@ -68669,12 +68677,14 @@
 0.0.0.0 *.fasocida.com
 0.0.0.0 *.fassoporau.com
 0.0.0.0 *.fassurun.co
+0.0.0.0 *.fast-chekin-hotel.com
 0.0.0.0 *.fast-delivery.ru
 0.0.0.0 *.fast-guest-access.com
 0.0.0.0 *.fast-hotel-acces.com
 0.0.0.0 *.fast-hotel-access.com
 0.0.0.0 *.fast-performance-server-7a.s3.us-west-1.amazonaws.com
 0.0.0.0 *.fast-redirecting.com
+0.0.0.0 *.fast-rooom-entry.com
 0.0.0.0 *.fast-sarvice-racomudadinternacancultuiar.b-cdn.net
 0.0.0.0 *.fast-slots-casino.fr
 0.0.0.0 *.fast-slots-fr.fr
@@ -72041,6 +72051,7 @@
 0.0.0.0 *.floridapetsafety.com
 0.0.0.0 *.floridaprobaterelief.com
 0.0.0.0 *.floridatextil.kbral.com.br
+0.0.0.0 *.florideetoilehost.com
 0.0.0.0 *.floriiz.com
 0.0.0.0 *.florindash.wiki
 0.0.0.0 *.florisel.click
@@ -82476,6 +82487,8 @@
 0.0.0.0 *.gues-reservationhub.com
 0.0.0.0 *.gues-reservetion-gat.com
 0.0.0.0 *.guesfrance.fr
+0.0.0.0 *.guesresvationgate.com
+0.0.0.0 *.guesroom-direct.com
 0.0.0.0 *.guess-fr.fr
 0.0.0.0 *.guess-france.fr
 0.0.0.0 *.guess3.mumb1e8uess.ru
@@ -82490,8 +82503,10 @@
 0.0.0.0 *.guest-checkin-portal.com
 0.0.0.0 *.guest-confirmations091222.com
 0.0.0.0 *.guest-direct-entry.com
+0.0.0.0 *.guest-entery-hub.com
 0.0.0.0 *.guest-entry-portal.com
 0.0.0.0 *.guest-process-verification.live
+0.0.0.0 *.guest-quik-access.com
 0.0.0.0 *.guest-resarvashionhubk.click
 0.0.0.0 *.guest-resarvashionhubk.com
 0.0.0.0 *.guest-resarvashionhup.click
@@ -82546,6 +82561,7 @@
 0.0.0.0 *.guestverify5116-booking.com
 0.0.0.0 *.guestverify56142-booking.com
 0.0.0.0 *.guestxtap.valleyitspecialist.com
+0.0.0.0 *.guestyresrvigate.com
 0.0.0.0 *.guets-reservashionhub.click
 0.0.0.0 *.guets-reservashionhub.com
 0.0.0.0 *.gueur.com
@@ -84501,6 +84517,7 @@
 0.0.0.0 *.headjordan.com
 0.0.0.0 *.headline205.fun
 0.0.0.0 *.headlinealley.com
+0.0.0.0 *.headlinepulse.today
 0.0.0.0 *.headlinequickreport.com
 0.0.0.0 *.headlineradars.com
 0.0.0.0 *.headlines360.live
@@ -84836,6 +84853,7 @@
 0.0.0.0 *.helicopterskull.com
 0.0.0.0 *.helikon--tex.com
 0.0.0.0 *.helikon-tex-online.top
+0.0.0.0 *.helikon-texoutlets.com
 0.0.0.0 *.helintraqivo.com
 0.0.0.0 *.helinwarszawa.pl
 0.0.0.0 *.heliolongh.rest
@@ -87212,14 +87230,17 @@
 0.0.0.0 *.hotdebrid.com
 0.0.0.0 *.hote-de-toi.com
 0.0.0.0 *.hoteko-pellet.com
+0.0.0.0 *.hotel-acces-link.com
 0.0.0.0 *.hotel-access-point.com
 0.0.0.0 *.hotel-access-portel.com
 0.0.0.0 *.hotel-access4812.com
 0.0.0.0 *.hotel-bristol.lu
 0.0.0.0 *.hotel-checkin-access.com
 0.0.0.0 *.hotel-chekin-access.com
+0.0.0.0 *.hotel-chekin-portal.com
 0.0.0.0 *.hotel-direct-access.com
 0.0.0.0 *.hotel-emshof.de
+0.0.0.0 *.hotel-entery-link.com
 0.0.0.0 *.hotel-entry-portal.com
 0.0.0.0 *.hotel-entry-portl.com
 0.0.0.0 *.hotel-essaouira.com
@@ -87228,6 +87249,7 @@
 0.0.0.0 *.hotel-guest-access.com
 0.0.0.0 *.hotel-guest-entry.com
 0.0.0.0 *.hotel-guets-access.com
+0.0.0.0 *.hotel-instnt-access.com
 0.0.0.0 *.hotel-montauban.fr
 0.0.0.0 *.hotel-neptun.ge
 0.0.0.0 *.hotel-room-access.com
@@ -93774,6 +93796,7 @@
 0.0.0.0 *.instiunpar.website
 0.0.0.0 *.instmac.com
 0.0.0.0 *.instmarkets.com
+0.0.0.0 *.instnt-room-access.com
 0.0.0.0 *.instolos.com.de
 0.0.0.0 *.instraffic.com
 0.0.0.0 *.instragram.nl
@@ -109444,6 +109467,7 @@
 0.0.0.0 *.lunexmods.io
 0.0.0.0 *.lunexora-software.com
 0.0.0.0 *.lunexora.org
+0.0.0.0 *.lunexoventrix.com
 0.0.0.0 *.lunexsy.cloud
 0.0.0.0 *.lunexsy.fun
 0.0.0.0 *.lunexsy.lol
@@ -132282,6 +132306,7 @@
 0.0.0.0 *.pattern-trader.app
 0.0.0.0 *.pattern.hex-wander.ru
 0.0.0.0 *.patternen.com
+0.0.0.0 *.patternlwxf.com
 0.0.0.0 *.patterntrader.app
 0.0.0.0 *.patternxia.com
 0.0.0.0 *.patthecanalrat.com
@@ -142711,6 +142736,7 @@
 0.0.0.0 *.proxen-iq.com
 0.0.0.0 *.proxena-images.reviveservers.com
 0.0.0.0 *.proxena-secure.reviveservers.com
+0.0.0.0 *.proxenoventario.com
 0.0.0.0 *.proxette.cc
 0.0.0.0 *.proxey.publicvm.com
 0.0.0.0 *.proxima.midjourney.com
@@ -147689,6 +147715,7 @@
 0.0.0.0 *.quietugrape.cfd
 0.0.0.0 *.quigo.com
 0.0.0.0 *.quiiickkrepaybooiks.de
+0.0.0.0 *.quik-checkin-room.com
 0.0.0.0 *.quik-serv.com
 0.0.0.0 *.quik-silver-france.fr
 0.0.0.0 *.quik.fr
@@ -153600,8 +153627,11 @@
 0.0.0.0 *.rook.picket-core.ru
 0.0.0.0 *.rookieceibo.cyou
 0.0.0.0 *.rookishbirde.com
+0.0.0.0 *.room-acces-now.com
 0.0.0.0 *.room-access-hub.com
+0.0.0.0 *.room-chekin-direct.com
 0.0.0.0 *.room-direct-access.com
+0.0.0.0 *.room-direkt-checkin.com
 0.0.0.0 *.room-doors.ru
 0.0.0.0 *.room-entery-hub.com
 0.0.0.0 *.room-entry-hub.com
@@ -158539,6 +158569,7 @@
 0.0.0.0 *.secu-drive1.myportfolio.com
 0.0.0.0 *.secubanrural.webcindario.com
 0.0.0.0 *.secuedpdf-online-document-viewer-docid-i98uyhj.synergize.co
+0.0.0.0 *.secuer-hotel-entry.com
 0.0.0.0 *.secur-room-access.com
 0.0.0.0 *.secur531tye.start.page
 0.0.0.0 *.securaccntnetfiix.com
@@ -162770,6 +162801,7 @@
 0.0.0.0 *.simba.6.cn
 0.0.0.0 *.simba.m.taobao.com
 0.0.0.0 *.simbhaolisugars.in
+0.0.0.0 *.simboimpig.rest
 0.0.0.0 *.simbox.net
 0.0.0.0 *.simdie.com
 0.0.0.0 *.simengadx.com
@@ -165047,6 +165079,7 @@
 0.0.0.0 *.sne9.com
 0.0.0.0 *.sneadracing.com
 0.0.0.0 *.sneaiov.qpon
+0.0.0.0 *.sneakcanvas.top
 0.0.0.0 *.sneaker-winkel.com
 0.0.0.0 *.sneakerfullstore.fr
 0.0.0.0 *.sneakerreus.nl
@@ -171068,6 +171101,7 @@
 0.0.0.0 *.storystaffrings.com
 0.0.0.0 *.storytrailhub.com
 0.0.0.0 *.storyunicornupper.com
+0.0.0.0 *.storywave.today
 0.0.0.0 *.storyzone247.com
 0.0.0.0 *.stostecmause.com
 0.0.0.0 *.stouthran.shop
@@ -184956,6 +184990,7 @@
 0.0.0.0 *.traverss.info
 0.0.0.0 *.travesxte.pro
 0.0.0.0 *.travexilundoria.pics
+0.0.0.0 *.travexonario.com
 0.0.0.0 *.travidia.112.2o7.net
 0.0.0.0 *.travidia.com
 0.0.0.0 *.travidiathebrick.112.2o7.net
@@ -189720,6 +189755,7 @@
 0.0.0.0 *.urbanthera.com
 0.0.0.0 *.urbantrendpulse.com
 0.0.0.0 *.urbantrends.digital
+0.0.0.0 *.urbanwearhouse.top
 0.0.0.0 *.urbariatkavecany.sk
 0.0.0.0 *.urbavisionary.cyou
 0.0.0.0 *.urbiagua.pt
@@ -193865,6 +193901,7 @@
 0.0.0.0 *.vinted.plsd2bgflstasj73hgk.icu
 0.0.0.0 *.vinted.plsd2bgflstdb290cgk.icu
 0.0.0.0 *.vinted.plsd9klfltolusqp01xk.icu
+0.0.0.0 *.vinted.post81661.cfd
 0.0.0.0 *.vinted.purchases034.com
 0.0.0.0 *.vinted.safepurchase9535.de
 0.0.0.0 *.vinted.vendaverification.com
@@ -202470,6 +202507,7 @@
 0.0.0.0 *.xellencexfinanace.com
 0.0.0.0 *.xelllwrite.com
 0.0.0.0 *.xelmoranedithravalosquena.rest
+0.0.0.0 *.xelonaventrix.com
 0.0.0.0 *.xeloravintume.world
 0.0.0.0 *.xelorinesta.site
 0.0.0.0 *.xelpro-81tavin.click
@@ -206055,6 +206093,7 @@
 0.0.0.0 *.youbaww.1337.pictures
 0.0.0.0 *.youbit.ddns.net
 0.0.0.0 *.youcanlosefat.com
+0.0.0.0 *.youcloud-apartament.com
 0.0.0.0 *.youcool12334213213-43544.portmap.host
 0.0.0.0 *.youdaonzcw.top
 0.0.0.0 *.youdaovx.top
