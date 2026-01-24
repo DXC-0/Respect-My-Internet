@@ -33897,9 +33897,7 @@
 0.0.0.0 *.boostyourincomeonline.com
 0.0.0.0 *.boot.jessami.co.uk
 0.0.0.0 *.bootaa.anondns.net
-0.0.0.0 *.bootcdn.net
 0.0.0.0 *.bootcdncache.com
-0.0.0.0 *.bootcss.com
 0.0.0.0 *.booter.pw
 0.0.0.0 *.booter.xyz
 0.0.0.0 *.bootingunpickedusable.com
@@ -40347,6 +40345,7 @@
 0.0.0.0 *.cdn.biff.travel
 0.0.0.0 *.cdn.bigspeedpro.com
 0.0.0.0 *.cdn.bisrv.com
+0.0.0.0 *.cdn.bootcss.com
 0.0.0.0 *.cdn.brandmetrics.com
 0.0.0.0 *.cdn.brevo.com
 0.0.0.0 *.cdn.by.wonderpush.com
