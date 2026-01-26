@@ -20,13 +20,13 @@ Start and Enable OpenSnitch service :
 
 ```sudo systemctl enable --now opensnitch```
 
-Download and launch the [install.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/install.sh) script : 
+Download and launch the [install.sh](https://github.com/DXC-0/Respect-My-Internet/blob/main/install.sh) script : 
 
 ```git clone https://github.com/TheCyberArcher/Respect-My-Internet.git``` \
 ```cd Respect-My-Internet``` \
 ```sudo bash install.sh```
 
-For the update part, use the [update.sh](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/update.sh) script.
+For the update part, use the [update.sh](https://github.com/DXC-0/Respect-My-Internet/blob/main/update.sh) script.
 
 ---
 
@@ -44,13 +44,13 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 
 | Blocklist version | OpenSnitch | LittleSnitch | Adguard | Ublock |
 | --- | --- | --- | --- | --- |
-| Respect-My-Internet | [Download](https://github.com/TheCyberArcher/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt) | Soon | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/respect-my-internet-adblock.txt) | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/respect-my-internet-adblock.txt) |
-| IP-Protection | [Download](https://raw.githubusercontent.com/TheCyberArcher/Respect-My-Internet/refs/heads/main/blocklist/ip/ip-protection.txt) | Soon |  |  |
+| Respect-My-Internet | [Download](https://github.com/DXC-0/Respect-My-Internet/blob/main/blocklist/respect-my-internet.txt) | Soon | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/respect-my-internet-adblock.txt) | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/respect-my-internet-adblock.txt) |
+| IP-Protection | [Download](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/ip/ip-protection.txt) | Soon |  |  |
 
 <br />
 
----> All sub-blocklists are OpenSnitch compatible [blocklist-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist) \
----> If you need more blocklists, check the [extra-repository](https://github.com/TheCyberArcher/Respect-My-Internet/tree/main/blocklist/extra)
+---> All sub-blocklists are OpenSnitch compatible [blocklist-repository](https://github.com/DXC-0/Respect-My-Internet/tree/main/blocklist) \
+---> If you need more blocklists, check the [extra-repository](https://github.com/DXC-0/Respect-My-Internet/tree/main/blocklist/extra)
 
 ---> Use [No-IA blocklist](https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/noai_hosts.txt) to clean up LLM shit and generation that pollutes the internet. (Thanks, [laylavish](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist?tab=readme-ov-file), for this miraculous host file :heart:)
 
