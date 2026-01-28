@@ -38,6 +38,7 @@
 0.0.0.0 1appleid-apple.fr
 0.0.0.0 1auchan.fr
 0.0.0.0 1bet.fr
+0.0.0.0 1betriot.fr
 0.0.0.0 1but.fr
 0.0.0.0 1cares.fr
 0.0.0.0 1ccreditmutuell.fr
@@ -60,6 +61,7 @@
 0.0.0.0 1kdigital.fr
 0.0.0.0 1lapeyre.fr
 0.0.0.0 1leroymerlin.fr
+0.0.0.0 1lunubet.fr
 0.0.0.0 1max2coloriage.fr
 0.0.0.0 1monespace-lcl.fr
 0.0.0.0 1monpay-pal.fr
@@ -3570,6 +3572,8 @@
 0.0.0.0 artissanat.fr
 0.0.0.0 artpalette.fr
 0.0.0.0 arubabetcasino.fr
+0.0.0.0 aruba-fr.fr
+0.0.0.0 arubafr.fr
 0.0.0.0 as-amelis-france.fr
 0.0.0.0 asana.pm
 0.0.0.0 asconnexion.fr
@@ -3977,6 +3981,7 @@
 0.0.0.0 assurance-soin.fr
 0.0.0.0 assurances-renouvellements.fr
 0.0.0.0 assurances-retraites.fr
+0.0.0.0 assurance-support.fr
 0.0.0.0 assurances-vitale.fr
 0.0.0.0 assurancesvitale.fr
 0.0.0.0 assurances-vitales.fr
@@ -5104,6 +5109,7 @@
 0.0.0.0 betrebels.fr
 0.0.0.0 bet-riot-casino.fr
 0.0.0.0 betriotcasinofrance.fr
+0.0.0.0 betriots.fr
 0.0.0.0 betroom24.fr
 0.0.0.0 betsamigo.fr
 0.0.0.0 betsclic.fr
@@ -5118,6 +5124,7 @@
 0.0.0.0 betzino-casino1.fr
 0.0.0.0 betzinocasino1.fr
 0.0.0.0 betzinocasinofrance.fr
+0.0.0.0 betzinocasino-fr.fr
 0.0.0.0 betzinocasino-online.fr
 0.0.0.0 betzinocasinos.fr
 0.0.0.0 betzino-france1.fr
@@ -5898,6 +5905,7 @@
 0.0.0.0 burtonfrance.fr
 0.0.0.0 burton-fr.fr
 0.0.0.0 burtonparis.fr
+0.0.0.0 burtonsoldes.fr
 0.0.0.0 business24.fr
 0.0.0.0 business-prime.fr
 0.0.0.0 businessverif.fr
@@ -6597,6 +6605,7 @@
 0.0.0.0 casinia-online.fr
 0.0.0.0 casinmegawin.fr
 0.0.0.0 casino1win.fr
+0.0.0.0 casino770com.fr
 0.0.0.0 casino770-france.fr
 0.0.0.0 casino-770fr.fr
 0.0.0.0 casino770fr.fr
@@ -6945,6 +6954,9 @@
 0.0.0.0 casombie-casinos.fr
 0.0.0.0 casombie-fr.fr
 0.0.0.0 casoocasino.fr
+0.0.0.0 casoola-fr.fr
+0.0.0.0 casoolafr.fr
+0.0.0.0 casoolas.fr
 0.0.0.0 cassert-financement.fr
 0.0.0.0 cassino770.fr
 0.0.0.0 castanerfrance.fr
@@ -7015,6 +7027,7 @@
 0.0.0.0 cazeuss.fr
 0.0.0.0 cazimbo-casino.fr
 0.0.0.0 cazimbo.fr
+0.0.0.0 cazula.fr
 0.0.0.0 cbackmarket.fr
 0.0.0.0 cbcare.fr
 0.0.0.0 cbdgouv.fr
@@ -11200,6 +11213,7 @@
 0.0.0.0 dreets-g0uv.fr
 0.0.0.0 dress-store.fr
 0.0.0.0 drfip-finances-ca3.fr
+0.0.0.0 drfip-financesca3.fr
 0.0.0.0 drieetsgouv.fr
 0.0.0.0 dripcasino1.fr
 0.0.0.0 drive2.re
@@ -14404,6 +14418,8 @@
 0.0.0.0 grandzcasinobonus.fr
 0.0.0.0 grandzcasinologin.fr
 0.0.0.0 grandzcasinosfrance.fr
+0.0.0.0 grandz-fr.fr
+0.0.0.0 grandzfr.fr
 0.0.0.0 gransino-casino.fr
 0.0.0.0 gransino-fra.fr
 0.0.0.0 gransino-france.fr
@@ -16087,6 +16103,7 @@
 0.0.0.0 infraction-amende.fr
 0.0.0.0 infraction-amendes.fr
 0.0.0.0 infraction-antai.fr
+0.0.0.0 infractionantai.fr
 0.0.0.0 infraction-ants.fr
 0.0.0.0 infraction-delais.fr
 0.0.0.0 infraction-info.fr
@@ -18402,6 +18419,7 @@
 0.0.0.0 lucky8casinogame.fr
 0.0.0.0 lucky8-casinos.fr
 0.0.0.0 lucky8casinos.fr
+0.0.0.0 lucky8com.fr
 0.0.0.0 lucky8-france.fr
 0.0.0.0 lucky8france.fr
 0.0.0.0 lucky-8-fr.fr
@@ -18498,6 +18516,7 @@
 0.0.0.0 lunubetfrance.fr
 0.0.0.0 lunubet-fr.fr
 0.0.0.0 lunubet-online.fr
+0.0.0.0 lunu-bets.fr
 0.0.0.0 lutlook.fr
 0.0.0.0 luuni.fr
 0.0.0.0 luxbus.yt
@@ -25026,6 +25045,7 @@
 0.0.0.0 qweb-caf.fr
 0.0.0.0 qwejm.yt
 0.0.0.0 qwhc.yt
+0.0.0.0 qwick-fr.fr
 0.0.0.0 qwkjh.yt
 0.0.0.0 qwmsz.yt
 0.0.0.0 qwoaq.yt
@@ -28179,6 +28199,7 @@
 0.0.0.0 sexymodel.fr
 0.0.0.0 sfcpart-impottsgouv.fr
 0.0.0.0 sfejm.yt
+0.0.0.0 sfgp-sigmadis-cadelec.fr
 0.0.0.0 sfinancierfortuneo.fr
 0.0.0.0 sfkmq.yt
 0.0.0.0 sfna.fr
