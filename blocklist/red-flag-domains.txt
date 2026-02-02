@@ -1178,6 +1178,7 @@
 0.0.0.0 aide-cvitale.fr
 0.0.0.0 aidedd.fr
 0.0.0.0 aide-dgfip-rectification.fr
+0.0.0.0 aide-doctolib.fr
 0.0.0.0 aide-economie-relance.fr
 0.0.0.0 aide-espace-navigo.fr
 0.0.0.0 aide-facturation.fr
@@ -3480,6 +3481,7 @@
 0.0.0.0 aquitte-netiflix.fr
 0.0.0.0 ar24courrier.fr
 0.0.0.0 ar24-docaposte.fr
+0.0.0.0 ar24prortransf.fr
 0.0.0.0 ar24recommande.fr
 0.0.0.0 ar24-suivi.fr
 0.0.0.0 ara-chaussures.fr
@@ -3690,6 +3692,7 @@
 0.0.0.0 assistancecontrole.fr
 0.0.0.0 assistance-dgfip-financesgouv.fr
 0.0.0.0 assistance-dgfip.fr
+0.0.0.0 assistancedirect.fr
 0.0.0.0 assistance-disney.fr
 0.0.0.0 assistance-douane.fr
 0.0.0.0 assistance-dsin.fr
@@ -4162,6 +4165,7 @@
 0.0.0.0 atchendirect.fr
 0.0.0.0 atelier-lesoon.fr
 0.0.0.0 athenea.fr
+0.0.0.0 athleta-france.fr
 0.0.0.0 atlanticon.fr
 0.0.0.0 atlanticos.fr
 0.0.0.0 atlantisslots3.fr
@@ -7461,6 +7465,7 @@
 0.0.0.0 chaussuresalomon.fr
 0.0.0.0 chaussuresalomon-france.fr
 0.0.0.0 chaussuresalomonfrance.fr
+0.0.0.0 chaussuresalomontrail.fr
 0.0.0.0 chaussuresarafrance.fr
 0.0.0.0 chaussuresaramagasins.fr
 0.0.0.0 chaussuresarasoldes.fr
@@ -10824,6 +10829,7 @@
 0.0.0.0 diorpascher.fr
 0.0.0.0 dior.tf
 0.0.0.0 diplomategouv.fr
+0.0.0.0 diplomatiefrancaisgov.fr
 0.0.0.0 diplomatiegouv.fr
 0.0.0.0 diplomatie-gouv-france.fr
 0.0.0.0 diplomatie-gov.fr
@@ -13674,6 +13680,7 @@
 0.0.0.0 furlafrance.fr
 0.0.0.0 furlafranceoutlet.fr
 0.0.0.0 furlafr.fr
+0.0.0.0 furlaoutlet.fr
 0.0.0.0 furlaoutletfrance.fr
 0.0.0.0 furlaparis.fr
 0.0.0.0 furnledger.fr
@@ -15227,6 +15234,7 @@
 0.0.0.0 icwc.fr
 0.0.0.0 id12fr-payement-confirmation-boncoin.fr
 0.0.0.0 id-ameli.fr
+0.0.0.0 id-appestore.fr
 0.0.0.0 id-bnpparibas.fr
 0.0.0.0 id-bon-coin.fr
 0.0.0.0 id-c.fr
@@ -16626,6 +16634,7 @@
 0.0.0.0 juegosdechicas.fr
 0.0.0.0 jul-billeterie.fr
 0.0.0.0 julbillet.fr
+0.0.0.0 julbilletterie.fr
 0.0.0.0 julconcert.fr
 0.0.0.0 julconcertfrance.fr
 0.0.0.0 julconcertlive.fr
@@ -18254,6 +18263,7 @@
 0.0.0.0 login-ausinbox.fr
 0.0.0.0 login-bon-coin-photos.fr
 0.0.0.0 login-caissepargne.fr
+0.0.0.0 login-carrefourbanque.fr
 0.0.0.0 login-ce.fr
 0.0.0.0 loginchronopost.fr
 0.0.0.0 login-chronopost-france.fr
@@ -18773,6 +18783,7 @@
 0.0.0.0 madcasinobonuscode365.fr
 0.0.0.0 madcasinodeposit.fr
 0.0.0.0 madcasino.fr
+0.0.0.0 madcasino-fr.fr
 0.0.0.0 madcasinologin777.fr
 0.0.0.0 madcasinologin.fr
 0.0.0.0 madcasinos.fr
@@ -19318,6 +19329,7 @@
 0.0.0.0 mblablacar.fr
 0.0.0.0 m-bnpparibas.fr
 0.0.0.0 mbpaypl.fr
+0.0.0.0 mb-prime.fr
 0.0.0.0 m-bricolage.fr
 0.0.0.0 mc3logistiquesas.fr
 0.0.0.0 mc44.fr
@@ -20974,6 +20986,7 @@
 0.0.0.0 mr-colisrelay.fr
 0.0.0.0 mrdeepfake.fr
 0.0.0.0 mrelay-client.fr
+0.0.0.0 mrelay-colis.fr
 0.0.0.0 mrelay-expedition.fr
 0.0.0.0 mrelay.fr
 0.0.0.0 m-relay-info.fr
@@ -25519,6 +25532,7 @@
 0.0.0.0 refprime.fr
 0.0.0.0 refreshchaussures.fr
 0.0.0.0 ref-savchrono.fr
+0.0.0.0 refundppl-secureonline.fr
 0.0.0.0 refund-prime.fr
 0.0.0.0 refus-indemnisation.fr
 0.0.0.0 regalezvousfaitesvotrepub.fr
@@ -29800,6 +29814,7 @@
 0.0.0.0 suivi-commande-chronopost.fr
 0.0.0.0 suivi-commande-colis.fr
 0.0.0.0 suivicommande-mondialfrance.fr
+0.0.0.0 suivi-commande-prime.fr
 0.0.0.0 suivi-commandes.fr
 0.0.0.0 suivicontravention-antai.fr
 0.0.0.0 suivi-controleroutier.fr
@@ -30404,6 +30419,7 @@
 0.0.0.0 swisspost-suivi.fr
 0.0.0.0 swisspost-tck.fr
 0.0.0.0 sxb.yt
+0.0.0.0 sx-prime.fr
 0.0.0.0 sybonymo.fr
 0.0.0.0 sylae.fr
 0.0.0.0 sylexfrance.fr
@@ -32475,6 +32491,7 @@
 0.0.0.0 vveepee.fr
 0.0.0.0 vvinted.fr
 0.0.0.0 vwff.fr
+0.0.0.0 vx-prime.fr
 0.0.0.0 vyvassurance.fr
 0.0.0.0 vyv-mutuelle.fr
 0.0.0.0 vyvmutuelle.fr
@@ -33782,6 +33799,7 @@
 0.0.0.0 xpya.yt
 0.0.0.0 xpye.yt
 0.0.0.0 xstory-fr.fr
+0.0.0.0 xtv-prime.fr
 0.0.0.0 xuucv.yt
 0.0.0.0 xuwz.fr
 0.0.0.0 xuxx.fr
