@@ -4292,6 +4292,7 @@
 0.0.0.0 authentication.wf
 0.0.0.0 authentic-coupon-tabac.fr
 0.0.0.0 authenticshop93.fr
+0.0.0.0 authentic-shop.fr
 0.0.0.0 authentification-3dsecured.fr
 0.0.0.0 authentification-3dsecure.fr
 0.0.0.0 authentification-amazon.fr
@@ -4470,6 +4471,7 @@
 0.0.0.0 autryensolde.fr
 0.0.0.0 autryensoldes.fr
 0.0.0.0 autry-france.fr
+0.0.0.0 autryfrancesoldes.fr
 0.0.0.0 autrymarseille.fr
 0.0.0.0 autry-officiel.fr
 0.0.0.0 autry-outlet.fr
@@ -5065,6 +5067,7 @@
 0.0.0.0 betifyfr.fr
 0.0.0.0 betify-jeu.fr
 0.0.0.0 betifyjeu.fr
+0.0.0.0 betifyjeux.fr
 0.0.0.0 betify-login.fr
 0.0.0.0 betifylogin.fr
 0.0.0.0 betify-officiel1.fr
@@ -5766,6 +5769,7 @@
 0.0.0.0 bpostaleespaceclient.fr
 0.0.0.0 bpostale.fr
 0.0.0.0 bpostale-secure.fr
+0.0.0.0 b-post-be.fr
 0.0.0.0 bpost-be.fr
 0.0.0.0 bpost-be-tracking.fr
 0.0.0.0 bpost-tracking-be.fr
@@ -6931,12 +6935,14 @@
 0.0.0.0 casino-verde.fr
 0.0.0.0 casinoverde.fr
 0.0.0.0 casino-viggoslots.fr
+0.0.0.0 casinowilddice.fr
 0.0.0.0 casinowildrobin.fr
 0.0.0.0 casino-wildrobin-fr.fr
 0.0.0.0 casinowild-sultan.fr
 0.0.0.0 casinowildsultan.fr
 0.0.0.0 casinowinmachance.fr
 0.0.0.0 casino-winner.fr
+0.0.0.0 casinowinningz.fr
 0.0.0.0 casino-wonaco.fr
 0.0.0.0 casinowonaco.fr
 0.0.0.0 casino-x7.fr
@@ -9107,6 +9113,7 @@
 0.0.0.0 comptereset.fr
 0.0.0.0 compte-restreint.fr
 0.0.0.0 compte-restreint-netflix.fr
+0.0.0.0 compte-review.fr
 0.0.0.0 comptes-acces.fr
 0.0.0.0 comptes-acc.fr
 0.0.0.0 comptes-amazon.fr
@@ -21767,6 +21774,7 @@
 0.0.0.0 netflix-supprt.fr
 0.0.0.0 netflix-suspendue.fr
 0.0.0.0 netflix-suspendu.fr
+0.0.0.0 netflixsuspendu.fr
 0.0.0.0 netflix-suspension.fr
 0.0.0.0 netflixsuspension.fr
 0.0.0.0 netflix-tv.fr
@@ -23963,6 +23971,7 @@
 0.0.0.0 photo-cewe.fr
 0.0.0.0 photonox.fr
 0.0.0.0 photoscape.fr
+0.0.0.0 photos-icloud.fr
 0.0.0.0 photos-verifier.fr
 0.0.0.0 piagetfr.fr
 0.0.0.0 piaggiogroup.fr
@@ -24625,6 +24634,7 @@
 0.0.0.0 prime-bonjour.fr
 0.0.0.0 prime-bonsplans.fr
 0.0.0.0 prime-boutique.fr
+0.0.0.0 prime-buy.fr
 0.0.0.0 primebuy.fr
 0.0.0.0 primecasino-online.fr
 0.0.0.0 prime-changement.fr
@@ -26615,6 +26625,7 @@
 0.0.0.0 sachaussures.fr
 0.0.0.0 sachermes.fr
 0.0.0.0 sac-jacquemus.fr
+0.0.0.0 sackiplingfrance.fr
 0.0.0.0 sackurtgeiger.fr
 0.0.0.0 saclongchampcuirpascher.fr
 0.0.0.0 saclongchampfr.fr
@@ -26717,6 +26728,7 @@
 0.0.0.0 samsung.tf
 0.0.0.0 samsung.wf
 0.0.0.0 samsung.yt
+0.0.0.0 samu-toulon.fr
 0.0.0.0 sanadoo.fr
 0.0.0.0 sanctions-cnil.fr
 0.0.0.0 sandalesaltwater.fr
@@ -26926,6 +26938,7 @@
 0.0.0.0 savorange.fr
 0.0.0.0 savportails.fr
 0.0.0.0 sav-prime.fr
+0.0.0.0 sa-weldom.fr
 0.0.0.0 sberbank.re
 0.0.0.0 scamdoc.fr
 0.0.0.0 scapnor-leclerc.fr
@@ -29995,6 +30008,7 @@
 0.0.0.0 suivre-mon-colis-chronopost.fr
 0.0.0.0 suivremoncolis-chronopost.fr
 0.0.0.0 suivre-moncolis.fr
+0.0.0.0 suivremon-colis.fr
 0.0.0.0 suivremoncolis.fr
 0.0.0.0 suivre-mon-colis-laposte.fr
 0.0.0.0 suivre-mon-colissimo.fr
@@ -33134,6 +33148,7 @@
 0.0.0.0 xitf.fr
 0.0.0.0 xlientcpay.fr
 0.0.0.0 xmanpower.fr
+0.0.0.0 xn--accompagnement-sant-tzb.fr
 0.0.0.0 xn--accs-sap-30a.fr
 0.0.0.0 xn--accueil-socit-generale-m8bb.fr
 0.0.0.0 xn--achatpermisfranais-mvb.fr
