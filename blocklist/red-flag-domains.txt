@@ -38,6 +38,7 @@
 0.0.0.0 1appleid-apple.fr
 0.0.0.0 1auchan.fr
 0.0.0.0 1bet.fr
+0.0.0.0 1betonred.fr
 0.0.0.0 1betriot.fr
 0.0.0.0 1but.fr
 0.0.0.0 1cares.fr
@@ -58,6 +59,7 @@
 0.0.0.0 1eboncoin.fr
 0.0.0.0 1enligne-cic.fr
 0.0.0.0 1fnac.fr
+0.0.0.0 1grandzbet.fr
 0.0.0.0 1kdigital.fr
 0.0.0.0 1lapeyre.fr
 0.0.0.0 1leroymerlin.fr
@@ -71,12 +73,15 @@
 0.0.0.0 1password.fr
 0.0.0.0 1percent.fr
 0.0.0.0 1redbetcasino.fr
+0.0.0.0 1red-casino.fr
+0.0.0.0 1redcasino.fr
 0.0.0.0 1sale.fr
 0.0.0.0 1s-creddit-mutueel.fr
 0.0.0.0 1s-creeditmutueel.fr
 0.0.0.0 1securitelo.fr
 0.0.0.0 1sendsecuritefr.fr
 0.0.0.0 1sfcpart-impotsgouv.fr
+0.0.0.0 1tortuga.fr
 0.0.0.0 1winappcasino.fr
 0.0.0.0 1wincasino.fr
 0.0.0.0 1win-casinos.fr
@@ -382,6 +387,7 @@
 0.0.0.0 abticket.fr
 0.0.0.0 abtritel.fr
 0.0.0.0 abu-king-casino.fr
+0.0.0.0 abu-kingcasino.fr
 0.0.0.0 abuking-casino.fr
 0.0.0.0 abukingcasino-fr.fr
 0.0.0.0 abuking-fr.fr
@@ -1272,6 +1278,7 @@
 0.0.0.0 airbourne-france.fr
 0.0.0.0 airbuds.fr
 0.0.0.0 airbus-france.fr
+0.0.0.0 airbuslog.fr
 0.0.0.0 airbussecurity.fr
 0.0.0.0 air-certificate.fr
 0.0.0.0 air-certificat.fr
@@ -4941,6 +4948,9 @@
 0.0.0.0 benettons.fr
 0.0.0.0 benettonshopfr.fr
 0.0.0.0 benfica.fr
+0.0.0.0 beonbet-casino.fr
+0.0.0.0 beonbetcasino.fr
+0.0.0.0 beonbet.fr
 0.0.0.0 bepost-servicesclients.fr
 0.0.0.0 berat03amazo.fr
 0.0.0.0 berat04amazo.fr
@@ -4979,6 +4989,7 @@
 0.0.0.0 bet-alright.fr
 0.0.0.0 betano-fra.fr
 0.0.0.0 betano-online.fr
+0.0.0.0 bet-blast-casino.fr
 0.0.0.0 betblast-casino.fr
 0.0.0.0 betblastcasino.fr
 0.0.0.0 betblastcasinos.fr
@@ -4995,6 +5006,7 @@
 0.0.0.0 betcli.fr
 0.0.0.0 betcloc.fr
 0.0.0.0 betcoincasino.fr
+0.0.0.0 beteum-casino.fr
 0.0.0.0 betexpress.fr
 0.0.0.0 betfair.re
 0.0.0.0 betfirst-casino.fr
@@ -5110,6 +5122,9 @@
 0.0.0.0 betonredjouer.fr
 0.0.0.0 betonred-login.fr
 0.0.0.0 betonred-officiel.fr
+0.0.0.0 betoranje-casino.fr
+0.0.0.0 betoranjecasino.fr
+0.0.0.0 betoranje.fr
 0.0.0.0 betospin.fr
 0.0.0.0 betovo.fr
 0.0.0.0 betpandacasino777.fr
@@ -5127,6 +5142,7 @@
 0.0.0.0 betsamigo.fr
 0.0.0.0 betsclic.fr
 0.0.0.0 betseyjohnsonparis.fr
+0.0.0.0 betsio-casino.fr
 0.0.0.0 betsonn.fr
 0.0.0.0 betssoncasino.fr
 0.0.0.0 betterscratch.fr
@@ -5171,6 +5187,7 @@
 0.0.0.0 bienvenue-sur-prime.fr
 0.0.0.0 bigclash1.fr
 0.0.0.0 big-clash-casino.fr
+0.0.0.0 big-clashcasino.fr
 0.0.0.0 bigclashcasinos.fr
 0.0.0.0 bigclashconnexion.fr
 0.0.0.0 bigclashfrance.fr
@@ -5239,6 +5256,8 @@
 0.0.0.0 billetvacances.fr
 0.0.0.0 billetwebs.fr
 0.0.0.0 billionairepascher.fr
+0.0.0.0 billionaire-spin-casino.fr
+0.0.0.0 billionaire-spincasino.fr
 0.0.0.0 billionairespincasino.fr
 0.0.0.0 billionairespin-france.fr
 0.0.0.0 billionairespin-online.fr
@@ -5246,6 +5265,7 @@
 0.0.0.0 billybet.fr
 0.0.0.0 billybets1.fr
 0.0.0.0 billy-bets-casino.fr
+0.0.0.0 billy-betscasino.fr
 0.0.0.0 billybets-casino.fr
 0.0.0.0 bimbaylolafrance.fr
 0.0.0.0 bimbaylolaparis.fr
@@ -5329,6 +5349,9 @@
 0.0.0.0 bitsoin.fr
 0.0.0.0 bitstarz-casino.fr
 0.0.0.0 bitstarzcasino.fr
+0.0.0.0 bitstrike-casino.fr
+0.0.0.0 bitstrikecasino.fr
+0.0.0.0 bitstrike.fr
 0.0.0.0 biucosmetics.fr
 0.0.0.0 bjgad.yt
 0.0.0.0 bkpopul.fr
@@ -6236,6 +6259,8 @@
 0.0.0.0 c-and-afrance.fr
 0.0.0.0 candidat-pole-emploi.fr
 0.0.0.0 candimix.fr
+0.0.0.0 candybetcasino.fr
+0.0.0.0 candybets.fr
 0.0.0.0 candy-spins.fr
 0.0.0.0 candyspinz-casino.fr
 0.0.0.0 ca-nm.fr
@@ -6587,6 +6612,8 @@
 0.0.0.0 cashedcasinoavis777.fr
 0.0.0.0 cashedcasinobonuscode.fr
 0.0.0.0 cashedcasinobonus.fr
+0.0.0.0 cashed-casino-france.fr
+0.0.0.0 cashedcasino-france.fr
 0.0.0.0 cashedcasinofrance.fr
 0.0.0.0 cashedcasino-fr.fr
 0.0.0.0 cashedcasinofr.fr
@@ -6604,6 +6631,7 @@
 0.0.0.0 cashwin7.fr
 0.0.0.0 cashwin-casino1.fr
 0.0.0.0 cash-win-casino.fr
+0.0.0.0 cash-wincasino.fr
 0.0.0.0 cashwin-casino.fr
 0.0.0.0 cashwin-fr.fr
 0.0.0.0 cashwinfr.fr
@@ -6614,8 +6642,10 @@
 0.0.0.0 casin0xcasino.fr
 0.0.0.0 casin0x.fr
 0.0.0.0 casinabetify.fr
+0.0.0.0 casina-casino.fr
 0.0.0.0 casinacasino.fr
 0.0.0.0 casinadocasino.fr
+0.0.0.0 casinado-france.fr
 0.0.0.0 casinado-online.fr
 0.0.0.0 casiniacasinoapp.fr
 0.0.0.0 casiniacasinobet.fr
@@ -6758,6 +6788,8 @@
 0.0.0.0 casinoinfinite777.fr
 0.0.0.0 casino-infinite.fr
 0.0.0.0 casinoinfinite.fr
+0.0.0.0 casino-infinity-france.fr
+0.0.0.0 casinoinfinity-france.fr
 0.0.0.0 casinoinfinityy.fr
 0.0.0.0 casinoinstant1.fr
 0.0.0.0 casinoinstant-fr.fr
@@ -6780,7 +6812,9 @@
 0.0.0.0 casinolo1.fr
 0.0.0.0 casinolo-casino.fr
 0.0.0.0 casino-locowin.fr
+0.0.0.0 casinolo-france.fr
 0.0.0.0 casinoloots.fr
+0.0.0.0 casino-lucky8.fr
 0.0.0.0 casinolucky8.fr
 0.0.0.0 casinoluckytreasure.fr
 0.0.0.0 casino-lunubet.fr
@@ -6851,6 +6885,8 @@
 0.0.0.0 casino-roby.fr
 0.0.0.0 casinoroby.fr
 0.0.0.0 casinorocket.fr
+0.0.0.0 casino-rodeoslot.fr
+0.0.0.0 casinorodeoslot.fr
 0.0.0.0 casino-roman.fr
 0.0.0.0 casino-roobet.fr
 0.0.0.0 casinoroobet.fr
@@ -6985,9 +7021,12 @@
 0.0.0.0 casombie-casinos.fr
 0.0.0.0 casombie-fr.fr
 0.0.0.0 casoocasino.fr
+0.0.0.0 casoolacasinos.fr
 0.0.0.0 casoola-fr.fr
 0.0.0.0 casoolafr.fr
 0.0.0.0 casoolas.fr
+0.0.0.0 casperbets.fr
+0.0.0.0 caspero-france.fr
 0.0.0.0 cassert-financement.fr
 0.0.0.0 cassino770.fr
 0.0.0.0 castanerfrance.fr
@@ -7040,6 +7079,7 @@
 0.0.0.0 ca-touloue31.fr
 0.0.0.0 ca-touraienpoitou.fr
 0.0.0.0 catourainepoitou.fr
+0.0.0.0 catspins-casino.fr
 0.0.0.0 caudalie-france.fr
 0.0.0.0 cavaills.fr
 0.0.0.0 ca-vb.fr
@@ -7627,6 +7667,7 @@
 0.0.0.0 chicchaussures.fr
 0.0.0.0 chicensolde.fr
 0.0.0.0 chicken-cross-casino.fr
+0.0.0.0 chickenroadjeu-fr.fr
 0.0.0.0 chicosboutique.fr
 0.0.0.0 chicosparis.fr
 0.0.0.0 chi-creteil.fr
@@ -8424,6 +8465,9 @@
 0.0.0.0 cilissimo.fr
 0.0.0.0 cimade.fr
 0.0.0.0 cimauxerre.fr
+0.0.0.0 cincinbet-casino.fr
+0.0.0.0 cincinbetcasino.fr
+0.0.0.0 cincinbet.fr
 0.0.0.0 cinediagonal.fr
 0.0.0.0 cinemasouslesetoiles.fr
 0.0.0.0 cinetflix.fr
@@ -8464,6 +8508,8 @@
 0.0.0.0 clarksfr.fr
 0.0.0.0 clarksfrsoldes.fr
 0.0.0.0 classes2024gouv.fr
+0.0.0.0 clawbetlive.fr
+0.0.0.0 clawlivebet.fr
 0.0.0.0 c-lbc.fr
 0.0.0.0 clcbanque.fr
 0.0.0.0 clea-certificat.fr
@@ -8716,6 +8762,9 @@
 0.0.0.0 coccinelle-fr.fr
 0.0.0.0 coccinellesacfrance.fr
 0.0.0.0 coccinellesupermarche.fr
+0.0.0.0 coccobet-casino.fr
+0.0.0.0 coccobetcasino.fr
+0.0.0.0 coccobet.fr
 0.0.0.0 cocoa-casino.fr
 0.0.0.0 cocoa-fr.fr
 0.0.0.0 cocogg.fr
@@ -8741,6 +8790,8 @@
 0.0.0.0 coinbasepro.fr
 0.0.0.0 coin-casino.fr
 0.0.0.0 coincasino.fr
+0.0.0.0 coin-casino-france.fr
+0.0.0.0 coincasino-france.fr
 0.0.0.0 coincasinopro.fr
 0.0.0.0 coinminercasino.fr
 0.0.0.0 colas-digital-solutions.fr
@@ -9183,6 +9234,7 @@
 0.0.0.0 concertaccess.fr
 0.0.0.0 concert-jul.fr
 0.0.0.0 concertjul.fr
+0.0.0.0 concerts-france.fr
 0.0.0.0 concerts-livetickets.fr
 0.0.0.0 concertstickets.fr
 0.0.0.0 concert-ticketswap.fr
@@ -9213,6 +9265,7 @@
 0.0.0.0 confirama.fr
 0.0.0.0 confir-leboncoin.fr
 0.0.0.0 confirm-ameli.fr
+0.0.0.0 confirmation-abonnement.fr
 0.0.0.0 confirmationachatlbc.fr
 0.0.0.0 confirmationachats.fr
 0.0.0.0 confirmationadresselivraison-lbc.fr
@@ -9977,6 +10030,7 @@
 0.0.0.0 creditfoncie.fr
 0.0.0.0 credit-fortuneo.fr
 0.0.0.0 creditfortuneo.fr
+0.0.0.0 credit-gricole.fr
 0.0.0.0 creditimmo-fortuneo.fr
 0.0.0.0 creditimutuel.fr
 0.0.0.0 creditimutuelfrance.fr
@@ -10178,12 +10232,16 @@
 0.0.0.0 crous-orleans.fr
 0.0.0.0 crousparis.fr
 0.0.0.0 crous-tousouse.fr
+0.0.0.0 crown-play-casino.fr
+0.0.0.0 crown-playcasino.fr
 0.0.0.0 crownplaycasinos.fr
 0.0.0.0 crown-play.fr
 0.0.0.0 crownplay.fr
 0.0.0.0 crownplay-fr.fr
 0.0.0.0 crownplays.fr
 0.0.0.0 crownslot.fr
+0.0.0.0 crown-slots-casino.fr
+0.0.0.0 crown-slotscasino.fr
 0.0.0.0 crownslots-casino.fr
 0.0.0.0 crownslotscasino.fr
 0.0.0.0 crown-slots.fr
@@ -10377,6 +10435,9 @@
 0.0.0.0 davinciresolve.fr
 0.0.0.0 davrilsupply-france.fr
 0.0.0.0 dayson.fr
+0.0.0.0 dazardbet-casino.fr
+0.0.0.0 dazardbetcasino.fr
+0.0.0.0 dazardbet.fr
 0.0.0.0 daznbet-france.fr
 0.0.0.0 daznbets.fr
 0.0.0.0 dazncasino.fr
@@ -11007,6 +11068,8 @@
 0.0.0.0 diuke.fr
 0.0.0.0 divasluckcasino.fr
 0.0.0.0 divasluck.fr
+0.0.0.0 diva-spin-casino.fr
+0.0.0.0 diva-spincasino.fr
 0.0.0.0 divaspin-casino.fr
 0.0.0.0 divaspincasino.fr
 0.0.0.0 divaspincasino-fr.fr
@@ -11080,8 +11143,11 @@
 0.0.0.0 doctolib-infos.fr
 0.0.0.0 doctolibmensuel.fr
 0.0.0.0 doctolib-notification.fr
+0.0.0.0 doctolib-notifications.fr
 0.0.0.0 doctolib-payemnt.fr
 0.0.0.0 doctolib-rdv.fr
+0.0.0.0 doctolib-rectification.fr
+0.0.0.0 doctolib-rectifications.fr
 0.0.0.0 doctolib-remboursement.fr
 0.0.0.0 doctolibremboursement.fr
 0.0.0.0 doctolib-rembousement.fr
@@ -12572,6 +12638,9 @@
 0.0.0.0 evolvecasinos.fr
 0.0.0.0 evrisure.fr
 0.0.0.0 evry-univ.fr
+0.0.0.0 evvivabet-casino.fr
+0.0.0.0 evvivabetcasino.fr
+0.0.0.0 evvivabet.fr
 0.0.0.0 evz.re
 0.0.0.0 ewea.fr
 0.0.0.0 ex24bp-banquepopulaire.fr
@@ -12744,6 +12813,8 @@
 0.0.0.0 falconerifrance.fr
 0.0.0.0 falkcoppercookware.fr
 0.0.0.0 falkefrance.fr
+0.0.0.0 fam-bet-casino.fr
+0.0.0.0 fam-betcasino.fr
 0.0.0.0 fambetscasino.fr
 0.0.0.0 fanac.fr
 0.0.0.0 fancontrol.fr
@@ -12828,6 +12899,8 @@
 0.0.0.0 fedex-tracking.fr
 0.0.0.0 feee.fr
 0.0.0.0 feelgroundsshoes.fr
+0.0.0.0 felicebet-casino.fr
+0.0.0.0 felicebetcasino.fr
 0.0.0.0 felixspin-casino.fr
 0.0.0.0 felixspinjouer.fr
 0.0.0.0 femmeactuele.fr
@@ -14146,6 +14219,7 @@
 0.0.0.0 goldenr.fr
 0.0.0.0 goldenshoes.fr
 0.0.0.0 goldenspanda.fr
+0.0.0.0 goldenstar-casino.fr
 0.0.0.0 goldenstarcasino.fr
 0.0.0.0 goldenstars.fr
 0.0.0.0 goldentigercasino.fr
@@ -14161,6 +14235,7 @@
 0.0.0.0 goldexcasino.fr
 0.0.0.0 goldexcasinos.fr
 0.0.0.0 goldnpanda.fr
+0.0.0.0 gold-spincasino.fr
 0.0.0.0 goldspin-casino.fr
 0.0.0.0 goldspincasino.fr
 0.0.0.0 gold-spin.fr
@@ -14173,6 +14248,7 @@
 0.0.0.0 golfwangfrance.fr
 0.0.0.0 golfzon.fr
 0.0.0.0 golgle.fr
+0.0.0.0 golisimocasinos.fr
 0.0.0.0 gologle.fr
 0.0.0.0 gomblingo.fr
 0.0.0.0 goo0gle.fr
@@ -14461,6 +14537,7 @@
 0.0.0.0 grand-voyageur-sncf.fr
 0.0.0.0 grandxcasino.fr
 0.0.0.0 grandz-bet-casino.fr
+0.0.0.0 grandzbet-online.fr
 0.0.0.0 grandzcasino777.fr
 0.0.0.0 grandzcasinoapp.fr
 0.0.0.0 grandzcasinobet.fr
@@ -14472,6 +14549,7 @@
 0.0.0.0 gransino-casino.fr
 0.0.0.0 gransino-fra.fr
 0.0.0.0 gransino-france.fr
+0.0.0.0 gransino-online.fr
 0.0.0.0 gransinoscasino.fr
 0.0.0.0 gransinos.fr
 0.0.0.0 grapheneos.fr
@@ -14496,6 +14574,8 @@
 0.0.0.0 greatwincasinospins.fr
 0.0.0.0 great-win.fr
 0.0.0.0 grede.yt
+0.0.0.0 green-luck-casino.fr
+0.0.0.0 green-luckcasino.fr
 0.0.0.0 greenluckcasino.fr
 0.0.0.0 greffedutribunal.fr
 0.0.0.0 greffetc-paris.fr
@@ -14697,6 +14777,9 @@
 0.0.0.0 guiltygear.fr
 0.0.0.0 guisneldistributionsas.fr
 0.0.0.0 guitar-part.fr
+0.0.0.0 gunsbet-casino.fr
+0.0.0.0 gunsbetcasino.fr
+0.0.0.0 gunsbet.fr
 0.0.0.0 gustevaroussy.fr
 0.0.0.0 guvan.yt
 0.0.0.0 guzo.fr
@@ -14996,6 +15079,8 @@
 0.0.0.0 hollister-france.fr
 0.0.0.0 hollisterfrance.fr
 0.0.0.0 hollistersoldes.fr
+0.0.0.0 holyluck-casino.fr
+0.0.0.0 holyluckcasino.fr
 0.0.0.0 homail640.fr
 0.0.0.0 homaire.fr
 0.0.0.0 homepage-prime.fr
@@ -15512,6 +15597,8 @@
 0.0.0.0 infinite-casino.fr
 0.0.0.0 infinitecasino.fr
 0.0.0.0 infinitybet.fr
+0.0.0.0 infinity-casino-online.fr
+0.0.0.0 infinitycasino-online.fr
 0.0.0.0 infinity-casinos.fr
 0.0.0.0 infinitycasinos.fr
 0.0.0.0 infinityspeakers.fr
@@ -16815,6 +16902,7 @@
 0.0.0.0 kinbetcasinoapp.fr
 0.0.0.0 kinbetcasinobonus.fr
 0.0.0.0 kinbetcasinodeposit.fr
+0.0.0.0 kin-betcasino.fr
 0.0.0.0 kinbet-casino.fr
 0.0.0.0 kinbetcasino.fr
 0.0.0.0 kinbetcasino-fr.fr
@@ -16830,9 +16918,11 @@
 0.0.0.0 king-maker-casino.fr
 0.0.0.0 kingmaker-casino.fr
 0.0.0.0 kingmakercasinofrance.fr
+0.0.0.0 kingschance1.fr
 0.0.0.0 kings-chance-casino.fr
 0.0.0.0 kingschancecasino.fr
 0.0.0.0 kingschanceenligne.fr
+0.0.0.0 kingschance-france.fr
 0.0.0.0 kingschance-online.fr
 0.0.0.0 kingsgamecasino.fr
 0.0.0.0 kingspincasino1.fr
@@ -18429,6 +18519,9 @@
 0.0.0.0 louisvuittonsac.fr
 0.0.0.0 louisvuittons.fr
 0.0.0.0 louisvuitton-store.fr
+0.0.0.0 louloubet-casino.fr
+0.0.0.0 louloubetcasino.fr
+0.0.0.0 louloubet.fr
 0.0.0.0 lounge777casino.fr
 0.0.0.0 loungeparis.fr
 0.0.0.0 loungeunderwear.fr
@@ -18572,6 +18665,8 @@
 0.0.0.0 luniversdumaillot.fr
 0.0.0.0 lunmi.fr
 0.0.0.0 lunovo.fr
+0.0.0.0 lunu-bet-casino.fr
+0.0.0.0 lunu-betcasino.fr
 0.0.0.0 lunubetcasino.fr
 0.0.0.0 lunubet-casinos.fr
 0.0.0.0 lunubetcasinos.fr
@@ -18845,6 +18940,8 @@
 0.0.0.0 mafiacasinoavis.fr
 0.0.0.0 mafiacasinobonus365.fr
 0.0.0.0 mafiacasinocodepromo.fr
+0.0.0.0 mafia-casino-france.fr
+0.0.0.0 mafiacasino-france.fr
 0.0.0.0 mafiacasino-fr.fr
 0.0.0.0 mafiacasinologin777.fr
 0.0.0.0 mafichedeclasse.fr
@@ -19477,6 +19574,7 @@
 0.0.0.0 merino-chaussure.fr
 0.0.0.0 merlincasino1.fr
 0.0.0.0 merlincasino.fr
+0.0.0.0 merrellchaussures.fr
 0.0.0.0 merrellenpromos.fr
 0.0.0.0 merrell-france.fr
 0.0.0.0 merrellfrance.fr
@@ -19732,6 +19830,7 @@
 0.0.0.0 michaelkorss.fr
 0.0.0.0 michaelkors-soldes.fr
 0.0.0.0 michaelpages.fr
+0.0.0.0 michaelskors.fr
 0.0.0.0 michelinb2b.fr
 0.0.0.0 michelin-pneus.fr
 0.0.0.0 micorsoft.fr
@@ -20983,6 +21082,7 @@
 0.0.0.0 morospincasino.fr
 0.0.0.0 morospincasinologin.fr
 0.0.0.0 morospin.fr
+0.0.0.0 moro-spin-fr.fr
 0.0.0.0 morrisonfrance.fr
 0.0.0.0 mosaicfinance-client.fr
 0.0.0.0 moschinoparis.fr
@@ -21311,6 +21411,7 @@
 0.0.0.0 nantesnotaire.fr
 0.0.0.0 nantes-planc-cul.fr
 0.0.0.0 nantilus.fr
+0.0.0.0 naobet-casino.fr
 0.0.0.0 naosfrance.fr
 0.0.0.0 napapijrifrance.fr
 0.0.0.0 napapijriparis.fr
@@ -21387,6 +21488,9 @@
 0.0.0.0 nenicasinos-fr.fr
 0.0.0.0 neon54-online.fr
 0.0.0.0 neon-genesis-evangelion-online.fr
+0.0.0.0 neonrushcasino.fr
+0.0.0.0 neospin-casino.fr
+0.0.0.0 neospincasino.fr
 0.0.0.0 neowordprss.fr
 0.0.0.0 nepasrepondremaaf.fr
 0.0.0.0 nerflix.fr
@@ -23099,6 +23203,7 @@
 0.0.0.0 paiement-vehicule-acheteur-lbc.fr
 0.0.0.0 paiement-vignette-critair.fr
 0.0.0.0 paiement-web.fr
+0.0.0.0 paiementwero.fr
 0.0.0.0 paiemet-leboncoin.fr
 0.0.0.0 paiemments-leboncoins.fr
 0.0.0.0 paiemntlebon-coin.fr
@@ -24021,6 +24126,8 @@
 0.0.0.0 pierrecardinfrance.fr
 0.0.0.0 pierrecardinfranceshop.fr
 0.0.0.0 pierre-herme.fr
+0.0.0.0 piggybetcasino.fr
+0.0.0.0 piggy-bet.fr
 0.0.0.0 pikabu.re
 0.0.0.0 pikolinosfrance.fr
 0.0.0.0 pikolinosfr.fr
@@ -24267,6 +24374,7 @@
 0.0.0.0 polesante-cartevitale.fr
 0.0.0.0 pole-sante-renouvellement.fr
 0.0.0.0 polesemplois.fr
+0.0.0.0 polestar-casino.fr
 0.0.0.0 polestarcasino.fr
 0.0.0.0 polestarcasinos.fr
 0.0.0.0 poleuniv-lille-npdc.fr
@@ -24657,6 +24765,7 @@
 0.0.0.0 prime-boutique.fr
 0.0.0.0 prime-buy.fr
 0.0.0.0 primebuy.fr
+0.0.0.0 primebuy-officiel.fr
 0.0.0.0 primecasino-online.fr
 0.0.0.0 prime-changement.fr
 0.0.0.0 prime-check.fr
@@ -25130,6 +25239,8 @@
 0.0.0.0 quickwincasinobonus.fr
 0.0.0.0 quickwincasinologin.fr
 0.0.0.0 quickwincasinopromocode.fr
+0.0.0.0 quickwin-france.fr
+0.0.0.0 quickwin-online.fr
 0.0.0.0 quick-winz.fr
 0.0.0.0 quik.fr
 0.0.0.0 quik-silver-france.fr
@@ -25220,6 +25331,7 @@
 0.0.0.0 ralph-laurens.fr
 0.0.0.0 ralphlaurens.fr
 0.0.0.0 ralphlaurenshop.fr
+0.0.0.0 ralphslauren.fr
 0.0.0.0 rambler.re
 0.0.0.0 ramp-prime.fr
 0.0.0.0 ramseysante.fr
@@ -26418,6 +26530,8 @@
 0.0.0.0 ricard-store.fr
 0.0.0.0 richarson.fr
 0.0.0.0 richo.fr
+0.0.0.0 rich-royal-casino.fr
+0.0.0.0 rich-royalcasino.fr
 0.0.0.0 rickowensparis.fr
 0.0.0.0 rickycasino.fr
 0.0.0.0 riekerchaussures.fr
@@ -26483,6 +26597,8 @@
 0.0.0.0 robycasinoapp.fr
 0.0.0.0 robycasinoavis.fr
 0.0.0.0 robycasinobonusfrance.fr
+0.0.0.0 roby-casino-france.fr
+0.0.0.0 robycasino-france.fr
 0.0.0.0 robycasinofrance.fr
 0.0.0.0 robycasino-fr.fr
 0.0.0.0 robycasinologin.fr
@@ -26521,6 +26637,8 @@
 0.0.0.0 roman-casinos.fr
 0.0.0.0 romancasinos.fr
 0.0.0.0 romanscasino.fr
+0.0.0.0 romi-bet-casino.fr
+0.0.0.0 romi-betcasino.fr
 0.0.0.0 roneassur.fr
 0.0.0.0 roobet1.fr
 0.0.0.0 roobetcasina.fr
@@ -26603,6 +26721,9 @@
 0.0.0.0 rubyvegascasinobonus.fr
 0.0.0.0 rubyvegascasinologin.fr
 0.0.0.0 rubyvegas-online.fr
+0.0.0.0 rucolabet-casino.fr
+0.0.0.0 rucolabetcasino.fr
+0.0.0.0 rucolabet.fr
 0.0.0.0 ruedecommerce.fr
 0.0.0.0 rueducommerde.fr
 0.0.0.0 runchaussure.fr
@@ -27353,6 +27474,7 @@
 0.0.0.0 securesystmlbc.fr
 0.0.0.0 securetickets.fr
 0.0.0.0 securetrack.fr
+0.0.0.0 securetrans-app.fr
 0.0.0.0 secure-transfer.fr
 0.0.0.0 secure-uparis.fr
 0.0.0.0 secure-updatecetelem.fr
@@ -28478,6 +28600,8 @@
 0.0.0.0 sg-auth-messagerie.fr
 0.0.0.0 sg-casino1.fr
 0.0.0.0 sgcasino7.fr
+0.0.0.0 sg-casino-france.fr
+0.0.0.0 sgcasino-france.fr
 0.0.0.0 sg-cdn-actualisation.fr
 0.0.0.0 sgclientele24.fr
 0.0.0.0 sg-client.fr
@@ -28758,12 +28882,22 @@
 0.0.0.0 sloggifrance.fr
 0.0.0.0 slotbunnycasino.fr
 0.0.0.0 slotexpress-casino.fr
+0.0.0.0 slotgem-casino.fr
+0.0.0.0 slotgemcasino.fr
+0.0.0.0 slotgem.fr
 0.0.0.0 slothunter.fr
 0.0.0.0 slotlair-casino.fr
 0.0.0.0 slotlaircasino.fr
 0.0.0.0 slotlaircasino-fr.fr
 0.0.0.0 slotlair-fr.fr
+0.0.0.0 slotneo-casino.fr
+0.0.0.0 slotneocasino.fr
+0.0.0.0 slotneo.fr
+0.0.0.0 slotngo.fr
 0.0.0.0 slotorocasino.fr
+0.0.0.0 slotosport-casino.fr
+0.0.0.0 slotosportcasino.fr
+0.0.0.0 slotosport.fr
 0.0.0.0 slotrize-casino.fr
 0.0.0.0 slotrizecasino.fr
 0.0.0.0 slotrize.fr
@@ -28798,6 +28932,7 @@
 0.0.0.0 slottio.fr
 0.0.0.0 slotuna-casino.fr
 0.0.0.0 slotunacasino.fr
+0.0.0.0 slotuna-france.fr
 0.0.0.0 slotuna-fr.fr
 0.0.0.0 slsate.fr
 0.0.0.0 sl-vos-comptesallocataires-caf.fr
@@ -29367,6 +29502,8 @@
 0.0.0.0 spin-cash-win.fr
 0.0.0.0 spin-casino.fr
 0.0.0.0 spincastle.fr
+0.0.0.0 spinch-casino.fr
+0.0.0.0 spinchcasino.fr
 0.0.0.0 spin-fest.fr
 0.0.0.0 spinfest-fr.fr
 0.0.0.0 spin-fever.fr
@@ -29374,6 +29511,7 @@
 0.0.0.0 spinight-casino.fr
 0.0.0.0 spinightcasino.fr
 0.0.0.0 spinightcasinos.fr
+0.0.0.0 spinight-france.fr
 0.0.0.0 spinit-casino.fr
 0.0.0.0 spinmacho1.fr
 0.0.0.0 spinmacho-fr.fr
@@ -29407,6 +29545,7 @@
 0.0.0.0 spin-mamagame.fr
 0.0.0.0 spinmamagame.fr
 0.0.0.0 spinmamagratuit.fr
+0.0.0.0 spinmama-jouer.fr
 0.0.0.0 spin-mama-login.fr
 0.0.0.0 spinmama-login.fr
 0.0.0.0 spinmamalogin.fr
@@ -29420,6 +29559,9 @@
 0.0.0.0 spinmillioncasino-fr.fr
 0.0.0.0 spinmillioncasinofr.fr
 0.0.0.0 spinmillioncasinos.fr
+0.0.0.0 spinmills-casino.fr
+0.0.0.0 spinmillscasino.fr
+0.0.0.0 spinmills.fr
 0.0.0.0 spino-gambino-application.fr
 0.0.0.0 spino-gambinoavis.fr
 0.0.0.0 spino-gambinobet.fr
@@ -29430,6 +29572,7 @@
 0.0.0.0 spino-gambinojeux.fr
 0.0.0.0 spinogambino-jeux.fr
 0.0.0.0 spinogambino-test.fr
+0.0.0.0 spinoloco-casino.fr
 0.0.0.0 spinpanda-casino.fr
 0.0.0.0 spinpanda.fr
 0.0.0.0 spinplatinumcasino.fr
@@ -29488,6 +29631,7 @@
 0.0.0.0 sportunacasinolive.fr
 0.0.0.0 sportunacasinologin777.fr
 0.0.0.0 sportunacasinologin.fr
+0.0.0.0 sportuna-france.fr
 0.0.0.0 sportx.fr
 0.0.0.0 sporty-bet.fr
 0.0.0.0 spotfy.fr
@@ -29505,6 +29649,8 @@
 0.0.0.0 springcourt-france.fr
 0.0.0.0 springcourtparis.fr
 0.0.0.0 sprorts.fr
+0.0.0.0 spybet-casino.fr
+0.0.0.0 spybetcasino.fr
 0.0.0.0 spyderfrance.fr
 0.0.0.0 spysnap.fr
 0.0.0.0 src-assistance-compte.fr
@@ -29853,6 +29999,7 @@
 0.0.0.0 suivicommande-mondialfrance.fr
 0.0.0.0 suivi-commande-prime.fr
 0.0.0.0 suivi-commandes.fr
+0.0.0.0 suivi-compte.fr
 0.0.0.0 suivicontravention-antai.fr
 0.0.0.0 suivi-controleroutier.fr
 0.0.0.0 suivi-coursier.fr
@@ -30055,6 +30202,8 @@
 0.0.0.0 sunlogic.fr
 0.0.0.0 sunlogy.fr
 0.0.0.0 sunnology.fr
+0.0.0.0 sunnybetcasino.fr
+0.0.0.0 sunnybet.fr
 0.0.0.0 sunologie.fr
 0.0.0.0 sunologi.fr
 0.0.0.0 sunologyplay.fr
@@ -30843,6 +30992,8 @@
 0.0.0.0 tikicasino1.fr
 0.0.0.0 tikicasinoapp.fr
 0.0.0.0 tikicasinoavis.fr
+0.0.0.0 tiki-casino-france.fr
+0.0.0.0 tikicasino-france.fr
 0.0.0.0 tikicasinogame.fr
 0.0.0.0 tikicasinologin.fr
 0.0.0.0 tikicasinopromocode.fr
@@ -30974,6 +31125,7 @@
 0.0.0.0 tortugacasinologin.fr
 0.0.0.0 tortugacasinoo.fr
 0.0.0.0 tortuga-france.fr
+0.0.0.0 tortugafrance.fr
 0.0.0.0 tortuga-online.fr
 0.0.0.0 toryburch-france.fr
 0.0.0.0 toryburchfrance.fr
@@ -31789,6 +31941,7 @@
 0.0.0.0 vegasinocasinofr.fr
 0.0.0.0 vegasinocasinoo.fr
 0.0.0.0 vegasinoenligne.fr
+0.0.0.0 vegasino-france.fr
 0.0.0.0 vegasinofrance.fr
 0.0.0.0 vegasinofr.fr
 0.0.0.0 vegasino-login.fr
@@ -31806,6 +31959,7 @@
 0.0.0.0 vegasplusfr.fr
 0.0.0.0 vegas-plus-win.fr
 0.0.0.0 vegazino.fr
+0.0.0.0 vegazone-casino.fr
 0.0.0.0 vehicule-information.fr
 0.0.0.0 vehicule-lbc.fr
 0.0.0.0 veiw-mo.re
@@ -31859,6 +32013,9 @@
 0.0.0.0 verdecasino-fr.fr
 0.0.0.0 verdecasinofr.fr
 0.0.0.0 verdecasinoo.fr
+0.0.0.0 verdialebet-casino.fr
+0.0.0.0 verdialebetcasino.fr
+0.0.0.0 verdialebet.fr
 0.0.0.0 verdier-creditmutuel.fr
 0.0.0.0 verfication-edf.fr
 0.0.0.0 verication-info.fr
@@ -32216,9 +32373,12 @@
 0.0.0.0 vinylcasino-fr.fr
 0.0.0.0 vionicshoesfrance.fr
 0.0.0.0 vipebelote.fr
+0.0.0.0 viper-wincasino.fr
 0.0.0.0 viperwin-casino.fr
 0.0.0.0 viperwincasino.fr
 0.0.0.0 vipon.fr
+0.0.0.0 vipsta-casino.fr
+0.0.0.0 vipstacasino.fr
 0.0.0.0 virement-boursorama.fr
 0.0.0.0 virementinstantpaylbisecur.fr
 0.0.0.0 virementinstantsecur.fr
@@ -32349,6 +32509,9 @@
 0.0.0.0 vivaiaboutiques.fr
 0.0.0.0 vivaiaparis.fr
 0.0.0.0 vivaiaschaussures.fr
+0.0.0.0 vivalavita-casino.fr
+0.0.0.0 vivalavitacasino.fr
+0.0.0.0 vivalavita.fr
 0.0.0.0 vivalife.fr
 0.0.0.0 vivalto-holding.fr
 0.0.0.0 vivaspincasino.fr
@@ -32757,12 +32920,16 @@
 0.0.0.0 wildsinocasino1.fr
 0.0.0.0 wildsino-casino.fr
 0.0.0.0 wild-sino.fr
+0.0.0.0 wildsino-jouer.fr
 0.0.0.0 wildsinojouer.fr
 0.0.0.0 wildsinos.fr
 0.0.0.0 wild-sultan1.fr
 0.0.0.0 wild-sultan-fr.fr
 0.0.0.0 wildsultanfr.fr
 0.0.0.0 wildsultan-online.fr
+0.0.0.0 wildtokio-casino.fr
+0.0.0.0 wildtokiocasino.fr
+0.0.0.0 wildtokio.fr
 0.0.0.0 wildvegascasino.fr
 0.0.0.0 wildzcasino.fr
 0.0.0.0 wilier.fr
@@ -32791,6 +32958,8 @@
 0.0.0.0 winamzx.fr
 0.0.0.0 winapax.fr
 0.0.0.0 winbay777.fr
+0.0.0.0 win-bay-casino.fr
+0.0.0.0 win-baycasino.fr
 0.0.0.0 winbay-casino.fr
 0.0.0.0 winbaycasinos.fr
 0.0.0.0 winbay-france.fr
@@ -32800,6 +32969,7 @@
 0.0.0.0 winbet-casino.fr
 0.0.0.0 winbet-fr.fr
 0.0.0.0 winbet.pm
+0.0.0.0 winbetz.fr
 0.0.0.0 wincitycasino.fr
 0.0.0.0 windevv.fr
 0.0.0.0 windhawk.fr
@@ -32815,6 +32985,7 @@
 0.0.0.0 winmachancecasinos.fr
 0.0.0.0 winmerge.fr
 0.0.0.0 winnamax.fr
+0.0.0.0 winnerz-casino.fr
 0.0.0.0 winnerzcasino.fr
 0.0.0.0 winning-casino.fr
 0.0.0.0 winningscasino.fr
@@ -32841,8 +33012,11 @@
 0.0.0.0 winoui-fr.fr
 0.0.0.0 winouifr.fr
 0.0.0.0 winoui-online.fr
+0.0.0.0 winplaces.fr
 0.0.0.0 winqmax.fr
 0.0.0.0 winscp.fr
+0.0.0.0 winshark-casino.fr
+0.0.0.0 winsharkcasino.fr
 0.0.0.0 winsparkcasino1.fr
 0.0.0.0 winspark-online.fr
 0.0.0.0 winspirit-casino.fr
@@ -32864,6 +33038,7 @@
 0.0.0.0 wise-developpement.fr
 0.0.0.0 wise.pm
 0.0.0.0 wish-win-casino.fr
+0.0.0.0 wish-wincasino.fr
 0.0.0.0 wishwin-casino.fr
 0.0.0.0 witwi.fr
 0.0.0.0 wivy.yt
@@ -32901,11 +33076,14 @@
 0.0.0.0 wonacocasinos.fr
 0.0.0.0 wonaco-france.fr
 0.0.0.0 wonacofr.fr
+0.0.0.0 wonaco-online.fr
 0.0.0.0 wonacos.fr
 0.0.0.0 wonadoo.fr
 0.0.0.0 wonamax.fr
 0.0.0.0 wonderbow.fr
 0.0.0.0 wonderfox.fr
+0.0.0.0 wonder-luck-casino.fr
+0.0.0.0 wonder-luckcasino.fr
 0.0.0.0 wonderschaussures.fr
 0.0.0.0 wonderskinfrance.fr
 0.0.0.0 wonderskinsfrance.fr
@@ -33979,6 +34157,8 @@
 0.0.0.0 zaraparis.fr
 0.0.0.0 zara.re
 0.0.0.0 zavetticanadafemme.fr
+0.0.0.0 zazibet-casino.fr
+0.0.0.0 zazibetcasino.fr
 0.0.0.0 zazredirectf.fr
 0.0.0.0 zdak.fr
 0.0.0.0 zddg.fr
