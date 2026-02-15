@@ -29,9 +29,7 @@
 0.0.0.0 *.000000000000.ru
 0.0.0.0 *.00001.cfd
 0.0.0.0 *.00002555-coi2.cfd
-0.0.0.0 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 0.0.0.0 *.0001proxy.notlong.com
-0.0.0.0 *.0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
 0.0.0.0 *.0002985647.weebly.com
 0.0.0.0 *.0002yr2.wcomhost.com
 0.0.0.0 *.00065455.weebly.com
@@ -8438,7 +8436,6 @@
 0.0.0.0 *.accoun.kskgs.cn
 0.0.0.0 *.accoun.kujwvim.cn
 0.0.0.0 *.accoun.lya43uze.cn
-0.0.0.0 *.accoun.lyaz68qxf.cn
 0.0.0.0 *.accoun.lyfr28oiq.cn
 0.0.0.0 *.accoun.lygv76sax.cn
 0.0.0.0 *.accoun.lyi03mt.cn
@@ -10181,6 +10178,7 @@
 0.0.0.0 *.adcs-ap.myappsget.com
 0.0.0.0 *.adcs-ue.myappsget.com
 0.0.0.0 *.adcs.myappsget.com
+0.0.0.0 *.adctanzania.co.tz
 0.0.0.0 *.adcy.net
 0.0.0.0 *.adcycle.com
 0.0.0.0 *.adcz.hit.gemius.pl
@@ -20049,7 +20047,6 @@
 0.0.0.0 *.api.boclinkads.com
 0.0.0.0 *.api.botad.kr
 0.0.0.0 *.api.britepool.com
-0.0.0.0 *.api.browser.intl.miui.com
 0.0.0.0 *.api.brs.intl.miui.com
 0.0.0.0 *.api.bs.zui.com
 0.0.0.0 *.api.bugfender.com
@@ -24524,6 +24521,7 @@
 0.0.0.0 *.autombile.fr
 0.0.0.0 *.automgalli.com
 0.0.0.0 *.automibile.fr
+0.0.0.0 *.automobile-bk.de
 0.0.0.0 *.automobiledeem.com
 0.0.0.0 *.automotiveera.info
 0.0.0.0 *.automoverexperts.com
@@ -27600,7 +27598,6 @@
 0.0.0.0 *.beagle.prod.tda.link
 0.0.0.0 *.beaglebeatrecords.com
 0.0.0.0 *.beaglemanipulate.com
-0.0.0.0 *.beak.in
 0.0.0.0 *.beakfuljato.com
 0.0.0.0 *.beakpee.com
 0.0.0.0 *.bealafulup.com
@@ -29696,11 +29693,9 @@
 0.0.0.0 *.bina.mashuree.com
 0.0.0.0 *.binancc.com
 0.0.0.0 *.binance-chat.com
-0.0.0.0 *.binance-nf.com.cn
 0.0.0.0 *.binance-okta.com
 0.0.0.0 *.binance-payment-gateway-for-woocommerce.com
 0.0.0.0 *.binance-safety.com
-0.0.0.0 *.binance-wv.com.cn
 0.0.0.0 *.binance.auction
 0.0.0.0 *.binance.center
 0.0.0.0 *.binance.pm
@@ -35880,6 +35875,7 @@
 0.0.0.0 *.c9iz.windm1ll.ru
 0.0.0.0 *.c9n4p.connect8mathem.coupons
 0.0.0.0 *.c9nyrr.puurfiguur.nl
+0.0.0.0 *.c9t5q.breeze1falcon.coupons
 0.0.0.0 *.c9t5q.kozhevnik6lan.coupons
 0.0.0.0 *.ca-altantique-vendee.fr
 0.0.0.0 *.ca-api.cafe24data.com
@@ -40895,6 +40891,7 @@
 0.0.0.0 *.chudjenbet99.com
 0.0.0.0 *.chug-alpes.fr
 0.0.0.0 *.chugrypsodu.com
+0.0.0.0 *.chuguadventures.co.tz
 0.0.0.0 *.chujstkfubpix.space
 0.0.0.0 *.chuki.mozillaupdates.us
 0.0.0.0 *.chukoandco.com
@@ -48298,7 +48295,6 @@
 0.0.0.0 *.ctrwiz4rd.digital
 0.0.0.0 *.cts.tradepub.com
 0.0.0.0 *.ctsdwm.com
-0.0.0.0 *.ctsfactory.com
 0.0.0.0 *.ctsp4jao1.com
 0.0.0.0 *.cttnx-lab.click
 0.0.0.0 *.cttpartners.com
@@ -53572,6 +53568,7 @@
 0.0.0.0 *.deterri-25986.web.app
 0.0.0.0 *.detestablemanifest.com
 0.0.0.0 *.dethemostgracef.com
+0.0.0.0 *.detierra.cl
 0.0.0.0 *.detinol.firebaseapp.com
 0.0.0.0 *.detkreimeier-fotografie.de
 0.0.0.0 *.detonabbor.com
@@ -76912,6 +76909,7 @@
 0.0.0.0 *.glaberrastreamento.uni.me
 0.0.0.0 *.glacidisco.pro
 0.0.0.0 *.glacier.art67quarrel.coupons
+0.0.0.0 *.glacier.breeze1falcon.coupons
 0.0.0.0 *.glacier.kozhevnik6lan.coupons
 0.0.0.0 *.glacierglut.com
 0.0.0.0 *.glacifyheild.life
@@ -77252,7 +77250,6 @@
 0.0.0.0 *.globaltransfersecurefilethroughcloud.duckdns.org
 0.0.0.0 *.globaltrendg.info
 0.0.0.0 *.globalvantagepoint.pro
-0.0.0.0 *.globalvideo.cdn.pandora.intl.xiaomi.com
 0.0.0.0 *.globalvistafunds.com
 0.0.0.0 *.globalvoices.club
 0.0.0.0 *.globalwat.com
@@ -78424,7 +78421,6 @@
 0.0.0.0 *.google-analytics.bi.owox.com
 0.0.0.0 *.google-analyze.cn
 0.0.0.0 *.google-apps.cz
-0.0.0.0 *.google-chhrome.com.cn
 0.0.0.0 *.google-choo.com.cn
 0.0.0.0 *.google-chrome.net
 0.0.0.0 *.google-com.maestrobyte.com
@@ -84025,7 +84021,6 @@
 0.0.0.0 *.hirselaftaba.cfd
 0.0.0.0 *.hirufo-tugaru.click
 0.0.0.0 *.his316.net
-0.0.0.0 *.hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn
 0.0.0.0 *.hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn
 0.0.0.0 *.hisisathlle.com
 0.0.0.0 *.hismanger.com
@@ -86831,7 +86826,6 @@
 0.0.0.0 *.i-ksiazka.pl
 0.0.0.0 *.i-lnstagram.66ghz.com
 0.0.0.0 *.i-lookup.com
-0.0.0.0 *.i-love-git.com
 0.0.0.0 *.i-messager.com
 0.0.0.0 *.i-mobi.pl
 0.0.0.0 *.i-mobile.co.jp
@@ -150751,6 +150745,7 @@
 0.0.0.0 *.rn212432.shop
 0.0.0.0 *.rnarkdills52-my-cheetah-website.site.builderallsite.com
 0.0.0.0 *.rnarport.com
+0.0.0.0 *.rnatr1x-vvay.matrix8piano.coupons
 0.0.0.0 *.rnb51.com
 0.0.0.0 *.rnccnwtekuerb.space
 0.0.0.0 *.rncgopcom.122.2o7.net
@@ -159932,6 +159927,7 @@
 0.0.0.0 *.signal-kionexnx-tech.com
 0.0.0.0 *.signal-lasix-cap.com
 0.0.0.0 *.signal.clint9vargo.coupons
+0.0.0.0 *.signal.matrix8piano.coupons
 0.0.0.0 *.signal9wave.top
 0.0.0.0 *.signaladsdirect.top
 0.0.0.0 *.signalatera.com
@@ -167312,7 +167308,6 @@
 0.0.0.0 *.statsadv.dadapro.com
 0.0.0.0 *.statsapi.screen9.com
 0.0.0.0 *.statscol.pond5.com
-0.0.0.0 *.statscollector-1-asia.agora.io
 0.0.0.0 *.statscollector-1-europe.agora.io
 0.0.0.0 *.statscollector-1-north-america.agora.io
 0.0.0.0 *.statscollector-1.agora.io
@@ -171774,6 +171769,7 @@
 0.0.0.0 *.t6.china-xian.com
 0.0.0.0 *.t645.weebly.com
 0.0.0.0 *.t6ixck4tsd-faceb0ok.emochila.com
+0.0.0.0 *.t6k2n.amber2vivid.coupons
 0.0.0.0 *.t6la.top
 0.0.0.0 *.t7.vgpofm0.com.tr
 0.0.0.0 *.t70123.com
@@ -197622,7 +197618,6 @@
 0.0.0.0 *.wsmetrics.batch.com
 0.0.0.0 *.wsnxw6ihs.com
 0.0.0.0 *.wsod.com
-0.0.0.0 *.wsonvp-google.com.cn
 0.0.0.0 *.wsp1.surf-town.net
 0.0.0.0 *.wsparcieobywateli.pl
 0.0.0.0 *.wspfskknmnzvq.rocks
