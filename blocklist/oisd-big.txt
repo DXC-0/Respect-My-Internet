@@ -357,13 +357,10 @@
 0.0.0.0 *.048b4f7645dcaff6.com
 0.0.0.0 *.0493085d6b4191db2e90f7b3f22b14c6.org
 0.0.0.0 *.049b36e8fd3c.com
-0.0.0.0 *.04a40f6058bd205c8dc08ed00457960976bf642fa7ae968af9436bc95aab0db.link
 0.0.0.0 *.04b9055b2a.com
-0.0.0.0 *.04be5f5f01019.beer
 0.0.0.0 *.04c3ac2f801ddadc.com
 0.0.0.0 *.04cc3a44b052a8f5e1e92ec8a02c3033.com
 0.0.0.0 *.04consultanovidadebr.fr
-0.0.0.0 *.04d57ee5f10292.beer
 0.0.0.0 *.04de84bbb4e3b889.com
 0.0.0.0 *.04e93b1da28cf9fe.com
 0.0.0.0 *.04f.org
@@ -377,19 +374,15 @@
 0.0.0.0 *.051617f1c53b19b1.com
 0.0.0.0 *.051944d8.sibforms.com
 0.0.0.0 *.0526app.com
-0.0.0.0 *.052uuu.top
 0.0.0.0 *.053.vv0in6.us
 0.0.0.0 *.0538ly.cn
-0.0.0.0 *.053e254af10272.beer
 0.0.0.0 *.0544d16c3ce8.top
 0.0.0.0 *.0548dr.pages.dev
 0.0.0.0 *.054f8d0c5a.com
-0.0.0.0 *.054ii.com
 0.0.0.0 *.0551huayanbdf.com
 0.0.0.0 *.0555.mur28a.pl
 0.0.0.0 *.05556db5dac4dbdb8575cc8ee99249b7.org
 0.0.0.0 *.055b0a9rnge.netlify.com
-0.0.0.0 *.055df28255.com
 0.0.0.0 *.0560d46ebad7.com
 0.0.0.0 *.0569be692c1bfef5.com
 0.0.0.0 *.0571hy.com
@@ -630,6 +623,7 @@
 0.0.0.0 *.0a37cd8806538bc5e3e4b5dc17c4038d.com
 0.0.0.0 *.0a48949a0bac6776b15c422b45653892.com
 0.0.0.0 *.0a4e760d2daf1fa2.com
+0.0.0.0 *.0a6375a6.webmailsecurefilevault.pages.dev
 0.0.0.0 *.0a6a02857b6997db.com
 0.0.0.0 *.0a7484eae20ed248.com
 0.0.0.0 *.0a82b7fa077f6ee0a26c2695c3e300d0.com
@@ -648,34 +642,25 @@
 0.0.0.0 *.0auth2.1mb.site
 0.0.0.0 *.0b07a82c1462af6d05b6fc3ee87726bd.net
 0.0.0.0 *.0b145c21210e933c.com
-0.0.0.0 *.0b1f0d2151021.beer
 0.0.0.0 *.0b2ed78a8e78e097.com
-0.0.0.0 *.0b3d2f3f611031.beer
 0.0.0.0 *.0b47a7deb27548c5.com
 0.0.0.0 *.0b4qu3nxa.com
 0.0.0.0 *.0b5792c726234830.com
 0.0.0.0 *.0b5f27f2.flyjasper.ca
 0.0.0.0 *.0b63fb1aad.com
-0.0.0.0 *.0b6583fab11031.beer
 0.0.0.0 *.0b6e17a630.com
 0.0.0.0 *.0b6rvr210q.com
 0.0.0.0 *.0b73bc33b687b19f219b6cc1e5391a6b.info
 0.0.0.0 *.0b74655a28.com
 0.0.0.0 *.0b7d5b4c5d585957.com
-0.0.0.0 *.0b8705fd210241.beer
 0.0.0.0 *.0b9b83f85c9955b5.com
 0.0.0.0 *.0ba2b70e8c.com
 0.0.0.0 *.0ba47b48800b23100e9d348ecee159f1.com
-0.0.0.0 *.0baf36d6f10291.beer
 0.0.0.0 *.0bb8jytek.com
-0.0.0.0 *.0bc2382bc1021.beer
 0.0.0.0 *.0bcf8b1b9f7ddda7.com
 0.0.0.0 *.0bd18cc899.com
 0.0.0.0 *.0bd60e8c.liftmyresume.com
-0.0.0.0 *.0bd78005d1017.beer
-0.0.0.0 *.0bdfe52341114.beer
 0.0.0.0 *.0be7953b6183453bc6ba182bf6b8ba79.loophole.site
-0.0.0.0 *.0bea04f771010.beer
 0.0.0.0 *.0bf4f07c4b1e.info
 0.0.0.0 *.0btu8g.icu
 0.0.0.0 *.0c07df5c3f631069.com
@@ -1992,7 +1977,6 @@
 0.0.0.0 *.1762960362428-aboard-shoes.surge.sh
 0.0.0.0 *.176310687075500-dot-wetransfer-auth-file-343.appspot.com
 0.0.0.0 *.17643786e44a.com
-0.0.0.0 *.1767uu.top
 0.0.0.0 *.17693de9f1066d3a.com
 0.0.0.0 *.176edb63a6.1a9d1ca12a.com
 0.0.0.0 *.176fitness.com
@@ -2007,11 +1991,8 @@
 0.0.0.0 *.178.sub-70-211-240.myvzw.com
 0.0.0.0 *.178.sub-75-251-231.myvzw.com
 0.0.0.0 *.1782.b17821978.vip
-0.0.0.0 *.178292-coinbase.com
 0.0.0.0 *.17836ec60c882c7f.com
 0.0.0.0 *.1787048.sites.myregisteredsite.com
-0.0.0.0 *.1787uu.top
-0.0.0.0 *.1788488xtz2.shop
 0.0.0.0 *.178ead9dc0319dbc71073a7726695679.click
 0.0.0.0 *.178gg.com
 0.0.0.0 *.178zb6.com
@@ -2019,20 +2000,15 @@
 0.0.0.0 *.179.red-88-30-6.staticip.rima-tde.net
 0.0.0.0 *.179.sub-70-210-91.myvzw.com
 0.0.0.0 *.1790cc4eca06a52dbef0618a180fb76c.com
-0.0.0.0 *.1796eh.icu
 0.0.0.0 *.1798consultants.com
 0.0.0.0 *.17990.vicp.net
-0.0.0.0 *.17a01da2011031.beer
 0.0.0.0 *.17aaee89437290d0.com
 0.0.0.0 *.17b044596a7215d8.com
-0.0.0.0 *.17b91478a10311.beer
 0.0.0.0 *.17betme.com
 0.0.0.0 *.17c2791ec2.com
-0.0.0.0 *.17c485c141013.beer
 0.0.0.0 *.17cf3b8bc4990c7e.com
 0.0.0.0 *.17chezhan.com
 0.0.0.0 *.17co2k5a.de
-0.0.0.0 *.17db7c3c61011.beer
 0.0.0.0 *.17dk.com
 0.0.0.0 *.17do048qm.de
 0.0.0.0 *.17e22b6358cd32ef7c2a5306aa392d67.xyz
@@ -2043,7 +2019,6 @@
 0.0.0.0 *.17gmail.com
 0.0.0.0 *.17gx.cl0udfall.ru
 0.0.0.0 *.17kanm17zhysll2.online
-0.0.0.0 *.17northcollective.com
 0.0.0.0 *.17q.com
 0.0.0.0 *.17q8uj.close.futureisready.com
 0.0.0.0 *.17ryi4j3qb.com
@@ -2231,7 +2206,6 @@
 0.0.0.0 *.1933993.xyz
 0.0.0.0 *.1936893-coinbase.com
 0.0.0.0 *.193878-coinbase.com
-0.0.0.0 *.193c1f2351024.beer
 0.0.0.0 *.1941aea64c14c9fc.com
 0.0.0.0 *.1944coffee.com
 0.0.0.0 *.194ddebe93b7a791.com
@@ -2677,8 +2651,6 @@
 0.0.0.0 *.1my65.trk.elasticemail.com
 0.0.0.0 *.1mythtracker.xyz
 0.0.0.0 *.1mz34.trk.elasticemail.com
-0.0.0.0 *.1n8ost.a4iyzn.icu
-0.0.0.0 *.1n8ost.t6phtn.cyou
 0.0.0.0 *.1nbmt23.weebly.com
 0.0.0.0 *.1netzteil.de
 0.0.0.0 *.1nf0fr3eyui564.start.page
@@ -2702,7 +2674,6 @@
 0.0.0.0 *.1o782z2g32.top
 0.0.0.0 *.1odi7j43c.de
 0.0.0.0 *.1ohxr29l.joggedyankedtetrao.ru
-0.0.0.0 *.1olfh.icu
 0.0.0.0 *.1ooe.com
 0.0.0.0 *.1optical.com
 0.0.0.0 *.1osb.com
@@ -3791,7 +3762,6 @@
 0.0.0.0 *.2007-search.com
 0.0.0.0 *.2008822.xyz
 0.0.0.0 *.20091222.com
-0.0.0.0 *.2009dddd.cn
 0.0.0.0 *.2009llll.cn
 0.0.0.0 *.200a8bc1dadf2cdbfe72c2586edcd53b.com
 0.0.0.0 *.200gigs.com
@@ -6513,6 +6483,7 @@
 0.0.0.0 *.425kmk7n9wn21pwvl18.xyz
 0.0.0.0 *.4265b07932ffcb15eb793ad8c81abc52.xyz
 0.0.0.0 *.426e3221911032.beer
+0.0.0.0 *.426fwfs.lat
 0.0.0.0 *.426g.com
 0.0.0.0 *.427224.com
 0.0.0.0 *.427c56b624093202.com
@@ -10859,6 +10830,7 @@
 0.0.0.0 *.7d708b6c31009.beer
 0.0.0.0 *.7d71h9d9710371jd9912j.us
 0.0.0.0 *.7d7550220137.icu
+0.0.0.0 *.7d75a41f.flyjasper.ca
 0.0.0.0 *.7d77f23c90.com
 0.0.0.0 *.7d7a497317.com
 0.0.0.0 *.7d7f22d7bc3f.com
@@ -11496,6 +11468,7 @@
 0.0.0.0 *.84597.xyz
 0.0.0.0 *.846.move7.com
 0.0.0.0 *.84616.xyz
+0.0.0.0 *.8461cb0f.flyjasper.ca
 0.0.0.0 *.8462808.xyz
 0.0.0.0 *.8464200.xyz
 0.0.0.0 *.846e4fe090c8a07e.com
@@ -11568,6 +11541,7 @@
 0.0.0.0 *.85476.xyz
 0.0.0.0 *.85489346.sbs
 0.0.0.0 *.854df68b41014.beer
+0.0.0.0 *.854fvaw.top
 0.0.0.0 *.85511s.com
 0.0.0.0 *.85531.xyz
 0.0.0.0 *.85546.xyz
@@ -12386,6 +12360,7 @@
 0.0.0.0 *.9.www.cheetahhowevertowardsfrom.com
 0.0.0.0 *.90-ji-54-p-l.rest
 0.0.0.0 *.90-music.com
+0.0.0.0 *.9000-firebase-abowa23-1771152232495.cluster-6dx7corvpngoivimwvvljgokdw.cloudworkstations.dev
 0.0.0.0 *.9000-firebase-billab-1761172032270.cluster-r7kbxfo3fnev2vskbkhhphetq6.cloudworkstations.dev
 0.0.0.0 *.9000-firebase-detuu-1761632984144.cluster-dwvm25yncracsxpd26rcd5ja3m.cloudworkstations.dev
 0.0.0.0 *.9000-firebase-expired-1759135909947.cluster-j6d3cbsvdbe5uxnhqrfzzeyj7i.cloudworkstations.dev
@@ -12747,6 +12722,7 @@
 0.0.0.0 *.94u4p.paper-knurl.ru
 0.0.0.0 *.9501.sale
 0.0.0.0 *.9505.com
+0.0.0.0 *.95063174.xyz
 0.0.0.0 *.950721.xyz
 0.0.0.0 *.950ff036e1013.beer
 0.0.0.0 *.951269-www.web.tornado-node.net
@@ -23435,6 +23411,7 @@
 0.0.0.0 *.alaymphara.com
 0.0.0.0 *.alb-app.com
 0.0.0.0 *.albab.com.iq
+0.0.0.0 *.albabalbes.cyou
 0.0.0.0 *.albaglani.com
 0.0.0.0 *.albaguatemala.com
 0.0.0.0 *.albaitalshamy.com
@@ -24589,9 +24566,11 @@
 0.0.0.0 *.allegrolokalnie.425372.click
 0.0.0.0 *.allegrolokalnie.438104.cyou
 0.0.0.0 *.allegrolokalnie.45kbkvdsjcxanc3.sbs
+0.0.0.0 *.allegrolokalnie.45rvksjcj3jrbvjcds.sbs
 0.0.0.0 *.allegrolokalnie.4636429u827492749248e2u74924.bond
 0.0.0.0 *.allegrolokalnie.4894753456.cyou
 0.0.0.0 *.allegrolokalnie.498r728283972u2882.bond
+0.0.0.0 *.allegrolokalnie.4bpvdkscxmf2ew.sbs
 0.0.0.0 *.allegrolokalnie.4k5gkfdkck34g.sbs
 0.0.0.0 *.allegrolokalnie.520019.cyou
 0.0.0.0 *.allegrolokalnie.520470.click
@@ -24604,6 +24583,7 @@
 0.0.0.0 *.allegrolokalnie.56ohdscsnxn23f.sbs
 0.0.0.0 *.allegrolokalnie.5hgdscjj3jbvjsd.sbs
 0.0.0.0 *.allegrolokalnie.5hofdcsc43.sbs
+0.0.0.0 *.allegrolokalnie.5o4ivdsjcjjvv3rb.sbs
 0.0.0.0 *.allegrolokalnie.5o5bovcxmw3.sbs
 0.0.0.0 *.allegrolokalnie.5rbkvdsjcjcj34b.sbs
 0.0.0.0 *.allegrolokalnie.60837.click
@@ -24705,6 +24685,8 @@
 0.0.0.0 *.allegrolokalnie.nbvjn9y5jj89h54.top
 0.0.0.0 *.allegrolokalnie.ni8767ikwm1.sbs
 0.0.0.0 *.allegrolokalnie.nowa-oferta.cfd
+0.0.0.0 *.allegrolokalnie.o45obkvdscxjw3r.sbs
+0.0.0.0 *.allegrolokalnie.o54bvsxxmm3jvrevcs.sbs
 0.0.0.0 *.allegrolokalnie.odc-v9b83y.rest
 0.0.0.0 *.allegrolokalnie.ods-c948y7576.rest
 0.0.0.0 *.allegrolokalnie.oferta-133493-proponowane-dla-ciebie.icu
@@ -24765,6 +24747,8 @@
 0.0.0.0 *.allegrolokalnie.oferta736173-kategoria-proponowane.sbs
 0.0.0.0 *.allegrolokalnie.oferta746261-dla-ciebie.sbs
 0.0.0.0 *.allegrolokalnie.oferta756362-dla-ciebie.sbs
+0.0.0.0 *.allegrolokalnie.oferta76381-dla-ciebie.sbs
+0.0.0.0 *.allegrolokalnie.oferta78324-dla-ciebie.sbs
 0.0.0.0 *.allegrolokalnie.oferty-12574-dla-ciebie-proponowana.icu
 0.0.0.0 *.allegrolokalnie.oferty-kategoria-blaszaki-3x5-dostawa.icu
 0.0.0.0 *.allegrolokalnie.oferty-kategoria-dla-ciebie-rozne-12.icu
@@ -24949,6 +24933,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta-127834689945.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta-16532075.cyou
 0.0.0.0 *.allegrolokalnie.pl-oferta-189453469903.cfd
+0.0.0.0 *.allegrolokalnie.pl-oferta-2004929.cyou
 0.0.0.0 *.allegrolokalnie.pl-oferta-21010-dyson-v15-detect-absolute.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta-236885858638.biz
 0.0.0.0 *.allegrolokalnie.pl-oferta-249590.cyou
@@ -25017,6 +25002,7 @@
 0.0.0.0 *.allegrolokalnie.pl-oferta887002.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta893224.cfd
 0.0.0.0 *.allegrolokalnie.pl-oferta893624.sbs
+0.0.0.0 *.allegrolokalnie.pl-oferta896421.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta9034305-ipad-pro-13-m4-wifi-cellular.sbs
 0.0.0.0 *.allegrolokalnie.pl-oferta9047712.icu
 0.0.0.0 *.allegrolokalnie.pl-oferta916982.cfd
@@ -48053,6 +48039,7 @@
 0.0.0.0 *.burubue.com
 0.0.0.0 *.burundi-sugar.net
 0.0.0.0 *.burwfuhpwjlme.site
+0.0.0.0 *.buryfeu.com
 0.0.0.0 *.bus-sen.com
 0.0.0.0 *.bus.brookviewadvisorygroup.com
 0.0.0.0 *.bus1nes5c0mmun1typa9e-uj88.vercel.app
@@ -55350,6 +55337,7 @@
 0.0.0.0 *.chirubeauish.shop
 0.0.0.0 *.chiselinteriors.com
 0.0.0.0 *.chisholmswichita.com
+0.0.0.0 *.chishuirk.com
 0.0.0.0 *.chistilishe-lordfilm.ru
 0.0.0.0 *.chistotananeve.ru
 0.0.0.0 *.chistyidom.kz
@@ -70524,6 +70512,7 @@
 0.0.0.0 *.deliberatelyot.space
 0.0.0.0 *.delibflocc.rest
 0.0.0.0 *.delibox.com.br
+0.0.0.0 *.delibriton.rest
 0.0.0.0 *.delica.flog-and-frog.com
 0.0.0.0 *.delicacye.top
 0.0.0.0 *.delicate-direction-186410.framer.app
@@ -89876,6 +89865,7 @@
 0.0.0.0 *.femaleviagraforsaleonline.com
 0.0.0.0 *.femaro-junvix.shop
 0.0.0.0 *.fembetivil.com
+0.0.0.0 *.femboyrental.com
 0.0.0.0 *.femeisingure.net
 0.0.0.0 *.femekeboqoisinvestments.digital
 0.0.0.0 *.femh.msecuptor.ru
@@ -102137,6 +102127,7 @@
 0.0.0.0 *.gittos.net
 0.0.0.0 *.gitxhub.com
 0.0.0.0 *.giubblakin.pro
+0.0.0.0 *.giugugreek.rest
 0.0.0.0 *.giujsuhveifdr.site
 0.0.0.0 *.giuleexche.rest
 0.0.0.0 *.giuleietta.rest
@@ -114028,6 +114019,7 @@
 0.0.0.0 *.huangyifan.com
 0.0.0.0 *.huangzuan.net
 0.0.0.0 *.huantumgubpro.top
+0.0.0.0 *.huanyongqg.com
 0.0.0.0 *.huanyu-group.cn
 0.0.0.0 *.huaquillas.net
 0.0.0.0 *.huasigufan.com
@@ -148568,6 +148560,7 @@
 0.0.0.0 *.militaria-pl.com
 0.0.0.0 *.militaria.dozsale1.top
 0.0.0.0 *.militaria.plsale.com
+0.0.0.0 *.militaria.promo-pl.com
 0.0.0.0 *.militariadeal.com
 0.0.0.0 *.militariaeu.com
 0.0.0.0 *.militariaonline.shop
@@ -177843,6 +177836,7 @@
 0.0.0.0 *.polskagoldai-app.com
 0.0.0.0 *.polskagrowthcenter.com
 0.0.0.0 *.polskainfo24.com
+0.0.0.0 *.polskainnowacja.pro
 0.0.0.0 *.polskainvest.org
 0.0.0.0 *.polskakatami.shop
 0.0.0.0 *.polskamarmonline.me
@@ -178807,6 +178801,7 @@
 0.0.0.0 *.portionsmeltdown.com
 0.0.0.0 *.portkingric.net
 0.0.0.0 *.portlandvalleyscottishrite.com
+0.0.0.0 *.portlandvalleyscottishrite.org
 0.0.0.0 *.portlydrum.com
 0.0.0.0 *.portmanchauffeurs.com
 0.0.0.0 *.portobetxx.top
@@ -181967,6 +181962,7 @@
 0.0.0.0 *.propicks-ai-official.com
 0.0.0.0 *.propient.com
 0.0.0.0 *.propifygroup.com
+0.0.0.0 *.propiincur.rest
 0.0.0.0 *.propirigri.com
 0.0.0.0 *.propitious-exceptions-081679.framer.app
 0.0.0.0 *.propitious-transform-831205.framer.app
@@ -185055,6 +185051,7 @@
 0.0.0.0 *.pulibet.club
 0.0.0.0 *.pulionline.com
 0.0.0.0 *.puliscitutto.com
+0.0.0.0 *.pulizshril.rest
 0.0.0.0 *.pulkauaiworld.112.2o7.net
 0.0.0.0 *.pulle.ru
 0.0.0.0 *.pulletphotographic.com
@@ -193314,6 +193311,7 @@
 0.0.0.0 *.reward-origindefi.xyz
 0.0.0.0 *.reward-tevaera.live
 0.0.0.0 *.reward4spot.com
+0.0.0.0 *.reward4you.sbs
 0.0.0.0 *.rewardbuddy.me
 0.0.0.0 *.rewardcircular.com
 0.0.0.0 *.rewardclaimpoint.info
@@ -194004,6 +194002,7 @@
 0.0.0.0 *.rimanpotab.pro
 0.0.0.0 *.rimarpomic.rest
 0.0.0.0 *.rimasmisgu.pro
+0.0.0.0 *.rimbagrand.rest
 0.0.0.0 *.rimbauparc.pro
 0.0.0.0 *.rimbayarka.com
 0.0.0.0 *.rimburadio.rest
@@ -203501,6 +203500,7 @@
 0.0.0.0 *.servidoralvorada.com.br
 0.0.0.0 *.servidorunico.com
 0.0.0.0 *.servies-alert25.de
+0.0.0.0 *.serviiceerenew.com
 0.0.0.0 *.serviiiiicedessk.creatorlink.net
 0.0.0.0 *.serviirrit.rest
 0.0.0.0 *.servilege.online
@@ -246317,6 +246317,7 @@
 0.0.0.0 *.vylarixnetworks.com
 0.0.0.0 *.vylenthramedia.com
 0.0.0.0 *.vympzhnxgoweg.store
+0.0.0.0 *.vymuno.xyz
 0.0.0.0 *.vymybkyrzvwky.top
 0.0.0.0 *.vynal.buzz
 0.0.0.0 *.vynathglade.com
@@ -247703,6 +247704,7 @@
 0.0.0.0 *.we.laurita.info
 0.0.0.0 *.we.teknospd.com
 0.0.0.0 *.we32f.com
+0.0.0.0 *.we878s.com
 0.0.0.0 *.we88affsongbac.com
 0.0.0.0 *.we8together.com
 0.0.0.0 *.weacdf211.cn
@@ -257531,6 +257533,7 @@
 0.0.0.0 *.yangniupiju.com
 0.0.0.0 *.yangot.com
 0.0.0.0 *.yangyilehe.com
+0.0.0.0 *.yangzhouxz.com
 0.0.0.0 *.yangzirivercorp.com.au
 0.0.0.0 *.yanicar.com
 0.0.0.0 *.yanisnoibs.mon-pickup-expd.com
