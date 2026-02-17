@@ -192791,7 +192791,6 @@
 0.0.0.0 *.reqde.sooplive.co.kr
 0.0.0.0 *.reqfdaz.cc
 0.0.0.0 *.reqpool-microsoftonline.com
-0.0.0.0 *.reqstat.api.mega.co.nz
 0.0.0.0 *.requeroll.site
 0.0.0.0 *.request-help.start.page
 0.0.0.0 *.request.affiliatesalesagent.com
@@ -198294,7 +198293,6 @@
 0.0.0.0 *.s3-ucia.cloud
 0.0.0.0 *.s3.amber9stash.coupons
 0.0.0.0 *.s3.frostsh1ft.ru
-0.0.0.0 *.s3.g.s4.mega.io
 0.0.0.0 *.s3.hmstorage.net
 0.0.0.0 *.s3.in.ua
 0.0.0.0 *.s3.sitepoint.com
