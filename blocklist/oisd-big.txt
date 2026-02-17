@@ -1550,7 +1550,6 @@
 0.0.0.0 *.130.red-88-30-9.staticip.rima-tde.net
 0.0.0.0 *.130.sub-70-222-227.myvzw.com
 0.0.0.0 *.130532.com
-0.0.0.0 *.130d2a86010311.beer
 0.0.0.0 *.130gelh8q.de
 0.0.0.0 *.131.sub-75-249-142.myvzw.com
 0.0.0.0 *.13121e3d88.com
@@ -1758,19 +1757,15 @@
 0.0.0.0 *.152.sub-70-211-173.myvzw.com
 0.0.0.0 *.152.sub-75-218-50.myvzw.com
 0.0.0.0 *.152.sub-75-236-246.myvzw.com
-0.0.0.0 *.1521f6cf6a.com
 0.0.0.0 *.152418.club
 0.0.0.0 *.15253055.solarmonkey.sk
 0.0.0.0 *.1529462937.rsc.cdn77.org
-0.0.0.0 *.152b7e95f10301.beer
 0.0.0.0 *.152media.cloud
 0.0.0.0 *.152media.com
 0.0.0.0 *.152tb7.jik.thetreecentre.com
 0.0.0.0 *.1532.click
 0.0.0.0 *.1537e06bbdc52c95.com
-0.0.0.0 *.153gmail.com
 0.0.0.0 *.154-202.trifle.net
-0.0.0.0 *.1545775a46e3.xyz
 0.0.0.0 *.1548164934.rsc.cdn77.org
 0.0.0.0 *.154911865.xyz
 0.0.0.0 *.155237.weebly.com
@@ -1789,8 +1784,6 @@
 0.0.0.0 *.157-events.olark.com
 0.0.0.0 *.157.red-88-31-2.staticip.rima-tde.net
 0.0.0.0 *.15705924073.mer.lstest.siquality.com
-0.0.0.0 *.157175.xyz
-0.0.0.0 *.157728-coinbase.com
 0.0.0.0 *.157d32063b964f76.com
 0.0.0.0 *.158.sub-75-222-100.myvzw.com
 0.0.0.0 *.1582ccbd9e7de6f5.com
@@ -24736,6 +24729,7 @@
 0.0.0.0 *.allegrolokalnie.oferta518832.sbs
 0.0.0.0 *.allegrolokalnie.oferta6132799.icu
 0.0.0.0 *.allegrolokalnie.oferta6132984.sbs
+0.0.0.0 *.allegrolokalnie.oferta6311957.click
 0.0.0.0 *.allegrolokalnie.oferta6412736.sbs
 0.0.0.0 *.allegrolokalnie.oferta648188.icu
 0.0.0.0 *.allegrolokalnie.oferta6623962.icu
@@ -28400,6 +28394,7 @@
 0.0.0.0 *.anthonytilke.com
 0.0.0.0 *.anthonyvincent.net
 0.0.0.0 *.anthrcontr.com
+0.0.0.0 *.anthridiop.rest
 0.0.0.0 *.anti-adblock.herokuapp.com
 0.0.0.0 *.anti-bot.baidu.com
 0.0.0.0 *.anti-robot-3abf.firebaseapp.com
@@ -32655,6 +32650,7 @@
 0.0.0.0 *.assetbroxa-platform.com
 0.0.0.0 *.assetbroxa-soft.com
 0.0.0.0 *.assetbroxasoft.com
+0.0.0.0 *.assetconfiscationfund.com
 0.0.0.0 *.assetdelta.online
 0.0.0.0 *.assetgovernance.net
 0.0.0.0 *.assetgrow.digital
@@ -56774,6 +56770,7 @@
 0.0.0.0 *.clean-2-clean.club
 0.0.0.0 *.clean-blocker.com
 0.0.0.0 *.clean-browsing.com
+0.0.0.0 *.clean-build-spot.com
 0.0.0.0 *.clean-device.com
 0.0.0.0 *.clean-email.com
 0.0.0.0 *.clean-solar.com
@@ -61316,6 +61313,7 @@
 0.0.0.0 *.controversykeenworkshop.com
 0.0.0.0 *.contrpower.niteowlcasino.com
 0.0.0.0 *.contrscarp.pro
+0.0.0.0 *.contrstata.rest
 0.0.0.0 *.contrsven.com
 0.0.0.0 *.contruropo.rest
 0.0.0.0 *.contrvanig.pro
@@ -65752,6 +65750,7 @@
 0.0.0.0 *.cy-in.com
 0.0.0.0 *.cy123.cc
 0.0.0.0 *.cy5-maleimide.com
+0.0.0.0 *.cy7ber.info
 0.0.0.0 *.cya1xz.pulty.multiversemechanics.info
 0.0.0.0 *.cya2.net
 0.0.0.0 *.cya4it.com
@@ -68680,6 +68679,7 @@
 0.0.0.0 *.dasiomtherin.weebly.com
 0.0.0.0 *.dasjioaf.com
 0.0.0.0 *.daskals.com
+0.0.0.0 *.dasker.co.uk
 0.0.0.0 *.dasonews.youdontcare.com
 0.0.0.0 *.dasonlineportaldersbb.web.app
 0.0.0.0 *.dasp.org.pk
@@ -169771,6 +169771,7 @@
 0.0.0.0 *.patheticformerly.com
 0.0.0.0 *.patheticinteract.com
 0.0.0.0 *.pathfind.digital
+0.0.0.0 *.pathfinderia.org
 0.0.0.0 *.pathflare.click
 0.0.0.0 *.pathflare.xyz
 0.0.0.0 *.pathflowx.com
@@ -210841,6 +210842,7 @@
 0.0.0.0 *.sorms.mjt.lu
 0.0.0.0 *.sornav-16mexoq.click
 0.0.0.0 *.sornav-84mexil.click
+0.0.0.0 *.sorneperve.rest
 0.0.0.0 *.sorni-5lopamex.digital
 0.0.0.0 *.sornivaltexu8q29h53p.space
 0.0.0.0 *.sornix-2daveqo.click
@@ -236640,6 +236642,7 @@
 0.0.0.0 *.uh9lzojr.fd-api-iris-s-mn-com.in.net
 0.0.0.0 *.uhabo.com
 0.0.0.0 *.uhahuha.top
+0.0.0.0 *.uhaiwater.org
 0.0.0.0 *.uhasizeempu.lol
 0.0.0.0 *.uhaulpos.com
 0.0.0.0 *.uhbgt.com
@@ -238865,6 +238868,7 @@
 0.0.0.0 *.urbanfind.club
 0.0.0.0 *.urbanflickers.com
 0.0.0.0 *.urbanfuture.digital
+0.0.0.0 *.urbangardening.org
 0.0.0.0 *.urbanglide.fr
 0.0.0.0 *.urbania.com.pa
 0.0.0.0 *.urbanindependentmedia.com
