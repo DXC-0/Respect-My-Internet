@@ -9548,6 +9548,7 @@
 0.0.0.0 connexionamazon.fr
 0.0.0.0 connexion-ameli.fr
 0.0.0.0 connexionameli.fr
+0.0.0.0 connexion-a-mon-espace-client.fr
 0.0.0.0 connexion-assurancemaladie.fr
 0.0.0.0 connexionassurancemaladie.fr
 0.0.0.0 connexion-auth.fr
@@ -11263,6 +11264,7 @@
 0.0.0.0 dkny-france.fr
 0.0.0.0 dknyfrance.fr
 0.0.0.0 dkoe.pm
+0.0.0.0 dk-prime.fr
 0.0.0.0 dlashscore.fr
 0.0.0.0 dlhe.pm
 0.0.0.0 dljnq.yt
@@ -11290,6 +11292,7 @@
 0.0.0.0 dmo.re
 0.0.0.0 dnpj-cyberenquete.fr
 0.0.0.0 dns-shop.re
+0.0.0.0 dnu-prime.fr
 0.0.0.0 docaposte-dps.fr
 0.0.0.0 doc-emaj.fr
 0.0.0.0 doc-martens.fr
@@ -11842,6 +11845,7 @@
 0.0.0.0 eiffagegroupe.fr
 0.0.0.0 eiffage-infrastructures-sas.fr
 0.0.0.0 eiffageniecivil.fr
+0.0.0.0 eiffage-tp.fr
 0.0.0.0 eiffelticketing.paris
 0.0.0.0 eiffeltours.paris
 0.0.0.0 eiffeltower-tickets.fr
@@ -17300,6 +17304,7 @@
 0.0.0.0 kplpascher.fr
 0.0.0.0 kpmg-confidentiel.fr
 0.0.0.0 kpmg-paris.fr
+0.0.0.0 kp-prime.fr
 0.0.0.0 krupsfrance.fr
 0.0.0.0 kryptosino-casino.fr
 0.0.0.0 kryptosinocasino.fr
@@ -21032,6 +21037,7 @@
 0.0.0.0 monespace-client.fr
 0.0.0.0 monespace-client-netflix.fr
 0.0.0.0 mon-espace-client-orange.fr
+0.0.0.0 mon-espace-client-prime.fr
 0.0.0.0 monespaceclientsecure.fr
 0.0.0.0 monespace-clients.fr
 0.0.0.0 monespaceclients.fr
@@ -22865,6 +22871,7 @@
 0.0.0.0 nthdf.fr
 0.0.0.0 ntli.fr
 0.0.0.0 ntpaypl.fr
+0.0.0.0 ntp-prime.fr
 0.0.0.0 ntrg.fr
 0.0.0.0 ntth.fr
 0.0.0.0 ntuh.fr
@@ -27747,6 +27754,7 @@
 0.0.0.0 secupay-lebonc.fr
 0.0.0.0 secu-portail.fr
 0.0.0.0 secupostale.fr
+0.0.0.0 secupypl.fr
 0.0.0.0 securabrin.fr
 0.0.0.0 secur-ameli.fr
 0.0.0.0 securappli-webprotect.fr
@@ -30053,6 +30061,7 @@
 0.0.0.0 spinarocasino.fr
 0.0.0.0 spinaura-avis.fr
 0.0.0.0 spinauraavis.fr
+0.0.0.0 spin-aura-casino.fr
 0.0.0.0 spinaura-casino.fr
 0.0.0.0 spinauracasino.fr
 0.0.0.0 spinauracasinos.fr
@@ -30076,8 +30085,11 @@
 0.0.0.0 spinfest-fr.fr
 0.0.0.0 spin-fever.fr
 0.0.0.0 spinfin1.fr
+0.0.0.0 spin-fin-casino.fr
 0.0.0.0 spinfin-fr.fr
 0.0.0.0 spingenie.fr
+0.0.0.0 spinhub-casino.fr
+0.0.0.0 spin-hub.fr
 0.0.0.0 spinight-casino.fr
 0.0.0.0 spinightcasino.fr
 0.0.0.0 spinightcasinos.fr
@@ -30193,6 +30205,7 @@
 0.0.0.0 spinsylogin.fr
 0.0.0.0 spinsy-officiel.fr
 0.0.0.0 spinsyy.fr
+0.0.0.0 spintime-casino.fr
 0.0.0.0 spin-tropolis.fr
 0.0.0.0 spinwinera-fr.fr
 0.0.0.0 spiritcasino.fr
@@ -31962,6 +31975,7 @@
 0.0.0.0 tv-prime.fr
 0.0.0.0 tvsfr.fr
 0.0.0.0 tvsupreme.fr
+0.0.0.0 tvx-prime.fr
 0.0.0.0 tweetdeck.fr
 0.0.0.0 twinbuschfrance.fr
 0.0.0.0 twinbuschsarl.fr
@@ -32007,6 +32021,7 @@
 0.0.0.0 ucaf.fr
 0.0.0.0 u-cy-cergy.fr
 0.0.0.0 u-dauphine.fr
+0.0.0.0 udn-prime.fr
 0.0.0.0 ufr-crous-creteil.fr
 0.0.0.0 ufr-sorbonne-universite.fr
 0.0.0.0 ugg-boots.fr
@@ -33318,6 +33333,7 @@
 0.0.0.0 vsztxm-sg.fr
 0.0.0.0 vtb-bank-france.fr
 0.0.0.0 vtn-prime.fr
+0.0.0.0 vtx-prime.fr
 0.0.0.0 vulkanvegasfr.fr
 0.0.0.0 vunted.fr
 0.0.0.0 vuori-france.fr
@@ -33462,6 +33478,7 @@
 0.0.0.0 webpaypal.fr
 0.0.0.0 webpay-prime.fr
 0.0.0.0 web-poste.fr
+0.0.0.0 webpplsecu.fr
 0.0.0.0 web-pro-ccf.fr
 0.0.0.0 web-reglement.fr
 0.0.0.0 web-renouvellement-amelie.fr
@@ -34334,6 +34351,7 @@
 0.0.0.0 xn--ma-sant-renouvellement-h8b.fr
 0.0.0.0 xn--ma-scurit-sociale-etbf.fr
 0.0.0.0 xn--masocitgnralparticuliers-gfcbbb.fr
+0.0.0.0 xn--mcrosoft-u2a.fr
 0.0.0.0 xn--mdicale-bya.fr
 0.0.0.0 xn--meli-zna.fr
 0.0.0.0 xn--mercersant-k7a.fr
@@ -34700,6 +34718,7 @@
 0.0.0.0 xuxx.fr
 0.0.0.0 xvideo.re
 0.0.0.0 xvideos2.re
+0.0.0.0 xvt-prime.fr
 0.0.0.0 xyro.fr
 0.0.0.0 yabbycasino.fr
 0.0.0.0 yachtingmagazine.fr
@@ -34761,6 +34780,7 @@
 0.0.0.0 yonibetcasinos.fr
 0.0.0.0 yonibet-enligne.fr
 0.0.0.0 yonibet-france.fr
+0.0.0.0 yonibet-official.fr
 0.0.0.0 yonibet-officiel.fr
 0.0.0.0 yonnerepublicaine.fr
 0.0.0.0 yoplaits.fr
@@ -34878,6 +34898,7 @@
 0.0.0.0 zinkracasino.fr
 0.0.0.0 zippofrance.fr
 0.0.0.0 zizki.fr
+0.0.0.0 zizobetcasino.fr
 0.0.0.0 zjihq.yt
 0.0.0.0 zkfz.pm
 0.0.0.0 zkifw.yt
