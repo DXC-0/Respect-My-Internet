@@ -32534,6 +32534,7 @@
 0.0.0.0 *.administrators-cpanel-webmail-secured-server-xzit-kg.pages.dev
 0.0.0.0 *.adminmailportal.weebly.com
 0.0.0.0 *.adminmailruh8uqngpb32.weebly.com
+0.0.0.0 *.adminmist.click
 0.0.0.0 *.adminofficemail.com
 0.0.0.0 *.adminpanel-reviewhub.pages.dev
 0.0.0.0 *.adminpanel003.weebly.com
@@ -39978,7 +39979,6 @@
 0.0.0.0 *.alebilet.oferta-22324813.click
 0.0.0.0 *.alebilet.oferta-82615561.click
 0.0.0.0 *.alebilet.oferta.asia
-0.0.0.0 *.alebilet.pl-589147.sbs
 0.0.0.0 *.alebilet.pl-92001628oferta.icu
 0.0.0.0 *.alebilet.pl-958933.sbs
 0.0.0.0 *.alebilet.pl-kategorie9812467412567129827.shop
@@ -40962,10 +40962,8 @@
 0.0.0.0 *.allegro.oferta.asia
 0.0.0.0 *.allegro.pisiyachiy.shop
 0.0.0.0 *.allegro.pl-208934oferta.sbs
-0.0.0.0 *.allegro.pl-49918593.sbs
 0.0.0.0 *.allegro.pl-6435523432.shop
 0.0.0.0 *.allegro.pl-92001628oferta.icu
-0.0.0.0 *.allegro.pl-95879147.sbs
 0.0.0.0 *.allegro.pl-kategoria78412871429853226783.shop
 0.0.0.0 *.allegro.pl-kategorie81273625.com
 0.0.0.0 *.allegro.pl-oferta0304932342934.rest
@@ -40987,9 +40985,6 @@
 0.0.0.0 *.allegrodeals.com
 0.0.0.0 *.allegrofast.com
 0.0.0.0 *.allegrolokainie.oferta.asia
-0.0.0.0 *.allegrolokainie.pl-49918593.sbs
-0.0.0.0 *.allegrolokainie.pl-589147.sbs
-0.0.0.0 *.allegrolokainie.pl-95879147.sbs
 0.0.0.0 *.allegrolokainie.pl-958933.sbs
 0.0.0.0 *.allegrolokainie.pl-oferta0304932342934.rest
 0.0.0.0 *.allegrolokainie.pl-smart0483844.cfd
@@ -41001,7 +40996,6 @@
 0.0.0.0 *.allegrolokainie.pl-smart8912344.cfd
 0.0.0.0 *.allegrolokainie.pl-smart8912784.cfd
 0.0.0.0 *.allegrolokalne.oferta.asia
-0.0.0.0 *.allegrolokalne.pl-49918593.sbs
 0.0.0.0 *.allegrolokalne.pl-958933.sbs
 0.0.0.0 *.allegrolokalne.pl-oferta0304932342934.rest
 0.0.0.0 *.allegrolokalne.pl-smart0483844.cfd
@@ -41037,10 +41031,12 @@
 0.0.0.0 *.allegrolokalnie.1524.click
 0.0.0.0 *.allegrolokalnie.17834.me
 0.0.0.0 *.allegrolokalnie.23304.click
+0.0.0.0 *.allegrolokalnie.23iok2w23ji.sbs
 0.0.0.0 *.allegrolokalnie.28483.cfd
 0.0.0.0 *.allegrolokalnie.3242351.pl
 0.0.0.0 *.allegrolokalnie.3275627352.cfd
 0.0.0.0 *.allegrolokalnie.373773.click
+0.0.0.0 *.allegrolokalnie.38238.cfd
 0.0.0.0 *.allegrolokalnie.425372.click
 0.0.0.0 *.allegrolokalnie.4rgkdkcerjbvndv.sbs
 0.0.0.0 *.allegrolokalnie.520470.click
@@ -41150,18 +41146,17 @@
 0.0.0.0 *.allegrolokalnie.pl-125329612.click
 0.0.0.0 *.allegrolokalnie.pl-5546423.click
 0.0.0.0 *.allegrolokalnie.pl-569306.rest
-0.0.0.0 *.allegrolokalnie.pl-59801875.sbs
 0.0.0.0 *.allegrolokalnie.pl-6435523432.shop
 0.0.0.0 *.allegrolokalnie.pl-7318148.cfd
 0.0.0.0 *.allegrolokalnie.pl-8293631.sbs
 0.0.0.0 *.allegrolokalnie.pl-8943345.lat
 0.0.0.0 *.allegrolokalnie.pl-92001628oferta.icu
 0.0.0.0 *.allegrolokalnie.pl-93283-szybki.click
-0.0.0.0 *.allegrolokalnie.pl-95879147.sbs
 0.0.0.0 *.allegrolokalnie.pl-9637845.lat
 0.0.0.0 *.allegrolokalnie.pl-9691254.rest
 0.0.0.0 *.allegrolokalnie.pl-firmowe-11258.sbs
 0.0.0.0 *.allegrolokalnie.pl-firmowe-28428.click
+0.0.0.0 *.allegrolokalnie.pl-firmowe-29182.sbs
 0.0.0.0 *.allegrolokalnie.pl-id33345566.sbs
 0.0.0.0 *.allegrolokalnie.pl-kategoria1784215624129862.shop
 0.0.0.0 *.allegrolokalnie.pl-kategoria942761904892836182984.shop
@@ -41199,6 +41194,7 @@
 0.0.0.0 *.allegrolokalnie.plls5ljjrltda71gjk.shop
 0.0.0.0 *.allegrolokalnie.pls2jetsdqr62xk.sbs
 0.0.0.0 *.allegrolokalnie.rezerwacja3613961.click
+0.0.0.0 *.allegrolokalnie.smart-94861.cfd
 0.0.0.0 *.allegrolokalnie.smart-zakupy81732.shop
 0.0.0.0 *.allegrolokalnie.trbrptbkfvsdkv.sbs
 0.0.0.0 *.allegrolokalnie.x09.biz
@@ -93094,6 +93090,7 @@
 0.0.0.0 *.chelbravestund.pro
 0.0.0.0 *.chelbrostigen.pro
 0.0.0.0 *.chelgoravint.info
+0.0.0.0 *.chelmechofm.lenswisla.cyou
 0.0.0.0 *.chelmurandsk.info
 0.0.0.0 *.chelnokx.online
 0.0.0.0 *.chelnokx.ru
@@ -96298,6 +96295,7 @@
 0.0.0.0 *.clearchoicehomecleaning.com
 0.0.0.0 *.clearclarus.com
 0.0.0.0 *.clearclimbloop.info
+0.0.0.0 *.clearclinica.com
 0.0.0.0 *.clearclockcontrol.xyz
 0.0.0.0 *.clearco2.com
 0.0.0.0 *.clearcodeup.top
@@ -183239,6 +183237,7 @@
 0.0.0.0 *.futurepilotsofamerica160.weebly.com
 0.0.0.0 *.futurepowerprojects.com
 0.0.0.0 *.futureproofpromotions.random-group.co.uk
+0.0.0.0 *.futurereadyca.com
 0.0.0.0 *.futureriverl.info
 0.0.0.0 *.futureshopl.info
 0.0.0.0 *.futuresportl.info
@@ -198002,6 +198001,8 @@
 0.0.0.0 *.h6a5p0.lat
 0.0.0.0 *.h6fh0e4hg.com
 0.0.0.0 *.h6lv9iydnjbrnqgmbari7pn37t0.00012.workers.dev
+0.0.0.0 *.h6n8p4.lat
+0.0.0.0 *.h6ntfx.site
 0.0.0.0 *.h6x1.com
 0.0.0.0 *.h7-olavm-org.pages.dev
 0.0.0.0 *.h7.hkfqgs6.vu
@@ -239301,6 +239302,7 @@
 0.0.0.0 *.krainajednorozca.pl
 0.0.0.0 *.krajcik.verkelet.com
 0.0.0.0 *.krajowaadministracjaskarbowawmumbe.lohil.com
+0.0.0.0 *.krajowepomocniki.convertri.com
 0.0.0.0 *.krak-30.online
 0.0.0.0 *.krak-30at.net
 0.0.0.0 *.krak-34.cc
@@ -273784,6 +273786,7 @@
 0.0.0.0 *.miosaletaseblaksale.shop
 0.0.0.0 *.miosaletaseonly.shop
 0.0.0.0 *.miosalsalesebloksa.shop
+0.0.0.0 *.miosalstodayonlya.shop
 0.0.0.0 *.miosearch.com
 0.0.0.0 *.mioshioye.live
 0.0.0.0 *.mioteamtask-woillet.gitbook.io
@@ -297401,6 +297404,7 @@
 0.0.0.0 *.ol-xpaczka.gslpqm6.cfd
 0.0.0.0 *.ol-xpaczka.iddfghj345.cfd
 0.0.0.0 *.ol-xpaczka.idid34534b.icu
+0.0.0.0 *.ol-xpaczka.issiis8382.sbs
 0.0.0.0 *.ol-xpaczka.jfnwps30.cfd
 0.0.0.0 *.ol-xpaczka.kinadik324.sbs
 0.0.0.0 *.ol-xpaczka.llstprewozoviq1312.cfd
@@ -297808,7 +297812,6 @@
 0.0.0.0 *.olx.pay-shop-skril1.cfd
 0.0.0.0 *.olx.pay-shop-skril1.sbs
 0.0.0.0 *.olx.phoenixel.click
-0.0.0.0 *.olx.pl-49918593.sbs
 0.0.0.0 *.olx.pl-92001628oferta.icu
 0.0.0.0 *.olx.pl-oferta0304932342934.rest
 0.0.0.0 *.olx.pl-oferta858814.shop
@@ -297821,6 +297824,7 @@
 0.0.0.0 *.olx.pl-smart5681895.cfd
 0.0.0.0 *.olx.pl-smart8912344.cfd
 0.0.0.0 *.olx.pl-smart8912784.cfd
+0.0.0.0 *.olx.pl-ssid39104.shop
 0.0.0.0 *.olx.rihorsel.ink
 0.0.0.0 *.olx.sell-skril.cfd
 0.0.0.0 *.olx.trankzaktonline.sbs
@@ -313635,6 +313639,7 @@
 0.0.0.0 *.pezinhosweb.com
 0.0.0.0 *.pezpjhmpwqksw.online
 0.0.0.0 *.pezys.buzz
+0.0.0.0 *.pezzolegif.rest
 0.0.0.0 *.pezzurrogroup.com
 0.0.0.0 *.pf.newegg.com
 0.0.0.0 *.pf11.com
@@ -317124,6 +317129,7 @@
 0.0.0.0 *.pl-490950.sbs
 0.0.0.0 *.pl-49189593.sbs
 0.0.0.0 *.pl-495120.cfd
+0.0.0.0 *.pl-49918593.sbs
 0.0.0.0 *.pl-52352.cyou
 0.0.0.0 *.pl-53192256-personal.shop
 0.0.0.0 *.pl-5341.sbs
@@ -317136,9 +317142,11 @@
 0.0.0.0 *.pl-56812.cfd
 0.0.0.0 *.pl-579.cfd
 0.0.0.0 *.pl-5819242.sbs
+0.0.0.0 *.pl-589147.sbs
 0.0.0.0 *.pl-59015783.sbs
 0.0.0.0 *.pl-59241.sbs
 0.0.0.0 *.pl-59711.sbs
+0.0.0.0 *.pl-59801875.sbs
 0.0.0.0 *.pl-59901785.sbs
 0.0.0.0 *.pl-6012906.cfd
 0.0.0.0 *.pl-615151617829zamowienie01l07262928.sbs
@@ -317203,6 +317211,7 @@
 0.0.0.0 *.pl-94075.icu
 0.0.0.0 *.pl-949437.icu
 0.0.0.0 *.pl-95091875.sbs
+0.0.0.0 *.pl-95879147.sbs
 0.0.0.0 *.pl-9589127.sbs
 0.0.0.0 *.pl-9632774933zamowienie6326887522.biz
 0.0.0.0 *.pl-98503084.icu
@@ -317518,6 +317527,7 @@
 0.0.0.0 *.pl-oferta8296-playstation.shop
 0.0.0.0 *.pl-oferta83213941.shop
 0.0.0.0 *.pl-oferta832367324.shop
+0.0.0.0 *.pl-oferta832455.cfd
 0.0.0.0 *.pl-oferta832719.info
 0.0.0.0 *.pl-oferta8328138193.shop
 0.0.0.0 *.pl-oferta833456.rest
@@ -317664,6 +317674,7 @@
 0.0.0.0 *.pl-zamowienie765425776432123568999009865212790.click
 0.0.0.0 *.pl-zapla.info
 0.0.0.0 *.pl-zrzu.vercel.app
+0.0.0.0 *.pl-zwrotolx.cfd
 0.0.0.0 *.pl.allsports4u.club
 0.0.0.0 *.pl.centrumoferty.com
 0.0.0.0 *.pl.cohere.workers.dev
@@ -339417,6 +339428,7 @@
 0.0.0.0 *.raqui-sol1c1t4.webcindario.com
 0.0.0.0 *.rar.bio
 0.0.0.0 *.rarbg-official.com
+0.0.0.0 *.rarbtv.net
 0.0.0.0 *.rardinwj.lol
 0.0.0.0 *.rare-beauty-cosmetic.com
 0.0.0.0 *.rare-blood-moon-video.pages.dev
@@ -353331,6 +353343,7 @@
 0.0.0.0 *.salekit.io
 0.0.0.0 *.salekxvjerzxc.site
 0.0.0.0 *.salemall-pl.shop
+0.0.0.0 *.salemark.online
 0.0.0.0 *.salemcloudadvisors.com
 0.0.0.0 *.salemeds.net
 0.0.0.0 *.salemmonfrere.com
@@ -371503,6 +371516,7 @@
 0.0.0.0 *.snoopy-sklep.pl
 0.0.0.0 *.snoopysoftware.com
 0.0.0.0 *.snooze.de
+0.0.0.0 *.snoozzzy8mint.info
 0.0.0.0 *.snopsd.duckdns.org
 0.0.0.0 *.snoranplus.pl
 0.0.0.0 *.snorble.sa.com
@@ -392309,6 +392323,7 @@
 0.0.0.0 *.tcmkleops.qpon
 0.0.0.0 *.tcmlms.com
 0.0.0.0 *.tcolfwuhtwqln.space
+0.0.0.0 *.tcoll.casa
 0.0.0.0 *.tcomp.shop
 0.0.0.0 *.tcompany-offer.com
 0.0.0.0 *.tconc.allenslc.com
@@ -397019,6 +397034,7 @@
 0.0.0.0 *.tgn.122.2o7.net
 0.0.0.0 *.tgnbwszb.vip
 0.0.0.0 *.tgnhiopl.cc
+0.0.0.0 *.tgoal.nurocoin.com
 0.0.0.0 *.tgoerner250.weebly.com
 0.0.0.0 *.tgoogle.fr
 0.0.0.0 *.tgou.store
@@ -427540,7 +427556,6 @@
 0.0.0.0 *.vinted.order239434534534594.shop
 0.0.0.0 *.vinted.order9812739871450.shop
 0.0.0.0 *.vinted.pl-92001628oferta.icu
-0.0.0.0 *.vinted.pl-95879147.sbs
 0.0.0.0 *.vinted.pl-958933.sbs
 0.0.0.0 *.vinted.pl-oferta0304932342934.rest
 0.0.0.0 *.vinted.pl-smart0483844.cfd
@@ -444247,6 +444262,7 @@
 0.0.0.0 *.x99a2661.xyz
 0.0.0.0 *.x99jl9.sbs
 0.0.0.0 *.x9d45q.close.futureisready.com
+0.0.0.0 *.x9fker.site
 0.0.0.0 *.x9flqeptn.com
 0.0.0.0 *.x9fp3l.sbs
 0.0.0.0 *.x9j1xv.sbs
