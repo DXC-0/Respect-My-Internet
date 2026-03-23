@@ -77,7 +77,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 | [Red-Flag-Domains](https://red.flag.domains/) | Red Flag Domains are lists of very recently registered probably malicious domain names in french TLDs |
 | [No-Google](https://github.com/nickspaargaren/no-google) |  Protect yourself from Google's surveillance by using this blocklist |
 | [No-Apple](https://github.com/cedws/apple-telemetry) | Domain blocklists, IP blocklists, and cloaking files for domains that Apple devices frequently contact |
-| [No-Facebook](https://github.com/jmdugan/blocklists/tree/master) | Block Facebook related domains |
+| [No-Facebook](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/no-facebook.txt) | Block Facebook related domains |
 | [No-Amazon](https://github.com/nickspaargaren/no-amazon) | Protect yourself from Amazon monopoly by using this blocklist |
 | [No-Microsoft](https://github.com/jmdugan/blocklists/tree/master) | Block Microsoft related domains |
 | [No-Windows](https://github.com/crazy-max/WindowsSpyBlocker/tree/master) | Windows Spy Blocker |
