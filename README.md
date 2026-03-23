@@ -86,7 +86,6 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 | [Respect-my-freedom]() | Blocks all TLDs linked to repressive, dictatorial governments that do not respect freedom of expression and human rights/values |
 | [Phishing Army](https://www.phishing.army/) | Generated every 6 hours from PhishTank, OpenPhish, Cert.pl, PhishFindR, Urlscan.io and Phishunt.io reports |
 | [FireHol-Lv3](https://iplists.firehol.org/) | Best IP protection for malwares, botnets, command and control servers and other cybercrime activities |
-| [duggytuxy](https://github.com/duggytuxy/malicious_ip_addresses/tree/main) | BE and FR IP protection for botnets, zombies_scanner, spam |
 
 ---
 
