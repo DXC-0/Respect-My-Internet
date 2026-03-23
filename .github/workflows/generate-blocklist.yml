@@ -47,7 +47,7 @@ jobs:
 
           mkdir -p ./ip
           cd ./ip
-          for url in https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt
+          for url in https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset
           do
            curl $url | sed '/^#/d'  > $(basename $url)
           done
