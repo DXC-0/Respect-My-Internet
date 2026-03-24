@@ -34,7 +34,6 @@ jobs:
           mv amazon.txt no-amazon.txt
           mv notrack-blocklist.txt no-track.txt
           mv red.flag.domains.txt red-flag-domains.txt
-          mv domainswild_big.txt oisd-big.txt
           mv phishing_army_blocklist_extended.txt phishing-army.txt
           mv domain.txt no-china-batx.txt
 
