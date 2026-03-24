@@ -24,7 +24,7 @@ jobs:
           curl https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-facebook.txt | sed '/^#/d' >> no-facebook.txt
           curl https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all | sed '/#L/d' >> no-microsoft.txt 
           curl https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt | sed '/#L/d' >> no-windows.txt
-          curl https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt | sed '/#L/d' >> tencent.txt
+          curl https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt | sed '/#L/d' >> no-tencent.txt
           curl https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-messenger.txt | sed '/#L/d' >> messenger.txt
           
           mv ultimate.txt hagezi-ultimate.txt
