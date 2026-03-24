@@ -1,102 +1,102 @@
-xiaomi.com
-www.xiaomi.com
-xiaomi.net
-mi.com
-www.mi.com
-miui.com
-miui.net
-mi-img.com
-data.mistat.xiaomi.com
-data.mistat.intl.xiaomi.com
-data.mistat.us.xiaomi.com
-data.mistat.rus.xiaomi.com
-data.mistat.india.xiaomi.com
-default.data.mistat.xiaomi.com
-storeconfig.mistat.xiaomi.com
-storeconfig.mistat.intl.xiaomi.com
-ident.mistat.xiaomi.com
-ad.xiaomi.com
-ad.mi.com
-ad1.xiaomi.com
-api.ad.xiaomi.com
-api.ad.intl.xiaomi.com
-api.ads.xiaomi.com
-globalapi.ad.xiaomi.com
-track.ad.xiaomi.com
-m.track.ad.xiaomi.com
-ssp.ad.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.ad.intl.xiaomi.com
-diagnosis.ad.xiaomi.com
-marketing.ad.xiaomi.com
-marketing.ai.xiaomi.com
-matrix.api.ad.xiaomi.com
-cupid.ad.xiaomi.com
-game.ad.xiaomi.com
-i.mi.com
-micloud.xiaomi.net
-micloud.xiaomi.com
-api.micloud.xiaomi.net
-api.micloud.xiaomi.com
-contactapi.micloud.xiaomi.net
-statusapi.micloud.xiaomi.net
-wifiapi.micloud.xiaomi.net
-findapi.micloud.xiaomi.net
-pdc.micloud.xiaomi.net
-phonecallapi.micloud.xiaomi.net
-api.miui.security.xiaomi.com
-api.sec.miui.com
-api.sec.intl.miui.com
-feedback.miui.com
-tracking.miui.com
-tracking.intl.miui.com
-connect.rom.miui.com
-connect.intl.rom.miui.com
-geofence.sys.miui.com
-metok.sys.miui.com
-cc.sys.miui.com
-ccc.sys.miui.com
-account.xiaomi.com
-api.account.xiaomi.com
-userid.xiaomi.com
-c.id.mi.com
-xmpush.xiaomi.com
-api.xmpush.xiaomi.com
-api.xmpush.global.xiaomi.com
-callback.xmpush.xiaomi.com
-register.xmpush.xiaomi.com
-register.xmpush.global.xiaomi.com
-feedback.xmpush.xiaomi.com
-feedback.xmpush.global.xiaomi.com
-resolver.msg.xiaomi.net
-resolver.msg.global.xiaomi.net
-market.xiaomi.com
-app.market.xiaomi.com
-file.market.xiaomi.com
-t1.market.xiaomi.com
-t2.market.xiaomi.com
-weatherapi.market.xiaomi.com
-ot.io.mi.com
-ots.io.mi.com
-ott.io.mi.com
-api.io.mi.com
-idm.iot.mi.com
-sg-urc.io.mi.com
-dlg.io.mi.com
-pandora.xiaomi.com
-appstore.pandora.xiaomi.com
-gallery.pandora.xiaomi.com
-image.pandora.xiaomi.com
-tvboss.pandora.xiaomi.com
-tvstat.pandora.xiaomi.com
-redirect.pandora.xiaomi.com
-mob.pandora.xiaomi.com
-from.pandora.xiaomi.com
-profile.pandora.xiaomi.com
-monitor.pandora.xiaomi.com
-game.xiaomi.com
-music.xiaomi.com
-voip.game.xiaomi.com
-weather.pandora.xiaomi.com
-huodong.xiaomi.com
-shenghuo.xiaomi.com
+0.0.0.0 xiaomi.com
+0.0.0.0 www.xiaomi.com
+0.0.0.0 xiaomi.net
+0.0.0.0 mi.com
+0.0.0.0 www.mi.com
+0.0.0.0 miui.com
+0.0.0.0 miui.net
+0.0.0.0 mi-img.com
+0.0.0.0 data.mistat.xiaomi.com
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.mistat.us.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 default.data.mistat.xiaomi.com
+0.0.0.0 storeconfig.mistat.xiaomi.com
+0.0.0.0 storeconfig.mistat.intl.xiaomi.com
+0.0.0.0 ident.mistat.xiaomi.com
+0.0.0.0 ad.xiaomi.com
+0.0.0.0 ad.mi.com
+0.0.0.0 ad1.xiaomi.com
+0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.ads.xiaomi.com
+0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 track.ad.xiaomi.com
+0.0.0.0 m.track.ad.xiaomi.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 diagnosis.ad.xiaomi.com
+0.0.0.0 marketing.ad.xiaomi.com
+0.0.0.0 marketing.ai.xiaomi.com
+0.0.0.0 matrix.api.ad.xiaomi.com
+0.0.0.0 cupid.ad.xiaomi.com
+0.0.0.0 game.ad.xiaomi.com
+0.0.0.0 i.mi.com
+0.0.0.0 micloud.xiaomi.net
+0.0.0.0 micloud.xiaomi.com
+0.0.0.0 api.micloud.xiaomi.net
+0.0.0.0 api.micloud.xiaomi.com
+0.0.0.0 contactapi.micloud.xiaomi.net
+0.0.0.0 statusapi.micloud.xiaomi.net
+0.0.0.0 wifiapi.micloud.xiaomi.net
+0.0.0.0 findapi.micloud.xiaomi.net
+0.0.0.0 pdc.micloud.xiaomi.net
+0.0.0.0 phonecallapi.micloud.xiaomi.net
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.sec.miui.com
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 feedback.miui.com
+0.0.0.0 tracking.miui.com
+0.0.0.0 tracking.intl.miui.com
+0.0.0.0 connect.rom.miui.com
+0.0.0.0 connect.intl.rom.miui.com
+0.0.0.0 geofence.sys.miui.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 cc.sys.miui.com
+0.0.0.0 ccc.sys.miui.com
+0.0.0.0 account.xiaomi.com
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 userid.xiaomi.com
+0.0.0.0 c.id.mi.com
+0.0.0.0 xmpush.xiaomi.com
+0.0.0.0 api.xmpush.xiaomi.com
+0.0.0.0 api.xmpush.global.xiaomi.com
+0.0.0.0 callback.xmpush.xiaomi.com
+0.0.0.0 register.xmpush.xiaomi.com
+0.0.0.0 register.xmpush.global.xiaomi.com
+0.0.0.0 feedback.xmpush.xiaomi.com
+0.0.0.0 feedback.xmpush.global.xiaomi.com
+0.0.0.0 resolver.msg.xiaomi.net
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 market.xiaomi.com
+0.0.0.0 app.market.xiaomi.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 t1.market.xiaomi.com
+0.0.0.0 t2.market.xiaomi.com
+0.0.0.0 weatherapi.market.xiaomi.com
+0.0.0.0 ot.io.mi.com
+0.0.0.0 ots.io.mi.com
+0.0.0.0 ott.io.mi.com
+0.0.0.0 api.io.mi.com
+0.0.0.0 idm.iot.mi.com
+0.0.0.0 sg-urc.io.mi.com
+0.0.0.0 dlg.io.mi.com
+0.0.0.0 pandora.xiaomi.com
+0.0.0.0 appstore.pandora.xiaomi.com
+0.0.0.0 gallery.pandora.xiaomi.com
+0.0.0.0 image.pandora.xiaomi.com
+0.0.0.0 tvboss.pandora.xiaomi.com
+0.0.0.0 tvstat.pandora.xiaomi.com
+0.0.0.0 redirect.pandora.xiaomi.com
+0.0.0.0 mob.pandora.xiaomi.com
+0.0.0.0 from.pandora.xiaomi.com
+0.0.0.0 profile.pandora.xiaomi.com
+0.0.0.0 monitor.pandora.xiaomi.com
+0.0.0.0 game.xiaomi.com
+0.0.0.0 music.xiaomi.com
+0.0.0.0 voip.game.xiaomi.com
+0.0.0.0 weather.pandora.xiaomi.com
+0.0.0.0 huodong.xiaomi.com
+0.0.0.0 shenghuo.xiaomi.com
