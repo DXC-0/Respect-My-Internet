@@ -60,6 +60,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 
 | Date       | Modification                                      |
 |------------|---------------------------------------------------|
+| 2026-03-24 | ➕ Add bytedance blocklist (the evil gatekeeper) |
 | 2026-03-24 | ➕ Improve Xiaomi domains blocklist |
 | 2025-08-19 | ➕ Improve Tencent Telecom blocklist feeds |
 | 2025-08-19 | ➕ Improve Messenger and Meta related feeds     |
@@ -83,6 +84,7 @@ Write ```respect-my-internet``` in your favorite terminal to initialise and upda
 | [No-Windows](https://github.com/crazy-max/WindowsSpyBlocker/tree/master) | Windows Spy Blocker |
 | [No-Batx](https://raw.githubusercontent.com/carrnot/china-domain-list/release/domain.txt) | Block Alibaba, Huawei, Tencent and China related services |
 | [No-Xiaomi](https://github.com/DXC-0/Respect-My-Internet/blob/main/blocklist/no-xiaomi) | Block all Xiaomi related domains |
+| [No-ByteDance](https://raw.githubusercontent.com/DXC-0/Respect-My-Internet/refs/heads/main/blocklist/no-bytedance.txt) | Block the Evil ByteDance, China's Gatekeeper |
 | [No-Tencent](https://raw.githubusercontent.com/nickoppen/pihole-blocklists/refs/heads/master/blocklist-tencent.txt) | Blocks all areas of Tencent, China's telecom giant |
 | [No-Track](https://gitlab.com/quidsup/notrack-blocklists/) | Fight global surveillance with this giant blocklist against Internet trackers |
 | [Respect-my-freedom]() | Blocks all TLDs linked to repressive, dictatorial governments that do not respect freedom of expression and human rights/values |
