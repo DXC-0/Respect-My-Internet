@@ -4352,6 +4352,7 @@
 0.0.0.0 auth-commande.fr
 0.0.0.0 auth-compte-netflix.fr
 0.0.0.0 auth-compte.fr
+0.0.0.0 auth-connexion-ar.fr
 0.0.0.0 auth-connexion-prime.fr
 0.0.0.0 auth-device.fr
 0.0.0.0 auth-dhand.fr
@@ -9759,6 +9760,7 @@
 0.0.0.0 connexion-client-bnpparibas.fr
 0.0.0.0 connexion-client.fr
 0.0.0.0 connexion-clients.fr
+0.0.0.0 connexion-compt.fr
 0.0.0.0 connexion-comptes.fr
 0.0.0.0 connexion-creditagricole.fr
 0.0.0.0 connexion-disneplus.fr
@@ -9789,9 +9791,11 @@
 0.0.0.0 connexion-particuliers-n.fr
 0.0.0.0 connexion-particuliers-sg.fr
 0.0.0.0 connexion-particuliers.fr
+0.0.0.0 connexion-portal.fr
 0.0.0.0 connexion-prime.fr
 0.0.0.0 connexion-sante-france.fr
 0.0.0.0 connexion-secure.fr
+0.0.0.0 connexion-securisee.fr
 0.0.0.0 connexion-sfr.fr
 0.0.0.0 connexion-sg.fr
 0.0.0.0 connexion-snapchat.fr
@@ -9801,6 +9805,7 @@
 0.0.0.0 connexion-societegenerale.fr
 0.0.0.0 connexion-suivi-colis.fr
 0.0.0.0 connexion-support.fr
+0.0.0.0 connexion-validation.fr
 0.0.0.0 connexion-verification.fr
 0.0.0.0 connexion-vitale.fr
 0.0.0.0 connexionamazon.fr
@@ -21262,6 +21267,7 @@
 0.0.0.0 monchequenergie.fr
 0.0.0.0 monchoixmagazine.fr
 0.0.0.0 monchorleans.fr
+0.0.0.0 monchoruspro.fr
 0.0.0.0 moncialrelay.fr
 0.0.0.0 moncic.fr
 0.0.0.0 moncler-outlet.fr
@@ -26898,6 +26904,7 @@
 0.0.0.0 relay-suivi.fr
 0.0.0.0 relay-suivis-colis.fr
 0.0.0.0 relaycolis.fr
+0.0.0.0 relaycolisredirection.fr
 0.0.0.0 relaymondial.fr
 0.0.0.0 reliefstore.fr
 0.0.0.0 relievoofrance.fr
@@ -28192,6 +28199,7 @@
 0.0.0.0 seclncxx.fr
 0.0.0.0 secnabor.fr
 0.0.0.0 seconnecte-sfr.fr
+0.0.0.0 seconnecter-online.fr
 0.0.0.0 seconnecter-secure.fr
 0.0.0.0 seconnecter-sfr.fr
 0.0.0.0 seconnecterbanquepopulaire.fr
@@ -28296,6 +28304,7 @@
 0.0.0.0 secure-compte-netflix.fr
 0.0.0.0 secure-compte.fr
 0.0.0.0 secure-compteparticulier.fr
+0.0.0.0 secure-connecte.fr
 0.0.0.0 secure-connexion-a.fr
 0.0.0.0 secure-contravention.fr
 0.0.0.0 secure-credit-du-nord.fr
@@ -33580,6 +33589,7 @@
 0.0.0.0 vir-wer-xx.fr
 0.0.0.0 virement-boursorama.fr
 0.0.0.0 virement-leboncoin.fr
+0.0.0.0 virementbnp-particulier.fr
 0.0.0.0 virementinstantpaylbisecur.fr
 0.0.0.0 virementinstantsecur.fr
 0.0.0.0 virementpret-instantane.fr
