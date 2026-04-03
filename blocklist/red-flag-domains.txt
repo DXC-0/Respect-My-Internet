@@ -6962,6 +6962,7 @@
 0.0.0.0 casino-infinity-france.fr
 0.0.0.0 casino-instant-france.fr
 0.0.0.0 casino-jackpotbob.fr
+0.0.0.0 casino-king-chance.fr
 0.0.0.0 casino-lab-fr.fr
 0.0.0.0 casino-legiano-fr.fr
 0.0.0.0 casino-legiano.fr
@@ -6995,6 +6996,7 @@
 0.0.0.0 casino-samba-slots.fr
 0.0.0.0 casino-sambaslots.fr
 0.0.0.0 casino-savaspin.fr
+0.0.0.0 casino-slotlair.fr
 0.0.0.0 casino-slotrush.fr
 0.0.0.0 casino-spinanga.fr
 0.0.0.0 casino-spinaura.fr
@@ -7023,6 +7025,7 @@
 0.0.0.0 casino-winner.fr
 0.0.0.0 casino-wonaco.fr
 0.0.0.0 casino-x7.fr
+0.0.0.0 casino-zer.fr
 0.0.0.0 casino1win.fr
 0.0.0.0 casino770-france.fr
 0.0.0.0 casino770com.fr
@@ -7312,6 +7315,7 @@
 0.0.0.0 casinozercasinofr.fr
 0.0.0.0 casinozercasinoo.fr
 0.0.0.0 casinozercasinos.fr
+0.0.0.0 casinozerfrance.fr
 0.0.0.0 casinozerlogin.fr
 0.0.0.0 casinozerlogin365.fr
 0.0.0.0 casinozero.fr
@@ -7714,6 +7718,7 @@
 0.0.0.0 cfegouv.fr
 0.0.0.0 cfgouv.fr
 0.0.0.0 cfpt.fr
+0.0.0.0 cfspart-espace.fr
 0.0.0.0 cfspart-idp-impotgouv.fr
 0.0.0.0 cfspart-idp-impotsgouv.fr
 0.0.0.0 cfspart-impots.fr
@@ -13572,6 +13577,7 @@
 0.0.0.0 fnac-gaming.fr
 0.0.0.0 fnac-magasin.fr
 0.0.0.0 fnac-shop.fr
+0.0.0.0 fnac-spectacle.fr
 0.0.0.0 fnacc.fr
 0.0.0.0 fnacdarty-groupe.fr
 0.0.0.0 fnacdestock.fr
@@ -17931,6 +17937,7 @@
 0.0.0.0 laposte-chronopost.fr
 0.0.0.0 laposte-colis.fr
 0.0.0.0 laposte-colissimo-livraison.fr
+0.0.0.0 laposte-colissimo.fr
 0.0.0.0 laposte-colissimosuivi.fr
 0.0.0.0 laposte-connections.fr
 0.0.0.0 laposte-connexion.fr
@@ -18315,6 +18322,7 @@
 0.0.0.0 leboncoin-verification.fr
 0.0.0.0 leboncoin-virement-en-cours.fr
 0.0.0.0 leboncoinai.fr
+0.0.0.0 leboncoinannonces-8475465159.fr
 0.0.0.0 leboncoinauto.fr
 0.0.0.0 leboncoincer.fr
 0.0.0.0 leboncoinchronopost.fr
@@ -18406,6 +18414,7 @@
 0.0.0.0 ledger-france.fr
 0.0.0.0 ledger-platform.fr
 0.0.0.0 ledger-privacy.fr
+0.0.0.0 ledger-recuperation.fr
 0.0.0.0 ledger-secure.fr
 0.0.0.0 ledger-securisation.fr
 0.0.0.0 ledger-securite.fr
@@ -18537,6 +18546,7 @@
 0.0.0.0 lenta.re
 0.0.0.0 leobncoin.fr
 0.0.0.0 leomonde.fr
+0.0.0.0 leon-casino-france.fr
 0.0.0.0 leon-casino-online.fr
 0.0.0.0 leon-casinos.fr
 0.0.0.0 leonbet-france.fr
@@ -19877,6 +19887,7 @@
 0.0.0.0 mailllotdefootstore.fr
 0.0.0.0 maillot-corner.fr
 0.0.0.0 maillot-officiel-euro-2024.fr
+0.0.0.0 maillotaddict.fr
 0.0.0.0 maillotbenfica.fr
 0.0.0.0 maillotcorner.fr
 0.0.0.0 maillotdefoot2024.fr
@@ -25983,6 +25994,7 @@
 0.0.0.0 pro-note.fr
 0.0.0.0 pro-orange.fr
 0.0.0.0 pro-prime.fr
+0.0.0.0 pro-sivinterieurgouv.fr
 0.0.0.0 pro-sncf.fr
 0.0.0.0 proameli.fr
 0.0.0.0 proants.fr
@@ -26054,6 +26066,7 @@
 0.0.0.0 proorange.fr
 0.0.0.0 propitea.fr
 0.0.0.0 propulse-ca.fr
+0.0.0.0 prosivinterieurgouv.fr
 0.0.0.0 protect-prime.fr
 0.0.0.0 protection-ameli.fr
 0.0.0.0 protection-client.fr
@@ -29947,6 +29960,7 @@
 0.0.0.0 siv-antsgouv.fr
 0.0.0.0 siv-immatriculation.fr
 0.0.0.0 siv-pref.fr
+0.0.0.0 siv-prointerieurgouv.fr
 0.0.0.0 sivprefectureants.fr
 0.0.0.0 sixers-france.fr
 0.0.0.0 sjb.pm
@@ -30604,6 +30618,8 @@
 0.0.0.0 spin-aurafr.fr
 0.0.0.0 spin-auras.fr
 0.0.0.0 spin-bara-casino.fr
+0.0.0.0 spin-boss-casino.fr
+0.0.0.0 spin-boss.fr
 0.0.0.0 spin-cash-win.fr
 0.0.0.0 spin-casino.fr
 0.0.0.0 spin-fest.fr
@@ -30638,6 +30654,7 @@
 0.0.0.0 spinangacasinologin.fr
 0.0.0.0 spinangacasinopromocode.fr
 0.0.0.0 spinangafrance.fr
+0.0.0.0 spinaniacasinoo.fr
 0.0.0.0 spinaro-casino.fr
 0.0.0.0 spinaro-fr.fr
 0.0.0.0 spinarocasino.fr
@@ -30654,6 +30671,9 @@
 0.0.0.0 spinbaracasino-fr.fr
 0.0.0.0 spinbarafr.fr
 0.0.0.0 spinbarafrance.fr
+0.0.0.0 spinboss-fr.fr
+0.0.0.0 spinboss1.fr
+0.0.0.0 spinbosss.fr
 0.0.0.0 spincastle.fr
 0.0.0.0 spinch-casino.fr
 0.0.0.0 spinchcasino.fr
@@ -30674,6 +30694,7 @@
 0.0.0.0 spinit-fr.fr
 0.0.0.0 spinit-france.fr
 0.0.0.0 spinit-officiel.fr
+0.0.0.0 spinlogic.fr
 0.0.0.0 spinmacho-fr.fr
 0.0.0.0 spinmacho1.fr
 0.0.0.0 spinmama-app.fr
@@ -30710,6 +30731,7 @@
 0.0.0.0 spinmills-casino.fr
 0.0.0.0 spinmills.fr
 0.0.0.0 spinmillscasino.fr
+0.0.0.0 spinnania.fr
 0.0.0.0 spinny-casino.fr
 0.0.0.0 spinnycasino-fr.fr
 0.0.0.0 spino-gambino-application.fr
@@ -34786,7 +34808,7 @@
 0.0.0.0 xn--bldina-cva.fr
 0.0.0.0 xn--bornovoyage-ebb.fr
 0.0.0.0 xn--boutiquelarivire-6pb.fr
-0.0.0.0 xn--bpfrance-31a.fr           
+0.0.0.0 xn--bpfrance-31a.fr
 0.0.0.0 xn--cabaa-fta.fr
 0.0.0.0 xn--caisse-dpargne-accs-7ybk.fr
 0.0.0.0 xn--caisse-dpargne-compte-i5b.fr
@@ -34973,6 +34995,7 @@
 0.0.0.0 xn--louvre-banque-prive-szb.fr
 0.0.0.0 xn--lycedelarc-d7a.fr
 0.0.0.0 xn--lyon-universit-okb.fr
+0.0.0.0 xn--lysee-msa.fr
 0.0.0.0 xn--ma-cja.fr
 0.0.0.0 xn--ma-prsence-en-ligne-fzb.fr
 0.0.0.0 xn--ma-rgularisation-contravention-exc.fr
