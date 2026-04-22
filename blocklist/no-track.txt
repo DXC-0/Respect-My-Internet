@@ -1,56 +1,35 @@
 0.0.0.0 
-0.0.0.0 0i0i0i0.com #Unknown - Advertising
-0.0.0.0 0sntp7dnrr.com #AdMeasures - Advertising
-0.0.0.0 0x01n2ptpuz3.com #AdMeasures - Advertising
 0.0.0.0 1010data.com #1010data - Tracker
-0.0.0.0 123count.com #SpidersWatchp - Tracker
-0.0.0.0 152media.com #152Media - Advertising
 0.0.0.0 1push.io #RollerAds - Advertising
-0.0.0.0 1rx.io #Unknown - Advertising
-0.0.0.0 1ts19.top #TrafficShop - Advertising
-0.0.0.0 2020mustang.com #Unknown - Advertising
+0.0.0.0 1rx.io #Tremor International - Tracker
 0.0.0.0 207.net #Adobe - Tracker
-0.0.0.0 247-inc.com #[24]7 - Tracker
-0.0.0.0 247-inc.net #[24]7 - Tracker
-0.0.0.0 247.ai #[24]7 - Tracker
-0.0.0.0 247realmedia.com #AppNexus Inc - Tracker
+0.0.0.0 247-inc.com #247 Engagement Cloud - Tracker
+0.0.0.0 247-inc.net #247 Engagement Cloud - Tracker
+0.0.0.0 247.ai #247 Engagement Cloud - Tracker
 0.0.0.0 24support.cc #Unknown - Advertising
-0.0.0.0 254a.com #Yieldr - Tracker
-0.0.0.0 2iiyrxk0.com #AdMeasures - Advertising
 0.0.0.0 2mdn.net #Google - Advertising
 0.0.0.0 2o7.net #Adobe - Tracker
 0.0.0.0 33across.com #33Across - Tracker
-0.0.0.0 360yield.com #Improve digital - Tracker
+0.0.0.0 360yield.com #360 Polaris - Tracker
 0.0.0.0 3lift.com #TripleLift - Advertising
 0.0.0.0 4armn.com #RollerAds - Advertising
 0.0.0.0 4dex.io #Adagio - Advertising
 0.0.0.0 4info.com #4INFO - Advertising
-0.0.0.0 4seeresults.com #ForeSee - Tracker
 0.0.0.0 4strokemedia.com #4Stroke Media - Advertising
-0.0.0.0 4wmarketplace.com #4W Marketplace - Advertising
-0.0.0.0 4wnetwork.com #4W Marketplace - Advertising
 0.0.0.0 51.la #Unknown - Tracker
-0.0.0.0 5min.com #AOL - Advertising
-0.0.0.0 65twenty.com #Unknown - Tracker
 0.0.0.0 6sc.co #Unknown - Tracker
 0.0.0.0 6sense.com #6sense - Tracker
 0.0.0.0 7eer.net #Impact Radius - Tracker
-0.0.0.0 8s32e590un.com #AdMeasures - Advertising
 0.0.0.0 a-ads.com #Anonymous Ads - Advertising
 0.0.0.0 a-mo.net #Unknown - Advertising
-0.0.0.0 a.mobify.com #Mobify - Advertising
 0.0.0.0 a1.api.bbc.co.uk #BBC - Tracker
-0.0.0.0 a1webstats.com #A1Webstats - Tracker
 0.0.0.0 a3cloud.net #a3cloud - Tracker
 0.0.0.0 a8723.com #Admedo - Advertising
-0.0.0.0 a9.com #Amazon - Advertising
 0.0.0.0 aa-metrics.airrsv.net #First Party - Tracker
 0.0.0.0 aa-metrics.beauty.hotpepper.jp #First Party - Tracker
 0.0.0.0 aa-metrics.golf-jalan.net #First Party - Tracker
 0.0.0.0 aa-metrics.hotpepper.jp #First Party - Tracker
 0.0.0.0 aa-metrics.jalan.net #First Party - Tracker
-0.0.0.0 aamsitecertifier.com #Unknown - Tracker
-0.0.0.0 aanqylta.com #Wildbear - Advertising
 0.0.0.0 aarth.net #Aarth - Advertising
 0.0.0.0 aatkit.com #AddApptr - Advertising
 0.0.0.0 aax-us-iad.amazon.com #Amazon - Advertising
@@ -58,7 +37,6 @@
 0.0.0.0 ab1n.net #First Party - Advertising
 0.0.0.0 abmr.net #Unknown - Advertising
 0.0.0.0 abtasty.com #AB Tasty - Tracker
-0.0.0.0 abtest.mistat.xiaomi.com #Xiaomi - Tracker
 0.0.0.0 ac24horas.com #Revive Adserver - Advertising
 0.0.0.0 acacdn.com #Unknown - Advertising
 0.0.0.0 academyblocked.com #AdMeasures - Advertising
@@ -419,7 +397,6 @@
 0.0.0.0 alcmpn.com #American List Counsel - Tracker
 0.0.0.0 alephd.com #AOL - Advertising
 0.0.0.0 alexametrics.com #Alexa - Tracker
-0.0.0.0 allawnos.com #Unknown - Advertising
 0.0.0.0 alleviatepracticableaddicted.com #AdMeasures - Advertising
 0.0.0.0 allotupwardmalicious.com #AdMeasures - Advertising
 0.0.0.0 allvideometrika.com #Unknown - Tracker
@@ -15117,7 +15094,7 @@
 0.0.0.0 telemetry.urs.microsoft.com #Microsoft - Tracker
 0.0.0.0 telize.com #Unknown - Tracker
 0.0.0.0 tellapart.com #Unknown - Tracker
-0.0.0.0 tellme.com #[24]7 - Tracker
+0.0.0.0 tellme.com #247 Engagement Cloud - Tracker
 0.0.0.0 tend.io #Tend - Tracker
 0.0.0.0 tenjin.com #Tenjin - Advertising
 0.0.0.0 tenjin.io #Tenjin - Advertising
