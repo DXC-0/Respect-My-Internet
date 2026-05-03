@@ -11486,6 +11486,7 @@
 0.0.0.0 dghs.fr
 0.0.0.0 dgifamendeservice.fr
 0.0.0.0 dgifp-remboursement.fr
+0.0.0.0 dgifp-reversement.fr
 0.0.0.0 dgifpencaissement.fr
 0.0.0.0 dgip-gov.fr
 0.0.0.0 dgos-gouv-france.fr
@@ -22568,6 +22569,7 @@
 0.0.0.0 musee-orsaay.fr
 0.0.0.0 musegrvin.fr
 0.0.0.0 musescore.fr
+0.0.0.0 museum-orsay.fr
 0.0.0.0 museumlouvre.fr
 0.0.0.0 mussee-orsay.fr
 0.0.0.0 mustvideo.fr
