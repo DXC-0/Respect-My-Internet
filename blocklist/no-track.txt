@@ -40,24 +40,19 @@
 0.0.0.0 ac24horas.com #Revive Adserver - Advertising
 0.0.0.0 acacdn.com #Unknown - Advertising
 0.0.0.0 academyblocked.com #AdMeasures - Advertising
-0.0.0.0 accountantpacketassail.com #AdMeasures - Advertising
 0.0.0.0 accscdn.m.taobao.com #Taobao - Advertising
 0.0.0.0 acexedge.com #WhiteOps - Advertising
-0.0.0.0 achievablecpmrevenue.com #AdMeasures - Advertising
-0.0.0.0 acquaintedpostman.com #AdMeasures - Advertising
 0.0.0.0 acscdn.com #Unknown - Advertising
 0.0.0.0 active-agent.com #Active Agent - Tracker
 0.0.0.0 activeconversion.com #Active Conversion - Tracker
 0.0.0.0 acuityplatform.com #Acuityads - Advertising
 0.0.0.0 acxiom-online.com #Acxiom - Tracker
 0.0.0.0 ad-delivery.net #Ad Delivery - Advertising
-0.0.0.0 ad-maven.com #AdMaven - Advertising
 0.0.0.0 ad-optima.com #Unknown - Advertising
 0.0.0.0 ad-plus.com.tr #AdPlus - Advertising
 0.0.0.0 ad-score.com #Adscore - Advertising
 0.0.0.0 ad-stir.com #Ad Stir - Advertising
 0.0.0.0 ad.10010.com #Unknown - Advertising
-0.0.0.0 ad.12dt.com #First Party - Advertising
 0.0.0.0 ad.daum.net #Daum - Advertising
 0.0.0.0 ad.ettoday.net #ETtoday - Advertising
 0.0.0.0 ad.gt #Unknown - Advertising
@@ -69,7 +64,6 @@
 0.0.0.0 ad.rosszlanyok.hu #Revive Adserver - Advertising
 0.0.0.0 ad.rus.xiaomi.com #Xiaomi - Tracker
 0.0.0.0 ad.weplayer.cc #Unknown - Advertising
-0.0.0.0 ad.zfk.de #Revive Adserver - Advertising
 0.0.0.0 ad1.ettoday.net #First Party - Advertising
 0.0.0.0 ad2.ettoday.net #First Party - Tracker
 0.0.0.0 ad4.on.cc #Oriental Press Group - Advertising
@@ -96,7 +90,6 @@
 0.0.0.0 adbrn.com #Adbrain - Advertising
 0.0.0.0 adbro.me #Adbro - Advertising
 0.0.0.0 adbutter.net #Adbutler - Advertising
-0.0.0.0 adc-srv.net #ADC Media - Advertising
 0.0.0.0 adcash.com #Adcash - Advertising
 0.0.0.0 adcolony.com #AdColony - Advertising
 0.0.0.0 addeluxe.jp #AdDeluxe - Advertising
@@ -122,14 +115,10 @@
 0.0.0.0 adhese.com #Adhese - Advertising
 0.0.0.0 adhigh.net #Getintent - Advertising
 0.0.0.0 adhitzads.com #Unknown - Advertising
-0.0.0.0 adinfo.aol.com #AOL - Advertising
 0.0.0.0 adingo.jp #Voyage Group - Advertising
 0.0.0.0 adinplay.com #AdinPlay - Advertising
-0.0.0.0 adintend.com #Revive Adserver - Advertising
 0.0.0.0 adition.com #Adition Technologies - Advertising
-0.0.0.0 adizio.com #Unknown - Advertising
 0.0.0.0 adjoe.zone #Adjoe - Advertising
-0.0.0.0 adjug.com #AdJug - Advertising
 0.0.0.0 adjust.com #Adjust - Tracker
 0.0.0.0 adjust.net.in #Adjust - Tracker
 0.0.0.0 adjust.world #Adjust - Tracker
@@ -137,7 +126,6 @@
 0.0.0.0 adkmob.com #Unknown - Advertising
 0.0.0.0 adkontekst.pl #Adkontekst - Advertising
 0.0.0.0 adlabsnetworks.com #AdLabs - Advertising
-0.0.0.0 adlegend.com #Adlegend - Advertising
 0.0.0.0 adlightning.com #Ad Lightning - Advertising
 0.0.0.0 adlook.me #Adlook - Advertising
 0.0.0.0 adlooxtracking.com #Adloox - Advertising
@@ -172,52 +160,38 @@
 0.0.0.0 adobedtm.com #Adobe - Tracker
 0.0.0.0 adobetag.com #Adobe - Tracker
 0.0.0.0 adocean.pl #AdOcean - Advertising
-0.0.0.0 adometry.com #Google - Advertising
 0.0.0.0 adomik.com #Adomik - Advertising
 0.0.0.0 adoric-om.com #Unknown - Advertising
 0.0.0.0 adotmob.com #Adotmob - Advertising
-0.0.0.0 adp13a.com #Unknown - Tracker
 0.0.0.0 adpartner.pro #Unknown - Advertising
-0.0.0.0 adplace.cz #Grape Media - Advertising
 0.0.0.0 adpod.in #Unknown - Tracker
 0.0.0.0 adpone.com #Adpone - Advertising
-0.0.0.0 adprimemedia.net #AdPrime - Advertising
 0.0.0.0 adpushup.com #AdPushup - Advertising
 0.0.0.0 adready.com #CPXi - Advertising
 0.0.0.0 adrecover.com #AdRecover - Advertising
 0.0.0.0 adreq.vivo.com.cn #Vivo - Tracker
-0.0.0.0 adrequest.net #Adrequest - Advertising
 0.0.0.0 adriver.ru #Adriver - Advertising
-0.0.0.0 adrizer.com #Adrizer Cortex - Tracker
 0.0.0.0 adroll.com #AdRoll - Advertising
 0.0.0.0 adrta.com #Pixalate - Advertising
-0.0.0.0 adrtx.net #Ascio Technologies - Advertising
 0.0.0.0 adrunnr.com #Unknown - Advertising
 0.0.0.0 ads-d.viber.com #Viber - Advertising
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn #Vivo - Advertising
 0.0.0.0 ads-twitter.com #Twitter - Advertising
-0.0.0.0 ads.4x4brasil.com.br #Revive Adserver - Advertising
 0.0.0.0 ads.appsgeyser.com #Apps Geyser - Tracker
 0.0.0.0 ads.brave.com #First Party - Advertising
 0.0.0.0 ads.chaturbate.com #Chaturbate - Advertising
 0.0.0.0 ads.digitalcaramel.com #First Party - Advertising
-0.0.0.0 ads.dogusdigital.com #First Party - Advertising
 0.0.0.0 ads.dreamteamfc.com #First Party - Advertising
 0.0.0.0 ads.ebay.com #eBay - Advertising
 0.0.0.0 ads.fakulteti.mk #Revive Adserver - Advertising
 0.0.0.0 ads.financialcontent.com #Revive Adserver - Advertising
 0.0.0.0 ads.glasove.com #First Party - Advertising
-0.0.0.0 ads.ign.com #First Party - Advertising
 0.0.0.0 ads.linkedin.com #LinkedIn - Advertising
 0.0.0.0 ads.mindfactory.de #First Party - Advertising
 0.0.0.0 ads.msn.com #Microsoft - Advertising
 0.0.0.0 ads.newsbook.com.mt #First Party - Advertising
-0.0.0.0 ads.nordcurrent.com #First Party - Advertising
 0.0.0.0 ads.pinger.com #First Party - Advertising
 0.0.0.0 ads.platform.zalo.me #First Party - Advertising
-0.0.0.0 ads.pointermedia.hu #Revive Adserver - Advertising
-0.0.0.0 ads.press24.mk #Revive Adserver - Advertising
-0.0.0.0 ads.proboards.com #First Party - Advertising
 0.0.0.0 ads.roblox.com #First Party - Advertising
 0.0.0.0 ads.roku.com #First Party - Advertising
 0.0.0.0 ads.samba.tv #Samba - Advertising
@@ -229,21 +203,17 @@
 0.0.0.0 ads.thescottishsun.co.uk #First Party - Advertising
 0.0.0.0 ads.thesun.co.uk #First Party - Advertising
 0.0.0.0 ads.thesun.ie #First Party - Advertising
-0.0.0.0 ads.thetimes.co.uk #First Party - Advertising
 0.0.0.0 ads.twitter.com #Twitter - Advertising
 0.0.0.0 ads.viber.com #Viber - Advertising
 0.0.0.0 ads.viralize.tv #First Party - Advertising
 0.0.0.0 ads.yahoo.com #Yahoo - Advertising
-0.0.0.0 ads.yap.yahoo.com #Yahoo - Advertising
 0.0.0.0 ads1.knxs.net #Revive Adserver - Advertising
-0.0.0.0 ads1.msn.com #Microsoft - Advertising
 0.0.0.0 ads2.jenite.bg #Revive Adserver - Advertising
 0.0.0.0 ads5-adnow.com #Unknown - Advertising
 0.0.0.0 adsafeprotected.com #AdScience - Advertising
 0.0.0.0 adsafety.net #Online Solution Int - Advertising
 0.0.0.0 adsbynimbus.com #Timehop Nimbus - Advertising
 0.0.0.0 adscale.de #AdScale - Advertising
-0.0.0.0 adscience.nl #AdScience - Advertising
 0.0.0.0 adsco.re #Adscore - Advertising
 0.0.0.0 adsdk.vivo.com.cn #Vivo - Advertising
 0.0.0.0 adsdk.yandex.ru #Yandex - Advertising
@@ -256,8 +226,6 @@
 0.0.0.0 adserver.pandora.com #First Party - Advertising
 0.0.0.0 adserver.pressboard.ca #First Party - Advertising
 0.0.0.0 adserver.wenxuecity.com #First Party - Advertising
-0.0.0.0 adserver.wolterskluwer.pl #Revive Adserver - Advertising
-0.0.0.0 adservice.google.bg #Google - Advertising
 0.0.0.0 adservice.google.ca #Google - Advertising
 0.0.0.0 adservice.google.co.in #Google - Advertising
 0.0.0.0 adservice.google.co.uk #Google - Advertising
@@ -298,7 +266,6 @@
 0.0.0.0 adtech.com #AdTech - Advertising
 0.0.0.0 adtech.de #AdTech - Advertising
 0.0.0.0 adtech.etermax.com #First Party - Advertising
-0.0.0.0 adtech.redventures.io #First Party - Tracker
 0.0.0.0 adtechium.com #AdTechium - Advertising
 0.0.0.0 adtechus.com #AdTech - Advertising
 0.0.0.0 adtelligent.com #Adtelligent - Advertising
@@ -358,7 +325,6 @@
 0.0.0.0 affec.tv #Unknown - Advertising
 0.0.0.0 affilbox.cz #AffilBox - Advertising
 0.0.0.0 affiliatewindow.com #Digital Window - Advertising
-0.0.0.0 affiliaxe.com #affiliaxe - Tracker
 0.0.0.0 affinity.com #AdTech - Advertising
 0.0.0.0 affinity.net #Affinity - Advertising
 0.0.0.0 affise.com #Affise - Tracker
@@ -427,7 +393,6 @@
 0.0.0.0 analytics.archive.org #First Party - Tracker
 0.0.0.0 analytics.audioeye.com #First Party - Tracker
 0.0.0.0 analytics.autodesk.com #First Party - Tracker
-0.0.0.0 analytics.bigdata.samsung.com #Samsung - Tracker
 0.0.0.0 analytics.binaryfortress.com #First Party - Tracker
 0.0.0.0 analytics.bmj.com #First Party - Tracker
 0.0.0.0 analytics.bookstackapp.com #First Party - Tracker
@@ -1680,7 +1645,6 @@
 0.0.0.0 ispot.tv #iSpot TV - Tracker
 0.0.0.0 ist-track.com #Unknown - Tracker
 0.0.0.0 iterable.com #Iterable - Tracker
-0.0.0.0 itomedia.co.za #Revive Adserver - Advertising
 0.0.0.0 ivitrack.com #Ividence - Tracker
 0.0.0.0 iwanttodeliver.com #Unknown - Tracker
 0.0.0.0 j6mn99mr0m2n.com #AdMeasures - Advertising
@@ -1744,7 +1708,6 @@
 0.0.0.0 labaz.vip #Unknown - Advertising
 0.0.0.0 ladsp.jp #Unknown - Tracker
 0.0.0.0 latinon.com #LatinOn - Advertising
-0.0.0.0 latinwayy.com #Revive Adserver - Advertising
 0.0.0.0 lcs.naver.com #First Party - Tracker
 0.0.0.0 lduhtrp.net #Unknown - Tracker
 0.0.0.0 leadenhancer.com #Leadenhancer - Tracker
@@ -13802,7 +13765,6 @@
 0.0.0.0 popt.in #Poptin - Advertising
 0.0.0.0 poptin.com #Unknown - Tracker
 0.0.0.0 popxperts.com #Pop Expert - Advertising
-0.0.0.0 porovname.cz #Revive Adserver - Advertising
 0.0.0.0 portbay.trade #Unknown Chinese - Tracker
 0.0.0.0 possessedcrackinghart.com #AdMeasures - Advertising
 0.0.0.0 postrelease.com #Nativo - Tracker
@@ -13964,7 +13926,6 @@
 0.0.0.0 refinery89.com #Refinery89 - Advertising
 0.0.0.0 register.collector.scopely.io #First Party - Tracker
 0.0.0.0 regulationprivilegescan.top #Unknown - Advertising
-0.0.0.0 reklama.silnet.pl #Revive Adserver - Advertising
 0.0.0.0 rekmob.com #Rekmob - Advertising
 0.0.0.0 relap.io #Relap - Advertising
 0.0.0.0 relateddigital.com #Related Digital - Tracker
