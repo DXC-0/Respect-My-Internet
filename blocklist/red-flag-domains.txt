@@ -1367,6 +1367,8 @@
 0.0.0.0 airfrznce.fr
 0.0.0.0 airgfrance.fr
 0.0.0.0 airgrance.fr
+0.0.0.0 airhelp-plus.fr
+0.0.0.0 airhelpplus.fr
 0.0.0.0 airjordan4.fr
 0.0.0.0 airjordanfemme.fr
 0.0.0.0 airjordanlowparis.fr
@@ -1395,6 +1397,7 @@
 0.0.0.0 airtagfr.fr
 0.0.0.0 airup-fr.fr
 0.0.0.0 airupfr.fr
+0.0.0.0 airupsoldes.fr
 0.0.0.0 aissamomentscoach.fr
 0.0.0.0 aj-auxerre.fr
 0.0.0.0 ajirharkisfrance.fr
@@ -3374,6 +3377,7 @@
 0.0.0.0 ants-gouve.fr
 0.0.0.0 ants-gov.fr
 0.0.0.0 ants-infraction.fr
+0.0.0.0 ants-interieurgouv.fr
 0.0.0.0 ants-online.fr
 0.0.0.0 ants-paiement-antai.fr
 0.0.0.0 ants-paiement-enligne.fr
@@ -3393,6 +3397,7 @@
 0.0.0.0 antsgov.fr
 0.0.0.0 antsinfo-clients.fr
 0.0.0.0 antsinfraction-traitement.fr
+0.0.0.0 antsinterieurgouv.fr
 0.0.0.0 antsperso-maj.fr
 0.0.0.0 anvsoft-dev.fr
 0.0.0.0 anytech-france.fr
@@ -4633,6 +4638,7 @@
 0.0.0.0 autryensoldes.fr
 0.0.0.0 autryfrancesoldes.fr
 0.0.0.0 autrymarseille.fr
+0.0.0.0 autryoutlet.fr
 0.0.0.0 autryoutletfrance.fr
 0.0.0.0 autryoutlets.fr
 0.0.0.0 autryparis.fr
@@ -5010,6 +5016,7 @@
 0.0.0.0 barenbrugfrance.fr
 0.0.0.0 barreaudelyon.fr
 0.0.0.0 basicfitaccount.fr
+0.0.0.0 basilic-immo.fr
 0.0.0.0 basket-home.fr
 0.0.0.0 basket-nike.fr
 0.0.0.0 basketautryfrance.fr
@@ -5121,10 +5128,12 @@
 0.0.0.0 beijaflor.fr
 0.0.0.0 beingsport.fr
 0.0.0.0 beinmatch.fr
+0.0.0.0 bekofr.fr
 0.0.0.0 bektoube.fr
 0.0.0.0 bel-concours.fr
 0.0.0.0 belambre.fr
 0.0.0.0 belbin-fr.fr
+0.0.0.0 beldrayfra.fr
 0.0.0.0 belenkachaussures.fr
 0.0.0.0 belhambra.fr
 0.0.0.0 belkinfrance.fr
@@ -5249,6 +5258,7 @@
 0.0.0.0 betfair.re
 0.0.0.0 betfancasino.fr
 0.0.0.0 betfirst-casino.fr
+0.0.0.0 betfox.fr
 0.0.0.0 betfred.fr
 0.0.0.0 betfury.fr
 0.0.0.0 betfurycasino.fr
@@ -5261,6 +5271,7 @@
 0.0.0.0 bethall1.fr
 0.0.0.0 bethallcasino.fr
 0.0.0.0 bethalls.fr
+0.0.0.0 beti-fy.fr
 0.0.0.0 betibet.fr
 0.0.0.0 betify-app.fr
 0.0.0.0 betify-applicationbonus.fr
@@ -5301,9 +5312,11 @@
 0.0.0.0 betify-casinos.fr
 0.0.0.0 betify-casinos1.fr
 0.0.0.0 betify-enfrance.fr
+0.0.0.0 betify-enligne.fr
 0.0.0.0 betify-fr-casino.fr
 0.0.0.0 betify-france.fr
 0.0.0.0 betify-jeu.fr
+0.0.0.0 betify-jouer.fr
 0.0.0.0 betify-login.fr
 0.0.0.0 betify-officiel1.fr
 0.0.0.0 betify-officiel3.fr
@@ -5424,6 +5437,7 @@
 0.0.0.0 betsio-casino.fr
 0.0.0.0 betsio-fr.fr
 0.0.0.0 betsiocasino-fr.fr
+0.0.0.0 betsixty-casino.fr
 0.0.0.0 betsonn.fr
 0.0.0.0 betssoncasino.fr
 0.0.0.0 betssononline.fr
@@ -5927,6 +5941,7 @@
 0.0.0.0 bonprixfrance.fr
 0.0.0.0 bonque-fiducial.fr
 0.0.0.0 bonrpix.fr
+0.0.0.0 bonus-betify.fr
 0.0.0.0 bonusbetcasinoapp.fr
 0.0.0.0 bonusbetcasinobonus.fr
 0.0.0.0 bonusbetcasinobonus777.fr
@@ -6220,6 +6235,7 @@
 0.0.0.0 bravoplaycasino.fr
 0.0.0.0 brazzer.fr
 0.0.0.0 brcodepot.fr
+0.0.0.0 bred-france.fr
 0.0.0.0 bred-paris.fr
 0.0.0.0 bredbanque.fr
 0.0.0.0 bredbanquepret.fr
@@ -8032,6 +8048,7 @@
 0.0.0.0 cfe-metiers.fr
 0.0.0.0 cfegouv.fr
 0.0.0.0 cfgouv.fr
+0.0.0.0 cfiv-sivinterieurgouv.fr
 0.0.0.0 cfpt.fr
 0.0.0.0 cfspart-espace.fr
 0.0.0.0 cfspart-idp-impotgouv.fr
@@ -9549,6 +9566,7 @@
 0.0.0.0 coli-livraison.fr
 0.0.0.0 coli-suivi.fr
 0.0.0.0 coli-track.fr
+0.0.0.0 colibyoudirect.fr
 0.0.0.0 colis-acheminement.fr
 0.0.0.0 colis-acheminements.fr
 0.0.0.0 colis-alerte.fr
@@ -12095,6 +12113,7 @@
 0.0.0.0 donons.fr
 0.0.0.0 dontacos.fr
 0.0.0.0 donvaleriepecresse.fr
+0.0.0.0 doomoosalefr.fr
 0.0.0.0 dope-snow-france.fr
 0.0.0.0 dopeparis.fr
 0.0.0.0 dopesneakers.fr
@@ -14700,6 +14719,7 @@
 0.0.0.0 francetabac.fr
 0.0.0.0 francetelecomcable.fr
 0.0.0.0 francetelevisons.fr
+0.0.0.0 francetitres-ants.fr
 0.0.0.0 francetonet.fr
 0.0.0.0 francetravaililedefrance.fr
 0.0.0.0 francetravaill.fr
@@ -14952,6 +14972,7 @@
 0.0.0.0 gaiaherbs.fr
 0.0.0.0 galacticbets.fr
 0.0.0.0 galaxys-8.fr
+0.0.0.0 galayousales.fr
 0.0.0.0 galbini.fr
 0.0.0.0 gam4.fr
 0.0.0.0 gamacasino.fr
@@ -15900,6 +15921,7 @@
 0.0.0.0 groupsodexo.fr
 0.0.0.0 groupzma.fr
 0.0.0.0 grouupama.fr
+0.0.0.0 grownsysafe.fr
 0.0.0.0 groypama.fr
 0.0.0.0 grp-darty.fr
 0.0.0.0 grp-mousquetaires.fr
@@ -16298,6 +16320,7 @@
 0.0.0.0 holyluckcasino.fr
 0.0.0.0 homail640.fr
 0.0.0.0 homaire.fr
+0.0.0.0 homaryfra.fr
 0.0.0.0 homepage-prime.fr
 0.0.0.0 homesalon.fr
 0.0.0.0 hometogos.fr
@@ -16725,6 +16748,7 @@
 0.0.0.0 immobilierlaposte.fr
 0.0.0.0 immobiliersbnpppf.fr
 0.0.0.0 immobnppf.fr
+0.0.0.0 immofortuneo.fr
 0.0.0.0 immotrovit.fr
 0.0.0.0 imotors.fr
 0.0.0.0 impaye-antai.fr
@@ -16810,6 +16834,7 @@
 0.0.0.0 in-li.fr
 0.0.0.0 inamax.fr
 0.0.0.0 inateck.fr
+0.0.0.0 inateckhome.fr
 0.0.0.0 inc-ameli.fr
 0.0.0.0 inc-compte.fr
 0.0.0.0 inc-netflix.fr
@@ -18190,6 +18215,7 @@
 0.0.0.0 kdiff3.fr
 0.0.0.0 kdzs.fr
 0.0.0.0 keboncoin.fr
+0.0.0.0 kedierssale.fr
 0.0.0.0 kedsmarseille.fr
 0.0.0.0 kedsparis.fr
 0.0.0.0 keen-chaussures.fr
@@ -18237,6 +18263,7 @@
 0.0.0.0 kickersfrance.fr
 0.0.0.0 kickersparis.fr
 0.0.0.0 kiddyshoes.fr
+0.0.0.0 kidukusalefr.fr
 0.0.0.0 kidzfamily.fr
 0.0.0.0 kiehlsfrance.fr
 0.0.0.0 kiftonmaillot.fr
@@ -18432,6 +18459,7 @@
 0.0.0.0 labamquepostale.fr
 0.0.0.0 labancairepostale.fr
 0.0.0.0 labannquepostale.fr
+0.0.0.0 labanpostale.fr
 0.0.0.0 labanqepostale.fr
 0.0.0.0 labanqiepostale.fr
 0.0.0.0 labanque-de-france.fr
@@ -19467,6 +19495,7 @@
 0.0.0.0 liefigaro.fr
 0.0.0.0 liemonde.fr
 0.0.0.0 lien-social.fr
+0.0.0.0 lienesalefr.fr
 0.0.0.0 liensmini.fr
 0.0.0.0 lifefoot.fr
 0.0.0.0 lifeofpie.fr
@@ -19514,6 +19543,7 @@
 0.0.0.0 linguue.fr
 0.0.0.0 link-by-net.fr
 0.0.0.0 link-prime.fr
+0.0.0.0 linkcheffr.fr
 0.0.0.0 linkdeen.fr
 0.0.0.0 linkdin.fr
 0.0.0.0 linkdln.fr
@@ -19738,10 +19768,12 @@
 0.0.0.0 loading-leboncoin.fr
 0.0.0.0 loakechaussure.fr
 0.0.0.0 loakesfrance.fr
+0.0.0.0 locaiisation.fr
 0.0.0.0 local-prime.fr
 0.0.0.0 locales-insee.fr
 0.0.0.0 localisation-connect.fr
 0.0.0.0 localisation-services.fr
+0.0.0.0 localisation-support.fr
 0.0.0.0 localiser-app.fr
 0.0.0.0 localiser-apple.fr
 0.0.0.0 localiser-appleid.fr
@@ -21592,6 +21624,7 @@
 0.0.0.0 minutedinfo.fr
 0.0.0.0 miowstore.fr
 0.0.0.0 mipay.fr
+0.0.0.0 miralaxdiscounts.fr
 0.0.0.0 mircosoft365.fr
 0.0.0.0 mircosoftonline.fr
 0.0.0.0 mircrosoft.fr
@@ -22577,6 +22610,7 @@
 0.0.0.0 monespacevital.fr
 0.0.0.0 monespacevitale-secure.fr
 0.0.0.0 monespacevitale.fr
+0.0.0.0 monespaceyou-credit.fr
 0.0.0.0 moneuvre.fr
 0.0.0.0 money-airpods.fr
 0.0.0.0 moneycloudcasino.fr
@@ -24273,6 +24307,7 @@
 0.0.0.0 obozchaussures.fr
 0.0.0.0 obs-studio.fr
 0.0.0.0 obsstudio.fr
+0.0.0.0 obtants.fr
 0.0.0.0 obtenezvotreremboursement.fr
 0.0.0.0 obtenirmonremboursement.fr
 0.0.0.0 obvy-pay-app.fr
@@ -24407,6 +24442,7 @@
 0.0.0.0 olympe-casino-fr.fr
 0.0.0.0 olympe-casino-france.fr
 0.0.0.0 olympe-casino-inscription.fr
+0.0.0.0 olympe-casino-online.fr
 0.0.0.0 olympe-casino1.fr
 0.0.0.0 olympe-casinofr.fr
 0.0.0.0 olympe-casinos.fr
@@ -24424,6 +24460,7 @@
 0.0.0.0 olympecasinologin.fr
 0.0.0.0 olympecasinoo.fr
 0.0.0.0 olympecasinoofficial.fr
+0.0.0.0 olympecasinoonline.fr
 0.0.0.0 olympecasinopromo.fr
 0.0.0.0 olympecasinos.fr
 0.0.0.0 olympecasinosfrance.fr
@@ -24443,6 +24480,7 @@
 0.0.0.0 on-runningfrance.fr
 0.0.0.0 oncloud-france.fr
 0.0.0.0 oncloudsiteofficiel.fr
+0.0.0.0 oncoonline.fr
 0.0.0.0 onderbox.fr
 0.0.0.0 ondialrelay.fr
 0.0.0.0 one-play-prime.fr
@@ -25491,6 +25529,7 @@
 0.0.0.0 patientez-prime.fr
 0.0.0.0 patientezprime.fr
 0.0.0.0 patientsante-ameli.fr
+0.0.0.0 patiofurnitureshop.fr
 0.0.0.0 patmut.fr
 0.0.0.0 patrimoineinfo.fr
 0.0.0.0 patriziapepe-france.fr
@@ -26135,6 +26174,7 @@
 0.0.0.0 play-jonnycasino.fr
 0.0.0.0 play-one-prime.fr
 0.0.0.0 play-prime.fr
+0.0.0.0 play-spinzen.fr
 0.0.0.0 play-zilla-casino.fr
 0.0.0.0 play-zilla.fr
 0.0.0.0 play-zillacasino.fr
@@ -27230,6 +27270,7 @@
 0.0.0.0 qontoconnexion.fr
 0.0.0.0 qontoserviceclient.fr
 0.0.0.0 qoogle.fr
+0.0.0.0 qoomocomforts.fr
 0.0.0.0 qooqle.fr
 0.0.0.0 qouv.fr
 0.0.0.0 qsdmq.yt
@@ -28826,6 +28867,7 @@
 0.0.0.0 royalistplaycasino.fr
 0.0.0.0 royalrabbitcasino-online.fr
 0.0.0.0 royalspinzcasino.fr
+0.0.0.0 roybensswag.fr
 0.0.0.0 rpc-prime.fr
 0.0.0.0 rpcn-ufr-lettres-et-arts-arras.fr
 0.0.0.0 rpubliquedeslettres.fr
@@ -29997,6 +30039,8 @@
 0.0.0.0 serveur-sg.fr
 0.0.0.0 serveur-support.fr
 0.0.0.0 serveursg.fr
+0.0.0.0 servic-client.fr
+0.0.0.0 servicce-courier.fr
 0.0.0.0 service-activations.fr
 0.0.0.0 service-actualisation-assure-enligne.fr
 0.0.0.0 service-afiefacturation.fr
@@ -31670,6 +31714,7 @@
 0.0.0.0 solverde-casino.fr
 0.0.0.0 sonarranscashmastercard-espace-personnel.fr
 0.0.0.0 sonepart.fr
+0.0.0.0 songmicssale.fr
 0.0.0.0 soniksports.fr
 0.0.0.0 sonnyangelstore.fr
 0.0.0.0 sonosfr.fr
@@ -32005,6 +32050,7 @@
 0.0.0.0 spraygroundfrance.fr
 0.0.0.0 springcourt-france.fr
 0.0.0.0 springcourtparis.fr
+0.0.0.0 springlanehome.fr
 0.0.0.0 sprorts.fr
 0.0.0.0 spybet-casino.fr
 0.0.0.0 spybetcasino.fr
@@ -32087,6 +32133,7 @@
 0.0.0.0 stakes-official.fr
 0.0.0.0 stakesfr.fr
 0.0.0.0 stancefrance.fr
+0.0.0.0 stanewstore.fr
 0.0.0.0 stanley-france.fr
 0.0.0.0 stanleycupfrance.fr
 0.0.0.0 stanleyfrance.fr
@@ -32280,6 +32327,7 @@
 0.0.0.0 sudouestdirect.fr
 0.0.0.0 sugar-casino.fr
 0.0.0.0 sugarcasino.fr
+0.0.0.0 sugargoospreadsheet.fr
 0.0.0.0 sugarmommy.fr
 0.0.0.0 suicidaltendencies.fr
 0.0.0.0 suicokeparis.fr
@@ -32637,6 +32685,7 @@
 0.0.0.0 supermarcheu.fr
 0.0.0.0 supermarioplombrie.fr
 0.0.0.0 supernova-casino.fr
+0.0.0.0 superredtigerstore.fr
 0.0.0.0 superspin-casino.fr
 0.0.0.0 superspin-france.fr
 0.0.0.0 superspinfrance.fr
@@ -33101,6 +33150,7 @@
 0.0.0.0 taxisg-7.fr
 0.0.0.0 taxisparisg7.fr
 0.0.0.0 taylorfrance.fr
+0.0.0.0 taylorswodenfr.fr
 0.0.0.0 tbebestknives.fr
 0.0.0.0 tcemsas.fr
 0.0.0.0 tdimax.fr
@@ -33287,6 +33337,7 @@
 0.0.0.0 thenorthfaceparis.fr
 0.0.0.0 thenorthfaces.fr
 0.0.0.0 theoutletshoes.fr
+0.0.0.0 thermalrightonline.fr
 0.0.0.0 thermomix-france.fr
 0.0.0.0 thermomix-offre.fr
 0.0.0.0 thermomix-tm6.fr
@@ -33492,6 +33543,7 @@
 0.0.0.0 tkeesparis.fr
 0.0.0.0 tkhd.fr
 0.0.0.0 tkhsecuritysas.fr
+0.0.0.0 tkmarssale.fr
 0.0.0.0 tktxofficiel.fr
 0.0.0.0 tktxofficielstore.fr
 0.0.0.0 tl-comptes-droit-et-prestation-caf.fr
@@ -33557,6 +33609,7 @@
 0.0.0.0 topcasinosbest.fr
 0.0.0.0 topchaussure.fr
 0.0.0.0 topfilm.fr
+0.0.0.0 topfinelonline.fr
 0.0.0.0 topgameserver.fr
 0.0.0.0 toponlinecasino.fr
 0.0.0.0 topreplica.fr
@@ -33816,6 +33869,7 @@
 0.0.0.0 tumifr.fr
 0.0.0.0 tumifrance.fr
 0.0.0.0 tuperware.fr
+0.0.0.0 tupperware-france.fr
 0.0.0.0 tupperwarefrance.fr
 0.0.0.0 tupperwares.fr
 0.0.0.0 turbo-wins-casino.fr
@@ -33867,6 +33921,7 @@
 0.0.0.0 tywl.yt
 0.0.0.0 tzhd.fr
 0.0.0.0 tzru.fr
+0.0.0.0 tzsfirstaustriafast.fr
 0.0.0.0 u--bordeaux-montaigne.fr
 0.0.0.0 u-bordeau.fr
 0.0.0.0 u-bordeaux-inserm.fr
@@ -33958,6 +34013,7 @@
 0.0.0.0 uiv-tlse3.fr
 0.0.0.0 uiwz.fr
 0.0.0.0 ukamazon.fr
+0.0.0.0 uklisssales.fr
 0.0.0.0 ulefone-france.fr
 0.0.0.0 ulij.pm
 0.0.0.0 ulisfrance.fr
@@ -34296,6 +34352,7 @@
 0.0.0.0 ursscf.fr
 0.0.0.0 urssff.fr
 0.0.0.0 urssqf.fr
+0.0.0.0 ursugaronline.fr
 0.0.0.0 urzl.fr
 0.0.0.0 usager-antai.fr
 0.0.0.0 usager-antaigouv.fr
@@ -34348,8 +34405,10 @@
 0.0.0.0 vacances-allocataire.fr
 0.0.0.0 vacancesoleil.fr
 0.0.0.0 vaccin-variole-du-singe.fr
+0.0.0.0 vactechprofr.fr
 0.0.0.0 vagabondparis.fr
 0.0.0.0 vagabondshoesparis.fr
+0.0.0.0 vahdamsale.fr
 0.0.0.0 valanga.fr
 0.0.0.0 valbiolab.fr
 0.0.0.0 valid-prime.fr
@@ -35171,6 +35230,7 @@
 0.0.0.0 voiturepaschers.fr
 0.0.0.0 voix-francophone.fr
 0.0.0.0 voixdelafrance.fr
+0.0.0.0 volamsafe.fr
 0.0.0.0 volea-store.fr
 0.0.0.0 volerbet-fr.fr
 0.0.0.0 volerbet.fr
@@ -36896,6 +36956,7 @@
 0.0.0.0 youtuybe.fr
 0.0.0.0 youutbe.fr
 0.0.0.0 youvisit.fr
+0.0.0.0 youvsyou.fr
 0.0.0.0 yqfc.yt
 0.0.0.0 yqfcl.yt
 0.0.0.0 yqfdc.yt
