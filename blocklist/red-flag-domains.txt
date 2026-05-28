@@ -95,6 +95,10 @@
 0.0.0.0 1win-club.fr
 0.0.0.0 1win-france.fr
 0.0.0.0 1win-login.fr
+0.0.0.0 1win.pm
+0.0.0.0 1win.re
+0.0.0.0 1win.tf
+0.0.0.0 1win.yt
 0.0.0.0 1winappcasino.fr
 0.0.0.0 1winbonus.fr
 0.0.0.0 1wincasino.fr
@@ -1642,6 +1646,7 @@
 0.0.0.0 ally-spin-casino.fr
 0.0.0.0 ally-spin-casinoonline.fr
 0.0.0.0 ally-spin.fr
+0.0.0.0 ally-spinonline.fr
 0.0.0.0 ally-spins.fr
 0.0.0.0 allyspin-casino.fr
 0.0.0.0 allyspin-casino1.fr
@@ -5378,6 +5383,7 @@
 0.0.0.0 betify-enfrance.fr
 0.0.0.0 betify-enligne.fr
 0.0.0.0 betify-fr-casino.fr
+0.0.0.0 betify-fra.fr
 0.0.0.0 betify-france.fr
 0.0.0.0 betify-jeu.fr
 0.0.0.0 betify-jouer.fr
@@ -5397,6 +5403,7 @@
 0.0.0.0 betifyapplication.fr
 0.0.0.0 betifybonus.fr
 0.0.0.0 betifycasina.fr
+0.0.0.0 betifycasino-avis.fr
 0.0.0.0 betifycasino-fr.fr
 0.0.0.0 betifycasino-france.fr
 0.0.0.0 betifycasino-official.fr
@@ -5415,6 +5422,7 @@
 0.0.0.0 betifyjeu.fr
 0.0.0.0 betifyjeux.fr
 0.0.0.0 betifylogin.fr
+0.0.0.0 betifyofficial.fr
 0.0.0.0 betifyonline.fr
 0.0.0.0 betifyreview.fr
 0.0.0.0 betifysh.fr
@@ -5687,6 +5695,7 @@
 0.0.0.0 billetwebs.fr
 0.0.0.0 billionaire-spin-casino.fr
 0.0.0.0 billionaire-spincasino.fr
+0.0.0.0 billionaire-spins-casino.fr
 0.0.0.0 billionairepascher.fr
 0.0.0.0 billionairespin-france.fr
 0.0.0.0 billionairespin-online.fr
@@ -7551,6 +7560,7 @@
 0.0.0.0 casinohermes.fr
 0.0.0.0 casinohermesfrance.fr
 0.0.0.0 casinohorus.fr
+0.0.0.0 casinohouse.fr
 0.0.0.0 casinoigobet.fr
 0.0.0.0 casinoincognito.fr
 0.0.0.0 casinoinfinite.fr
@@ -7570,6 +7580,7 @@
 0.0.0.0 casinojoka-france.fr
 0.0.0.0 casinojoka-officiel.fr
 0.0.0.0 casinojoka-online.fr
+0.0.0.0 casinojournal.fr
 0.0.0.0 casinojuanlespins.fr
 0.0.0.0 casinojulius.fr
 0.0.0.0 casinok-fr.fr
@@ -7805,6 +7816,7 @@
 0.0.0.0 casinozer-casinos.fr
 0.0.0.0 casinozer-france1.fr
 0.0.0.0 casinozer-frfr.fr
+0.0.0.0 casinozer-frr.fr
 0.0.0.0 casinozer-official.fr
 0.0.0.0 casinozer-online.fr
 0.0.0.0 casinozer-play.fr
@@ -10045,6 +10057,7 @@
 0.0.0.0 commerzbank-com.fr
 0.0.0.0 commisariat.fr
 0.0.0.0 commissaires-aux-comptes.fr
+0.0.0.0 commissariat-33bordeauxinterieur.fr
 0.0.0.0 commissariat-police-nanterre.fr
 0.0.0.0 commissariatdepolicedeparis.fr
 0.0.0.0 commissionrecouvrement.fr
@@ -10599,6 +10612,7 @@
 0.0.0.0 contact-sg.fr
 0.0.0.0 contact-sms-ameli.fr
 0.0.0.0 contact-societegenerale.fr
+0.0.0.0 contact-stripteaseuse.fr
 0.0.0.0 contact-supportcicservice.fr
 0.0.0.0 contact-vitale.fr
 0.0.0.0 contactaide.fr
@@ -12550,6 +12564,7 @@
 0.0.0.0 dsp2secure-banquedefrance-authentification.fr
 0.0.0.0 dsp2securite.fr
 0.0.0.0 dsp2security.fr
+0.0.0.0 dsr-interieurgouv.fr
 0.0.0.0 dsr-sivinterieurgouv.fr
 0.0.0.0 dsrinterieurgouv.fr
 0.0.0.0 dsrloiregouv.fr
@@ -14815,7 +14830,9 @@
 0.0.0.0 fr-vinted.fr
 0.0.0.0 fr-vipluck.fr
 0.0.0.0 fr-vsc-technologies.fr
+0.0.0.0 fr-wildsultan.fr
 0.0.0.0 fr-winbeatz.fr
+0.0.0.0 fr-winoui.fr
 0.0.0.0 fr-yarafrance.fr
 0.0.0.0 fr1-amazon.fr
 0.0.0.0 fr1-cic.fr
@@ -14880,7 +14897,9 @@
 0.0.0.0 france-jonak.fr
 0.0.0.0 france-kpmg.fr
 0.0.0.0 france-loisirs-abonnements.fr
+0.0.0.0 france-lucky8.fr
 0.0.0.0 france-mafia-casino.fr
+0.0.0.0 france-magicalspin.fr
 0.0.0.0 france-maladie-enligne.fr
 0.0.0.0 france-marriott.fr
 0.0.0.0 france-materaiux.fr
@@ -14889,6 +14908,7 @@
 0.0.0.0 france-mizuno.fr
 0.0.0.0 france-moncolis.fr
 0.0.0.0 france-netflix.fr
+0.0.0.0 france-olympe.fr
 0.0.0.0 france-pistolo.fr
 0.0.0.0 france-premiere.fr
 0.0.0.0 france-prime.fr
@@ -15926,6 +15946,7 @@
 0.0.0.0 gouv-majoration.fr
 0.0.0.0 gouv-mes-amendes-antai.fr
 0.0.0.0 gouv-mes-amendes.fr
+0.0.0.0 gouv-mili-paris-bleuet-france-courses-solidaires.fr
 0.0.0.0 gouv-oclctic.fr
 0.0.0.0 gouv-paiement-antai.fr
 0.0.0.0 gouv-paiement-secure.fr
@@ -16778,6 +16799,7 @@
 0.0.0.0 hugewinscasino.fr
 0.0.0.0 huggies-france.fr
 0.0.0.0 hugo-bets-fr.fr
+0.0.0.0 hugo-betsonline.fr
 0.0.0.0 hugobet-casino.fr
 0.0.0.0 hugobet.fr
 0.0.0.0 hugobetcasino.fr
@@ -19965,6 +19987,7 @@
 0.0.0.0 liraspiin.fr
 0.0.0.0 liraspin-casino.fr
 0.0.0.0 liraspin-casino1.fr
+0.0.0.0 liraspin-france.fr
 0.0.0.0 liraspin1-fr.fr
 0.0.0.0 liraspin1.fr
 0.0.0.0 liraspincasino-fr.fr
@@ -23398,6 +23421,7 @@
 0.0.0.0 my-stake-online.fr
 0.0.0.0 my-stake-play.fr
 0.0.0.0 my-stakecasino.fr
+0.0.0.0 my-stakeofficiel.fr
 0.0.0.0 my-stakeonline.fr
 0.0.0.0 my-storage-prime.fr
 0.0.0.0 my-ugg.fr
@@ -24327,10 +24351,14 @@
 0.0.0.0 nimes-stationnement-usager-tefps.fr
 0.0.0.0 nincecasino1.fr
 0.0.0.0 nine-ca5ino.fr
+0.0.0.0 nine-casino-9.fr
+0.0.0.0 nine-casino-connexion.fr
 0.0.0.0 nine-casino-enligne.fr
 0.0.0.0 nine-casino-fr.fr
+0.0.0.0 nine-casino-login.fr
 0.0.0.0 nine-casino-online.fr
 0.0.0.0 nine-casino1.fr
+0.0.0.0 nine-casino2.fr
 0.0.0.0 nine-casinofr.fr
 0.0.0.0 nine-casinoonline.fr
 0.0.0.0 nine-casinos-fr.fr
@@ -24352,6 +24380,7 @@
 0.0.0.0 ninecasino-officiel.fr
 0.0.0.0 ninecasino-online.fr
 0.0.0.0 ninecasino2.fr
+0.0.0.0 ninecasino4.fr
 0.0.0.0 ninecasino9.fr
 0.0.0.0 ninecasinoapp.fr
 0.0.0.0 ninecasinoapp366.fr
@@ -24369,6 +24398,7 @@
 0.0.0.0 ninecasinofrance.fr
 0.0.0.0 ninecasinofrance1.fr
 0.0.0.0 ninecasinofrances.fr
+0.0.0.0 ninecasinoinscription.fr
 0.0.0.0 ninecasinologin365.fr
 0.0.0.0 ninecasinon.fr
 0.0.0.0 ninecasinoo.fr
@@ -24719,9 +24749,11 @@
 0.0.0.0 nuumericable.fr
 0.0.0.0 nuvaskin-officiel.fr
 0.0.0.0 nuxitsupport.fr
+0.0.0.0 nv-casino-online.fr
 0.0.0.0 nv-casinos1.fr
 0.0.0.0 nv-prime.fr
 0.0.0.0 nvcasino-fr.fr
+0.0.0.0 nvcasino-login.fr
 0.0.0.0 nvcasino-official.fr
 0.0.0.0 nvcasino-officiel.fr
 0.0.0.0 nvcasino.fr
@@ -25243,12 +25275,14 @@
 0.0.0.0 oscar-spin-casino.fr
 0.0.0.0 oscar-spin-fr.fr
 0.0.0.0 oscar-spincasino.fr
+0.0.0.0 oscarspin-2.fr
 0.0.0.0 oscarspin-casino-fr.fr
 0.0.0.0 oscarspin-casino.fr
 0.0.0.0 oscarspin-enligne.fr
 0.0.0.0 oscarspin-fr.fr
 0.0.0.0 oscarspin-france.fr
 0.0.0.0 oscarspin-login.fr
+0.0.0.0 oscarspincasino.fr
 0.0.0.0 oscarspincasinos.fr
 0.0.0.0 oscarspinfr.fr
 0.0.0.0 oscarspins.fr
@@ -29149,6 +29183,7 @@
 0.0.0.0 rh-castorama.fr
 0.0.0.0 rh-disneystore.fr
 0.0.0.0 rh-laposte.fr
+0.0.0.0 rh-macif.fr
 0.0.0.0 rhbanquepostale.fr
 0.0.0.0 rhdisney-store.fr
 0.0.0.0 rhdisneystore.fr
@@ -29367,6 +29402,7 @@
 0.0.0.0 roobete.fr
 0.0.0.0 roobetfr.fr
 0.0.0.0 roobetfrance.fr
+0.0.0.0 roobetofficiel.fr
 0.0.0.0 roobets.fr
 0.0.0.0 rooelec.fr
 0.0.0.0 roogle.fr
@@ -29806,6 +29842,7 @@
 0.0.0.0 savaspin-casino-france.fr
 0.0.0.0 savaspin-casino-online.fr
 0.0.0.0 savaspin-casino.fr
+0.0.0.0 savaspin-casinoonline.fr
 0.0.0.0 savaspin-casinos.fr
 0.0.0.0 savaspin-enligne.fr
 0.0.0.0 savaspin-france.fr
@@ -34691,6 +34728,7 @@
 0.0.0.0 uni-evry.fr
 0.0.0.0 uni-lille.fr
 0.0.0.0 uni-littoral.fr
+0.0.0.0 uni-lorraine.fr
 0.0.0.0 uni-lyon1.fr
 0.0.0.0 uni-paris-diderot.fr
 0.0.0.0 uni-paris.fr
@@ -34735,6 +34773,7 @@
 0.0.0.0 unique-casino-fr.fr
 0.0.0.0 unique-casino-pari.fr
 0.0.0.0 unique-casinofr.fr
+0.0.0.0 unique-casinoonline.fr
 0.0.0.0 uniquecasina.fr
 0.0.0.0 uniquecasino-france.fr
 0.0.0.0 uniquecasino-official.fr
@@ -36260,6 +36299,7 @@
 0.0.0.0 wetter24.fr
 0.0.0.0 wetwo.yt
 0.0.0.0 whai.fr
+0.0.0.0 whamoocasino.fr
 0.0.0.0 wheelsfrance.fr
 0.0.0.0 whgs.fr
 0.0.0.0 whiscas.fr
@@ -36308,6 +36348,7 @@
 0.0.0.0 wildhub1.fr
 0.0.0.0 wildlingshoesfrance.fr
 0.0.0.0 wildrobin-casino-fr.fr
+0.0.0.0 wildrobin-casinoofficiel.fr
 0.0.0.0 wildrobin-en-ligne.fr
 0.0.0.0 wildrobin-enligne.fr
 0.0.0.0 wildrobin-fr.fr
@@ -36359,6 +36400,7 @@
 0.0.0.0 win-tailscasino.fr
 0.0.0.0 win-tomato.fr
 0.0.0.0 win-unique-official.fr
+0.0.0.0 win-unique-online.fr
 0.0.0.0 winaamax.fr
 0.0.0.0 winaamx.fr
 0.0.0.0 winaax.fr
