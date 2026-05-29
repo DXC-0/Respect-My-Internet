@@ -5897,6 +5897,8 @@
 0.0.0.0 bnce-bank.fr
 0.0.0.0 bnfparis.fr
 0.0.0.0 bniv-sivinterieurgouv.fr
+0.0.0.0 bnivinterieurgouv.fr
+0.0.0.0 bnivpref-interieurgouv.fr
 0.0.0.0 bnox.fr
 0.0.0.0 bnp-acces.fr
 0.0.0.0 bnp-cle-digitale.fr
@@ -6040,6 +6042,7 @@
 0.0.0.0 bombasticcasino.fr
 0.0.0.0 bommerangcasino.fr
 0.0.0.0 boncoi.fr
+0.0.0.0 boncoin-annonces-2112.fr
 0.0.0.0 boncoin-paiement.fr
 0.0.0.0 boncoin-pay.fr
 0.0.0.0 boncoinmessagerie.fr
@@ -6688,6 +6691,7 @@
 0.0.0.0 caf-seinesaintdenis.fr
 0.0.0.0 caf94.fr
 0.0.0.0 cafcharleville.fr
+0.0.0.0 cafconnect.fr
 0.0.0.0 cafd.fr
 0.0.0.0 cafe-express.fr
 0.0.0.0 cafeetcoton.fr
@@ -7843,6 +7847,7 @@
 0.0.0.0 casio.re
 0.0.0.0 casiogshock.fr
 0.0.0.0 casmundo.fr
+0.0.0.0 casombie-casino-fr.fr
 0.0.0.0 casombie-casinos.fr
 0.0.0.0 casombie-enligne.fr
 0.0.0.0 casombie-fr.fr
@@ -12567,6 +12572,7 @@
 0.0.0.0 dsr-sivinterieurgouv.fr
 0.0.0.0 dsrinterieurgouv.fr
 0.0.0.0 dsrloiregouv.fr
+0.0.0.0 dsrpref-interieurgouv.fr
 0.0.0.0 dszf.fr
 0.0.0.0 dt49bn-societegenerale.fr
 0.0.0.0 dtcc.fr
@@ -16073,9 +16079,12 @@
 0.0.0.0 gransino-officiel.fr
 0.0.0.0 gransino-online.fr
 0.0.0.0 gransino1.fr
+0.0.0.0 gransinocasino-fr.fr
+0.0.0.0 gransinocasinoo.fr
 0.0.0.0 gransinofr.fr
 0.0.0.0 gransinos.fr
 0.0.0.0 gransinoscasino.fr
+0.0.0.0 granssino.fr
 0.0.0.0 grapheneos.fr
 0.0.0.0 grasseparfumerie.fr
 0.0.0.0 grato-win.fr
@@ -18241,6 +18250,7 @@
 0.0.0.0 jackpot-bob-jouer.fr
 0.0.0.0 jackpot-bob-online.fr
 0.0.0.0 jackpot-bobcasino.fr
+0.0.0.0 jackpot-bobfr.fr
 0.0.0.0 jackpot-city.fr
 0.0.0.0 jackpot-frenzy.fr
 0.0.0.0 jackpotbob-casinoenligne.fr
@@ -18283,6 +18293,7 @@
 0.0.0.0 jacques-brinat.fr
 0.0.0.0 jacquetsas.fr
 0.0.0.0 jacquie-michel.fr
+0.0.0.0 jacquieandmichel.fr
 0.0.0.0 jacquieetmichletv.fr
 0.0.0.0 jacquietmichel.fr
 0.0.0.0 jactive-ma-recharge.fr
@@ -22540,6 +22551,7 @@
 0.0.0.0 mon-suivi-colis-enligne.fr
 0.0.0.0 mon-suivi-colis.fr
 0.0.0.0 mon-suivi-commande.fr
+0.0.0.0 mon-suivi-de-colis.fr
 0.0.0.0 mon-suivi-dhl.fr
 0.0.0.0 mon-suivi-en-ligne.fr
 0.0.0.0 mon-suivi-express.fr
@@ -23148,6 +23160,7 @@
 0.0.0.0 monsoonparis.fr
 0.0.0.0 monspacesante.fr
 0.0.0.0 monster-ticket.fr
+0.0.0.0 monster-win-fr.fr
 0.0.0.0 monster-win.fr
 0.0.0.0 monsterclippers-france.fr
 0.0.0.0 monsterdealsfrance.fr
@@ -24752,6 +24765,7 @@
 0.0.0.0 nv-casinos1.fr
 0.0.0.0 nv-prime.fr
 0.0.0.0 nvcasino-fr.fr
+0.0.0.0 nvcasino-france.fr
 0.0.0.0 nvcasino-login.fr
 0.0.0.0 nvcasino-official.fr
 0.0.0.0 nvcasino-officiel.fr
@@ -25700,6 +25714,7 @@
 0.0.0.0 pandorasfrance.fr
 0.0.0.0 pandorasoldes.fr
 0.0.0.0 panier-prime.fr
+0.0.0.0 panierclientprime.fr
 0.0.0.0 panimi.fr
 0.0.0.0 panorama-info.fr
 0.0.0.0 pantaya.fr
@@ -27215,6 +27230,7 @@
 0.0.0.0 pranaparis.fr
 0.0.0.0 pre-sivinterieurgouv.fr
 0.0.0.0 pref-gouv93.fr
+0.0.0.0 pref-interieurgouv.fr
 0.0.0.0 pref-police-alfortville.fr
 0.0.0.0 pref-seinesaintdenis.fr
 0.0.0.0 prefants.fr
@@ -27609,6 +27625,7 @@
 0.0.0.0 products-prime.fr
 0.0.0.0 produit-prime.fr
 0.0.0.0 produits-prime.fr
+0.0.0.0 produitsprime.fr
 0.0.0.0 profacture.fr
 0.0.0.0 profesionels-sg.fr
 0.0.0.0 profesionnel-edf.fr
@@ -29428,6 +29445,7 @@
 0.0.0.0 royal-casino.fr
 0.0.0.0 royalcaninfrance.fr
 0.0.0.0 royalcasino-fr.fr
+0.0.0.0 royalen-fr.fr
 0.0.0.0 royalistplay-casino.fr
 0.0.0.0 royalistplay.fr
 0.0.0.0 royalistplaycasino.fr
@@ -32122,6 +32140,7 @@
 0.0.0.0 societe-generaleparticuliers.fr
 0.0.0.0 societe-generalesecure-pass.fr
 0.0.0.0 societe-generalesecuritest.fr
+0.0.0.0 societe-gerenal-secure-pass.fr
 0.0.0.0 societe-gnrl.fr
 0.0.0.0 societe-securipass-general.fr
 0.0.0.0 societee-generale.fr
@@ -32735,6 +32754,7 @@
 0.0.0.0 staderennaistransfert.fr
 0.0.0.0 stainel.fr
 0.0.0.0 stake-betofficiel.fr
+0.0.0.0 stake-casino.paris
 0.0.0.0 stake-casino1.fr
 0.0.0.0 stake-casinos.fr
 0.0.0.0 stake-nl.fr
@@ -32843,6 +32863,7 @@
 0.0.0.0 stckstore.fr
 0.0.0.0 stef-group.fr
 0.0.0.0 stel-france.fr
+0.0.0.0 stellantis-psa.fr
 0.0.0.0 stellantisfinance.fr
 0.0.0.0 stellantisgroup.fr
 0.0.0.0 stellaoutlet.fr
@@ -34381,6 +34402,7 @@
 0.0.0.0 tracking-ups.fr
 0.0.0.0 trackmusic.fr
 0.0.0.0 trackpass.fr
+0.0.0.0 trackprime.fr
 0.0.0.0 tracks-coli.fr
 0.0.0.0 trade-republic-france.fr
 0.0.0.0 trade212-fr.fr
@@ -34561,6 +34583,7 @@
 0.0.0.0 tvx-prime.fr
 0.0.0.0 tweetdeck.fr
 0.0.0.0 twin-casinoofficiel.fr
+0.0.0.0 twin-casinos.fr
 0.0.0.0 twin-fr.fr
 0.0.0.0 twinbuschfrance.fr
 0.0.0.0 twinbuschsarl.fr
@@ -36418,6 +36441,7 @@
 0.0.0.0 winamax-conditions-generales.fr
 0.0.0.0 winamax-france.fr
 0.0.0.0 winamax-parrainage.fr
+0.0.0.0 winamax-sport.fr
 0.0.0.0 winamaxparis.fr
 0.0.0.0 winamaxx.fr
 0.0.0.0 winammax.fr
