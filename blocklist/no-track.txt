@@ -1938,6 +1938,7 @@
 0.0.0.0 metrics.royalmail.com #First Party - Tracker
 0.0.0.0 metrics.sdkbox.com #First Party - Tracker
 0.0.0.0 metrics.ubuntu.com #First Party - Tracker
+0.0.0.0 metrics.vinted.lt #First Party - Tracker
 0.0.0.0 metrics.washingtonpost.com #First Party - Tracker
 0.0.0.0 metrics2.data.hicloud.com #Huawei - Tracker
 0.0.0.0 metricswpsh.com #Unknown - Tracker
@@ -15131,6 +15132,7 @@
 0.0.0.0 track.wattpad.com #First Party - Tracker
 0.0.0.0 track.wattpadhq.com #First Party - Tracker
 0.0.0.0 track.wikibuy.com #First Party - Tracker
+0.0.0.0 track.zpbt.uk #Third Party - Tracker
 0.0.0.0 track1.avplayer.com #First Party - Tracker
 0.0.0.0 trackad.cz #TrackAd - Tracker
 0.0.0.0 trackalyzer.com #Unknown - Tracker
