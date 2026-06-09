@@ -3885,6 +3885,7 @@
 0.0.0.0 assistance-disney.fr
 0.0.0.0 assistance-douane.fr
 0.0.0.0 assistance-dsin.fr
+0.0.0.0 assistance-enedis.fr
 0.0.0.0 assistance-epargne.fr
 0.0.0.0 assistance-esim-sfr.fr
 0.0.0.0 assistance-espace-client.fr
@@ -5292,6 +5293,7 @@
 0.0.0.0 bet365-france.fr
 0.0.0.0 bet365-online.fr
 0.0.0.0 bet365-ru.fr
+0.0.0.0 bet60-casino.fr
 0.0.0.0 bet7-casino.fr
 0.0.0.0 bet9ja.re
 0.0.0.0 betalice-fr.fr
@@ -6424,6 +6426,7 @@
 0.0.0.0 brigade-protection-famille.fr
 0.0.0.0 brigade-protection-familles.fr
 0.0.0.0 brigadecriminelgouv-infofrance.fr
+0.0.0.0 brigadefinanciere.fr
 0.0.0.0 brigadeparis.fr
 0.0.0.0 briodepot.fr
 0.0.0.0 bripicardie.fr
@@ -7413,6 +7416,7 @@
 0.0.0.0 casino-millionz-france.fr
 0.0.0.0 casino-millionz.fr
 0.0.0.0 casino-mystake-fr.fr
+0.0.0.0 casino-mystake.fr
 0.0.0.0 casino-nic.fr
 0.0.0.0 casino-nine-fr.fr
 0.0.0.0 casino-nixbet-fr.fr
@@ -7433,6 +7437,7 @@
 0.0.0.0 casino-runa.fr
 0.0.0.0 casino-samba-slots.fr
 0.0.0.0 casino-sambaslots.fr
+0.0.0.0 casino-sansdepot.fr
 0.0.0.0 casino-savaspin.fr
 0.0.0.0 casino-shinywilds.fr
 0.0.0.0 casino-slotlair.fr
@@ -7501,6 +7506,7 @@
 0.0.0.0 casinobetclic.fr
 0.0.0.0 casinobetify.fr
 0.0.0.0 casinobetify1.fr
+0.0.0.0 casinobetlive.fr
 0.0.0.0 casinobetonred.fr
 0.0.0.0 casinobetriot.fr
 0.0.0.0 casinobit.fr
@@ -8162,6 +8168,7 @@
 0.0.0.0 cerrefour.fr
 0.0.0.0 cert-air.fr
 0.0.0.0 cert-bfr-banque-france.fr
+0.0.0.0 cert-interieurgouv.fr
 0.0.0.0 certfspasl.fr
 0.0.0.0 certfyplsp.fr
 0.0.0.0 certi-information.fr
@@ -9531,6 +9538,7 @@
 0.0.0.0 client-labanquepostale.fr
 0.0.0.0 client-lcl.fr
 0.0.0.0 client-livraison.fr
+0.0.0.0 client-luxempart.fr
 0.0.0.0 client-mabanque-bnpparibas.fr
 0.0.0.0 client-mabanquebnpparibas.fr
 0.0.0.0 client-mondial-relai.fr
@@ -11133,6 +11141,7 @@
 0.0.0.0 credit-lcl.fr
 0.0.0.0 credit-municipal-france.fr
 0.0.0.0 credit-municipal-nancy.fr
+0.0.0.0 credit-mutuel-immo.fr
 0.0.0.0 credit-mutuel-service.fr
 0.0.0.0 credit-mutuelccm.fr
 0.0.0.0 credit-mutuelle-connecte.fr
@@ -14745,12 +14754,14 @@
 0.0.0.0 fr-comptes.fr
 0.0.0.0 fr-confirmationmobile.fr
 0.0.0.0 fr-connect-compte.fr
+0.0.0.0 fr-coolzino.fr
 0.0.0.0 fr-cora.fr
 0.0.0.0 fr-corafrance.fr
 0.0.0.0 fr-corgibet.fr
 0.0.0.0 fr-crcindustriesfrancesas.fr
 0.0.0.0 fr-credindust.fr
 0.0.0.0 fr-cresus.fr
+0.0.0.0 fr-cresuscasino.fr
 0.0.0.0 fr-daheraerospace.fr
 0.0.0.0 fr-darty.fr
 0.0.0.0 fr-deere.fr
@@ -14785,6 +14796,7 @@
 0.0.0.0 fr-gcc.fr
 0.0.0.0 fr-generixgroup.fr
 0.0.0.0 fr-genzymepolyclonalssas.fr
+0.0.0.0 fr-goldenpanda.fr
 0.0.0.0 fr-groupe-moniteur.fr
 0.0.0.0 fr-groupedorise.fr
 0.0.0.0 fr-grouv.fr
@@ -15924,6 +15936,7 @@
 0.0.0.0 googple.fr
 0.0.0.0 googtle.fr
 0.0.0.0 googvle.fr
+0.0.0.0 goohle.fr
 0.0.0.0 gooigle.fr
 0.0.0.0 gookgle.fr
 0.0.0.0 goolgueule.fr
@@ -18343,6 +18356,8 @@
 0.0.0.0 jack-casino.fr
 0.0.0.0 jack21casino.fr
 0.0.0.0 jackbit-casino.fr
+0.0.0.0 jackbit-online.fr
+0.0.0.0 jackbit1.fr
 0.0.0.0 jackbitcasinoapp.fr
 0.0.0.0 jackbitcasinoavis.fr
 0.0.0.0 jackbitcasinobonus777.fr
@@ -18746,6 +18761,7 @@
 0.0.0.0 kfc.tf
 0.0.0.0 kfc.wf
 0.0.0.0 kfcfrance.fr
+0.0.0.0 kg365officiel.fr
 0.0.0.0 kiabie.fr
 0.0.0.0 kiabo.fr
 0.0.0.0 kiaby.fr
@@ -18842,6 +18858,7 @@
 0.0.0.0 kitcasino1.fr
 0.0.0.0 kitchenaidfr.fr
 0.0.0.0 kitchenmagic.fr
+0.0.0.0 kitfoot.fr
 0.0.0.0 kittycatcasino.fr
 0.0.0.0 kizikchaussures.fr
 0.0.0.0 kizikfrance.fr
@@ -19578,6 +19595,7 @@
 0.0.0.0 leboncoin-vendeurs.fr
 0.0.0.0 leboncoin-verification.fr
 0.0.0.0 leboncoin-virement-en-cours.fr
+0.0.0.0 leboncoin74.fr
 0.0.0.0 leboncoinai.fr
 0.0.0.0 leboncoinannonces-8475465159.fr
 0.0.0.0 leboncoinauto.fr
@@ -20036,6 +20054,8 @@
 0.0.0.0 light-casino.fr
 0.0.0.0 lightcasino-fr.fr
 0.0.0.0 lightcasino1.fr
+0.0.0.0 lightningroulette-fr.fr
+0.0.0.0 lightningstorm-fr.fr
 0.0.0.0 lightshot.fr
 0.0.0.0 lignedazur.fr
 0.0.0.0 ligneorange.fr
@@ -22548,6 +22568,7 @@
 0.0.0.0 mon-espace-redistribution.fr
 0.0.0.0 mon-espace-reglement.fr
 0.0.0.0 mon-espace-regularisation.fr
+0.0.0.0 mon-espace-remboursement.fr
 0.0.0.0 mon-espace-remboursements.fr
 0.0.0.0 mon-espace-renouvelement.fr
 0.0.0.0 mon-espace-renouvellement-ameli.fr
@@ -30985,6 +31006,7 @@
 0.0.0.0 service-infractions.fr
 0.0.0.0 service-interpol.fr
 0.0.0.0 service-intrabancaire.fr
+0.0.0.0 service-klarna.fr
 0.0.0.0 service-la-poste.fr
 0.0.0.0 service-laposte.fr
 0.0.0.0 service-lbc.fr
