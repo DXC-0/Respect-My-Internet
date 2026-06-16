@@ -361,7 +361,6 @@
 0.0.0.0 alephd.com #AOL - Advertising
 0.0.0.0 alexametrics.com #Alexa - Tracker
 0.0.0.0 alleviatepracticableaddicted.com #AdMeasures - Advertising
-0.0.0.0 allotupwardmalicious.com #AdMeasures - Advertising
 0.0.0.0 allvideometrika.com #Unknown - Tracker
 0.0.0.0 alphonso.tv #Alphonso - Advertising
 0.0.0.0 alternativecpmgate.com #AdMeasures - Advertising
@@ -396,7 +395,6 @@
 0.0.0.0 analytics.brave.com #Brave Browser - Tracker
 0.0.0.0 analytics.cappasity.com #First Party - Tracker
 0.0.0.0 analytics.ccgateway.net #First Party - Tracker
-0.0.0.0 analytics.cdn.live #First Party - Tracker
 0.0.0.0 analytics.chase.com #First Party - Tracker
 0.0.0.0 analytics.chegg.com #First Party - Tracker
 0.0.0.0 analytics.cincopa.com #First Party - Tracker
@@ -410,7 +408,6 @@
 0.0.0.0 analytics.ecosia.org #First Party - Tracker
 0.0.0.0 analytics.eip.telegraph.co.uk #First Party - Tracker
 0.0.0.0 analytics.enjoymobiserver.com #Unknown - Tracker
-0.0.0.0 analytics.evehome.com #First Party - Tracker
 0.0.0.0 analytics.facebook.com #Facebook - Tracker
 0.0.0.0 analytics.faw.sky.com #Sky - Tracker
 0.0.0.0 analytics.feeder.co #First Party - Tracker
@@ -424,7 +421,6 @@
 0.0.0.0 analytics.greensender.pl #First Party - Tracker
 0.0.0.0 analytics.htmedia.in #Hindustan Times - Tracker
 0.0.0.0 analytics.ihg.com #First Party - Tracker
-0.0.0.0 analytics.insendi.com #First Party - Tracker
 0.0.0.0 analytics.intelliscapesolutions.com #First Party - Tracker
 0.0.0.0 analytics.jibecdn.com #First Party - Tracker
 0.0.0.0 analytics.jjshouse.com #First Party - Tracker
@@ -438,15 +434,7 @@
 0.0.0.0 analytics.lucid.app #First Party - Tracker
 0.0.0.0 analytics.map.qq.com #First Party - Tracker
 0.0.0.0 analytics.mercadolibre.cl #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.ar #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.co #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.do #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.ec #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.mx #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.pe #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadolibre.com.uy #MercadoLibre - Tracker
-0.0.0.0 analytics.mercadolibre.com.ve #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadolivre.com.br #MercadoLibre - Tracker
 0.0.0.0 analytics.mercadopago.com #MercadoPago - Tracker
 0.0.0.0 analytics.midwesternmac.com #First Party - Tracker
@@ -480,15 +468,12 @@
 0.0.0.0 analytics.slashdotmedia.com #Slash dot - Tracker
 0.0.0.0 analytics.sleeknote.com #Sleek Note - Tracker
 0.0.0.0 analytics.snidigital.com #First Party - Tracker
-0.0.0.0 analytics.socialcube.me #First Party - Tracker
 0.0.0.0 analytics.speckle.systems #First Party - Tracker
 0.0.0.0 analytics.ssense.com #First Party - Tracker
-0.0.0.0 analytics.starz.com #First Party - Tracker
 0.0.0.0 analytics.svt.se #First Party - Tracker
 0.0.0.0 analytics.thewhiskyexchange.com #First Party - Tracker
 0.0.0.0 analytics.ticketmaster.co.uk #First Party - Tracker
 0.0.0.0 analytics.tiktok.com #TikTok - Tracker
-0.0.0.0 analytics.tmonews.com #TMobile - Tracker
 0.0.0.0 analytics.tripwireinteractive.com #Tripwire Interactive - Tracker
 0.0.0.0 analytics.trovit.com #First Party - Tracker
 0.0.0.0 analytics.twitter.com #Twitter - Tracker
@@ -514,7 +499,6 @@
 0.0.0.0 android.bugly.qq.com #QQ - Tracker
 0.0.0.0 androidlog.ws.pho.to #First Party - Tracker
 0.0.0.0 androidtvwatsonfe-pa.googleapis.com #Google Android TV - Advertising
-0.0.0.0 anglezinccompassionate.com #AdMeasures - Advertising
 0.0.0.0 aniview.com #Aniview - Advertising
 0.0.0.0 anm.co.uk #Associated Newspapers - Advertising
 0.0.0.0 anonymous-analytics.tonkeeper.com #First Party - Tracker
@@ -586,7 +570,6 @@
 0.0.0.0 asacdn.com #Unknown - Advertising
 0.0.0.0 ase.clmbtech.com #Times Internet - Advertising
 0.0.0.0 ashamedbirchpoorly.com #AdMeasures - Advertising
-0.0.0.0 ashoupsu.com #Unknown - Advertising
 0.0.0.0 asia-adlog.vivoglobal.com #Vivo - Advertising
 0.0.0.0 asia-adsjssdk.vivoglobal.com #Vivo - Advertising
 0.0.0.0 asia-analyzer-appstore.vivoglobal.com #Vivo - Tracker
@@ -607,8 +590,6 @@
 0.0.0.0 atwola.com #AOL - Advertising
 0.0.0.0 audienceinsights.net #Adthink - Tracker
 0.0.0.0 audiencemanager.de #Nano Interactive - Tracker
-0.0.0.0 auditioningborder.com #AdMeasures - Advertising
-0.0.0.0 auditude.com #Auditude - Advertising
 0.0.0.0 audrte.com #Audiencerate - Advertising
 0.0.0.0 audtd.com #iAge - Tracker
 0.0.0.0 augur.io #Unknown - Tracker
@@ -692,15 +673,12 @@
 0.0.0.0 beintoo.net #Beintoo - Tracker
 0.0.0.0 beop.io #BeOp - Tracker
 0.0.0.0 besmeargleor.com #Unknown - Advertising
-0.0.0.0 bestcpmnetwork.com #AdMeasures - Advertising
 0.0.0.0 bestdisplayformats.com #AdMeasures - Advertising
 0.0.0.0 betrad.com #Evidon - Tracker
 0.0.0.0 betteradsystem.com #Unknown - Advertising
 0.0.0.0 betweendigital.com #Between Digital - Advertising
 0.0.0.0 betweenx.com #Between Exchange - Advertising
-0.0.0.0 bg4nxu2u5t.com #Unknown - Advertising
 0.0.0.0 bgelmedia.com #Unknown - Advertising
-0.0.0.0 bid.glass #Bid Glass - Advertising
 0.0.0.0 bidderstack.com #Unknown - Advertising
 0.0.0.0 bidence.net #Unknown - Advertising
 0.0.0.0 bidgear.com #BidGear - Tracker
