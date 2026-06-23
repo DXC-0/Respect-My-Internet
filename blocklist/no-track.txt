@@ -477,7 +477,6 @@
 0.0.0.0 analytics.tripwireinteractive.com #Tripwire Interactive - Tracker
 0.0.0.0 analytics.trovit.com #First Party - Tracker
 0.0.0.0 analytics.twitter.com #Twitter - Tracker
-0.0.0.0 analytics.typedream.com #First Party - Tracker
 0.0.0.0 analytics.us.algolia.com #First Party - Tracker
 0.0.0.0 analytics.valiuz.com #First Party - Tracker
 0.0.0.0 analytics.voissa.fr #First Party - Tracker
@@ -527,7 +526,6 @@
 0.0.0.0 api.us-west-2.aiv-delivery.net #Amazon - Tracker
 0.0.0.0 api64.com #Unknown - Advertising
 0.0.0.0 apien.ldmnq.com #First Party - Tracker
-0.0.0.0 apnanalytics.com #Ask Toolbar - Tracker
 0.0.0.0 app-analytics-v2.snapchat.com #Snapchat - Tracker
 0.0.0.0 app-analytics.snapchat.com #Snapchat - Tracker
 0.0.0.0 app-measurement.com #Google - Tracker
@@ -588,13 +586,11 @@
 0.0.0.0 attn.tv #Attentive - Tracker
 0.0.0.0 attributionapp.com #Attribution - Tracker
 0.0.0.0 atwola.com #AOL - Advertising
-0.0.0.0 audienceinsights.net #Adthink - Tracker
 0.0.0.0 audiencemanager.de #Nano Interactive - Tracker
 0.0.0.0 audrte.com #Audiencerate - Advertising
 0.0.0.0 audtd.com #iAge - Tracker
 0.0.0.0 augur.io #Unknown - Tracker
 0.0.0.0 auto.netdirector.co.uk #NetDirector - Tracker
-0.0.0.0 autotrack.g.ebay.com #eBay - Tracker
 0.0.0.0 avada.io #Avada - Tracker
 0.0.0.0 avantisvideo.com #Avantis - Advertising
 0.0.0.0 avazunativeads.com #Azavu - Advertising
@@ -713,12 +709,10 @@
 0.0.0.0 bnc.lt #Branch - Tracker
 0.0.0.0 bngdyn.com #Unknown - Advertising
 0.0.0.0 bngpt.com #Unknown - Advertising
-0.0.0.0 bnserving.com #AdMeasures - Advertising
 0.0.0.0 bntrace.com #Unknown - Tracker
 0.0.0.0 bombora.com #Bombora - Tracker
 0.0.0.0 bongacash.com #BongaCash - Tracker
 0.0.0.0 bonzai.co #Bonzai - Advertising
-0.0.0.0 boo-box.com #Boo Box - Advertising
 0.0.0.0 books-analytics-events.apple.com #Apple - Tracker
 0.0.0.0 boomads.com #BoomAds - Advertising
 0.0.0.0 boostable.com #Boostable - Advertising
@@ -744,7 +738,6 @@
 0.0.0.0 brightline.tv #BrightLine - Advertising
 0.0.0.0 brilliantcollector.com #Acoustic Experience - Tracker
 0.0.0.0 britepool.com #Britepool - Tracker
-0.0.0.0 britishinquisitive.com #AdMeasures - Advertising
 0.0.0.0 bronrt.stsdk.vivo.com.cn #Vivo - Tracker
 0.0.0.0 brort.stsdk.vivo.com.cn #Vivo - Tracker
 0.0.0.0 browser-intake-datadoghq.com #DataDog - Tracker
@@ -753,7 +746,6 @@
 0.0.0.0 browser.pipe.aria.microsoft.com #Microsoft - Tracker
 0.0.0.0 browsiprod.com #Unknown - Advertising
 0.0.0.0 brpnrt.stsdk.vivo.com.cn #Vivo - Tracker
-0.0.0.0 brunettemattersrefused.com #AdMeasures - Advertising
 0.0.0.0 bstats.org #bStats - Tracker
 0.0.0.0 btloader.com #Unknown - Tracker
 0.0.0.0 btrll.com #BrightRoll - Advertising
@@ -764,7 +756,6 @@
 0.0.0.0 bugly.weplayer.cc #First Party - Tracker
 0.0.0.0 bugsnag.com #Bugsnag - Tracker
 0.0.0.0 bumlam.com #Unknown - Tracker
-0.0.0.0 bunintruder.com #AdMeasures - Advertising
 0.0.0.0 buysellads.com #BuySellAds - Advertising
 0.0.0.0 buysellads.net #BuySellAds - Advertising
 0.0.0.0 buysub.com #Unknown - Tracker
@@ -795,7 +786,6 @@
 0.0.0.0 carrotquest.io #Carrot - Tracker
 0.0.0.0 casalemedia.com #Index Exchange - Advertising
 0.0.0.0 case.clmbtech.com #Times Internet - Advertising
-0.0.0.0 catapultx.com #Qortex - Advertising
 0.0.0.0 cauly.co.kr #Cauly - Advertising
 0.0.0.0 cb-telemetry.academicmerit.com #First Party - Tracker
 0.0.0.0 cbdatatracker.com #Clickback - Tracker
@@ -806,7 +796,6 @@
 0.0.0.0 cdn1.adcdnx.com #Unknown - Advertising
 0.0.0.0 cdn4ads.com #Unknown - Advertising
 0.0.0.0 cdnads.com #Unknown - Advertising
-0.0.0.0 cdnativepush.com #Unknown - Advertising
 0.0.0.0 cdnondemand.org #Unknown - Advertising
 0.0.0.0 cdntrf.com #Unknown - Advertising
 0.0.0.0 cdp.cloud.unity3d.com #Unity - Tracker
@@ -831,7 +820,6 @@
 0.0.0.0 cheetahmail.com #Experian - Advertising
 0.0.0.0 chicdn.net #Unknown - Tracker
 0.0.0.0 chimpstatic.com #Mailchimp - Advertising
-0.0.0.0 chipspasteprowl.com #AdMeasures - Advertising
 0.0.0.0 choicestream.com #Choicestream - Advertising
 0.0.0.0 circulate.com #LiveRamp - Tracker
 0.0.0.0 citruserve.com #Sainsbury - Tracker
@@ -845,8 +833,6 @@
 0.0.0.0 clearbit.com #Clearbit - Tracker
 0.0.0.0 clearbitjs.com #Clearbit - Tracker
 0.0.0.0 clearbitscripts.com #Unknown - Advertising
-0.0.0.0 clearcode.cc #AdTech - Advertising
-0.0.0.0 clenchedyouthmatching.com #Unknown - Advertising
 0.0.0.0 clevernt.com #HSTPNetwork - Advertising
 0.0.0.0 cleverpush.com #CleverPush - Advertising
 0.0.0.0 clevertap-prod.com #CleverTap - Advertising
@@ -897,10 +883,8 @@
 0.0.0.0 cmail4.com #Campaign Monitor Pty - Tracker
 0.0.0.0 cmail5.com #Campaign Monitor Pty - Tracker
 0.0.0.0 cmcore.com #Unknown - Tracker
-0.0.0.0 cmdspassets.com #Unknown - Advertising
 0.0.0.0 cnzz.com #CNZZ - Tracker
 0.0.0.0 co-buying.com #Buyapowa - Advertising
-0.0.0.0 cobwebcomprehension.com #AdMeasures - Advertising
 0.0.0.0 codigo.se #Codigo - Tracker
 0.0.0.0 cogocast.net #CogoCast - Advertising
 0.0.0.0 collect.analytics.unity3d.com #Unity - Tracker
@@ -927,7 +911,6 @@
 0.0.0.0 config.toto.zipoapps.com #First Party - Tracker
 0.0.0.0 config.uca.cloud.unity3d.com #First Party - Tracker
 0.0.0.0 confirmsubscription.com #Campaign Monitor Pty - Tracker
-0.0.0.0 conjunctionrepresentativepowerless.com #AdMeasures - Advertising
 0.0.0.0 connatedresspint.com #AdMeasures - Advertising
 0.0.0.0 connatix.com #Connatix - Tracker
 0.0.0.0 connectad.io #ConnectAd - Advertising
