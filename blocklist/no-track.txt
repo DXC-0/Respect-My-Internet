@@ -643,9 +643,7 @@
 0.0.0.0 beacon-api.aliyuncs.com #Alibaba - Tracker
 0.0.0.0 beacon-v2.helpscout.net #First Party - Tracker
 0.0.0.0 beacon.cdnma.com #First Party - Tracker
-0.0.0.0 beacon.direct.asda.com #First Party - Tracker
 0.0.0.0 beacon.dropbox.com #Dropbox - Tracker
-0.0.0.0 beacon.flow.io #Flow - Tracker
 0.0.0.0 beacon.lynx.cognitivlabs.com #Between Digital - Tracker
 0.0.0.0 beacon.my.salesforce.com #Salesforce - Advertising
 0.0.0.0 beacon.qq.com #QQ - Tracker
@@ -799,7 +797,6 @@
 0.0.0.0 cdnondemand.org #Unknown - Advertising
 0.0.0.0 cdntrf.com #Unknown - Advertising
 0.0.0.0 cdp.cloud.unity3d.com #Unity - Tracker
-0.0.0.0 cdxr53.com #CedexisRadar - Tracker
 0.0.0.0 cedexis-radar.net #CedexisRadar - Tracker
 0.0.0.0 cedexis-test.com #CedexisRadar - Tracker
 0.0.0.0 cedexis.com #CedexisRadar - Tracker
@@ -813,12 +810,10 @@
 0.0.0.0 cf.iadsdk.apple.com #Apple - Tracker
 0.0.0.0 chango.com #Chango - Tracker
 0.0.0.0 channeladvisor.com #ChannelAdvisor - Advertising
-0.0.0.0 channelintelligence.com #Channel Intelligence - Tracker
 0.0.0.0 chartbeat.com #Chartbeat - Tracker
 0.0.0.0 chartbeat.net #Chartbeat - Tracker
 0.0.0.0 chartboost.com #Chartboost - Advertising
 0.0.0.0 cheetahmail.com #Experian - Advertising
-0.0.0.0 chicdn.net #Unknown - Tracker
 0.0.0.0 chimpstatic.com #Mailchimp - Advertising
 0.0.0.0 choicestream.com #Choicestream - Advertising
 0.0.0.0 circulate.com #LiveRamp - Tracker
@@ -953,7 +948,6 @@
 0.0.0.0 coveritlive.com #CoveritLive - Tracker
 0.0.0.0 cpex.cz #Czech Publisher Exchange - Advertising
 0.0.0.0 cpmprofitablecontent.com #AdMeasures - Advertising
-0.0.0.0 cpmrevenuenetwork.com #AdMeasures - Advertising
 0.0.0.0 cpmstar.com #Unknown - Advertising
 0.0.0.0 cpx.to #Unknown - Tracker
 0.0.0.0 cqcounter.com #Unknown - Tracker
@@ -975,21 +969,18 @@
 0.0.0.0 creativecdn.com #Unknown - Advertising
 0.0.0.0 creativeformatsnetwork.com #AdMeasures - Advertising
 0.0.0.0 creatormail.co.uk #Unknown - Advertising
-0.0.0.0 creepingbrings.com #AdMeasures - Advertising
 0.0.0.0 crisistuesdayartillery.com #AdMeasures - Advertising
 0.0.0.0 crispadvertising.com #Crisp - Advertising
 0.0.0.0 criteo.com #Criteo - Advertising
 0.0.0.0 criteo.net #Criteo - Advertising
 0.0.0.0 crosspromo.voodoo.io #First Party - Advertising
 0.0.0.0 crsspxl.com #Cross Pixel - Tracker
-0.0.0.0 crumblerefunddiana.com #AdMeasures - Advertising
 0.0.0.0 crwdcntrl.net #Lotame - Advertising
 0.0.0.0 ct.pinterest.com #First Party - Tracker
 0.0.0.0 ctnsnet.com #Crimtan - Advertising
 0.0.0.0 cuckooretire.com #AdMeasures - Advertising
 0.0.0.0 cuebiq.com #Cubiq - Advertising
 0.0.0.0 curalate.com #BazaarVoice - Tracker
-0.0.0.0 curioushingefast.com #AdMeasures - Advertising
 0.0.0.0 curvedheldideal.com #AdMeasures - Advertising
 0.0.0.0 custobar.com #Custobar - Tracker
 0.0.0.0 custodycraveretard.com #AdMeasures - Advertising
@@ -1055,7 +1046,6 @@
 0.0.0.0 diagmon-policy.samsungdm.com #Samsung - Tracker
 0.0.0.0 diagmon-serviceapi.samsungdm.com #Samsung - Tracker
 0.0.0.0 diagnostics.support.microsoft.com #Microsoft - Tracker
-0.0.0.0 diagramwrangleupdate.com #AdMeasures - Advertising
 0.0.0.0 dianomi.com #dianomi - Advertising
 0.0.0.0 digidip.net #My Dealz - Advertising
 0.0.0.0 digital-metric.com #Digital Metrick - Tracker
@@ -1073,11 +1063,9 @@
 0.0.0.0 displaycontentprofit.com #AdMeasures - Advertising
 0.0.0.0 displayvertising.com #Unknown - Advertising
 0.0.0.0 disqusads.com #Disqus - Tracker
-0.0.0.0 disrespectpreceding.com #AdMeasures - Advertising
 0.0.0.0 dl-rms.com #Unknown - Tracker
 0.0.0.0 dm.bytedance.com #ByteDance - Tracker
 0.0.0.0 dmgmediaprivacy.co.uk #DMG - Advertising
-0.0.0.0 dmpprof.com #PushProfit - Advertising
 0.0.0.0 dmtracker.com #Unknown - Tracker
 0.0.0.0 dmtry.com #Unknown - Tracker
 0.0.0.0 dmvbdfblevxvx.com #Unknown - Tracker
@@ -1132,7 +1120,6 @@
 0.0.0.0 edigitalresearch.com #eDigitalResearch - Tracker
 0.0.0.0 edigitalsurvey.com #eDigitalResearch - Tracker
 0.0.0.0 edmanalytics.pandahall.com #First Party - Tracker
-0.0.0.0 edua29146y.com #AdMeasures - Advertising
 0.0.0.0 eepurl.com #mailchimp - Tracker
 0.0.0.0 efeedbacktrk.com #eFeedbackTrk - Tracker
 0.0.0.0 effectivecpmcontent.com #AdMeasures - Advertising
@@ -1145,12 +1132,10 @@
 0.0.0.0 effectivegatetocontent.com #AdMeasures - Advertising
 0.0.0.0 effectivemeasure.net #Effective Measure - Tracker
 0.0.0.0 effectiveperformancenetwork.com #AdMeasures - Advertising
-0.0.0.0 eighthpowerfully.com #AdMeasures - Advertising
 0.0.0.0 ekomi-us.com #eKomi - Tracker
 0.0.0.0 ekomi.com #eKomi - Tracker
 0.0.0.0 ekomi.de #eKomi - Tracker
 0.0.0.0 ekomi.fr #eKomi - Tracker
-0.0.0.0 elabs13.com #Aurea - Advertising
 0.0.0.0 elasticad.net #Smartkeeter - Tracker
 0.0.0.0 elitechnology.com #Enne Solutions - Tracker
 0.0.0.0 elitrack.com #Eli Track - Tracker
@@ -1181,7 +1166,6 @@
 0.0.0.0 engagio.com #Demandbase - Tracker
 0.0.0.0 enginecorruptiontrice.com #AdMeasures - Advertising
 0.0.0.0 england365.gr #Revive Adserver - Advertising
-0.0.0.0 enrichyummy.com #AdMeasures - Advertising
 0.0.0.0 ensighten.com #Ensighten - Tracker
 0.0.0.0 eprize.com #HelloWorld - Tracker
 0.0.0.0 eqads.com #Unknown - Advertising
@@ -1191,7 +1175,6 @@
 0.0.0.0 esearchvision.com #eSearchVision - Tracker
 0.0.0.0 esm1.net #Dealer.com - Advertising
 0.0.0.0 esomniture.com #Adobe - Tracker
-0.0.0.0 espionagegardenerthicket.com #AdMeasures - Advertising
 0.0.0.0 esprima.org #Esprima - Tracker
 0.0.0.0 esputnik.com #eSputnik - Tracker
 0.0.0.0 etahub.com #ETA Hub - Tracker
@@ -1254,9 +1237,7 @@
 0.0.0.0 fastly-insights.com #Fastly - Tracker
 0.0.0.0 fatmedia.io #Fatmedia - Tracker
 0.0.0.0 fbcdn2.com #Unknown - Advertising
-0.0.0.0 fbf17cb842e16d4f41b597ad9da38d640f3bf9f526c3553cec2d7a7c.com #Unknown - Advertising
 0.0.0.0 fbot.me #Friendbuy - Tracker
-0.0.0.0 februaryinjectionproudly.com #AdMeasures - Advertising
 0.0.0.0 federatedml-pa.googleapis.com #Google - Tracker
 0.0.0.0 feedbackify.com #Feedbackify - Advertising
 0.0.0.0 femetrics.grammarly.io #Grammarly - Tracker
@@ -1289,7 +1270,6 @@
 0.0.0.0 foresee.com #Foresee - Tracker
 0.0.0.0 foreseeresults.com #ForeSee - Tracker
 0.0.0.0 forlumineoner.com #Unknown - Advertising
-0.0.0.0 formalityunjustclown.com #AdMeasures - Advertising
 0.0.0.0 formalyzer.com #Unknown - Tracker
 0.0.0.0 forter.com #Forter - Tracker
 0.0.0.0 forwardtomyfriend.com #Campaign Monitor Pty - Tracker
@@ -1302,7 +1282,6 @@
 0.0.0.0 fptls.com #Jornaya - Tracker
 0.0.0.0 fqtag.com #Forensiq - Tracker
 0.0.0.0 fredhopperservices.com #Unknown - Tracker
-0.0.0.0 freeskreen.com #SlimCut Media - Advertising
 0.0.0.0 freespee.com #Freespee - Tracker
 0.0.0.0 freestar.io #Freestar - Advertising
 0.0.0.0 freewheel.tv #FreeWheel - Advertising
@@ -1311,7 +1290,6 @@
 0.0.0.0 frosmo.com #Frosmo - Tracker
 0.0.0.0 frostscanty.com #AdMeasures - Advertising
 0.0.0.0 frtyg.com #Unknown - Tracker
-0.0.0.0 ftads.net #Unknown - Advertising
 0.0.0.0 ftd.agency #Unknown - Advertising
 0.0.0.0 ftjcfx.com #Conversant - Tracker
 0.0.0.0 fullstory.com #Unknown - Tracker
@@ -1330,8 +1308,6 @@
 0.0.0.0 gameanalytics.com #GameAnalytics - Tracker
 0.0.0.0 gamegamb.com #Infinix Tracker - Tracker
 0.0.0.0 gamned.com #Gamned - Advertising
-0.0.0.0 gatetodisplaycontent.com #AdMeasures - Advertising
-0.0.0.0 gatetotrustednetwork.com #AdMeasures - Advertising
 0.0.0.0 gator.io #Gator.IO - Tracker
 0.0.0.0 gaug.es #Gauges - Tracker
 0.0.0.0 gdrytrk.com #Performance Tracking - Tracker
@@ -1349,7 +1325,6 @@
 0.0.0.0 getclicky.com #Unknown - Tracker
 0.0.0.0 getdrip.com #Drip - Advertising
 0.0.0.0 getlocalmeasure.com #Local Measure - Tracker
-0.0.0.0 getmyads.com #Get My Ads - Advertising
 0.0.0.0 getpublica.com #Publica Ad Streaming - Advertising
 0.0.0.0 getrockerbox.com #Rockerbox - Tracker
 0.0.0.0 getscriptjs.com #TrafficShop - Advertising
@@ -1357,7 +1332,6 @@
 0.0.0.0 getsitecontrol.com #GetSiteControl - Tracker
 0.0.0.0 getsocial.io #GetSocial - Tracker
 0.0.0.0 giftedhazelsecond.com #AdMeasures - Advertising
-0.0.0.0 gigaonclick.com #Unknown - Advertising
 0.0.0.0 giosg.com #Giosg - Tracker
 0.0.0.0 glancecdn.net #Glance Networks - Tracker
 0.0.0.0 glassboxdigital.io #Glassbox Digital - Tracker
@@ -1365,7 +1339,6 @@
 0.0.0.0 glimr.io #glimr.io - Tracker
 0.0.0.0 glispa.com #Glispa - Tracker
 0.0.0.0 glizauvo.net #Unknown - Advertising
-0.0.0.0 gloaphoo.net #Unknown - Advertising
 0.0.0.0 global.go.com #Disney - Tracker
 0.0.0.0 globalemedia.net #Globale media - Advertising
 0.0.0.0 go-mpulse.net #MPulse - Tracker
@@ -1373,7 +1346,6 @@
 0.0.0.0 goaserv.com #Unknown - Advertising
 0.0.0.0 goatcounter.com #GoatCounter - Tracker
 0.0.0.0 godatafeed.com #Unknown - Tracker
-0.0.0.0 godpvqnszo.com #Unknown - Advertising
 0.0.0.0 google-analytics.com #Google - Tracker
 0.0.0.0 googleadservices.com #Google - Advertising
 0.0.0.0 googleanalytics.com #Google - Tracker
@@ -1388,7 +1360,6 @@
 0.0.0.0 govmetric.com #GovMetric - Tracker
 0.0.0.0 grafana.org #Grafana - Tracker
 0.0.0.0 granify.com #Granify - Advertising
-0.0.0.0 grantedpigsunborn.com #AdMeasures - Advertising
 0.0.0.0 grapeshot.co.uk #Oracle - Advertising
 0.0.0.0 graph.accountkit.com #Facebook - Tracker
 0.0.0.0 gravity.com #Gravity - Tracker
@@ -1432,7 +1403,6 @@
 0.0.0.0 helloworld.com #HelloWorld - Tracker
 0.0.0.0 hexagon-analytics.com #Hexagon - Tracker
 0.0.0.0 hibids10.com #AdMeasures - Advertising
-0.0.0.0 highconvertingformats.com #AdMeasures - Advertising
 0.0.0.0 highcpmcreativeformat.com #AdMeasures - Advertising
 0.0.0.0 highcpmrevenuegate.com #AdMeasures - Advertising
 0.0.0.0 highcpmrevenuenetwork.com #AdMeasures - Advertising
@@ -1445,7 +1415,6 @@
 0.0.0.0 highrevenuecpmnetwork.com #AdMeasures - Advertising
 0.0.0.0 highrevenuegate.com #AdMeasures - Advertising
 0.0.0.0 highwaycpmrevenue.com #AdMeasures - Advertising
-0.0.0.0 hiprofitnetworks.com #AdMeasures - Advertising
 0.0.0.0 hisavana.com #Hisavana - Advertising
 0.0.0.0 histats.com #Histats - Tracker
 0.0.0.0 hit.gemius.pl #Gemius - Tracker
