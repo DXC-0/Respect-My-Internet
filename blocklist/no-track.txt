@@ -1022,7 +1022,6 @@
 0.0.0.0 deliverimp.com #Unknown - Tracker
 0.0.0.0 demand.supply #Sulvo - Advertising
 0.0.0.0 demandbase.com #Demandbase - Advertising
-0.0.0.0 demandjump.com #DemandJump - Tracker
 0.0.0.0 demdex.com #Adobe - Tracker
 0.0.0.0 demdex.net #Adobe - Tracker
 0.0.0.0 denakop.com #Denakop - Advertising
@@ -1049,7 +1048,6 @@
 0.0.0.0 digitalproserver.com #Digitalproserver - Advertising
 0.0.0.0 digitaltarget.ru #Digital Target - Advertising
 0.0.0.0 digitalturbine.com #Digital Turbine - Advertising
-0.0.0.0 digitru.st #DigiTrust - Tracker
 0.0.0.0 diningsovereign.com #AdMeasures - Advertising
 0.0.0.0 directrev.com #Unknown - Tracker
 0.0.0.0 directservices.it #Unknown - Tracker
@@ -1062,14 +1060,12 @@
 0.0.0.0 dl-rms.com #Unknown - Tracker
 0.0.0.0 dm.bytedance.com #ByteDance - Tracker
 0.0.0.0 dmgmediaprivacy.co.uk #DMG - Advertising
-0.0.0.0 dmtracker.com #Unknown - Tracker
 0.0.0.0 dmtry.com #Unknown - Tracker
 0.0.0.0 dmvbdfblevxvx.com #Unknown - Tracker
 0.0.0.0 dmxleo.com #DailyMotion - Advertising
 0.0.0.0 dmxleo.dailymotion.com #Dailymotion - Tracker
 0.0.0.0 doceree.com #Doceree - Advertising
 0.0.0.0 domdex.com #Domdex - Tracker
-0.0.0.0 dotandad.com #Dot - Tracker
 0.0.0.0 dotmetrics.net #DotMetrics - Tracker
 0.0.0.0 dotomi.com #Unknown - Tracker
 0.0.0.0 doubleclick.net #Google - Advertising
@@ -1101,7 +1097,6 @@
 0.0.0.0 e-mark.nl #Emark - Tracker
 0.0.0.0 e-planning.net #AdTech - Advertising
 0.0.0.0 e-volution.ai #AdTech - Advertising
-0.0.0.0 e-webtrack.net #WebTrack - Tracker
 0.0.0.0 e.reddit.com #First Party - Tracker
 0.0.0.0 e.tapdb.net #TapDB - Tracker
 0.0.0.0 eagllwin.com #Eagllwin - Tracker
@@ -1109,8 +1104,6 @@
 0.0.0.0 easygoingasperitydisconnect.com #AdMeasures - Advertising
 0.0.0.0 ebayadvertising.com #eBay - Advertising
 0.0.0.0 ebuckler.com #Alibaba - Tracker
-0.0.0.0 ebz.io #Unknown - Tracker
-0.0.0.0 ecustomeropinions.com #Ecustomeropinions - Tracker
 0.0.0.0 edge.adobedc.net #Adobe - Tracker
 0.0.0.0 edgeme.sh #Edgemesh - Tracker
 0.0.0.0 edigitalresearch.com #eDigitalResearch - Tracker
@@ -1139,9 +1132,7 @@
 0.0.0.0 eloqua.code-labs.com #Oracle - Tracker
 0.0.0.0 eloqua.com #Oracle - Tracker
 0.0.0.0 eloqua.modernize.com #Oracle - Tracker
-0.0.0.0 elqtrk.intel.com #Intel - Tracker
 0.0.0.0 emailmeter.com #ClickMeter - Tracker
-0.0.0.0 emailretargeting.com #Unknown - Tracker
 0.0.0.0 emailvision.com #Email Vision - Tracker
 0.0.0.0 emb-api.com #Unknown - Tracker
 0.0.0.0 emediate.eu #AdMonsters - Advertising
@@ -1177,7 +1168,6 @@
 0.0.0.0 etracker.de #eTracker - Tracker
 0.0.0.0 eum-appdynamics.com #AppDynamics - Tracker
 0.0.0.0 event-analytics-backend.skyeng.ru #First Party - Tracker
-0.0.0.0 eventlog.willow.tv #First Party - Tracker
 0.0.0.0 events.gfe.nvidia.com #Nvidia - Tracker
 0.0.0.0 events.mapbox.com #First Party - Tracker
 0.0.0.0 events.split.io #Split - Tracker
@@ -1189,7 +1179,6 @@
 0.0.0.0 evergage.com #Evergage - Tracker
 0.0.0.0 evidon.com #Evidion - Tracker
 0.0.0.0 evyy.net #Impact Radius - Tracker
-0.0.0.0 ew1.reg.bigdata.ssp.samsung.com #Samsung - Tracker
 0.0.0.0 ex.co #Ex.Co - Tracker
 0.0.0.0 exacttarget.com #Salesforce - Tracker
 0.0.0.0 excfgfile-vivofs-asia.vivo.com.cn #Vivo - Tracker
@@ -1224,12 +1213,9 @@
 0.0.0.0 f-log-mobile-ios.grammarly.io #Grammarly - Tracker
 0.0.0.0 f-log-mobile.grammarly.io #Grammarly - Tracker
 0.0.0.0 f-log-officeaddin.grammarly.io #Grammarly - Tracker
-0.0.0.0 f-log-officeaddinjs.grammarly.io #Grammarly - Tracker
-0.0.0.0 f-log-test.grammarly.io #Grammarly - Tracker
 0.0.0.0 f-log-win-extension.grammarly.io #Grammarly - Tracker
 0.0.0.0 f-log.grammarly.io #Grammarly - Tracker
 0.0.0.0 facesnotebook.com #AdMeasures - Advertising
-0.0.0.0 failover-telemetry-eu.tradingview.com #First Party - Tracker
 0.0.0.0 fastly-insights.com #Fastly - Tracker
 0.0.0.0 fatmedia.io #Fatmedia - Tracker
 0.0.0.0 fbcdn2.com #Unknown - Advertising
@@ -1247,7 +1233,6 @@
 0.0.0.0 fireworkanalytics.com #fireworkapi - Tracker
 0.0.0.0 firstpromoter.com #First Promoter - Advertising
 0.0.0.0 fitanalytics.com #Fit Analytics - Tracker
-0.0.0.0 fixel.ai #Fixel - Tracker
 0.0.0.0 flagcounter.com #Flag Counter - Tracker
 0.0.0.0 flashtalking.com #Flashtalking - Advertising
 0.0.0.0 flat-ads.com #Flat Ads - Advertising
@@ -1295,7 +1280,6 @@
 0.0.0.0 fwmrm.net #FreeWheel - Advertising
 0.0.0.0 fwpixel.com #Unknown - Advertising
 0.0.0.0 fyber.com #Digital Turbine - Tracker
-0.0.0.0 fyre.co #Unknown - Tracker
 0.0.0.0 g2afse.com #Affise - Tracker
 0.0.0.0 g2crowd.com #G2crowd - Tracker
 0.0.0.0 g792337343.co #Unknown - Advertising
@@ -13386,10 +13370,8 @@
 0.0.0.0 navrcholu.cz #Navrcholu - Tracker
 0.0.0.0 nawpush.com #Unknown - Advertising
 0.0.0.0 ncaudienceexchange.com #News IQ - Tracker
-0.0.0.0 needyscarcasserole.com #AdMeasures - Advertising
 0.0.0.0 nelo2-col.navercorp.com #First Party - Tracker
 0.0.0.0 neodatagroup.com #NeoData Intelligence - Tracker
-0.0.0.0 nessainy.net #Unknown - Advertising
 0.0.0.0 net.ar #Unknown - Tracker
 0.0.0.0 netline.com #NetLine - Advertising
 0.0.0.0 netmera-web.com #Netmera - Tracker
@@ -13409,7 +13391,6 @@
 0.0.0.0 newscred.com #NewsCred - Tracker
 0.0.0.0 newsinc.com #NewsInc - Tracker
 0.0.0.0 newsroom.bi #Marfeel - Advertising
-0.0.0.0 newsunads.com #AdMeasures - Advertising
 0.0.0.0 nex8.net #Medi8 - Tracker
 0.0.0.0 nexac.com #Unknown - Tracker
 0.0.0.0 nexage.com #Admax - Advertising
@@ -13429,7 +13410,6 @@
 0.0.0.0 notes-analytics-events.apple.com #Apple - Tracker
 0.0.0.0 notifyvisitors.com #NotifyVisitors - Tracker
 0.0.0.0 notsy.io #Notsy - Tracker
-0.0.0.0 noughttrustthreshold.com #CloudDnsTech - Advertising
 0.0.0.0 novemberassimilate.com #AdMeasures - Advertising
 0.0.0.0 nowinteract.com #Now Interact - Tracker
 0.0.0.0 npttech.com #Rubicon - Tracker
@@ -13439,15 +13419,12 @@
 0.0.0.0 ns1p.net #NS1 - Tracker
 0.0.0.0 nsfwadds.com #NSFW Adds - Advertising
 0.0.0.0 ntv.io #Unknown - Advertising
-0.0.0.0 nuggad.net #Unknown - Advertising
 0.0.0.0 numerino.cz #Numerino - Tracker
 0.0.0.0 nw-rail-03.com #Lead Forensics - Tracker
 0.0.0.0 nyltx.com #Nyltx - Tracker
 0.0.0.0 nzme-ads.co.nz #Unknown - Advertising
 0.0.0.0 o333o.com #AdSpyglass - Advertising
-0.0.0.0 oclasrv.com #Unknown - Advertising
 0.0.0.0 octotracker-clients.net #Octo Tracker - Tracker
-0.0.0.0 odourcowspeculation.com #AdMeasures - Advertising
 0.0.0.0 offerstrack.net #Unknown - Tracker
 0.0.0.0 offerwall-adnative.com #Unknown - Advertising
 0.0.0.0 ogl.primorske.si #Primorske novice - Tracker
@@ -13468,11 +13445,9 @@
 0.0.0.0 oms.norton.com #Adobe CNAME - Tracker
 0.0.0.0 omtrdc.net #Adobe - Tracker
 0.0.0.0 onaudience.com #OnAudience - Tracker
-0.0.0.0 onautcatholi.xyz #Unknown - Advertising
 0.0.0.0 onclickads.net #PropellerAds - Advertising
 0.0.0.0 onclickalgo.com #Unknown - Advertising
 0.0.0.0 onclickgenius.com #Unknown - Advertising
-0.0.0.0 onclickmega.com #Unknown - Advertising
 0.0.0.0 onclickperformance.com #Unknown - Advertising
 0.0.0.0 onclickprediction.com #Unknown - Advertising
 0.0.0.0 onedmp.com #Unknown - Tracker
@@ -13498,7 +13473,6 @@
 0.0.0.0 openx.jawharafm.net #Revive Adserver - Advertising
 0.0.0.0 openx.net #OpenX - Tracker
 0.0.0.0 openx.org #OpenX - Tracker
-0.0.0.0 openx2.kytary.cz #Revive Adserver - Advertising
 0.0.0.0 openxcdn.net #OpenX - Advertising
 0.0.0.0 openxenterprise.com #OpenX - Tracker
 0.0.0.0 ophan.co.uk #Unknown - Tracker
@@ -13514,7 +13488,6 @@
 0.0.0.0 optnmnstr.com #OptinMonster - Advertising
 0.0.0.0 optnmstr.com #OptinMonster - Advertising
 0.0.0.0 orangeclickmedia.com #Orange Click Media - Advertising
-0.0.0.0 origunix.com #Unknown - Advertising
 0.0.0.0 ort-stsdk.vivo.com.cn #Vivo - Tracker
 0.0.0.0 os-code.shalltry.com #Infinix Tracker - Tracker
 0.0.0.0 ota.lokalise.co #First Party - Tracker
@@ -13524,9 +13497,6 @@
 0.0.0.0 ottera.tv #OTTera - Advertising
 0.0.0.0 outbrain.com #Outbrain - Advertising
 0.0.0.0 outbrainimg.com #Outbrain - Advertising
-0.0.0.0 outloginequity.com #AdMeasures - Advertising
-0.0.0.0 outrightsham.com #AdMeasures - Advertising
-0.0.0.0 owlunimmvn.com #Unknown - Advertising
 0.0.0.0 owneriq.net #Unknown - Tracker
 0.0.0.0 ox.autolive.be #Revive Adserver - Advertising
 0.0.0.0 p-cg64-slinganalytics.movetv.com #First Party - Tracker
@@ -13595,7 +13565,6 @@
 0.0.0.0 piano.io #Piano - Tracker
 0.0.0.0 picanalysis.vivo.com.cn #Vivo - Tracker
 0.0.0.0 picreel.com #Picreel - Tracker
-0.0.0.0 pictela.net #AOL - Advertising
 0.0.0.0 piksel.com #Unknown - Tracker
 0.0.0.0 ping.staticmoly.me #First Party - Tracker
 0.0.0.0 ping.ublock.org #First Party - Tracker
@@ -13646,7 +13615,6 @@
 0.0.0.0 playdigo.com #First Party - Advertising
 0.0.0.0 player-telemetry.vimeo.com #First Party - Tracker
 0.0.0.0 playground.xyz #Playground xyz - Tracker
-0.0.0.0 playgroundordinarilymess.com #AdMeasures - Advertising
 0.0.0.0 plista.com #Plista - Tracker
 0.0.0.0 plymedia.com #Unknown - Tracker
 0.0.0.0 pnsdkapi.turktelekom.com.tr #First Party - Tracker
@@ -13656,7 +13624,6 @@
 0.0.0.0 polarbyte.com #Polarbyte - Tracker
 0.0.0.0 polarmobile.com #Unknown - Tracker
 0.0.0.0 pollpublicly.com #AdMeasures - Advertising
-0.0.0.0 pomodoromedia.com #PomodoroMedia - Advertising
 0.0.0.0 poole-collector-prod.n3twork.com #First Party - Tracker
 0.0.0.0 popads.net #Unknown - Advertising
 0.0.0.0 popcash.net #Unknown - Advertising
@@ -13664,7 +13631,6 @@
 0.0.0.0 popmyads.com #Pop My Ads - Advertising
 0.0.0.0 popt.in #Poptin - Advertising
 0.0.0.0 poptin.com #Unknown - Tracker
-0.0.0.0 popxperts.com #Pop Expert - Advertising
 0.0.0.0 portbay.trade #Unknown Chinese - Tracker
 0.0.0.0 possessedcrackinghart.com #AdMeasures - Advertising
 0.0.0.0 postrelease.com #Nativo - Tracker
@@ -13694,7 +13660,6 @@
 0.0.0.0 prod-telemetry.paradox-interactive.com #First Party - Tracker
 0.0.0.0 productserve.com #Digital Window - Tracker
 0.0.0.0 profitablecpmgate.com #AdMeasures - Advertising
-0.0.0.0 profitablecpmnetwork.com #AdMeasures - Advertising
 0.0.0.0 profitablecreativeformat.com #AdMeasures - Advertising
 0.0.0.0 profitabledisplaycontent.com #Unknown - Advertising
 0.0.0.0 profitabledisplayformat.com #AdMeasures - Advertising
@@ -13753,13 +13718,11 @@
 0.0.0.0 pushlog.wsoft.ru #First Party - Tracker
 0.0.0.0 pushmeup.art #RollerAds - Advertising
 0.0.0.0 pushnami.com #Pushnami - Advertising
-0.0.0.0 pushnetwork.com #Digital Media Solutions - Advertising
 0.0.0.0 pushpad.xyz #PushPad - Advertising
 0.0.0.0 pushprofit.net #PushProfit - Advertising
 0.0.0.0 pushub.net #PusHub - Advertising
 0.0.0.0 pushwoosh.com #Pushwoosh - Advertising
 0.0.0.0 pushy.ai #Pushy - Tracker
-0.0.0.0 pussycash.com #Unknown - Advertising
 0.0.0.0 putrr7.com #AdMeasures - Advertising
 0.0.0.0 pvclouds.com #AdMeasures - Advertising
 0.0.0.0 px.spiceworks.com #Spiceworks - Tracker
@@ -13779,7 +13742,6 @@
 0.0.0.0 qos-api.ott.yandex.net #Yandex - Tracker
 0.0.0.0 qservz.com #Unknown - Tracker
 0.0.0.0 qualaroo.com #Qualaroo - Tracker
-0.0.0.0 qualitydestructionhouse.com #AdMeasures - Advertising
 0.0.0.0 quantcast.com #Quantcast - Tracker
 0.0.0.0 quantcount.com #Quantcast - Tracker
 0.0.0.0 quantserve.com #Quantcast - Tracker
@@ -13787,7 +13749,6 @@
 0.0.0.0 quantumdex.io #APAC Digital Exchange - Advertising
 0.0.0.0 quantummetric.com #Quantum Metric - Tracker
 0.0.0.0 qubit.com #QuBit Digital - Advertising
-0.0.0.0 qubitproducts.com #QuBit Digital - Advertising
 0.0.0.0 questback.com #Questback - Advertising
 0.0.0.0 questionmarket.com #Unknown - Tracker
 0.0.0.0 r.i0.cz #centrum.cz - Tracker
@@ -13829,17 +13790,14 @@
 0.0.0.0 rekmob.com #Rekmob - Advertising
 0.0.0.0 relap.io #Relap - Advertising
 0.0.0.0 relateddigital.com #Related Digital - Tracker
-0.0.0.0 relay.bid #Kevel - Advertising
 0.0.0.0 relevant-digital.com #Relevant Digital - Advertising
 0.0.0.0 relybelonged.com #AdMeasures - Advertising
-0.0.0.0 remainmother.com #AdMeasures - Advertising
 0.0.0.0 res-x.com #Unknown - Tracker
 0.0.0.0 research-int.com #TNS Sifo - Tracker
 0.0.0.0 research-int.se #TNS Sifo - Tracker
 0.0.0.0 researchresults.com #Reserch Results - Tracker
 0.0.0.0 resetdigital.co #Reset Digital - Tracker
 0.0.0.0 resetsrv.com #Performance Tracking - Tracker
-0.0.0.0 residenceseeingstanding.com #AdMeasures - Advertising
 0.0.0.0 reson8.com #Resonate - Tracker
 0.0.0.0 responsetap.com #Unknown - Tracker
 0.0.0.0 retargeting.biz #Retargeting - Tracker
@@ -13863,7 +13821,6 @@
 0.0.0.0 rfrl.pw #Unknown - Advertising
 0.0.0.0 rhombusads.com #Rhombus - Advertising
 0.0.0.0 rhythmxchange.com #Unknown - Tracker
-0.0.0.0 ricewaterhou.xyz #Unknown - Advertising
 0.0.0.0 richaudience.com #Rich Audience - Advertising
 0.0.0.0 richmedia.cz #Grape Media - Tracker
 0.0.0.0 richrelevance.com #Unknown - Tracker
@@ -13910,7 +13867,6 @@
 0.0.0.0 sa.api.intl.miui.com #Xiaomi - Tracker
 0.0.0.0 saa.paramountplus.com #Adobe - Tracker
 0.0.0.0 sabavision.com #Unknown - Tracker
-0.0.0.0 safestcontentgate.com #AdMeasures - Advertising
 0.0.0.0 safestgatetocontent.com #AdMeasures - Advertising
 0.0.0.0 sail-horizon.com #Sailthru - Tracker
 0.0.0.0 sail-track.com #Sailthru - Tracker
