@@ -577,7 +577,6 @@
 0.0.0.0 assets.emarsys.net #Unknown - Advertising
 0.0.0.0 at-o.net #AT Internet - Tracker
 0.0.0.0 atdmt.com #Facebook - Advertising
-0.0.0.0 atemda.com #WO Programmatic Digital - Tracker
 0.0.0.0 atgsvcs.com #Unknown - Tracker
 0.0.0.0 ati-host.net #Unknown - Tracker
 0.0.0.0 attentivemobile.com #Attentive - Tracker
@@ -1092,7 +1091,6 @@
 0.0.0.0 dynad.net #dynad - Advertising
 0.0.0.0 dynamicyield.com #Dynamic Yield - Tracker
 0.0.0.0 dynatrace.att.com #First Party - Tracker
-0.0.0.0 dynsrvtbg.com #Unknown - Advertising
 0.0.0.0 dyntrk.com #DynAdmic - Tracker
 0.0.0.0 e-mark.nl #Emark - Tracker
 0.0.0.0 e-planning.net #AdTech - Advertising
@@ -1461,7 +1459,6 @@
 0.0.0.0 impactradius.com #Impact Radius - Tracker
 0.0.0.0 impdesk.com #Impression Desk - Tracker
 0.0.0.0 improvedigital.com #360 Polaris - Advertising
-0.0.0.0 improvely.com #Improvely - Tracker
 0.0.0.0 improving.duckduckgo.com #DuckDuckGo - Tracker
 0.0.0.0 imptracking.com #Unknown - Tracker
 0.0.0.0 imrworldwide.com #Nielsen - Advertising
@@ -1518,7 +1515,6 @@
 0.0.0.0 intent.ai #Intent.ai - Advertising
 0.0.0.0 intentiq.com #Unknown - Tracker
 0.0.0.0 intentmedia.net #Unknown - Tracker
-0.0.0.0 interclick.com #Unknown - Tracker
 0.0.0.0 intercom.com #Intercom - Tracker
 0.0.0.0 intergi.com #InterGient - Advertising
 0.0.0.0 intergient.com #InterGient - Advertising
@@ -1562,7 +1558,6 @@
 0.0.0.0 jstag.space #Unknown - Advertising
 0.0.0.0 juicyads.com #Juicyads - Advertising
 0.0.0.0 juicyads.me #Juicyads - Advertising
-0.0.0.0 jumptap.com #Jumptap - Tracker
 0.0.0.0 junctiontv.net #JunctionTV - Tracker
 0.0.0.0 justpremium.com #JustPremium - Advertising
 0.0.0.0 justtrack.io #Justtrack - Tracker
@@ -13892,16 +13887,13 @@
 0.0.0.0 schibsted.se #Schibsted - Advertising
 0.0.0.0 scoota.co #Unknown - Advertising
 0.0.0.0 scorecardresearch.com #Scorecard Research - Tracker
-0.0.0.0 scramblerun.com #AdMeasures - Advertising
 0.0.0.0 scsmetrics.vodafone.it #Adobe - Tracker
 0.0.0.0 sctclick2.com #Unknown - Tracker
 0.0.0.0 sddan.com #Sirdata - Tracker
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com #First Party - Tracker
 0.0.0.0 sdkconfig.ad.xiaomi.com #Xiaomi - Tracker
 0.0.0.0 sdsjweb.com #Unknown - Tracker
-0.0.0.0 se05.biz #Unknown - Advertising
 0.0.0.0 se07.biz #Unknown - Advertising
-0.0.0.0 seaofads.com #AdSupply - Advertising
 0.0.0.0 search-log-1.tapatalk.com #First Party - Tracker
 0.0.0.0 searchlinks.com #PartnetLinks - Tracker
 0.0.0.0 searchmarketing.com #Unknown - Tracker
@@ -13950,7 +13942,6 @@
 0.0.0.0 shemedia.com #SHE Media - Advertising
 0.0.0.0 shepherd.ff.avast.com #Avast - Tracker
 0.0.0.0 shinystat.com #Unknown - Tracker
-0.0.0.0 shitcustody.com #AdMeasures - Advertising
 0.0.0.0 shop2market.com #Unknown - Tracker
 0.0.0.0 shoppingshadow.com #ebay - Tracker
 0.0.0.0 shore.uno #Shore - Tracker
@@ -14002,7 +13993,6 @@
 0.0.0.0 skyhookwireless.com #Skyhook - Tracker
 0.0.0.0 skyword.com #Skyword - Tracker
 0.0.0.0 sli-spark.com #Unknown - Tracker
-0.0.0.0 slidecaffeinecrown.com #AdMeasures - Advertising
 0.0.0.0 slideruleanalytics.com #SlideRuleAnalytics - Tracker
 0.0.0.0 slipheirphysician.com #AdMeasures - Advertising
 0.0.0.0 smaato.com #Smaato - Advertising
@@ -14676,7 +14666,6 @@
 0.0.0.0 smpush.com #Push Ads - Advertising
 0.0.0.0 smrk.io #Smarkio - Tracker
 0.0.0.0 snackly.co #Unknown - Tracker
-0.0.0.0 snailthreatenedinvited.com #AdMeasures - Advertising
 0.0.0.0 snap.licdn.com #LinkedIn - Tracker
 0.0.0.0 snapads.com #SnapAds - Advertising
 0.0.0.0 snapengage.com #SnapEngage - Tracker
@@ -14687,12 +14676,10 @@
 0.0.0.0 snoop.minecraft.net #Microsoft - Tracker
 0.0.0.0 snowplow-pixel.tradingview.com #First Party - Tracker
 0.0.0.0 sntr.avito.ru #Sentry - Tracker
-0.0.0.0 so1cool.com #Unknown - Advertising
 0.0.0.0 socdm.com #Supership - Tracker
 0.0.0.0 sociomantic.com #Unknown - Tracker
 0.0.0.0 socy.es #Brandcrumb - Tracker
 0.0.0.0 sojern.com #Sojern - Tracker
-0.0.0.0 solutionshindsight.net #Unknown - Advertising
 0.0.0.0 somplo.com #Somplo - Advertising
 0.0.0.0 sonataplatform.com #Sonata - Tracker
 0.0.0.0 sonobi.com #Sonobi - Advertising
@@ -15151,7 +15138,6 @@
 0.0.0.0 upsales.com #Upsales Nordic - Tracker
 0.0.0.0 upscore.com #UpScore - Tracker
 0.0.0.0 upsellit.com #Unknown - Tracker
-0.0.0.0 uptilt.com #Aurea - Advertising
 0.0.0.0 uptrendsdata.com #Unknown - Tracker
 0.0.0.0 urbanairship.com #Unknown - Tracker
 0.0.0.0 urioy.com #Unknown - Advertising
@@ -15214,7 +15200,6 @@
 0.0.0.0 vibeaconstr.onezapp.com #First Party - Tracker
 0.0.0.0 vidalytics.com #Vidalytics - Tracker
 0.0.0.0 vidazoo.com #Milkshake - Advertising
-0.0.0.0 vidcpm.com #AdMeasures - Advertising
 0.0.0.0 videe.tv #Adtelligent - Tracker
 0.0.0.0 videoadex.com #Unknown - Advertising
 0.0.0.0 videoamp.com #VideoAmp - Tracker
@@ -15224,7 +15209,6 @@
 0.0.0.0 videonow.ru #Videonow - Advertising
 0.0.0.0 videosprofitnetwork.com #AdMeasures - Advertising
 0.0.0.0 videowalldirect.com #Unknown - Advertising
-0.0.0.0 vidible.tv #AOL - Advertising
 0.0.0.0 vidoomy.com #Vidoomy - Tracker
 0.0.0.0 vidox.net #AdMeasures - Advertising
 0.0.0.0 vidver.to #Vidverto - Advertising
@@ -15239,7 +15223,6 @@
 0.0.0.0 virtuoussoftware.com #Virtuous - Tracker
 0.0.0.0 visariomedia.com #Unknown - Advertising
 0.0.0.0 visenze.com #ViSenze - Tracker
-0.0.0.0 visiblejoseph.com #AdMeasures - Advertising
 0.0.0.0 visilabs.net #Related Digital - Advertising
 0.0.0.0 visistat.com #Unknown - Tracker
 0.0.0.0 visitor-analytics.io #Visitor Analytics - Tracker
@@ -15283,7 +15266,6 @@
 0.0.0.0 we-stats.com #Unknown - Tracker
 0.0.0.0 wearehearken.com #We are Hearken - Tracker
 0.0.0.0 weather-analytics-events.apple.com #Apple - Tracker
-0.0.0.0 weaveradrenaline.com #AdMeasures - Advertising
 0.0.0.0 web-analytics.huami.com #First Party - Tracker
 0.0.0.0 web-metrica.yandex.ru #Yandex - Tracker
 0.0.0.0 web3ads.net #Web3 Ads - Advertising
@@ -15301,7 +15283,6 @@
 0.0.0.0 webserviceaward.com #Web Service Award - Tracker
 0.0.0.0 webspectator.com #WebSpectator - Tracker
 0.0.0.0 webstats1.com #Unknown - Tracker
-0.0.0.0 webtradehub.com #Unknown - Advertising
 0.0.0.0 webtraffic.se #Schibsted - Tracker
 0.0.0.0 webtraxs.com #Thomas - Tracker
 0.0.0.0 webtrekk-asia.net #WebTrekk - Tracker
@@ -15312,9 +15293,7 @@
 0.0.0.0 webvisor.com #Yandex - Tracker
 0.0.0.0 webvisor.org #Yandex - Tracker
 0.0.0.0 weekli.systems #Weekli - Advertising
-0.0.0.0 wesmallproclaim.com #AdMeasures - Advertising
 0.0.0.0 wgplayer.com #WG Player - Advertising
-0.0.0.0 whairtoa.com #Unknown - Advertising
 0.0.0.0 who.nie.easebar.com #First Party - Tracker
 0.0.0.0 whoisvisiting.com #Unknown - Tracker
 0.0.0.0 wingify.com #Wingify - Tracker
@@ -15340,8 +15319,6 @@
 0.0.0.0 wunderkind.co #Wunderkind - Tracker
 0.0.0.0 wup.browser.qq.com #QQ - Tracker
 0.0.0.0 wup.imtt.qq.com #QQ - Tracker
-0.0.0.0 wuzbhjpvsf.com #Unknown - Advertising
-0.0.0.0 wvhba6470p.com #AdMeasures - Advertising
 0.0.0.0 wzrkt.com #CleverTap - Tracker
 0.0.0.0 xg4ken.com #Kenshoo - Advertising
 0.0.0.0 xiti.com #Unknown - Tracker
