@@ -920,7 +920,6 @@
 0.0.0.0 convertro.com #Unknown - Advertising
 0.0.0.0 conviva.com #Conviva - Advertising
 0.0.0.0 convrse.media #Convrse - Advertising
-0.0.0.0 conyak.com #Conyak - Tracker
 0.0.0.0 cookieinfoscript.com #Cookie Popup - Advertising
 0.0.0.0 cookieless-data.com #Sirdata - Tracker
 0.0.0.0 cookieseal.com #CookieSeal - Tracker
@@ -1634,7 +1633,6 @@
 0.0.0.0 linkis.com #Linkis - Tracker
 0.0.0.0 linkonclick.com #Unknown - Advertising
 0.0.0.0 linksynergy.com #Unknown - Advertising
-0.0.0.0 lipperhey.com #Lipperhey - Tracker
 0.0.0.0 liqwid.net #Liqwid - Advertising
 0.0.0.0 listrakbi.com #Unknown - Tracker
 0.0.0.0 litix.io #Unknown - Tracker
@@ -1681,7 +1679,6 @@
 0.0.0.0 log.popin.cc #First Party - Tracker
 0.0.0.0 log.quora.com #Quora - Tracker
 0.0.0.0 log.showmax.com #First Party - Tracker
-0.0.0.0 log.spotify.com #Spotify - Tracker
 0.0.0.0 log.strm.yandex.ru #Yandex - Tracker
 0.0.0.0 log.tapatalk.com #First Party - Tracker
 0.0.0.0 log.zingmp3.vn #First Party - Tracker
@@ -1701,7 +1698,6 @@
 0.0.0.0 logs.guardianapis.com #First Party - Tracker
 0.0.0.0 logs.psm.wmcdp.io #Warner Media - Advertising
 0.0.0.0 logs.roku.com #First Party - Tracker
-0.0.0.0 logs.unchecky.com #First Party - Tracker
 0.0.0.0 logservice-dra.platform.hicloud.com #First Party - Tracker
 0.0.0.0 logservice-dre.platform.hicloud.com #Huawei - Tracker
 0.0.0.0 logsss.com #Unknown - Tracker
@@ -1735,7 +1731,6 @@
 0.0.0.0 mam.netease.com #netease - Tracker
 0.0.0.0 manalyticshub.com #Unknown - Tracker
 0.0.0.0 mandrillapp.com #MailChimp - Advertising
-0.0.0.0 map2.ssl.hwcdn.net #HWCDN - Tracker
 0.0.0.0 marchex.io #Marchex - Tracker
 0.0.0.0 marfeel.com #Marfeel - Advertising
 0.0.0.0 marinsm.com #Unknown - Tracker
@@ -1797,40 +1792,32 @@
 0.0.0.0 meteora.us #Unknown - Tracker
 0.0.0.0 metric.ipv6test.com #Unknown - Tracker
 0.0.0.0 metric.ipv6test.net #Unknown - Tracker
-0.0.0.0 metricellcollect.tele2.ru #First Party - Tracker
 0.0.0.0 metricool.com #Metricool - Tracker
 0.0.0.0 metrics.aetn.com #Adobe - Tracker
 0.0.0.0 metrics.articulate.com #First Party - Tracker
 0.0.0.0 metrics.asos.com #First Party - Tracker
 0.0.0.0 metrics.beyondwords.io #First Party - Tracker
-0.0.0.0 metrics.cbc.ca #First Party - Tracker
 0.0.0.0 metrics.claspws.tv #First Party - Tracker
 0.0.0.0 metrics.data.hicloud.com #Huawei - Tracker
-0.0.0.0 metrics.dt.hicloud.com #First Party - Tracker
-0.0.0.0 metrics.fidelity.com #First Party - Tracker
 0.0.0.0 metrics.foxnews.com #First Party - Tracker
 0.0.0.0 metrics.hackerrank.com #First Party - Tracker
 0.0.0.0 metrics.hitman.io #First Party - Tracker
 0.0.0.0 metrics.icloud.com #Apple - Tracker
 0.0.0.0 metrics.indazn.com #First Party - Advertising
 0.0.0.0 metrics.ionos.com #First Party - Tracker
-0.0.0.0 metrics.ionos.de #First Party - Tracker
 0.0.0.0 metrics.kmsmep.com #Bread Financial - Tracker
 0.0.0.0 metrics.media-amazon.com #Amazon - Tracker
 0.0.0.0 metrics.mzstatic.com #Apple - Tracker
-0.0.0.0 metrics.pico.tools #First Party - Tracker
 0.0.0.0 metrics.plex.tv #First Party - Tracker
 0.0.0.0 metrics.postoffice.co.uk #First Party - Tracker
 0.0.0.0 metrics.raptr.com #First Party - Tracker
 0.0.0.0 metrics.roblox.com #First Party - Tracker
-0.0.0.0 metrics.royalmail.com #First Party - Tracker
 0.0.0.0 metrics.sdkbox.com #First Party - Tracker
 0.0.0.0 metrics.ubuntu.com #First Party - Tracker
 0.0.0.0 metrics.vinted.lt #First Party - Tracker
 0.0.0.0 metrics.washingtonpost.com #First Party - Tracker
 0.0.0.0 metrics2.data.hicloud.com #Huawei - Tracker
 0.0.0.0 metricswpsh.com #Unknown - Tracker
-0.0.0.0 metrigo.com #Unknown - Tracker
 0.0.0.0 metrika.mos.ru #First Party - Tracker
 0.0.0.0 metrika.myseldon.com #First Party - Tracker
 0.0.0.0 metrika.yandex.ru #Yandex - Tracker
@@ -13286,7 +13273,6 @@
 0.0.0.0 ml-attr.com #Xandr - Advertising
 0.0.0.0 ml314.com #Bombora - Advertising
 0.0.0.0 mlsend2.com #Unknown - Tracker
-0.0.0.0 mmondi.com #Unknown - Tracker
 0.0.0.0 mmstat.com #Alibaba - Tracker
 0.0.0.0 moatads.com #Moat - Advertising
 0.0.0.0 moatpixel.com #Moat - Advertising
@@ -13323,7 +13309,6 @@
 0.0.0.0 movcpm.com #AdMeasures - Advertising
 0.0.0.0 mox.tv #Mox - Advertising
 0.0.0.0 mparticle.com #mParticle - Tracker
-0.0.0.0 mpianalytics.com #Unknown - Tracker
 0.0.0.0 mplxtms.com #Conversant - Tracker
 0.0.0.0 mpstat.us #SOASTA - Tracker
 0.0.0.0 mr2cnjuh34jb.com #Unknown - Tracker
