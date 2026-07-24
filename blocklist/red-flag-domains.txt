@@ -669,6 +669,7 @@
 0.0.0.0 accountnetflix.fr
 0.0.0.0 accountpass-securedsg.fr
 0.0.0.0 accountpaypal.fr
+0.0.0.0 accounts-electrodepot.fr
 0.0.0.0 accounts-google.fr
 0.0.0.0 accounts-logins.fr
 0.0.0.0 accounts-payment.fr
@@ -1117,6 +1118,7 @@
 0.0.0.0 adobemaxwebfrance.fr
 0.0.0.0 adoctolib.fr
 0.0.0.0 adode.fr
+0.0.0.0 adomiassistance.fr
 0.0.0.0 adopteunmecsav.fr
 0.0.0.0 adopteunperver.fr
 0.0.0.0 adpays.fr
@@ -7603,6 +7605,7 @@
 0.0.0.0 casino-duospin.fr
 0.0.0.0 casino-elysees-club.fr
 0.0.0.0 casino-en-ligne-argen-treel.fr
+0.0.0.0 casino-en-ligne-sans-verification.fr
 0.0.0.0 casino-enligne-argentreel.fr
 0.0.0.0 casino-enlignefiable.fr
 0.0.0.0 casino-estrella.fr
@@ -7942,6 +7945,7 @@
 0.0.0.0 casinolevant.fr
 0.0.0.0 casinolevant1.fr
 0.0.0.0 casinoliraspin.fr
+0.0.0.0 casinolizaroenligne.fr
 0.0.0.0 casinolo-casino.fr
 0.0.0.0 casinolo-enligne.fr
 0.0.0.0 casinolo-fr.fr
@@ -8137,6 +8141,7 @@
 0.0.0.0 casinosvegasplus.fr
 0.0.0.0 casinotalismania.fr
 0.0.0.0 casinotemple.fr
+0.0.0.0 casinotikitakaenligne.fr
 0.0.0.0 casinotogether-fr.fr
 0.0.0.0 casinotogether-official.fr
 0.0.0.0 casinotogetheronline.fr
@@ -8463,9 +8468,13 @@
 0.0.0.0 celsiuscasinoapp.fr
 0.0.0.0 celsiuscasinobonus.fr
 0.0.0.0 celsiuscasinofr.fr
+0.0.0.0 celsiuscasinofra.fr
+0.0.0.0 celsiuscasinofrance.fr
 0.0.0.0 celsiuscasinologin.fr
 0.0.0.0 celsiuscasinopromo.fr
 0.0.0.0 celsiusfr.fr
+0.0.0.0 celsiusfrancecasino.fr
+0.0.0.0 celsiusfrcasino.fr
 0.0.0.0 cengolio.fr
 0.0.0.0 centalesupelec.fr
 0.0.0.0 centarlesupelec.fr
@@ -8989,6 +8998,7 @@
 0.0.0.0 chflorac.fr
 0.0.0.0 chi-creteil.fr
 0.0.0.0 chicchaussures.fr
+0.0.0.0 chiccofrance.fr
 0.0.0.0 chicensolde.fr
 0.0.0.0 chicken-cross-casino.fr
 0.0.0.0 chicken-road-2-officiel.fr
@@ -10205,6 +10215,7 @@
 0.0.0.0 co-auth.fr
 0.0.0.0 co-prime.fr
 0.0.0.0 co-ra.fr
+0.0.0.0 coach-outlet.fr
 0.0.0.0 coachoutletfrance.fr
 0.0.0.0 coachsacssoldes.fr
 0.0.0.0 coachsiteofficiel.fr
@@ -10765,6 +10776,7 @@
 0.0.0.0 confirmation-client-paypal.fr
 0.0.0.0 confirmation-credit-agri.fr
 0.0.0.0 confirmation-details-rdv-leboncoin.fr
+0.0.0.0 confirmation-devotre-rendez-vous-securise-leboncoin.fr
 0.0.0.0 confirmation-du-rendez-vous-securise-leboncoin.fr
 0.0.0.0 confirmation-free.fr
 0.0.0.0 confirmation-inc-paypal.fr
@@ -11128,12 +11140,14 @@
 0.0.0.0 contactclients.fr
 0.0.0.0 contactconseilclient.fr
 0.0.0.0 contactcostco-france.fr
+0.0.0.0 contactdiplogouv.fr
 0.0.0.0 contacte-service.fr
 0.0.0.0 contacte-sfr.fr
 0.0.0.0 contactedenred.fr
 0.0.0.0 contacteiffage.fr
 0.0.0.0 contacteznous-leboncoin.fr
 0.0.0.0 contactfr.fr
+0.0.0.0 contactfree.fr
 0.0.0.0 contactgouv-info.fr
 0.0.0.0 contactinterpol.fr
 0.0.0.0 contactleboncoiinsystempayment.fr
@@ -13563,6 +13577,7 @@
 0.0.0.0 electro-prodestock.fr
 0.0.0.0 electrodeport.fr
 0.0.0.0 electrodepot-account.fr
+0.0.0.0 electrodepot-accounts.fr
 0.0.0.0 electrodepot-france.fr
 0.0.0.0 electrodepot-groupe.fr
 0.0.0.0 electrodepot-lille.fr
@@ -13573,6 +13588,7 @@
 0.0.0.0 electroexpert.fr
 0.0.0.0 electrolux-france.fr
 0.0.0.0 electronique-prime.fr
+0.0.0.0 electroprodestock.fr
 0.0.0.0 electroshopp.fr
 0.0.0.0 elemonde.fr
 0.0.0.0 eletrodepot.fr
@@ -15326,6 +15342,7 @@
 0.0.0.0 fr-ch-chinon.fr
 0.0.0.0 fr-charal.fr
 0.0.0.0 fr-chericasino.fr
+0.0.0.0 fr-chicken--road.fr
 0.0.0.0 fr-cimpa.fr
 0.0.0.0 fr-circet.fr
 0.0.0.0 fr-cisetp.fr
@@ -15774,6 +15791,7 @@
 0.0.0.0 frboncoin.fr
 0.0.0.0 frcasino-cresus.fr
 0.0.0.0 frcasinozer.fr
+0.0.0.0 frchickenroad.fr
 0.0.0.0 frchronopost.fr
 0.0.0.0 frde.fr
 0.0.0.0 frdoctolib.fr
@@ -16979,6 +16997,7 @@
 0.0.0.0 groupe-glsfrance.fr
 0.0.0.0 groupe-goursat.fr
 0.0.0.0 groupe-iliade.fr
+0.0.0.0 groupe-jean-floch.fr
 0.0.0.0 groupe-laposte.fr
 0.0.0.0 groupe-laredoute.fr
 0.0.0.0 groupe-lidl.fr
@@ -25799,6 +25818,7 @@
 0.0.0.0 nourixofficiel.fr
 0.0.0.0 nouslib-connexion.fr
 0.0.0.0 nouvalle-aquitaine.fr
+0.0.0.0 nouveau-casino-2026.fr
 0.0.0.0 nouveau-compte-prime.fr
 0.0.0.0 nouveau-prime.fr
 0.0.0.0 nouveau-service-bnpparibas.fr
@@ -26982,6 +27002,7 @@
 0.0.0.0 parisbas.fr
 0.0.0.0 pariscybertek.fr
 0.0.0.0 parisdisneyland.fr
+0.0.0.0 parisen.fr
 0.0.0.0 parisenventicket.fr
 0.0.0.0 pariseventicket.fr
 0.0.0.0 parisfcshop.fr
@@ -30830,6 +30851,8 @@
 0.0.0.0 runacasino-fr.fr
 0.0.0.0 runacasino-france.fr
 0.0.0.0 runacasinoenligne.fr
+0.0.0.0 runacasinofr.fr
+0.0.0.0 runacasinoligne.fr
 0.0.0.0 runacasinoonline.fr
 0.0.0.0 runchaussure.fr
 0.0.0.0 runnerswolrd.fr
@@ -32157,6 +32180,7 @@
 0.0.0.0 service-interpol.fr
 0.0.0.0 service-intrabancaire.fr
 0.0.0.0 service-klarna.fr
+0.0.0.0 service-la-macif.fr
 0.0.0.0 service-la-poste.fr
 0.0.0.0 service-laposte.fr
 0.0.0.0 service-lbc.fr
@@ -35656,6 +35680,7 @@
 0.0.0.0 ticketaster.fr
 0.0.0.0 ticketconcerts.fr
 0.0.0.0 ticketcorner.fr
+0.0.0.0 ticketdrop.fr
 0.0.0.0 ticketery.fr
 0.0.0.0 ticketfaster.fr
 0.0.0.0 ticketfestival.fr
@@ -35764,6 +35789,7 @@
 0.0.0.0 tikitaka7-casino.fr
 0.0.0.0 tikitakacasino-official.fr
 0.0.0.0 tikitakacasino1.fr
+0.0.0.0 tikitakacasinoenligne.fr
 0.0.0.0 tikitakacasinoonline.fr
 0.0.0.0 tikitakaslots.fr
 0.0.0.0 tikkichaussures.fr
@@ -36022,6 +36048,7 @@
 0.0.0.0 trade-republic-france.fr
 0.0.0.0 trade212-fr.fr
 0.0.0.0 tradeinn.fr
+0.0.0.0 traderepublic-support.fr
 0.0.0.0 tradesrepublic.fr
 0.0.0.0 traiteammende.fr
 0.0.0.0 traitement-amende.fr
@@ -36262,6 +36289,7 @@
 0.0.0.0 u-rouen.fr
 0.0.0.0 u-upsud.fr
 0.0.0.0 u-watch.fr
+0.0.0.0 u003efree-mobile.fr
 0.0.0.0 uab-conseils.fr
 0.0.0.0 uake.pm
 0.0.0.0 uauf.fr
