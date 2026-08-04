@@ -812,7 +812,6 @@
 0.0.0.0 chartboost.com #Chartboost - Advertising
 0.0.0.0 cheetahmail.com #Experian - Advertising
 0.0.0.0 chimpstatic.com #Mailchimp - Advertising
-0.0.0.0 choicestream.com #Choicestream - Advertising
 0.0.0.0 circulate.com #LiveRamp - Tracker
 0.0.0.0 citruserve.com #Sainsbury - Tracker
 0.0.0.0 civiccomputing.com #Civic - Tracker
@@ -13324,7 +13323,6 @@
 0.0.0.0 muvmobile.com #MUV - Tracker
 0.0.0.0 mxapis.com #maxtraffic.com - Tracker
 0.0.0.0 mxase.clmbtech.com #Times Internet - Advertising
-0.0.0.0 mxlogic.com #Unknown - Tracker
 0.0.0.0 mxpnl.com #Mixpanel - Advertising
 0.0.0.0 mxptint.net #Unknown - Tracker
 0.0.0.0 my.w.tt #Branch CNAME - Tracker
@@ -13340,7 +13338,6 @@
 0.0.0.0 mypush.io #Unknown - Advertising
 0.0.0.0 myvisualiq.net #My Visual IQ - Tracker
 0.0.0.0 nanigans.com #Unknown - Tracker
-0.0.0.0 nanogardens.tech #Unknown Chinese - Tracker
 0.0.0.0 nanorep.com #NanoRep - Tracker
 0.0.0.0 narrativ.com #Narrativ - Advertising
 0.0.0.0 nativeads.com #Native Ads - Advertising
@@ -13385,7 +13382,6 @@
 0.0.0.0 nl03.net #NetLine - Advertising
 0.0.0.0 nmp1.com #Email Vision - Advertising
 0.0.0.0 nobeta.com.br #NoBeta - Advertising
-0.0.0.0 norma-external-collect.meizu.com #Meizu - Tracker
 0.0.0.0 nosto.com #Nosto - Tracker
 0.0.0.0 notes-analytics-events.apple.com #Apple - Tracker
 0.0.0.0 notifyvisitors.com #NotifyVisitors - Tracker
@@ -13400,14 +13396,11 @@
 0.0.0.0 nsfwadds.com #NSFW Adds - Advertising
 0.0.0.0 ntv.io #Unknown - Advertising
 0.0.0.0 numerino.cz #Numerino - Tracker
-0.0.0.0 nw-rail-03.com #Lead Forensics - Tracker
 0.0.0.0 nyltx.com #Nyltx - Tracker
 0.0.0.0 nzme-ads.co.nz #Unknown - Advertising
 0.0.0.0 o333o.com #AdSpyglass - Advertising
-0.0.0.0 octotracker-clients.net #Octo Tracker - Tracker
 0.0.0.0 offerstrack.net #Unknown - Tracker
 0.0.0.0 offerwall-adnative.com #Unknown - Advertising
-0.0.0.0 ogl.primorske.si #Primorske novice - Tracker
 0.0.0.0 ogury.co #Ogury - Tracker
 0.0.0.0 ogury.io #Ogury - Tracker
 0.0.0.0 ojrq.net #Impact Radius - Tracker
@@ -13540,31 +13533,25 @@
 0.0.0.0 pgteu4-powerpoint-telemetry-vip.officeapps.live.com #Microsoft - Tracker
 0.0.0.0 phluant.com #Phluant - Tracker
 0.0.0.0 phone.igexin.com #Igexin Spyware - Tracker
-0.0.0.0 phonograph2.voxmedia.com #Vox - Tracker
 0.0.0.0 photorank.me #Olapic - Tracker
 0.0.0.0 piano.io #Piano - Tracker
 0.0.0.0 picanalysis.vivo.com.cn #Vivo - Tracker
 0.0.0.0 picreel.com #Picreel - Tracker
 0.0.0.0 piksel.com #Unknown - Tracker
-0.0.0.0 ping.staticmoly.me #First Party - Tracker
 0.0.0.0 ping.ublock.org #First Party - Tracker
 0.0.0.0 pingback.giphy.com #Giphy - Tracker
 0.0.0.0 pingdom.net #Unknown - Tracker
 0.0.0.0 pinpoll.com #Pinpoll - Tracker
 0.0.0.0 pippio.com #Arbor - Tracker
-0.0.0.0 piwik.com-online.com #PIWIK - Tracker
 0.0.0.0 piwik.pro #Piwik PRO - Tracker
 0.0.0.0 piwikpro.com #Piwik PRO - Tracker
 0.0.0.0 pixad.com.tr #Pixad - Advertising
 0.0.0.0 pixanalytics.pixnet.net #First Party - Tracker
 0.0.0.0 pixel-static.spotify.com #Spotify - Tracker
 0.0.0.0 pixel.ad #Rubicon - Tracker
-0.0.0.0 pixel.archive.today #First Party - Tracker
 0.0.0.0 pixel.cornercart.io #First Party - Tracker
 0.0.0.0 pixel.facebook.com #Facebook - Tracker
 0.0.0.0 pixel.getshogun.com #Shogun - Tracker
-0.0.0.0 pixel.honestjohn.co.uk #First Party - Tracker
-0.0.0.0 pixel.inforsea.com #First Party - Tracker
 0.0.0.0 pixel.ionos.com #Ionos - Tracker
 0.0.0.0 pixel.ionos.de #First Party - Tracker
 0.0.0.0 pixel.konnektu.ru #First Party - Tracker
@@ -13695,7 +13682,6 @@
 0.0.0.0 pushcrew.com #VWO Engage - Tracker
 0.0.0.0 pusherapp.com #Pusher - Advertising
 0.0.0.0 pushio.com #Oracle - Tracker
-0.0.0.0 pushlog.wsoft.ru #First Party - Tracker
 0.0.0.0 pushmeup.art #RollerAds - Advertising
 0.0.0.0 pushnami.com #Pushnami - Advertising
 0.0.0.0 pushpad.xyz #PushPad - Advertising
@@ -13717,10 +13703,8 @@
 0.0.0.0 qcinternal.io #Quantcast - Advertising
 0.0.0.0 qeryz.com #Unknown - Tracker
 0.0.0.0 qingcdn.com #Unknown - Advertising
-0.0.0.0 qmerce.com #Unknown - Tracker
 0.0.0.0 qoe-1.yottaa.net #Yottaa - Tracker
 0.0.0.0 qos-api.ott.yandex.net #Yandex - Tracker
-0.0.0.0 qservz.com #Unknown - Tracker
 0.0.0.0 qualaroo.com #Qualaroo - Tracker
 0.0.0.0 quantcast.com #Quantcast - Tracker
 0.0.0.0 quantcount.com #Quantcast - Tracker
@@ -13732,9 +13716,7 @@
 0.0.0.0 questback.com #Questback - Advertising
 0.0.0.0 questionmarket.com #Unknown - Tracker
 0.0.0.0 r.i0.cz #centrum.cz - Tracker
-0.0.0.0 r1-cdn.net #RadiumOne - Tracker
 0.0.0.0 r42tag.com #Relay42 - Tracker
-0.0.0.0 r7ls.net #Impact Radius - Tracker
 0.0.0.0 rad.live.com #Microsoft - Tracker
 0.0.0.0 radiantsands.com #Unknown Chinese - Tracker
 0.0.0.0 radiumone.com #RadiumOne - Tracker
