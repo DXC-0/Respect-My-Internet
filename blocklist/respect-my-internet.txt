@@ -187429,7 +187429,6 @@
 0.0.0.0 metrics.postoffice.co.uk #First Party - Tracker
 0.0.0.0 metrics.raptr.com #First Party - Tracker
 0.0.0.0 metrics.roblox.com #First Party - Tracker
-0.0.0.0 metrics.sdkbox.com #First Party - Tracker
 0.0.0.0 metrics.ubuntu.com #First Party - Tracker
 0.0.0.0 metrics.vinted.lt #First Party - Tracker
 0.0.0.0 metrics.washingtonpost.com #First Party - Tracker
@@ -253203,7 +253202,6 @@
 0.0.0.0 revenix.digital
 0.0.0.0 revennet.essentialwisdomcoaching.com
 0.0.0.0 revenuads.com
-0.0.0.0 revenue.com #World Media Group - Tracker
 0.0.0.0 revenueflex.com #Unknown - Advertising
 0.0.0.0 revenueguardelite.com
 0.0.0.0 revenueguardelite.live
@@ -255266,7 +255264,6 @@
 0.0.0.0 rohliksalecz.top
 0.0.0.0 rohm-chip.com
 0.0.0.0 rohrbachhof.de
-0.0.0.0 roia.biz #Unknown - Tracker
 0.0.0.0 roibetcasino.fr
 0.0.0.0 roibetsfrance.fr
 0.0.0.0 roicaudalange.digital
@@ -256471,7 +256468,6 @@
 0.0.0.0 rtbet3.fr
 0.0.0.0 rtbetcasinos.fr
 0.0.0.0 rtbets.fr
-0.0.0.0 rtbidder.net #Unknown - Tracker
 0.0.0.0 rtblaorvaae.com
 0.0.0.0 rtbmax.com
 0.0.0.0 rtbpb.com
@@ -256891,7 +256887,6 @@
 0.0.0.0 rulinstore.com
 0.0.0.0 rulosikrebofx.pro
 0.0.0.0 rultek.shop
-0.0.0.0 rum.layer0.co #First Party - Tracker
 0.0.0.0 rum.ngenix.net #First Party - Tracker
 0.0.0.0 rumabyity.autos
 0.0.0.0 rumahsakitapp.site
@@ -257894,7 +257889,6 @@
 0.0.0.0 sa-tencentclb.work
 0.0.0.0 sa-token.cc
 0.0.0.0 sa-weldom.fr
-0.0.0.0 sa.api.intl.miui.com #Xiaomi - Tracker
 0.0.0.0 sa.citybase.qq.com
 0.0.0.0 sa.rpg.twitch.tv
 0.0.0.0 sa02i5.isogransoutheurope.eu
@@ -261886,7 +261880,6 @@
 0.0.0.0 searchh9box.pro
 0.0.0.0 searchitbetter.com
 0.0.0.0 searchlabspartnerservice-pa.googleapis.com
-0.0.0.0 searchlinks.com #PartnetLinks - Tracker
 0.0.0.0 searchmarketing.com #Unknown - Tracker
 0.0.0.0 searchmodel.best
 0.0.0.0 searchnewsgb.site
@@ -263099,7 +263092,6 @@
 0.0.0.0 selcew.top
 0.0.0.0 seldovaryn.com
 0.0.0.0 seldranovi.pro
-0.0.0.0 sele.co #Sele.Co - Tracker
 0.0.0.0 seleccion.cc
 0.0.0.0 selecqtbox.shop
 0.0.0.0 select-prime.fr
@@ -263556,10 +263548,7 @@
 0.0.0.0 sentoose.shop
 0.0.0.0 sentosemi.com
 0.0.0.0 sentry-api.sberdevices.ru #Sentry - Tracker
-0.0.0.0 sentry-do.x5.ru #Sentry - Tracker
-0.0.0.0 sentry-dsn-customers.megamarket.tech #Sentry - Tracker
 0.0.0.0 sentry-io.djiops.com
-0.0.0.0 sentry.archive.org #Sentry - Tracker
 0.0.0.0 sentry.groups.qq.com
 0.0.0.0 sentry.ozon.ru #Sentry - Tracker
 0.0.0.0 sentry.platform24.tv #Sentry - Tracker
@@ -267618,7 +267607,6 @@
 0.0.0.0 shop1maillot.fr
 0.0.0.0 shop265.com
 0.0.0.0 shop2cn.com
-0.0.0.0 shop2market.com #Unknown - Tracker
 0.0.0.0 shopaetheris.shop
 0.0.0.0 shopaib.com
 0.0.0.0 shopaldi-uk.wichidtajerseys.com
@@ -267783,7 +267771,6 @@
 0.0.0.0 shorace.shop
 0.0.0.0 shorcut88.com
 0.0.0.0 shordapacwas24.click
-0.0.0.0 shore.uno #Shore - Tracker
 0.0.0.0 shoreandgarden.eu
 0.0.0.0 shoreandpine.eu
 0.0.0.0 shoreandstone.eu
@@ -268805,20 +268792,12 @@
 0.0.0.0 sidekickopen04.com #Hubspot - Tracker
 0.0.0.0 sidekickopen06.com #Hubspot - Tracker
 0.0.0.0 sidekickopen07.com #Hubspot - Tracker
-0.0.0.0 sidekickopen08.com #Hubspot - Tracker
 0.0.0.0 sidekickopen10.com #Hubspot - Tracker
-0.0.0.0 sidekickopen13.com #Hubspot - Tracker
-0.0.0.0 sidekickopen24.com #Hubspot - Tracker
 0.0.0.0 sidekickopen25.com #Hubspot - Tracker
 0.0.0.0 sidekickopen68.com #Hubspot - Tracker
 0.0.0.0 sidekickopen69.com #Hubspot - Tracker
-0.0.0.0 sidekickopen70.com #Hubspot - Tracker
-0.0.0.0 sidekickopen72.com #Hubspot - Tracker
-0.0.0.0 sidekickopen78.com #Hubspot - Tracker
 0.0.0.0 sidekickopen80.com #Hubspot - Tracker
-0.0.0.0 sidekickopen81.com #Hubspot - Tracker
 0.0.0.0 sidekickopen84.com #Hubspot - Tracker
-0.0.0.0 sidekickopen87.com #Hubspot - Tracker
 0.0.0.0 sidekickopen90.com #Hubspot - Tracker
 0.0.0.0 sideonlinetours.com
 0.0.0.0 sidepgouv.fr
@@ -271969,8 +271948,6 @@
 0.0.0.0 smetrics.abbvie.com #Adobe - Tracker
 0.0.0.0 smetrics.abercrombie.com #Adobe - Tracker
 0.0.0.0 smetrics.accaglobal.com #Adobe - Tracker
-0.0.0.0 smetrics.active.com #Adobe - Tracker
-0.0.0.0 smetrics.activecommunities.com #Adobe - Tracker
 0.0.0.0 smetrics.aem.playstation.com #Adobe - Tracker
 0.0.0.0 smetrics.aetn.com #Adobe - Tracker
 0.0.0.0 smetrics.aetnamedicare.com #Adobe - Tracker
@@ -271979,7 +271956,6 @@
 0.0.0.0 smetrics.aida.de #Adobe - Tracker
 0.0.0.0 smetrics.aircanada.com #Adobe - Tracker
 0.0.0.0 smetrics.alka.dk #Adobe - Tracker
-0.0.0.0 smetrics.allegion.com #Adobe - Tracker
 0.0.0.0 smetrics.allenedmonds.com #Adobe - Tracker
 0.0.0.0 smetrics.allianzlife.com #Adobe - Tracker
 0.0.0.0 smetrics.allstate.com #Adobe - Tracker
@@ -271993,7 +271969,6 @@
 0.0.0.0 smetrics.angi.com #Adobe - Tracker
 0.0.0.0 smetrics.anixter.com #Adobe - Tracker
 0.0.0.0 smetrics.anntaylor.com #Adobe - Tracker
-0.0.0.0 smetrics.ansible.com #Adobe - Tracker
 0.0.0.0 smetrics.antena3.com #Adobe - Tracker
 0.0.0.0 smetrics.anthem.com #Adobe - Tracker
 0.0.0.0 smetrics.apia.com.au #Adobe - Tracker
@@ -272044,7 +272019,6 @@
 0.0.0.0 smetrics.bestinver.es #Adobe - Tracker
 0.0.0.0 smetrics.bet.com #Adobe - Tracker
 0.0.0.0 smetrics.beterhoren.nl #Adobe - Tracker
-0.0.0.0 smetrics.binge.com.au #Adobe - Tracker
 0.0.0.0 smetrics.bingle.com.au #Adobe - Tracker
 0.0.0.0 smetrics.bjs.com #Adobe - Tracker
 0.0.0.0 smetrics.bkstr.com #Adobe - Tracker
@@ -272058,12 +272032,10 @@
 0.0.0.0 smetrics.bostonglobe.com #Adobe - Tracker
 0.0.0.0 smetrics.britishgas.co.uk #Adobe - Tracker
 0.0.0.0 smetrics.bt.com #Adobe - Tracker
-0.0.0.0 smetrics.buffalotracedistillery.com #Adobe - Tracker
 0.0.0.0 smetrics.bupa.com.au #Adobe - Tracker
 0.0.0.0 smetrics.buyagift.co.uk #Adobe - Tracker
 0.0.0.0 smetrics.caesars.com #Adobe - Tracker
 0.0.0.0 smetrics.cahealthwellness.com #Adobe - Tracker
-0.0.0.0 smetrics.caleres.com #Adobe - Tracker
 0.0.0.0 smetrics.calvinklein.us #Adobe - Tracker
 0.0.0.0 smetrics.capitalone.com #Adobe - Tracker
 0.0.0.0 smetrics.careplushealthplans.com #Adobe - Tracker
@@ -272076,8 +272048,6 @@
 0.0.0.0 smetrics.casio.com #Adobe - Tracker
 0.0.0.0 smetrics.casio.jp #Adobe - Tracker
 0.0.0.0 smetrics.cbc.ca #Adobe - Tracker
-0.0.0.0 smetrics.cbn.com #Adobe - Tracker
-0.0.0.0 smetrics.cdiscount.com #Adobe - Tracker
 0.0.0.0 smetrics.cdw.com #Adobe - Tracker
 0.0.0.0 smetrics.cedars-sinai.org #Adobe - Tracker
 0.0.0.0 smetrics.celebritycruises.com #Adobe - Tracker
