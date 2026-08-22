@@ -1897,6 +1897,7 @@
 0.0.0.0 amazon-login-php.fr
 0.0.0.0 amazon-login-secure.fr
 0.0.0.0 amazon-login.fr
+0.0.0.0 amazon-mauritius.fr
 0.0.0.0 amazon-online.fr
 0.0.0.0 amazon-payement-remboursement.fr
 0.0.0.0 amazon-payment.fr
@@ -4976,6 +4977,7 @@
 0.0.0.0 azurcasinoofficiel.fr
 0.0.0.0 azurcasinoonline.fr
 0.0.0.0 azure-casino.fr
+0.0.0.0 azure-secure-web.fr
 0.0.0.0 azurecasino-fr.fr
 0.0.0.0 azureva-vacances.fr
 0.0.0.0 azurslot.fr
@@ -11909,6 +11911,8 @@
 0.0.0.0 crazystar.fr
 0.0.0.0 crazytime-fr.fr
 0.0.0.0 crazytower-casino.fr
+0.0.0.0 crazytower-casinoo.fr
+0.0.0.0 crazytower-casinos.fr
 0.0.0.0 crazytower.fr
 0.0.0.0 crcindustriesfrancesas.fr
 0.0.0.0 crd-agricole.fr
@@ -13740,6 +13744,7 @@
 0.0.0.0 eartrumpet.fr
 0.0.0.0 easalia.fr
 0.0.0.0 eastpak-france.fr
+0.0.0.0 eastpakfrance.fr
 0.0.0.0 easucash.fr
 0.0.0.0 easycarfr.fr
 0.0.0.0 easycash-biganos.fr
@@ -16121,6 +16126,7 @@
 0.0.0.0 france-contrav.fr
 0.0.0.0 france-cooperative-u.fr
 0.0.0.0 france-costco.fr
+0.0.0.0 france-cresus.fr
 0.0.0.0 france-critair.fr
 0.0.0.0 france-cybertek.fr
 0.0.0.0 france-diplomatie.fr
@@ -16592,6 +16598,7 @@
 0.0.0.0 gaminocasino.fr
 0.0.0.0 gamonic.fr
 0.0.0.0 gandinet.fr
+0.0.0.0 gangsta-sino.fr
 0.0.0.0 gannifr.fr
 0.0.0.0 gannioutlet.fr
 0.0.0.0 gant-france.fr
@@ -21864,6 +21871,7 @@
 0.0.0.0 llemonde.fr
 0.0.0.0 llequipe.fr
 0.0.0.0 llhotmail.fr
+0.0.0.0 lliad-free.fr
 0.0.0.0 llkih.yt
 0.0.0.0 llonelyplanet.fr
 0.0.0.0 lloydfrance.fr
@@ -25152,6 +25160,7 @@
 0.0.0.0 monrdvdanesthesie.fr
 0.0.0.0 monrdvdanesthsie.fr
 0.0.0.0 monreglement-antai.fr
+0.0.0.0 monrelais-aide.fr
 0.0.0.0 monrelaischronopost.fr
 0.0.0.0 monrelay-colis.fr
 0.0.0.0 monrelay-express.fr
@@ -26351,6 +26360,7 @@
 0.0.0.0 nickel-one-app.fr
 0.0.0.0 nickel-service-appli.fr
 0.0.0.0 nickel-service.fr
+0.0.0.0 nickelcom.fr
 0.0.0.0 nickelcompte.fr
 0.0.0.0 nickelcomptes.fr
 0.0.0.0 nickelfrance.fr
@@ -26534,6 +26544,7 @@
 0.0.0.0 ninho-billetterie.fr
 0.0.0.0 ninho-officiel.fr
 0.0.0.0 ninite.re
+0.0.0.0 ninja-france.fr
 0.0.0.0 ninlay-en-ligne.fr
 0.0.0.0 ninlay-enligne.fr
 0.0.0.0 ninlay-officiel.fr
@@ -27528,6 +27539,7 @@
 0.0.0.0 outlet-nike.fr
 0.0.0.0 outlet-paris.fr
 0.0.0.0 outlet-polene-paris.fr
+0.0.0.0 outlet-poleneparis.fr
 0.0.0.0 outlet-promos-2024.fr
 0.0.0.0 outlet-serravalle.fr
 0.0.0.0 outlet-shop.fr
@@ -34220,6 +34232,7 @@
 0.0.0.0 simsinoscasinofrance.fr
 0.0.0.0 simsinoscasinologin.fr
 0.0.0.0 simsinosfrance.fr
+0.0.0.0 simsinosofficiel.fr
 0.0.0.0 simsinosonline.fr
 0.0.0.0 simulateur-finances-publiques.fr
 0.0.0.0 sinamax.fr
@@ -34267,6 +34280,7 @@
 0.0.0.0 skaydress.fr
 0.0.0.0 skaype.fr
 0.0.0.0 skechers-france.fr
+0.0.0.0 skechers-outlet.fr
 0.0.0.0 skechers-soldes.fr
 0.0.0.0 skechersfemme.fr
 0.0.0.0 skechersfr.fr
@@ -36613,6 +36627,7 @@
 0.0.0.0 tabac-confirme.fr
 0.0.0.0 tabac-coupon.fr
 0.0.0.0 tabac-shop.fr
+0.0.0.0 tabac-superu.fr
 0.0.0.0 tabac-verificationpcs.fr
 0.0.0.0 tabacenligne.fr
 0.0.0.0 tabacneosurf-verification.fr
@@ -39426,6 +39441,7 @@
 0.0.0.0 westernunions.wf
 0.0.0.0 westfielde.fr
 0.0.0.0 westfieldfrance.fr
+0.0.0.0 westormed-paris-official.fr
 0.0.0.0 westoutlet.fr
 0.0.0.0 wetranfer.fr
 0.0.0.0 wetransf.fr
@@ -39560,6 +39576,7 @@
 0.0.0.0 williamhill-casino.fr
 0.0.0.0 williamhill-online.fr
 0.0.0.0 willscasino.fr
+0.0.0.0 wilson-france.fr
 0.0.0.0 wilsonsfrance.fr
 0.0.0.0 win-bay-casino.fr
 0.0.0.0 win-baycasino.fr
