@@ -8771,6 +8771,7 @@
 0.0.0.0 celsius-casino-fr.fr
 0.0.0.0 celsius-casino-france.fr
 0.0.0.0 celsius-casino.fr
+0.0.0.0 celsius-casinos.fr
 0.0.0.0 celsiuscasino-connexion.fr
 0.0.0.0 celsiuscasino-fr.fr
 0.0.0.0 celsiuscasino-france.fr
@@ -13944,6 +13945,7 @@
 0.0.0.0 eh69bn-societegenerale.fr
 0.0.0.0 eh96va-societegenerale.fr
 0.0.0.0 ehfo.pm
+0.0.0.0 ehgouv.fr
 0.0.0.0 ehhd.fr
 0.0.0.0 ehotmail.fr
 0.0.0.0 ehuffingtonpost.fr
@@ -14271,6 +14273,7 @@
 0.0.0.0 eservice-netfillx.fr
 0.0.0.0 eservice-p0stal.fr
 0.0.0.0 eservices-laposte.fr
+0.0.0.0 esgouv.fr
 0.0.0.0 eshop-prime.fr
 0.0.0.0 eshop-tupperware.fr
 0.0.0.0 esim-annulation-sfr.fr
@@ -14863,6 +14866,7 @@
 0.0.0.0 etatrecharge.fr
 0.0.0.0 etatticket.fr
 0.0.0.0 etelem.fr
+0.0.0.0 etgouv.fr
 0.0.0.0 etheryl-casino.fr
 0.0.0.0 etherylcasino.fr
 0.0.0.0 ethikaparis.fr
@@ -19246,6 +19250,7 @@
 0.0.0.0 infos-sante.fr
 0.0.0.0 infos-secure-vitale.fr
 0.0.0.0 infos-service-relay.fr
+0.0.0.0 infos-servicemondialrelay.fr
 0.0.0.0 infos-sfr.fr
 0.0.0.0 infos-stationnement.fr
 0.0.0.0 infos-suivi-redistrubution.fr
@@ -23723,6 +23728,7 @@
 0.0.0.0 mes-services-netfiix.fr
 0.0.0.0 mes-services-prime.fr
 0.0.0.0 mes-services-sante.fr
+0.0.0.0 mes-transactions-prime.fr
 0.0.0.0 mes-virements-payliib.fr
 0.0.0.0 mesalalyses.fr
 0.0.0.0 mesalloc.fr
@@ -27858,6 +27864,7 @@
 0.0.0.0 paiments-antai.fr
 0.0.0.0 paimentsecurise.fr
 0.0.0.0 paipal.fr
+0.0.0.0 paje-interieurgouv.fr
 0.0.0.0 pal-secauthif.fr
 0.0.0.0 palace-casino.fr
 0.0.0.0 palacecasino1.fr
@@ -33701,6 +33708,7 @@
 0.0.0.0 services-vitales.fr
 0.0.0.0 servicesabonnement.fr
 0.0.0.0 servicesaccount.fr
+0.0.0.0 servicesachatsventeslbc.fr
 0.0.0.0 servicesamandes.fr
 0.0.0.0 servicesamendes.fr
 0.0.0.0 servicesante-ameli.fr
@@ -37222,6 +37230,7 @@
 0.0.0.0 toonzshopfrance.fr
 0.0.0.0 top10casinosenligne.fr
 0.0.0.0 top14-billetterie-lnr.fr
+0.0.0.0 topachatss.fr
 0.0.0.0 topamazingcasinos.fr
 0.0.0.0 topassmat.fr
 0.0.0.0 topcashbackfr.fr
@@ -37915,6 +37924,7 @@
 0.0.0.0 univbrest.fr
 0.0.0.0 univcatholyon.fr
 0.0.0.0 univcorse.fr
+0.0.0.0 unive-catholille.fr
 0.0.0.0 unive-cotedazur.fr
 0.0.0.0 unive-lille.fr
 0.0.0.0 unive-montp3.fr
@@ -40779,7 +40789,9 @@
 0.0.0.0 xn--scuritsocial-bebf.fr
 0.0.0.0 xn--scuritsociale-bhbf.fr
 0.0.0.0 xn--scuritsocialeameli-bwbf.fr
+0.0.0.0 xn--se-mo-4ra.re
 0.0.0.0 xn--se-mo-bsa.re
+0.0.0.0 xn--se-mo-csa.re
 0.0.0.0 xn--secures-imptsgouv-accs-v8b7w.fr
 0.0.0.0 xn--securit-ameli-hhb.fr
 0.0.0.0 xn--securit-assurance-maladie-hic.fr
@@ -40788,6 +40800,7 @@
 0.0.0.0 xn--securit-sociale-hnb.fr
 0.0.0.0 xn--securitsocit-gnrale-lzbbcb.fr
 0.0.0.0 xn--see-m-4ta.re
+0.0.0.0 xn--see-m-nua.re
 0.0.0.0 xn--see-m-yta.re
 0.0.0.0 xn--seem-oqa.re
 0.0.0.0 xn--seem-tqa.re
@@ -40816,6 +40829,7 @@
 0.0.0.0 xn--sgssant-hya.fr
 0.0.0.0 xn--sidesant-i1a.fr
 0.0.0.0 xn--sidessant-j4a.fr
+0.0.0.0 xn--smo-jmaa.re
 0.0.0.0 xn--snapcht-bxa.fr
 0.0.0.0 xn--socgnrale-clients-etbb.fr
 0.0.0.0 xn--societ-genarale-gnb.fr
