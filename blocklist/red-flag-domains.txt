@@ -4942,6 +4942,7 @@
 0.0.0.0 aws.tf
 0.0.0.0 ax-bet.fr
 0.0.0.0 ax-prime.fr
+0.0.0.0 axa-aassurance.fr
 0.0.0.0 axa-app.fr
 0.0.0.0 axa-clients.fr
 0.0.0.0 axa-connect.fr
@@ -8210,6 +8211,7 @@
 0.0.0.0 casinohappyhugo.fr
 0.0.0.0 casinohermes.fr
 0.0.0.0 casinohermesfrance.fr
+0.0.0.0 casinohermesvip.fr
 0.0.0.0 casinoherospin.fr
 0.0.0.0 casinohorus.fr
 0.0.0.0 casinohouse.fr
@@ -8763,6 +8765,7 @@
 0.0.0.0 cdiscounte.fr
 0.0.0.0 cdisocunt.fr
 0.0.0.0 cdisscount.fr
+0.0.0.0 cdiv-sivinterieurgouv.fr
 0.0.0.0 cdn-epaiement.fr
 0.0.0.0 cdn-epaiment.fr
 0.0.0.0 cdn-monepaiment-nord.fr
@@ -10207,6 +10210,7 @@
 0.0.0.0 cifinoga.fr
 0.0.0.0 cifw.fr
 0.0.0.0 cigarettes-enligne.fr
+0.0.0.0 cign-interieurgouv.fr
 0.0.0.0 cigversaille.fr
 0.0.0.0 ciient-bnpparibas.fr
 0.0.0.0 ciient-navigo.fr
@@ -11242,6 +11246,7 @@
 0.0.0.0 conforama-paris.fr
 0.0.0.0 conforamaa.fr
 0.0.0.0 conforme-interieurgouv.fr
+0.0.0.0 conformite-ants.fr
 0.0.0.0 conformite-boursorama.fr
 0.0.0.0 conformite-fortuneo.fr
 0.0.0.0 conformite-interieurgouv.fr
@@ -15472,6 +15477,7 @@
 0.0.0.0 fiche-prime.fr
 0.0.0.0 ficheauto.fr
 0.0.0.0 fichier-pdfr.fr
+0.0.0.0 fidc-interieurgouv.fr
 0.0.0.0 fidelite-mcdo.fr
 0.0.0.0 fidelitefree.fr
 0.0.0.0 fiesta-slots.fr
@@ -18539,6 +18545,7 @@
 0.0.0.0 ict-impot.fr
 0.0.0.0 ict-impots-gouve.fr
 0.0.0.0 icu-prime.fr
+0.0.0.0 icvhd-interieurgouv.fr
 0.0.0.0 icwc.fr
 0.0.0.0 id-ameli.fr
 0.0.0.0 id-appestore.fr
@@ -33661,6 +33668,7 @@
 0.0.0.0 service-wero.fr
 0.0.0.0 serviceaccount.fr
 0.0.0.0 serviceachat-sccfrance.fr
+0.0.0.0 serviceamazon.fr
 0.0.0.0 serviceameli.fr
 0.0.0.0 serviceamelie.fr
 0.0.0.0 serviceamende-antai.fr
@@ -34444,9 +34452,12 @@
 0.0.0.0 sitesneakers.fr
 0.0.0.0 sitrion.fr
 0.0.0.0 sittercity.fr
+0.0.0.0 siv-adergouv.fr
 0.0.0.0 siv-antsgouv.fr
+0.0.0.0 siv-gouvants.fr
 0.0.0.0 siv-immatriculation.fr
 0.0.0.0 siv-iseregouv.fr
+0.0.0.0 siv-portailprogouv.fr
 0.0.0.0 siv-pref.fr
 0.0.0.0 siv-prointerieurgouv.fr
 0.0.0.0 sivantsgouv.fr
@@ -39111,6 +39122,7 @@
 0.0.0.0 visa.wf
 0.0.0.0 visana.fr
 0.0.0.0 visatovietnam.fr
+0.0.0.0 visc-interieurgouv.fr
 0.0.0.0 visio-nte.fr
 0.0.0.0 visiondelafrance.fr
 0.0.0.0 visionfrancophone.fr
