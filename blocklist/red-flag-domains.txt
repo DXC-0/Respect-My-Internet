@@ -5644,6 +5644,7 @@
 0.0.0.0 betify-app.fr
 0.0.0.0 betify-applicationbonus.fr
 0.0.0.0 betify-applicationconnexion.fr
+0.0.0.0 betify-apps.fr
 0.0.0.0 betify-bonus-code.fr
 0.0.0.0 betify-bonus.fr
 0.0.0.0 betify-bonusconnexion.fr
@@ -5688,6 +5689,8 @@
 0.0.0.0 betify-fr-casino.fr
 0.0.0.0 betify-fra.fr
 0.0.0.0 betify-france.fr
+0.0.0.0 betify-game.fr
+0.0.0.0 betify-games.fr
 0.0.0.0 betify-ios.fr
 0.0.0.0 betify-jeu.fr
 0.0.0.0 betify-jouer.fr
@@ -5733,6 +5736,7 @@
 0.0.0.0 betifycasinos.fr
 0.0.0.0 betifycasinos1.fr
 0.0.0.0 betifyfr.fr
+0.0.0.0 betifygame.fr
 0.0.0.0 betifyjeu.fr
 0.0.0.0 betifyjeux.fr
 0.0.0.0 betifylogin.fr
@@ -7875,6 +7879,7 @@
 0.0.0.0 casino-amonbet.fr
 0.0.0.0 casino-amunra.fr
 0.0.0.0 casino-aquawin.fr
+0.0.0.0 casino-argent-reel.fr
 0.0.0.0 casino-astral.fr
 0.0.0.0 casino-banque.fr
 0.0.0.0 casino-banzai.fr
@@ -9063,6 +9068,7 @@
 0.0.0.0 cesupplay.fr
 0.0.0.0 cesuursaff.fr
 0.0.0.0 cetelel.fr
+0.0.0.0 cetelem-bnpparibas.fr
 0.0.0.0 cetelem-connecte.fr
 0.0.0.0 cetelem-financement.fr
 0.0.0.0 cetelem-particulier-notifications.fr
@@ -11286,6 +11292,7 @@
 0.0.0.0 conformite-fortuneo.fr
 0.0.0.0 conformite-interieurgouv.fr
 0.0.0.0 conformite-lbp.fr
+0.0.0.0 conformiteants.fr
 0.0.0.0 confortefvie.fr
 0.0.0.0 confortoutlet.fr
 0.0.0.0 conframa.fr
@@ -14420,6 +14427,7 @@
 0.0.0.0 esim-support-sfr.fr
 0.0.0.0 esim.pm
 0.0.0.0 esimcard.fr
+0.0.0.0 esimrapide.fr
 0.0.0.0 esimsfr.fr
 0.0.0.0 esimvoyage.fr
 0.0.0.0 esmoutonsenrages.fr
@@ -19642,6 +19650,7 @@
 0.0.0.0 inspectionparticuliers.fr
 0.0.0.0 insse.fr
 0.0.0.0 inssee.fr
+0.0.0.0 insta-cams.fr
 0.0.0.0 insta-spin-casino.fr
 0.0.0.0 insta-spincasino.fr
 0.0.0.0 insta-win.fr
@@ -21360,6 +21369,7 @@
 0.0.0.0 leclerc-dev.fr
 0.0.0.0 leclerc-socamaine.fr
 0.0.0.0 leclerc-socamil.fr
+0.0.0.0 leclerc-sodexco.fr
 0.0.0.0 leclercpharma.fr
 0.0.0.0 leclercrive.fr
 0.0.0.0 lecoinbirken.fr
@@ -23779,6 +23789,7 @@
 0.0.0.0 megadice-casino.fr
 0.0.0.0 megadicecasino.fr
 0.0.0.0 megadiscount-shop.fr
+0.0.0.0 megafishwins-online.fr
 0.0.0.0 megafishwinscasino.fr
 0.0.0.0 megajokerslot.fr
 0.0.0.0 megalottocasino.fr
@@ -35200,9 +35211,12 @@
 0.0.0.0 socsecure.fr
 0.0.0.0 socsh.fr
 0.0.0.0 sodastreamfr.fr
+0.0.0.0 sodexco-leclerc.fr
+0.0.0.0 sodexco-lelerc.fr
 0.0.0.0 sodexo-groupe.fr
 0.0.0.0 sodexo-groupes.fr
 0.0.0.0 sodexo-groups.fr
+0.0.0.0 sodexo-lelerc.fr
 0.0.0.0 sodexo-pass-france-sa.fr
 0.0.0.0 sodexo-sas.fr
 0.0.0.0 sodexogroupe.fr
@@ -36080,6 +36094,7 @@
 0.0.0.0 storesneakers.fr
 0.0.0.0 story-snapchat.fr
 0.0.0.0 storysaver.fr
+0.0.0.0 stradivarius-fr.fr
 0.0.0.0 stradivariusfr.fr
 0.0.0.0 stradivariusfrance.fr
 0.0.0.0 stradivariusoutlet.fr
@@ -39263,6 +39278,7 @@
 0.0.0.0 visit-prime.fr
 0.0.0.0 visitaprint.fr
 0.0.0.0 vistabet.fr
+0.0.0.0 vistaprint.tf
 0.0.0.0 vistaprinte.fr
 0.0.0.0 visualsonics.fr
 0.0.0.0 vitabeastfrance.fr
@@ -39865,8 +39881,12 @@
 0.0.0.0 wild-robin-official.fr
 0.0.0.0 wild-robinofficiel.fr
 0.0.0.0 wild-sino.fr
+0.0.0.0 wild-sultan-app.fr
 0.0.0.0 wild-sultan-casino.fr
 0.0.0.0 wild-sultan-fr.fr
+0.0.0.0 wild-sultan-game.fr
+0.0.0.0 wild-sultan-online.fr
+0.0.0.0 wild-sultan-slots.fr
 0.0.0.0 wild-sultan1.fr
 0.0.0.0 wild-sultanfr.fr
 0.0.0.0 wild-sultanfr1.fr
